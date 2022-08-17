@@ -1,0 +1,88 @@
+T3	NUMBER 763 766	300
+T4	ORDINAL 930 937	третьей
+T5	DISO 1281 1300	болезни Альцгеймера
+T7	MEDPROC 0 42	Транскраниальный фокусированный ультразвук
+T15	LABPROC 462 465	МРТ
+T16	FINDING 542 576	лечебные нейромодулирующие эффекты
+T17	DISO 581 599	болезни Паркинсона
+T18	DISO 601 622	эссенциальном треморе
+T19	DISO 624 641	болевых синдромах
+T24	FINDING 808 838	ультразвуковой термодеструкции
+T26	LIVB 876 884	животных
+T29	PHYS 1013 1042	гематоэнцефалического барьера
+T34	PHYS 1161 1174	проницаемости
+T35	CHEM 1179 1194	химиопрепаратов
+T36	CHEM 1196 1215	иммунных препаратов
+T42	PHYS 1359 1388	гематоэнцефалического барьера
+T45	LIVB 1495 1503	животных
+T49	SCIPROC 1672 1698	лабораторных исследованиях
+T53	ANATOMY 1776 1781	крови
+T55	MEDPROC 1792 1834	Транскраниальный фокусированный ультразвук
+T62	MEDPROC 2153 2166	нейрохирургии
+T64	ADMINISTRATION_ROUTE 0 16	Транскраниальный
+T8	ANATOMY 140 153	головной мозг
+T9	ANATOMY 149 153	мозг
+T10	DATE 208 223	не более 20 лет
+T11	MEDPROC 359 387	функциональной нейрохирургии
+T12	MEDPROC 389 414	фокусированный ультразвук
+T13	DISO 643 681	обсессивно-компульсивных расстройствах
+T2	PERSON 767 776	пациентов
+T14	DISO 839 871	интракраниальных новообразований
+T20	ADMINISTRATION_ROUTE 839 855	интракраниальных
+T21	MEDPROC 915 954	ультразвуковой третьей вентрикулостомии
+T22	PHYS 999 1042	проницаемости гематоэнцефалического барьера
+T23	MEDPROC 1082 1109	фокусированного ультразвука
+T25	PHYS 1345 1388	проницаемости гематоэнцефалического барьера
+T27	CHEM 1393 1408	химиопрепаратов
+T28	MEDPROC 1526 1553	фокусированного ультразвука
+T30	FINDING 1574 1633	нейромодулирующее - стимулирующее и ингибирующее - действие
+T31	ANATOMY 1647 1662	нервной системы
+T32	MEDPROC 1730 1757	фокусированного ультразвука
+T33	DISO 1784 1790	тромбы
+T37	DISO 1768 1781	сгустки крови
+T38	FINDING 1758 1790	разрушать сгустки крови и тромбы
+T39	ADMINISTRATION_ROUTE 1792 1808	Транскраниальный
+R1	SUBCLASS_OF Arg1:T8 Arg2:T9	
+R2	APPLIED_TO Arg1:T7 Arg2:T8	
+R3	USED_IN Arg1:T12 Arg2:T11	
+R4	USED_IN Arg1:T15 Arg2:T11	
+R5	MEDICAL_CONDITION Arg1:T2 Arg2:T17	
+R6	MEDICAL_CONDITION Arg1:T2 Arg2:T18	
+R7	MEDICAL_CONDITION Arg1:T2 Arg2:T19	
+R8	MEDICAL_CONDITION Arg1:T2 Arg2:T13	
+R9	TREATED_USING Arg1:T2 Arg2:T11	
+R10	PART_OF Arg1:T8 Arg2:T2	
+R11	MEDICAL_CONDITION Arg1:T2 Arg2:T14	
+R12	PROCEDURE_PERFORMED Arg1:T26 Arg2:T21	
+R13	SUBCLASS_OF Arg1:T22 Arg2:T29	
+R14	SUBCLASS_OF Arg1:T29 Arg2:T34	
+R15	PHYSIOLOGY_OF Arg1:T22 Arg2:T2	
+R16	TREATED_USING Arg1:T2 Arg2:T35	
+R17	TREATED_USING Arg1:T2 Arg2:T36	
+R18	PROCEDURE_PERFORMED Arg1:T2 Arg2:T23	
+R19	SUBCLASS_OF Arg1:T25 Arg2:T42	
+R20	MEDICAL_CONDITION Arg1:T2 Arg2:T5	
+R21	PART_OF Arg1:T31 Arg2:T45	
+R22	PROCEDURE_PERFORMED Arg1:T45 Arg2:T28	
+R24	AFFECTS Arg1:T33 Arg2:T53	
+R25	SUBCLASS_OF Arg1:T55 Arg2:T32	
+R26	USED_IN Arg1:T55 Arg2:T62	
+R27	TREATED_USING Arg1:T17 Arg2:T11	
+R28	TREATED_USING Arg1:T18 Arg2:T11	
+R29	TREATED_USING Arg1:T19 Arg2:T11	
+R30	TREATED_USING Arg1:T13 Arg2:T11	
+R31	HAS_CAUSE Arg1:T16 Arg2:T11	
+R32	ASSOCIATED_WITH Arg1:T17 Arg2:T16	
+R33	ASSOCIATED_WITH Arg1:T18 Arg2:T16	
+R34	ASSOCIATED_WITH Arg1:T19 Arg2:T16	
+R35	ASSOCIATED_WITH Arg1:T13 Arg2:T16	
+R36	ASSOCIATED_WITH Arg1:T14 Arg2:T24	
+T1	MEDPROC 938 954	вентрикулостомии
+R37	SUBCLASS_OF Arg1:T21 Arg2:T1	
+R38	ASSOCIATED_WITH Arg1:T25 Arg2:T27	
+R39	HAS_CAUSE Arg1:T30 Arg2:T28	
+R40	AFFECTS Arg1:T30 Arg2:T31	
+R23	TO_DETECT_OR_STUDY Arg1:T49 Arg2:T32	
+R41	HAS_CAUSE Arg1:T38 Arg2:T32	
+R42	ASSOCIATED_WITH Arg1:T33 Arg2:T38	
+R43	ASSOCIATED_WITH Arg1:T37 Arg2:T38	

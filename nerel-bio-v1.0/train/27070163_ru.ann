@@ -1,0 +1,96 @@
+T1	NUMBER 216 218	74
+T2	NUMBER 246 249	200
+T3	NUMBER 331 332	4
+T4	DISO 487 529	злокачественными опухолевыми заболеваниями
+T5	NUMBER 804 805	4
+T8	ORDINAL 1143 1149	первом
+T11	PERSON 40 58	взрослых пациентов
+T12	DISO 61 88	первичными иммунодефицитами
+T13	DISO 90 93	ПИД
+T15	PERSON 131 144	родственников
+T16	PERSON 150 159	пациентов
+T18	PERSON 219 237	взрослых пациентов
+T19	PERSON 228 237	пациентов
+T20	DISO 240 243	ПИД
+T21	PERSON 250 258	взрослых
+T22	DISO 263 266	ПИД
+T25	PERSON 301 314	родственников
+T27	DISO 372 416	атипичный инфекционно-воспалительный процесс
+T28	DISO 382 416	инфекционно-воспалительный процесс
+T29	DISO 418 434	аллергопатология
+T30	DISO 436 460	аутоиммунные заболевания
+T31	PERSON 470 483	родственников
+T32	DISO 504 529	опухолевыми заболеваниями
+T33	DISO 538 547	патологии
+T34	PHYS 548 570	репродуктивной функции
+T36	SCIPROC 867 885	квартильный анализ
+T37	SCIPROC 887 908	корреляционный анализ
+T39	SCIPROC 1066 1089	теории принятия решений
+T40	SCIPROC 1165 1185	однофакторный анализ
+T41	SCIPROC 1225 1246	корреляционный анализ
+T42	SCIPROC 1260 1290	Многофакторные модели прогноза
+T43	SCIPROC 1311 1334	теории принятия решений
+T45	PERSON 1673 1683	пациентами
+T46	DISO 1704 1733	иммунопатологические синдромы
+T9	PERSON 49 58	пациентов
+T10	DISO 72 88	иммунодефицитами
+T14	PHYS 587 594	смертей
+T17	DISO 617 643	онкологических заболеваний
+T23	DISO 598 643	инфекционных и/или онкологических заболеваний
+T26	DISO 656 671	пороки развития
+T35	DISO 645 671	врожденные пороки развития
+T47	PERSON 716 729	родственников
+T48	PERSON 788 801	родственников
+T49	SCIPROC 887 917	корреляционный анализ Спирмена
+T50	SCIPROC 919 939	критерий Манна-Уитни
+T38	SCIPROC 1091 1110	метод Вальда-Байеса
+T51	SCIPROC 1115 1137	деревьев классификации
+T52	SCIPROC 1338 1360	деревьев классификации
+T44	SCIPROC 1451 1473	статистических методов
+R1	SUBCLASS_OF Arg1:T11 Arg2:T9	
+R2	SUBCLASS_OF Arg1:T12 Arg2:T10	
+R3	ABBREVIATION Arg1:T12 Arg2:T13	
+R4	MEDICAL_CONDITION Arg1:T11 Arg2:T12	
+R5	RELATIVE Arg1:T15 Arg2:T16	
+R6	SUBCLASS_OF Arg1:T18 Arg2:T19	
+R7	MEDICAL_CONDITION Arg1:T18 Arg2:T20	
+R9	RELATIVE Arg1:T25 Arg2:T21	
+R10	SUBCLASS_OF Arg1:T27 Arg2:T28	
+R11	SUBCLASS_OF Arg1:T4 Arg2:T32	
+R12	MEDICAL_CONDITION Arg1:T31 Arg2:T4	
+T24	DISO 538 570	патологии репродуктивной функции
+R13	SUBCLASS_OF Arg1:T24 Arg2:T33	
+R14	PHYSIOLOGY_OF Arg1:T34 Arg2:T31	
+T53	PERSON 579 586	детских
+R15	PHYSIOLOGY_OF Arg1:T14 Arg2:T53	
+R16	SUBCLASS_OF Arg1:T17 Arg2:T23	
+R17	SUBCLASS_OF Arg1:T35 Arg2:T26	
+R18	CAUSE_OF_DEATH Arg1:T53 Arg2:T23	
+R19	MEDICAL_CONDITION Arg1:T18 Arg2:T27	
+R20	MEDICAL_CONDITION Arg1:T18 Arg2:T29	
+R21	MEDICAL_CONDITION Arg1:T18 Arg2:T30	
+R22	RELATIVE Arg1:T31 Arg2:T18	
+R23	MEDICAL_CONDITION Arg1:T18 Arg2:T24	
+R24	MEDICAL_CONDITION Arg1:T18 Arg2:T35	
+R25	RELATIVE Arg1:T47 Arg2:T18	
+R26	RELATIVE Arg1:T48 Arg2:T18	
+R27	MEDICAL_CONDITION Arg1:T45 Arg2:T46	
+R28	USED_IN Arg1:T43 Arg2:T42	
+R29	USED_IN Arg1:T52 Arg2:T42	
+R30	USED_IN Arg1:T40 Arg2:T41	
+T54	SCIPROC 191 213	генеалогический анализ
+R31	USED_IN Arg1:T36 Arg2:T54	
+R32	SUBCLASS_OF Arg1:T49 Arg2:T37	
+R33	USED_IN Arg1:T49 Arg2:T54	
+R34	USED_IN Arg1:T50 Arg2:T54	
+R35	SUBCLASS_OF Arg1:T38 Arg2:T39	
+R36	USED_IN Arg1:T39 Arg2:T57	
+R37	USED_IN Arg1:T51 Arg2:T57	
+R38	USED_IN Arg1:T42 Arg2:T54	
+R39	USED_IN Arg1:T44 Arg2:T54	
+R40	PROCEDURE_PERFORMED Arg1:T18 Arg2:T54	
+T55	DISO 382 393	инфекционно
+T56	DISO 394 408	воспалительный
+R8	SUBCLASS_OF Arg1:T28 Arg2:T27	
+R41	SUBCLASS_OF Arg1:T28 Arg2:T56	
+T57	SCIPROC 1017 1047	Многофакторные модели прогноза

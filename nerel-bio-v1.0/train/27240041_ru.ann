@@ -1,0 +1,95 @@
+T1	DISO 0 38	Рецидивирующие приступы головокружения
+T2	DISO 15 38	приступы головокружения
+T4	DISO 184 211	сосудистой патологией мозга
+T6	DISO 525 573	рецидивирующими эпизодами расстройств равновесия
+T7	NUMBER 668 671	120
+T8	NUMBER 898 902	43,5
+T9	PERCENT 905 910	17,5%
+T10	DISO 994 1018	хроническая ишемия мозга
+T11	DISO 1006 1018	ишемия мозга
+T12	PERCENT 1033 1038	16,5%
+T13	SCIPROC 1137 1155	протокола АЛГОРИТМ
+T15	DISO 24 38	головокружения
+T19	DISO 145 159	головокружения
+T20	DISO 184 205	сосудистой патологией
+T21	ANATOMY 206 211	мозга
+T22	LABPROC 276 307	нейровестибулярное обследование
+T23	DISO 331 353	расстройств равновесия
+T24	PHYS 343 353	равновесия
+T26	LABPROC 436 464	дифференциальной диагностики
+T27	DISO 496 510	головокружения
+T28	PERSON 513 522	пациентов
+T29	DISO 551 573	расстройств равновесия
+T30	PHYS 563 573	равновесия
+T31	LABPROC 594 626	нейровестибулярного обследования
+T33	PERSON 672 694	амбулаторных пациентов
+T35	DISO 726 756	дисциркуляторная энцефалопатия
+T36	DISO 761 786	вегетососудистая дистония
+T37	DISO 827 887	поражения периферической и центральной вестибулярной системы
+T38	ANATOMY 854 887	центральной вестибулярной системы
+T40	ANATOMY 1013 1018	мозга
+T41	PERSON 1039 1048	пациентов
+T43	LABPROC 1095 1126	нейровестибулярное обследование
+T44	DISO 1213 1244	поражения вестибулярной системы
+T45	ANATOMY 1223 1244	вестибулярной системы
+T47	PERSON 1304 1313	пациентов
+T49	DISO 1328 1342	головокружение
+T3	LABPROC 264 307	клиническое нейровестибулярное обследование
+T14	DISO 483 510	центрального головокружения
+T16	DISO 465 510	периферического и центрального головокружения
+T17	SCIPROC 584 635	протокола нейровестибулярного обследования АЛГОРИТМ
+T18	PERSON 685 694	пациентов
+T25	DISO 743 756	энцефалопатия
+T32	ANATOMY 866 887	вестибулярной системы
+T34	ANATOMY 837 851;866 887	периферической вестибулярной системы
+T50	DISO 957 971	головокружения
+T51	DISO 981 990	отолитиаз
+R1	SUBCLASS_OF Arg1:T2 Arg2:T15	
+R2	SUBCLASS_OF Arg1:T1 Arg2:T2	
+R3	AFFECTS Arg1:T20 Arg2:T21	
+R4	SUBCLASS_OF Arg1:T4 Arg2:T20	
+R6	SUBCLASS_OF Arg1:T3 Arg2:T22	
+R7	SUBCLASS_OF Arg1:T14 Arg2:T27	
+R8	SUBCLASS_OF Arg1:T16 Arg2:T27	
+R9	TO_DETECT_OR_STUDY Arg1:T26 Arg2:T16	
+R10	SUBCLASS_OF Arg1:T6 Arg2:T29	
+R11	MEDICAL_CONDITION Arg1:T28 Arg2:T6	
+R12	MEDICAL_CONDITION Arg1:T28 Arg2:T16	
+R13	PROCEDURE_PERFORMED Arg1:T28 Arg2:T26	
+R14	PROCEDURE_PERFORMED Arg1:T28 Arg2:T31	
+R15	USED_IN Arg1:T17 Arg2:T26	
+R16	PHYSIOLOGY_OF Arg1:T30 Arg2:T28	
+R17	PHYSIOLOGY_OF Arg1:T24 Arg2:T28	
+R18	MEDICAL_CONDITION Arg1:T28 Arg2:T23	
+R19	TO_DETECT_OR_STUDY Arg1:T3 Arg2:T23	
+R20	PROCEDURE_PERFORMED Arg1:T28 Arg2:T3	
+R21	PART_OF Arg1:T21 Arg2:T28	
+R22	MEDICAL_CONDITION Arg1:T28 Arg2:T4	
+R23	MEDICAL_CONDITION Arg1:T28 Arg2:T19	
+R24	MEDICAL_CONDITION Arg1:T28 Arg2:T1	
+R25	HAS_CAUSE Arg1:T4 Arg2:T19	
+R26	SUBCLASS_OF Arg1:T33 Arg2:T18	
+R27	PART_OF Arg1:T38 Arg2:T32	
+R28	PART_OF Arg1:T34 Arg2:T32	
+R29	SUBCLASS_OF Arg1:T35 Arg2:T25	
+R30	MEDICAL_CONDITION Arg1:T33 Arg2:T35	
+R31	MEDICAL_CONDITION Arg1:T33 Arg2:T36	
+R32	MEDICAL_CONDITION Arg1:T33 Arg2:T37	
+R33	MEDICAL_CONDITION Arg1:T41 Arg2:T50	
+R34	MEDICAL_CONDITION Arg1:T41 Arg2:T51	
+R35	PART_OF Arg1:T40 Arg2:T41	
+R36	SUBCLASS_OF Arg1:T10 Arg2:T11	
+R37	MEDICAL_CONDITION Arg1:T41 Arg2:T10	
+R38	HAS_CAUSE Arg1:T51 Arg2:T50	
+R39	HAS_CAUSE Arg1:T10 Arg2:T50	
+R40	PROCEDURE_PERFORMED Arg1:T47 Arg2:T43	
+R41	USED_IN Arg1:T13 Arg2:T43	
+R42	MEDICAL_CONDITION Arg1:T47 Arg2:T49	
+R43	PART_OF Arg1:T45 Arg2:T47	
+R44	MEDICAL_CONDITION Arg1:T47 Arg2:T44	
+R45	TO_DETECT_OR_STUDY Arg1:T43 Arg2:T44	
+R5	ASSOCIATED_WITH Arg1:T24 Arg2:T23	
+R46	ASSOCIATED_WITH Arg1:T30 Arg2:T6	
+R47	AFFECTS Arg1:T37 Arg2:T38	
+R48	AFFECTS Arg1:T37 Arg2:T34	
+R49	AFFECTS Arg1:T44 Arg2:T45	

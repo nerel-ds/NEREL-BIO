@@ -1,0 +1,147 @@
+T1	NUMBER 155 157	42
+T2	DISO 200 219	фокальная эпилепсия
+T3	DATE 236 252	с 2006 по 2013 г
+T5	ORGANIZATION 256 297	НИИ нейрохирургии им. акад. Н.Н. Бурденко
+T6	PROFESSION 278 282	акад
+T7	PERSON 284 297	Н.Н. Бурденко
+T9	DISO 383 405	кортикальная дисплазия
+T10	DATE 564 572	в 1995 г
+T11	ORDINAL 718 720	II
+T12	DISO 760 763	ФКД
+T13	ORDINAL 878 881	III
+T14	ORDINAL 896 897	I
+T15	ORDINAL 1104 1106	II
+T16	ORDINAL 1336 1337	I
+T17	ORDINAL 1399 1402	III
+T18	LABPROC 50 75	электрокортикографических
+T20	DISO 106 134	фокальных корковых дисплазий
+T21	PERSON 158 166	пациента
+T23	DISO 179 220	'фармакорезистентная фокальная эпилепсия'
+T24	MEDPROC 221 235	прооперированы
+T26	PERSON 316 324	пациенты
+T28	DISO 372 406	'фокальная кортикальная дисплазия'
+T29	LABPROC 424 450	видеоэлектроэнцефалография
+T30	LABPROC 453 473	электрокортикография
+T31	LABPROC 516 541	эпилептиформных паттернов
+T32	PERSON 556 563	Palmini
+T33	LABPROC 576 615	электрокортикографических исследованиях
+T36	LABPROC 677 697	Продолженный паттерн
+T37	DISO 726 758	фокальных кортикальных дисплазий
+T38	LABPROC 804 820	паттерны вспышек
+T40	PHYS 823 847	спорадической активности
+T41	DISO 887 890	ФКД
+T43	LABPROC 955 991	паттернов эпилептиформной активности
+T44	PERSON 997 1002	групп
+T45	LABPROC 1031 1054	продолженного паттернов
+T46	DISO 1112 1144	фокальных кортикальных дисплазий
+T48	PHYS 1178 1204	эпилептиформной активности
+T49	DISO 1254 1268	эпилептогенеза
+T50	ANATOMY 1269 1290	ткани головного мозга
+T51	ANATOMY 1322 1330	нейронов
+T53	LABPROC 1424 1473	паттерны спорадической эпилептиформной активности
+T54	PHYS 1447 1473	эпилептиформной активности
+T55	LABPROC 1476 1491	вспышек спайков
+T56	PHYS 1493 1517	Спорадическая активность
+T57	DISO 1609 1631	кортикальных дисплазий
+T22	DISO 116 134	корковых дисплазий
+T27	DISO 210 219	эпилепсия
+R2	PROCEDURE_PERFORMED Arg1:T21 Arg2:T24	
+T58	SCIPROC 502 541	классификация эпилептиформных паттернов
+T59	ANATOMY 1269 1274	ткани
+T60	ANATOMY 1275 1290	головного мозга
+T61	ANATOMY 1285 1290	мозга
+T62	ANATOMY 1275 1284	головного
+T63	ANATOMY 1609 1621	кортикальных
+R3	ABBREVIATION Arg1:T37 Arg2:T12	
+T64	ANATOMY 736 748	кортикальных
+T65	DISO 736 758	кортикальных дисплазий
+T66	DISO 749 758	дисплазий
+T34	LABPROC 627 675	паттерн спорадической эпилептиформной активности
+T67	DISO 718 758	II типе фокальных кортикальных дисплазий
+T4	ANATOMY 383 395	кортикальная
+R4	MEDICAL_CONDITION Arg1:T26 Arg2:T28	
+T8	LABPROC 334 348	гистологически
+R5	PROCEDURE_PERFORMED Arg1:T26 Arg2:T8	
+R6	PROCEDURE_PERFORMED Arg1:T26 Arg2:T29	
+R7	PROCEDURE_PERFORMED Arg1:T26 Arg2:T30	
+T25	DISO 878 890	III типе ФКД
+T35	DISO 903 906	ФКД
+T39	DISO 896 906	I типе ФКД
+T42	LABPROC 1014 1028;1045 1054	спорадического паттернов
+T68	DISO 1122 1144	кортикальных дисплазий
+T69	DISO 1135 1144	дисплазий
+T70	ANATOMY 1122 1134	кортикальных
+T71	LABPROC 1157 1204	паттерн продолженной эпилептиформной активности
+T72	PHYS 1165 1204	продолженной эпилептиформной активности
+T47	DISO 1343 1346	ФКД
+T73	DISO 1336 1346	I типе ФКД
+T19	LABPROC 50 85	электрокортикографических паттернов
+T74	DISO 125 134	дисплазий
+T75	ANATOMY 116 124	корковых
+T77	DISO 396 405	дисплазия
+T78	PHYS 635 675	спорадической эпилептиформной активности
+T79	PHYS 649 675	эпилептиформной активности
+T52	FINDING 1358 1393	равномерное распределение паттернов
+T80	DISO 1408 1411	ФКД
+T81	DISO 1399 1411	III типе ФКД
+T82	PHYS 1433 1473	спорадической эпилептиформной активности
+T83	LABPROC 804 812;823 847	паттерны спорадической активности
+T84	PHYS 965 991	эпилептиформной активности
+T85	DISO 1104 1144	II типе фокальных кортикальных дисплазий
+R8	POINT_IN_TIME Arg1:T24 Arg2:T3	
+T86	ORGANIZATION 256 283;284 297	НИИ нейрохирургии им. акад. Н.Н. Бурденко
+R9	TAKES_PLACE_IN Arg1:T24 Arg2:T86	
+R1	MEDICAL_CONDITION Arg1:T21 Arg2:T23	
+R10	AFFECTS Arg1:T20 Arg2:T75	
+R11	TO_DETECT_OR_STUDY Arg1:T19 Arg2:T20	
+T76	DISO 116 134	корковых дисплазий
+R12	AFFECTS Arg1:T28 Arg2:T4	
+R14	TO_DETECT_OR_STUDY Arg1:T34 Arg2:T78	
+R15	AFFECTS Arg1:T67 Arg2:T64	
+R16	TO_DETECT_OR_STUDY Arg1:T83 Arg2:T40	
+R17	TO_DETECT_OR_STUDY Arg1:T43 Arg2:T84	
+R18	PROCEDURE_PERFORMED Arg1:T44 Arg2:T45	
+R19	PROCEDURE_PERFORMED Arg1:T44 Arg2:T42	
+R20	PART_OF Arg1:T50 Arg2:T62	
+R21	PART_OF Arg1:T60 Arg2:T62	
+R22	ASSOCIATED_WITH Arg1:T73 Arg2:T52	
+R23	TO_DETECT_OR_STUDY Arg1:T53 Arg2:T54	
+R24	AFFECTS Arg1:T57 Arg2:T63	
+R25	TO_DETECT_OR_STUDY Arg1:T53 Arg2:T81	
+R26	TO_DETECT_OR_STUDY Arg1:T55 Arg2:T81	
+R27	ALTERNATIVE_NAME Arg1:T20 Arg2:T28	
+R13	AFFECTS Arg1:T85 Arg2:T70	
+R28	SUBCLASS_OF Arg1:T50 Arg2:T59	
+R29	SUBCLASS_OF Arg1:T76 Arg2:T74	
+R30	SUBCLASS_OF Arg1:T20 Arg2:T76	
+R31	SUBCLASS_OF Arg1:T2 Arg2:T27	
+R32	SUBCLASS_OF Arg1:T23 Arg2:T2	
+R33	ORIGINS_FROM Arg1:T86 Arg2:T7	
+R34	WORKS_AS Arg1:T7 Arg2:T6	
+R35	SUBCLASS_OF Arg1:T9 Arg2:T77	
+R36	SUBCLASS_OF Arg1:T28 Arg2:T9	
+R37	USED_IN Arg1:T31 Arg2:T58	
+R38	TO_DETECT_OR_STUDY Arg1:T8 Arg2:T28	
+R40	TO_DETECT_OR_STUDY Arg1:T29 Arg2:T28	
+R41	TO_DETECT_OR_STUDY Arg1:T30 Arg2:T28	
+R42	SUBCLASS_OF Arg1:T34 Arg2:T33	
+R43	SUBCLASS_OF Arg1:T78 Arg2:T79	
+R44	TO_DETECT_OR_STUDY Arg1:T36 Arg2:T67	
+R45	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T25	
+R46	TO_DETECT_OR_STUDY Arg1:T83 Arg2:T25	
+R47	TO_DETECT_OR_STUDY Arg1:T43 Arg2:T39	
+R48	TO_DETECT_OR_STUDY Arg1:T71 Arg2:T85	
+R49	TO_DETECT_OR_STUDY Arg1:T71 Arg2:T49	
+R50	SUBCLASS_OF Arg1:T60 Arg2:T61	
+R39	TREATED_USING Arg1:T23 Arg2:T24	
+R51	SUBCLASS_OF Arg1:T81 Arg2:T80	
+R52	SUBCLASS_OF Arg1:T73 Arg2:T47	
+R53	SUBCLASS_OF Arg1:T85 Arg2:T46	
+R54	SUBCLASS_OF Arg1:T46 Arg2:T68	
+R55	SUBCLASS_OF Arg1:T68 Arg2:T69	
+R56	SUBCLASS_OF Arg1:T67 Arg2:T37	
+R57	SUBCLASS_OF Arg1:T37 Arg2:T65	
+R58	SUBCLASS_OF Arg1:T65 Arg2:T66	
+R59	SUBCLASS_OF Arg1:T25 Arg2:T41	
+R60	SUBCLASS_OF Arg1:T39 Arg2:T35	
+R61	SUBCLASS_OF Arg1:T72 Arg2:T48	

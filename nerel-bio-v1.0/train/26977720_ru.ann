@@ -1,0 +1,162 @@
+T1	NUMBER 286 288	30
+T2	NUMBER 395 396	3
+T3	NUMBER 407 409	10
+T4	ORDINAL 431 434	1-ю
+T5	ORDINAL 524 527	2-ю
+T6	ORDINAL 530 533	3-ю
+T7	NUMBER 868 876	до 4 мкм
+T8	NUMBER 1047 1056	до 20 мкм
+T10	ANATOMY 62 72	хрусталика
+T11	MEDPROC 100 124	кругового капсулорексиса
+T12	LABPROC 135 143;170 181	световой микроскопии
+T13	LABPROC 146 181	сканирующей электронной микроскопии
+T14	MEDPROC 192 214;241 253	мануальной циркулярной капсулотомии
+T17	ANATOMY 300 316	передней капсулы
+T18	ANATOMY 317 327	хрусталика
+T19	ANATOMY 456 463	образцы
+T20	MEDPROC 482 517	мануальной циркулярной капсулотомии
+T21	DEVICE 553 575	фемтосекундного лазера
+T23	ANATOMY 670 677	капсулы
+T24	MEDPROC 682 707	мануальном капсулорексисе
+T27	MEDPROC 899 920	лазерной капсулотомии
+T30	ANATOMY 1003 1010	капсулы
+T31	FINDING 1016 1026	расслоение
+T33	MEDPROC 1092 1106	капсулорексиса
+T38	MEDPROC 1240 1254	капсулорексиса
+T39	ANATOMY 1277 1293	передней капсулы
+T43	LABPROC 1468 1487	лазерного излучения
+T44	PHYS 1516 1538	торсионными движениями
+T45	ANATOMY 1539 1544	глаза
+T46	PERSON 1545 1553	пациента
+T48	ANATOMY 1579 1587	роговицы
+T52	ANATOMY 1672 1678	тканей
+T54	ANATOMY 1729 1734	ткани
+T55	CHEM 1749 1755	плазмы
+T58	LABPROC 1938 1957	лазерного излучения
+T59	ANATOMY 1961 1981	клеточные компоненты
+T60	ANATOMY 1982 1998	передней капсулы
+T63	ANATOMY 45 72	передней капсулы хрусталика
+T64	PHYS 35 72	состояния передней капсулы хрусталика
+T65	SCIPROC 12 34	морфологическую оценку
+T66	MEDPROC 110 124	капсулорексиса
+T67	MEDPROC 90 124	переднего кругового капсулорексиса
+T68	LABPROC 170 181	микроскопии
+T69	LABPROC 158 181	электронной микроскопии
+T15	MEDPROC 241 253	капсулотомии
+T70	MEDPROC 232 253	лазерной капсулотомии
+T71	MEDPROC 217 253	фемтосекундной лазерной капсулотомии
+T72	ANATOMY 300 327	передней капсулы хрусталика
+T73	MEDPROC 349 367	факоэмульсификации
+T75	ANATOMY 410 418	образцов
+T62	ANATOMY 45 61	передней капсулы
+T79	MEDPROC 505 517	капсулотомии
+T82	DEVICE 569 575	лазера
+T85	ANATOMY 654 677	свободного края капсулы
+T86	PHYS 646 677	Профиль свободного края капсулы
+T87	MEDPROC 693 707	капсулорексисе
+T88	FINDING 717 748	более ровным по всему периметру
+T91	LABPROC 755 777	при большом увеличении
+T26	MEDPROC 908 920	капсулотомии
+T93	MEDPROC 884 920	фемтосекундной лазерной капсулотомии
+T94	LABPROC 925 945	при малом увеличении
+T28	ANATOMY 988 1010	торцевого края капсулы
+T95	PHYS 980 1010	профиль торцевого края капсулы
+T96	FINDING 964 1010	ступенеобразный профиль торцевого края капсулы
+T99	FINDING 1058 1130	более выраженные после выполнения капсулорексиса в режиме низкой энергии
+T36	FINDING 1173 1215	выглядела более сглаженной и 'оплавленной'
+T103	ANATOMY 1334 1353	зону деэпителизации
+T104	PHYS 1339 1353	деэпителизации
+T42	PHYS 1447 1487	точности фокусировки лазерного излучения
+T106	FINDING 1437 1487	снижением точности фокусировки лазерного излучения
+T107	PHYS 1516 1544	торсионными движениями глаза
+T108	PHYS 1573 1587	формы роговицы
+T109	FINDING 1556 1587	микроизменениями формы роговицы
+T49	FINDING 1604 1614	аппланации
+T9	MEDPROC 1661 1678	рассечения тканей
+T51	MEDPROC 1646 1678	фемтолазерного рассечения тканей
+T110	FINDING 1719 1734	испарения ткани
+T112	FINDING 1825 1864	индуцируют разрез и демаркационную зону
+T114	FINDING 1845 1864	демаркационную зону
+T57	FINDING 1898 1921	фототермическое влияние
+T115	LABPROC 1922 1957	фемтосекундного лазерного излучения
+T61	ANATOMY 1999 2009	хрусталика
+T118	ANATOMY 1982 2009	передней капсулы хрусталика
+T119	ANATOMY 1961 1970	клеточные
+R1	PART_OF Arg1:T63 Arg2:T10	
+R2	PHYSIOLOGY_OF Arg1:T64 Arg2:T63	
+R3	SUBCLASS_OF Arg1:T11 Arg2:T66	
+R4	SUBCLASS_OF Arg1:T67 Arg2:T11	
+R5	SUBCLASS_OF Arg1:T13 Arg2:T69	
+R6	SUBCLASS_OF Arg1:T69 Arg2:T68	
+R7	SUBCLASS_OF Arg1:T12 Arg2:T68	
+R8	SUBCLASS_OF Arg1:T14 Arg2:T15	
+R9	SUBCLASS_OF Arg1:T71 Arg2:T70	
+R10	SUBCLASS_OF Arg1:T70 Arg2:T15	
+R11	HAS_CAUSE Arg1:T64 Arg2:T67	
+R12	USED_IN Arg1:T12 Arg2:T65	
+R13	USED_IN Arg1:T13 Arg2:T65	
+R14	PART_OF Arg1:T72 Arg2:T18	
+R17	APPLIED_TO Arg1:T73 Arg2:T72	
+R18	SUBCLASS_OF Arg1:T20 Arg2:T79	
+R19	APPLIED_TO Arg1:T20 Arg2:T19	
+R20	SUBCLASS_OF Arg1:T21 Arg2:T82	
+T22	MEDPROC 553 617	фемтосекундного лазера в режиме условно низкой и высокой энергии
+R21	APPLIED_TO Arg1:T22 Arg2:T19	
+R22	USED_IN Arg1:T21 Arg2:T22	
+R23	PART_OF Arg1:T85 Arg2:T23	
+R24	PHYSIOLOGY_OF Arg1:T86 Arg2:T85	
+R25	SUBCLASS_OF Arg1:T24 Arg2:T87	
+R26	FINDING_OF Arg1:T88 Arg2:T86	
+R27	HAS_CAUSE Arg1:T88 Arg2:T24	
+T25	FINDING 789 876	различить единичные насечки, небольшие углубления и мелкие 'заусеницы' высотой до 4 мкм
+R28	TO_DETECT_OR_STUDY Arg1:T91 Arg2:T25	
+R29	SUBCLASS_OF Arg1:T27 Arg2:T26	
+R30	SUBCLASS_OF Arg1:T93 Arg2:T27	
+R31	HAS_CAUSE Arg1:T96 Arg2:T93	
+R32	TO_DETECT_OR_STUDY Arg1:T94 Arg2:T96	
+R33	PART_OF Arg1:T28 Arg2:T30	
+R34	PHYSIOLOGY_OF Arg1:T95 Arg2:T28	
+T29	MEDPROC 1092 1130	капсулорексиса в режиме низкой энергии
+R35	SUBCLASS_OF Arg1:T29 Arg2:T33	
+T32	MEDPROC 1134 1156	режиме высокой энергии
+R36	HAS_CAUSE Arg1:T36 Arg2:T32	
+T34	FINDING 1031 1056	выемки глубиной до 20 мкм
+R37	HAS_CAUSE Arg1:T31 Arg2:T93	
+R38	HAS_CAUSE Arg1:T34 Arg2:T93	
+R39	HAS_CAUSE Arg1:T99 Arg2:T29	
+T35	ANATOMY 1261 1293	свободного края передней капсулы
+R40	SUBCLASS_OF Arg1:T35 Arg2:T39	
+R41	PHYSIOLOGY_OF Arg1:T104 Arg2:T103	
+R44	HAS_CAUSE Arg1:T104 Arg2:T38	
+R45	APPLIED_TO Arg1:T38 Arg2:T35	
+R46	FINDING_OF Arg1:T106 Arg2:T42	
+R47	PART_OF Arg1:T45 Arg2:T46	
+R48	PHYSIOLOGY_OF Arg1:T107 Arg2:T46	
+R49	PHYSIOLOGY_OF Arg1:T107 Arg2:T45	
+R50	SUBCLASS_OF Arg1:T107 Arg2:T44	
+R51	PHYSIOLOGY_OF Arg1:T108 Arg2:T48	
+R54	SUBCLASS_OF Arg1:T51 Arg2:T9	
+R52	APPLIED_TO Arg1:T51 Arg2:T52	
+R53	PART_OF Arg1:T118 Arg2:T61	
+R56	APPLIED_TO Arg1:T115 Arg2:T59	
+R57	SUBCLASS_OF Arg1:T115 Arg2:T58	
+R58	AFFECTS Arg1:T57 Arg2:T59	
+R59	ORIGINS_FROM Arg1:T57 Arg2:T115	
+R60	FINDING_OF Arg1:T109 Arg2:T108	
+R61	HAS_CAUSE Arg1:T109 Arg2:T49	
+T37	FINDING 1737 1755	образования плазмы
+T40	FINDING 1771 1794	кавитационных пузырьков
+R62	HAS_CAUSE Arg1:T40 Arg2:T110	
+R63	HAS_CAUSE Arg1:T40 Arg2:T37	
+R64	HAS_CAUSE Arg1:T40 Arg2:T51	
+R65	HAS_CAUSE Arg1:T106 Arg2:T107	
+R66	HAS_CAUSE Arg1:T106 Arg2:T109	
+R67	HAS_CAUSE Arg1:T112 Arg2:T40	
+R68	USED_IN Arg1:T14 Arg2:T67	
+R69	USED_IN Arg1:T71 Arg2:T67	
+R70	APPLIED_TO Arg1:T67 Arg2:T63	
+R15	APPLIED_TO Arg1:T24 Arg2:T85	
+R16	VALUE_IS Arg1:T34 Arg2:T8	
+R42	PART_OF Arg1:T103 Arg2:T35	
+R43	ALTERNATIVE_NAME Arg1:T118 Arg2:T60	
+R55	PART_OF Arg1:T59 Arg2:T118	

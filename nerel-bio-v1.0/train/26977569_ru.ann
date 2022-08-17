@@ -1,0 +1,121 @@
+T1	NUMBER 36 38	60
+T2	AGE 57 71	от 6 до 10 лет
+T3	DISO 156 167	риносинусит
+T4	NUMBER 177 179	30
+T5	DISO 214 226	риносинусита
+T6	DATE 328 344	в течение 7 дней
+T7	DISO 402 437	острого бактериального риносинусита
+T9	DISO 1491 1503	риносинусита
+T12	PERSON 39 45	детьми
+T13	PHYS 48 56	возрасте
+T14	MEDPROC 128 135;96 109	лечения амбулаторного
+T15	MEDPROC 114 135	стационарного лечения
+T18	PERSON 180 189	пациентам
+T22	CHEM 277 283	Миртол
+T23	LIVB 410 424	бактериального
+T25	PERSON 483 492	пациентам
+T33	DISO 756 763	ринореи
+T34	ANATOMY 778 782	носа
+T35	DISO 785 790	кашля
+T40	ANATOMY 952 956	носа
+T41	PERSON 984 994	пациентами
+T42	PERSON 995 1000	групп
+T46	CHEM 1085 1112	сосудосуживающих препаратов
+T47	MEDPROC 1124 1148	симптоматической терапии
+T48	PERSON 1151 1160	пациентов
+T50	CHEM 1182 1188	Миртол
+T51	PERSON 1282 1290	пациента
+T53	DISO 1353 1370	побочных эффектов
+T56	CHEM 1443 1453	ГелоМиртол
+T59	DISO 1483 1503	острого риносинусита
+T60	PERSON 1506 1511	детей
+T10	DISO 149 167	острый риносинусит
+T11	DISO 206 226	острого риносинусита
+T19	CHEM 268 303	препарат Миртол стандартизированный
+T20	NUMBER 307 313	120 мг
+T21	TIME 314 327	3 раза в день
+T63	DISO 425 437	риносинусита
+T64	DISO 410 437	бактериального риносинусита
+T24	DATE 464 468	2012
+T26	CHEM 518 546	антибактериальных препаратов
+T65	PERSON 548 557	Остальным
+T28	MEDPROC 658 683	антибактериальную терапию
+T29	MEDPROC 648 683	системную антибактериальную терапию
+T31	SCIPROC 685 730	Анализ показателей визуально-аналоговой шкалы
+T68	PHYS 743 763	выраженность ринореи
+T69	DISO 765 782	заложенности носа
+T70	PHYS 743 790	выраженность ринореи, заложенности носа и кашля
+T71	FINDING 792 820	показал достоверное различие
+T36	NUMBER 823 828	<0,05
+T37	PERSON 832 839	группах
+T72	PERSON 832 850	группах наблюдения
+T73	PHYS 854 884	степени выраженности симптомов
+T8	DATE 885 891	на 7-й
+T74	DATE 894 902	14-й дни
+T39	DISO 939 956	заложенности носа
+T75	PHYS 930 956	динамике заложенности носа
+T76	FINDING 957 977	достоверное различие
+T43	PERSON 995 1011	групп наблюдения
+T78	DATE 1025 1036	на 3-й день
+T44	PHYS 1085 1101	сосудосуживающих
+T45	ADMINISTRATION_ROUTE 1075 1084	назальных
+T79	CHEM 1075 1112	назальных сосудосуживающих препаратов
+T81	PHYS 1046 1112	Продолжительность применения назальных сосудосуживающих препаратов
+T82	CHEM 1173 1208	препарат Миртол стандартизированный
+T83	DATE 1220 1231	2,2±0,4 дня
+T84	DATE 1239 1250	3,6±0,5 дня
+T85	PERSON 1253 1259	группе
+T86	PERSON 1253 1268	группе контроля
+T87	CHEM 1304 1314	ГелоМиртол
+T52	FINDING 1316 1405	не отмечали каких-либо нежелательных побочных эффектов, связанных с применением препарата
+T55	CHEM 1433 1453	препарата ГелоМиртол
+T57	DISO 1464 1503	неосложненных форм острого риносинусита
+T61	FINDING 1512 1587	является клинически высокоэффективным, удобным и безопасным методом лечения
+R1	AGE_IS Arg1:T12 Arg2:T2	
+R2	PHYSIOLOGY_OF Arg1:T13 Arg2:T12	
+R3	VALUE_IS Arg1:T13 Arg2:T2	
+R4	SUBCLASS_OF Arg1:T10 Arg2:T3	
+R5	MEDICAL_CONDITION Arg1:T12 Arg2:T10	
+R6	PROCEDURE_PERFORMED Arg1:T12 Arg2:T14	
+R7	PROCEDURE_PERFORMED Arg1:T12 Arg2:T15	
+R8	MEDICAL_CONDITION Arg1:T18 Arg2:T11	
+R9	SUBCLASS_OF Arg1:T11 Arg2:T5	
+R10	DOSE_IS Arg1:T19 Arg2:T20	
+R11	TREATED_USING Arg1:T18 Arg2:T19	
+R12	SUBCLASS_OF Arg1:T64 Arg2:T63	
+R13	SUBCLASS_OF Arg1:T7 Arg2:T64	
+R14	HAS_CAUSE Arg1:T64 Arg2:T23	
+T16	SCIPROC 448 468	критериям EP3OS 2012
+R15	TO_DETECT_OR_STUDY Arg1:T16 Arg2:T7	
+R16	TREATED_USING Arg1:T25 Arg2:T26	
+T17	MEDPROC 568 622	традиционную (симптоматическую, ирригационную) терапию
+R17	PROCEDURE_PERFORMED Arg1:T65 Arg2:T17	
+R18	PROCEDURE_PERFORMED Arg1:T65 Arg2:T29	
+R19	SUBCLASS_OF Arg1:T29 Arg2:T28	
+R20	AFFECTS Arg1:T69 Arg2:T34	
+R21	TO_DETECT_OR_STUDY Arg1:T31 Arg2:T70	
+R22	SUBCLASS_OF Arg1:T72 Arg2:T37	
+R23	FINDING_OF Arg1:T71 Arg2:T70	
+R24	FINDING_OF Arg1:T71 Arg2:T72	
+R25	PHYSIOLOGY_OF Arg1:T73 Arg2:T72	
+R26	AFFECTS Arg1:T39 Arg2:T40	
+R27	PHYSIOLOGY_OF Arg1:T75 Arg2:T40	
+R28	SUBCLASS_OF Arg1:T43 Arg2:T42	
+R29	MEMBER_OF Arg1:T41 Arg2:T43	
+R30	FINDING_OF Arg1:T76 Arg2:T41	
+R31	FINDING_OF Arg1:T76 Arg2:T75	
+R32	AFFECTS Arg1:T79 Arg2:T44	
+R33	SUBCLASS_OF Arg1:T79 Arg2:T46	
+R34	HAS_ADMINISTRATION_ROUTE Arg1:T79 Arg2:T45	
+R35	ASSOCIATED_WITH Arg1:T81 Arg2:T79	
+R36	USED_IN Arg1:T79 Arg2:T47	
+R37	PROCEDURE_PERFORMED Arg1:T48 Arg2:T47	
+R38	SUBCLASS_OF Arg1:T86 Arg2:T85	
+R39	MEDICAL_CONDITION Arg1:T51 Arg2:T53	
+R40	TREATED_USING Arg1:T51 Arg2:T87	
+R41	FINDING_OF Arg1:T52 Arg2:T51	
+R42	SUBCLASS_OF Arg1:T59 Arg2:T9	
+R43	SUBCLASS_OF Arg1:T57 Arg2:T59	
+R44	MEDICAL_CONDITION Arg1:T60 Arg2:T57	
+R45	TREATED_USING Arg1:T60 Arg2:T55	
+R46	FINDING_OF Arg1:T61 Arg2:T60	

@@ -1,0 +1,103 @@
+T1	NUMBER 729 736	1-60 Гц
+T2	NUMBER 739 741	35
+T3	DISO 762 773	шизофренией
+T4	NUMBER 816 818	19
+T5	LABPROC 30 51	электроэнцефалограммы
+T6	PERSON 60 67	больных
+T9	PERSON 185 194	пациентов
+T12	LABPROC 232 235	ЭЭГ
+T14	PHYS 295 315	нейрофизиологических
+T17	LABPROC 421 424	ЭЭГ
+T18	DISO 471 493	негативных расстройств
+T20	DISO 558 591	позитивных/негативных расстройств
+T21	SCIPROC 642 653	шкалы PANSS
+T22	LABPROC 695 706	фоновой ЭЭГ
+T23	LABPROC 703 706	ЭЭГ
+T24	PERSON 742 749	больных
+T25	CHEM 789 812	психотропных препаратов
+T26	PERSON 819 827	здоровых
+T27	LABPROC 867 882	ЭЭГ-показателем
+T28	DISO 883 905	негативных расстройств
+T30	DISO 1024 1043	волевых расстройств
+T32	ANATOMY 1123 1138	левом полушарии
+T34	ANATOMY 1157 1171	лобных отделах
+T35	ANATOMY 1178 1187	полушария
+T36	DISO 1189 1212	Позитивные расстройства
+T37	DISO 1228 1239	негативными
+T38	LABPROC 1264 1267	ЭЭГ
+T41	LABPROC 1408 1411	ЭЭГ
+T42	DISO 1431 1451	бредовых расстройств
+T43	MENTALPROC 1464 1488	психического автоматизма
+T44	ANATOMY 1493 1507	лобных отделах
+T45	ANATOMY 1508 1524	левого полушария
+T46	DISO 1532 1553	параноидного синдрома
+T47	DISO 1583 1589	бредом
+T48	ANATOMY 1594 1608	корковых зонах
+T49	ANATOMY 1609 1626	правого полушария
+T50	DISO 68 79	шизофренией
+T51	LABPROC 53 56	ЭЭГ
+R1	ABBREVIATION Arg1:T5 Arg2:T51	
+T11	ANATOMY 1594 1626	корковых зонах правого полушария
+T39	SCIPROC 217 235	Анализ спектра ЭЭГ
+T13	DISO 750 773	параноидной шизофренией
+T15	MENTALPROC 1464 1476	психического
+T16	MENTALPROC 1477 1488	автоматизма
+T7	MENTALPROC 1024 1031	волевых
+T8	FINDING 1075 1120	усиление спектральной мощности β-γ-диапазонов
+T10	DISO 1307 1344	психопатологических симтомокомплексов
+T19	DISO 1431 1439	бредовых
+T29	ANATOMY 1493 1524	лобных отделах левого полушария
+T31	LABPROC 381 424	пространственно-частотных характеристик ЭЭГ
+T33	PHYS 667 706	спектральные характеристики фоновой ЭЭГ
+R2	MEDICAL_CONDITION Arg1:T24 Arg2:T13	
+R3	VALUE_IS Arg1:T33 Arg2:T1	
+T40	LABPROC 939 982	диффузное усиление частот γ- и δ-диапазонов
+T52	PHYS 1084 1120;1141 1152	спектральной мощности β-γ-диапазонов δ-диапазона
+T53	PHYS 1364 1407	пространственно структурированных паттернов
+T54	PHYS 1364 1411	пространственно структурированных паттернов ЭЭГ
+R4	MEDICAL_CONDITION Arg1:T6 Arg2:T50	
+T55	FINDING 20 51	Изменения электроэнцефалограммы
+T56	LABPROC 867 870	ЭЭГ
+T57	LABPROC 958 982	частот γ- и δ-диапазонов
+R5	PART_OF Arg1:T34 Arg2:T35	
+R6	PART_OF Arg1:T29 Arg2:T45	
+T58	PHYS 1364 1425	пространственно структурированных паттернов ЭЭГ в β-диапазоне
+T59	DISO 1532 1589	параноидного синдрома с первичным интерпретативным бредом
+T60	FINDING 1240 1286	отражались в изменениях ЭЭГ значительно слабее
+R7	ALTERNATIVE_NAME Arg1:T6 Arg2:T9	
+T61	PHYS 295 326	нейрофизиологических механизмов
+R8	PROCEDURE_PERFORMED Arg1:T6 Arg2:T5	
+R9	TO_DETECT_OR_STUDY Arg1:T39 Arg2:T61	
+T62	DISO 456 468;482 493	продуктивных расстройств
+R10	PROCEDURE_PERFORMED Arg1:T24 Arg2:T22	
+R11	PROCEDURE_PERFORMED Arg1:T26 Arg2:T22	
+R12	TO_DETECT_OR_STUDY Arg1:T27 Arg2:T28	
+R13	TO_DETECT_OR_STUDY Arg1:T40 Arg2:T28	
+R14	SUBCLASS_OF Arg1:T40 Arg2:T27	
+T63	DISO 984 1007	Дефицитарным состояниям
+R15	TO_DETECT_OR_STUDY Arg1:T31 Arg2:T18	
+R16	TO_DETECT_OR_STUDY Arg1:T31 Arg2:T62	
+R17	HAS_CAUSE Arg1:T8 Arg2:T63	
+R19	PART_OF Arg1:T11 Arg2:T49	
+R20	PART_OF Arg1:T34 Arg2:T32	
+R18	ASSOCIATED_WITH Arg1:T36 Arg2:T60	
+R21	ASSOCIATED_WITH Arg1:T37 Arg2:T60	
+R22	AFFECTS Arg1:T30 Arg2:T7	
+R23	ASSOCIATED_WITH Arg1:T61 Arg2:T50	
+R24	SUBCLASS_OF Arg1:T18 Arg2:T50	
+R25	SUBCLASS_OF Arg1:T62 Arg2:T50	
+R26	TO_DETECT_OR_STUDY Arg1:T21 Arg2:T20	
+R27	TO_DETECT_OR_STUDY Arg1:T22 Arg2:T13	
+R28	PHYSIOLOGY_OF Arg1:T52 Arg2:T32	
+R29	FINDING_OF Arg1:T8 Arg2:T52	
+R30	ASSOCIATED_WITH Arg1:T54 Arg2:T10	
+R31	SUBCLASS_OF Arg1:T59 Arg2:T46	
+R32	SUBCLASS_OF Arg1:T43 Arg2:T16	
+R33	USED_IN Arg1:T12 Arg2:T39	
+R34	SUBCLASS_OF Arg1:T13 Arg2:T3	
+R35	SUBCLASS_OF Arg1:T58 Arg2:T54	
+R36	SUBCLASS_OF Arg1:T54 Arg2:T53	
+R37	ORIGINS_FROM Arg1:T55 Arg2:T5	
+R38	SUBCLASS_OF Arg1:T22 Arg2:T23	
+R39	SUBCLASS_OF Arg1:T29 Arg2:T44	
+R40	SUBCLASS_OF Arg1:T11 Arg2:T48	

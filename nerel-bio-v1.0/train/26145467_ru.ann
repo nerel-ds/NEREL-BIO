@@ -1,0 +1,77 @@
+T1	NUMBER 18 20	28
+T2	NUMBER 31 32	2
+T3	DATE 779 792	К 90-м суткам
+T5	LIVB 21 28	собаках
+T8	MEDPROC 119 133	трансплантацию
+T9	ANATOMY 134 165	ксеногенного костного материала
+T11	ANATOMY 192 199	костных
+T12	ANATOMY 228 251	стенки костного дефекта
+T13	DISO 235 251	костного дефекта
+T14	MEDPROC 254 274	трансплантированного
+T15	ANATOMY 275 297	ксеногенного материала
+T18	ANATOMY 330 338	костного
+T19	CHEM 339 361	ксеногенного материала
+T20	MEDPROC 364 378	Трансплантация
+T21	ANATOMY 379 410	ксеногенного костного материала
+T22	ANATOMY 392 400	костного
+T23	DISO 425 440	костные дефекты
+T25	PHYS 521 535	иммуногенности
+T26	PHYS 538 553	аллергогенности
+T27	MEDPROC 596 610	трансплантации
+T28	ANATOMY 611 633	ксеногенного материала
+T29	ANATOMY 671 697	фиброзных костных трабекул
+T30	ANATOMY 689 697	трабекул
+T32	ANATOMY 746 754	костного
+T33	CHEM 746 777	костного ксеногенного материала
+T34	ANATOMY 810 815	кость
+T35	SCIPROC 886 891	опыта
+T37	ANATOMY 933 951	реципиентного ложа
+T38	ANATOMY 954 978	ксеногенный трансплантат
+T39	ANATOMY 979 998	клеточных элементов
+T40	ANATOMY 1022 1038	костное вещество
+T41	ANATOMY 1039 1065	ксеногенного трансплантата
+T44	ANATOMY 1141 1163	ксеногенного материала
+T45	LIVB 1218 1235	организма-хозяина
+T4	ANATOMY 147 155	костного
+T7	SCIPROC 2 14	эксперименте
+T36	DATE 873 885	с 42-х суток
+T42	ANATOMY 1197 1217	костными структурами
+T16	PHYS 91 115	местные тканевые реакции
+T17	PHYS 99 115	тканевые реакции
+T43	ANATOMY 99 107	тканевые
+T10	FINDING 506 535	низким уровнем иммуногенности
+T46	ANATOMY 1022 1029	костное
+T47	CHEM 330 361	костного ксеногенного материала
+T48	ANATOMY 192 208	костных структур
+T49	ANATOMY 425 432	костные
+T24	DISO 453 488	воспалительно-деструктивных реакций
+T50	ANATOMY 681 688	костных
+T51	ANATOMY 681 697	костных трабекул
+T6	LIVB 33 51	группах наблюдения
+T31	LIVB 33 40	группах
+R1	PART_OF Arg1:T40 Arg2:T46	
+R2	SUBCLASS_OF Arg1:T6 Arg2:T31	
+R3	PROCEDURE_PERFORMED Arg1:T5 Arg2:T7	
+R4	PART_OF Arg1:T42 Arg2:T45	
+R5	MEMBER_OF Arg1:T5 Arg2:T31	
+R6	APPLIED_TO Arg1:T8 Arg2:T9	
+R7	SUBCLASS_OF Arg1:T51 Arg2:T30	
+R8	PART_OF Arg1:T51 Arg2:T50	
+R9	SUBCLASS_OF Arg1:T29 Arg2:T51	
+T52	LIVB 53 61;64 70	основной группе
+T53	LIVB 64 80	группе сравнения
+T54	LIVB 64 70	группе
+R10	SUBCLASS_OF Arg1:T53 Arg2:T54	
+R11	SUBCLASS_OF Arg1:T52 Arg2:T54	
+R12	SUBCLASS_OF Arg1:T52 Arg2:T6	
+R13	SUBCLASS_OF Arg1:T53 Arg2:T6	
+R14	SUBCLASS_OF Arg1:T16 Arg2:T17	
+R15	AFFECTS Arg1:T16 Arg2:T43	
+R16	HAS_CAUSE Arg1:T16 Arg2:T8	
+T55	ANATOMY 235 243	костного
+R17	AFFECTS Arg1:T13 Arg2:T55	
+R18	AFFECTS Arg1:T23 Arg2:T49	
+T56	PHYS 655 697	новообразование фиброзных костных трабекул
+R19	HAS_CAUSE Arg1:T56 Arg2:T27	
+R20	PHYSIOLOGY_OF Arg1:T16 Arg2:T5	
+R21	TREATED_USING Arg1:T5 Arg2:T8	

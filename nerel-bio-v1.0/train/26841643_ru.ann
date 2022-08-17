@@ -1,0 +1,140 @@
+T1	DISO 96 114	аномалией Эбштейна
+T2	PERSON 106 114	Эбштейна
+T3	NUMBER 242 244	41
+T4	AGE 265 283	от 9 мес до 57 лет
+T5	NUMBER 381 385	двух
+T6	DISO 818 850	синдрома Вольфа-Паркинсона-Уайта
+T7	PERSON 894 902	Эбштейна
+T9	ANATOMY 50 68	Z-полос миофибрилл
+T10	ANATOMY 71 85	кардиомиоцитах
+T11	PERSON 86 93	больных
+T16	ANATOMY 218 239	правых отделов сердца
+T17	PERSON 245 253	больного
+T18	PHYS 256 264	возрасте
+T19	PERSON 305 312	больных
+T20	ANATOMY 325 339	кардиомиоцитах
+T22	ANATOMY 361 369	Z-дисков
+T23	ANATOMY 370 380	миофибрилл
+T24	ANATOMY 427 435	Z-дисков
+T26	ANATOMY 472 483	Z-материала
+T28	ANATOMY 525 533	Z-дисков
+T29	ANATOMY 551 565	кардиомиоцитах
+T30	ANATOMY 566 576	предсердия
+T32	FINDING 608 626	нарушений Z-дисков
+T33	ANATOMY 629 643	кардиомиоцитах
+T34	ANATOMY 733 744	Z-материала
+T35	PERSON 810 817	больных
+T38	PERSON 874 881	больных
+T39	DISO 884 902	аномалией Эбштейна
+T40	ANATOMY 911 925	кардиомиоцитов
+T41	ANATOMY 966 973	Z-полос
+T42	ANATOMY 974 984	миофибрилл
+T43	ANATOMY 1054 1061	Z-полос
+T44	ANATOMY 1064 1080	скелетных мышцах
+T47	CHEM 1100 1118	саркомерных белков
+T8	ANATOMY 58 68	миофибрилл
+T52	ANATOMY 50 57	Z-полос
+T53	FINDING 40 68	изменения Z-полос миофибрилл
+T12	LABPROC 143 166	электронной микроскопии
+T13	LABPROC 155 166	микроскопии
+T14	ANATOMY 208 217	биоптатов
+T15	ANATOMY 190 217	интраоперационных биоптатов
+T54	ANATOMY 233 239	сердца
+T55	ANATOMY 190 239	интраоперационных биоптатов правых отделов сердца
+T21	ANATOMY 361 380	Z-дисков миофибрилл
+T56	FINDING 351 380	изменения Z-дисков миофибрилл
+T57	FINDING 393 446	локальные симметричные расширения Z-дисков в виде бус
+T25	ANATOMY 503 513	миофибрилл
+T27	FINDING 462 483	отложения Z-материала
+T58	FINDING 451 513	продольные отложения Z-материала разной длины вдоль миофибрилл
+T59	FINDING 515 533	Изменения Z-дисков
+T60	ANATOMY 551 576	кардиомиоцитах предсердия
+T31	ANATOMY 584 593	желудочке
+T61	ANATOMY 618 626	Z-дисков
+T62	FINDING 596 643	Присутствие нарушений Z-дисков в кардиомиоцитах
+T63	PHYS 666 689	клинических показателей
+T64	FINDING 723 744	отложений Z-материала
+T65	ANATOMY 759 773	кардиомиоцитах
+T66	ANATOMY 747 758	предсердных
+T67	ANATOMY 747 773	предсердных кардиомиоцитах
+T68	FINDING 704 773	наличие продольных отложений Z-материала в предсердных кардиомиоцитах
+T36	PERSON 827 833	Вольфа
+T37	PERSON 834 844	Паркинсона
+T69	PERSON 845 850	Уайта
+T70	ANATOMY 966 984	Z-полос миофибрилл
+T71	FINDING 938 984	ультраструктурных изменений Z-полос миофибрилл
+T72	ANATOMY 1074 1080	мышцах
+T73	ANATOMY 1064 1073	скелетных
+T74	FINDING 1042 1080	нарушениями Z-полос в скелетных мышцах
+T45	ANATOMY 1100 1111	саркомерных
+T46	GENE 1094 1118	генов саркомерных белков
+T75	FINDING 1085 1118	мутациях генов саркомерных белков
+T48	ANATOMY 1197 1205	Z-дисков
+T49	ANATOMY 1206 1216	миофибрилл
+T51	ANATOMY 1217 1231	кардиомиоцитов
+T76	ANATOMY 1206 1231	миофибрилл кардиомиоцитов
+T77	ANATOMY 1197 1231	Z-дисков миофибрилл кардиомиоцитов
+T79	GENE 1165 1231	генов белков, входящих в состав Z-дисков миофибрилл кардиомиоцитов
+T80	FINDING 1157 1231	мутации генов белков, входящих в состав Z-дисков миофибрилл кардиомиоцитов
+R1	PART_OF Arg1:T9 Arg2:T8	
+R2	PART_OF Arg1:T9 Arg2:T10	
+R3	PART_OF Arg1:T10 Arg2:T11	
+R4	MEDICAL_CONDITION Arg1:T11 Arg2:T1	
+R5	SUBCLASS_OF Arg1:T9 Arg2:T52	
+R6	FINDING_OF Arg1:T53 Arg2:T11	
+R7	SUBCLASS_OF Arg1:T12 Arg2:T13	
+R8	SUBCLASS_OF Arg1:T55 Arg2:T15	
+R9	PART_OF Arg1:T55 Arg2:T16	
+R10	PART_OF Arg1:T16 Arg2:T54	
+R11	PART_OF Arg1:T15 Arg2:T14	
+R12	TO_DETECT_OR_STUDY Arg1:T12 Arg2:T55	
+R13	PART_OF Arg1:T55 Arg2:T17	
+R14	PHYSIOLOGY_OF Arg1:T18 Arg2:T17	
+R15	AGE_IS Arg1:T17 Arg2:T4	
+R16	VALUE_IS Arg1:T18 Arg2:T4	
+R17	PART_OF Arg1:T20 Arg2:T19	
+R18	PART_OF Arg1:T21 Arg2:T23	
+R19	SUBCLASS_OF Arg1:T21 Arg2:T22	
+R20	PART_OF Arg1:T21 Arg2:T20	
+R21	FINDING_OF Arg1:T56 Arg2:T19	
+R22	SUBCLASS_OF Arg1:T57 Arg2:T56	
+R23	SUBCLASS_OF Arg1:T58 Arg2:T56	
+R24	FINDING_OF Arg1:T57 Arg2:T19	
+R25	FINDING_OF Arg1:T58 Arg2:T19	
+R26	PART_OF Arg1:T26 Arg2:T25	
+R27	PART_OF Arg1:T25 Arg2:T19	
+R28	SUBCLASS_OF Arg1:T60 Arg2:T29	
+R29	PART_OF Arg1:T60 Arg2:T30	
+R30	PART_OF Arg1:T28 Arg2:T29	
+R31	PART_OF Arg1:T61 Arg2:T33	
+R32	FINDING_OF Arg1:T62 Arg2:T63	
+R33	PART_OF Arg1:T67 Arg2:T66	
+R34	SUBCLASS_OF Arg1:T67 Arg2:T65	
+R35	PART_OF Arg1:T34 Arg2:T67	
+R36	FINDING_OF Arg1:T68 Arg2:T35	
+R37	FINDING_OF Arg1:T64 Arg2:T35	
+R38	MEDICAL_CONDITION Arg1:T35 Arg2:T6	
+R39	HAS_CAUSE Arg1:T68 Arg2:T6	
+R40	MEDICAL_CONDITION Arg1:T38 Arg2:T39	
+R41	PART_OF Arg1:T40 Arg2:T38	
+R42	FINDING_OF Arg1:T71 Arg2:T38	
+R43	PART_OF Arg1:T70 Arg2:T42	
+R44	SUBCLASS_OF Arg1:T70 Arg2:T41	
+R45	PART_OF Arg1:T70 Arg2:T40	
+R46	PART_OF Arg1:T44 Arg2:T73	
+R47	SUBCLASS_OF Arg1:T44 Arg2:T72	
+R48	PART_OF Arg1:T43 Arg2:T73	
+R49	HAS_CAUSE Arg1:T74 Arg2:T75	
+R50	ORIGINS_FROM Arg1:T47 Arg2:T45	
+R51	ORIGINS_FROM Arg1:T46 Arg2:T45	
+T81	CHEM 1112 1118	белков
+R52	SUBCLASS_OF Arg1:T47 Arg2:T81	
+T78	CHEM 1171 1177	белков
+T82	CHEM 1171 1231	белков, входящих в состав Z-дисков миофибрилл кардиомиоцитов
+R53	SUBCLASS_OF Arg1:T82 Arg2:T78	
+R54	SUBCLASS_OF Arg1:T76 Arg2:T51	
+R55	PART_OF Arg1:T77 Arg2:T76	
+R56	SUBCLASS_OF Arg1:T76 Arg2:T49	
+R57	SUBCLASS_OF Arg1:T77 Arg2:T48	
+R58	ORIGINS_FROM Arg1:T82 Arg2:T77	
+R59	ORIGINS_FROM Arg1:T79 Arg2:T77	

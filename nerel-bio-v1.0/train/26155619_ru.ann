@@ -1,0 +1,152 @@
+T1	DATE 424 439	в течение 6 мес
+T2	NUMBER 505 507	66
+T3	NUMBER 517 519	34
+T4	NUMBER 530 532	32
+T5	DISO 861 883	коморбидной патологией
+T6	DISO 968 1009	хронической цереброваскулярной патологией
+T7	DATE 1116 1133	в течение 14 дней
+T8	NUMBER 1144 1145	3
+T9	FINDING 1167 1218	развилось острое нарушение мозгового кровообращения
+T10	NUMBER 1222 1223	2
+T11	NUMBER 1418 1421	две
+T12	NUMBER 1471 1472	1
+T13	NUMBER 1515 1516	2
+T15	CHEM 43 91	нестероидными противовоспалительными препаратами
+T16	CHEM 111 121	диклофенак
+T17	CHEM 123 133	мелоксикам
+T18	CHEM 135 146	эторикоксиб
+T19	CHEM 148 157	нимесулид
+T20	PHYS 179 193	систолического
+T21	PHYS 196 234	диастолического артериального давления
+T23	DISO 290 346	острой цереброваскулярной транзиторной ишемической атаки
+T26	PERSON 508 515	больных
+T27	PERSON 520 527	женщины
+T29	CHEM 561 565	НПВП
+T30	DISO 586 591	болей
+T35	CHEM 794 806	эторикоксиба
+T37	ANATOMY 841 846	спине
+T38	PERSON 849 858	пациентов
+T41	PHYS 953 955	АД
+T42	PERSON 958 965	больных
+T44	CHEM 1025 1029	НПВП
+T46	CHEM 1043 1053	мелоксикам
+T50	PERSON 1146 1155	пациентов
+T52	PHYS 1194 1218	мозгового кровообращения
+T53	ANATOMY 1233 1250	кардиоваскулярное
+T55	FINDING 1304 1344	нежелательных кардиоваскулярных эффектов
+T56	CHEM 1356 1360	НПВП
+T62	ANATOMY 1547 1564	кардиоваскулярные
+T14	CHEM 57 91	противовоспалительными препаратами
+T63	MEDPROC 35 91	терапии нестероидными противовоспалительными препаратами
+T64	CHEM 93 97	НПВП
+T65	PHYS 212 234	артериального давления
+T66	ANATOMY 212 225	артериального
+T67	DATE 260 265	3 сут
+T22	DISO 329 346	ишемической атаки
+T68	ANATOMY 297 315	цереброваскулярной
+T69	DISO 316 346	транзиторной ишемической атаки
+T70	DISO 348 360;380 388	ишемического инсульта
+T71	DISO 380 388	инсульта
+T72	DISO 363 388	геморрагического инсульта
+T24	ANATOMY 398 415	кардиоваскулярных
+T73	CHEM 460 464	НПВП
+T25	PERSON 533 540	мужчины
+T31	ANATOMY 607 612	спины
+T74	ANATOMY 594 612	нижней части спины
+T75	DISO 586 612	болей в нижней части спины
+T32	FINDING 692 713	высокой эффективности
+T33	FINDING 716 742	относительной безопасности
+T34	MEDPROC 743 764	лекарственной терапии
+T36	DISO 834 838	боли
+T76	DISO 834 846	боли в спине
+T77	DISO 818 846	неспецифической боли в спине
+T78	DISO 811 846	острой неспецифической боли в спине
+T39	FINDING 938 955	дестабилизации АД
+T40	ANATOMY 980 998	цереброваскулярной
+T79	DISO 980 1009	цереброваскулярной патологией
+T45	CHEM 1031 1041	диклофенак
+T47	CHEM 1073 1082	нимесулид
+T48	DATE 1156 1166	за 4,5 мес
+T80	PHYS 1204 1218	кровообращения
+T81	ANATOMY 1194 1203	мозгового
+T54	DISO 1233 1258	кардиоваскулярное событие
+T82	DISO 1226 1258	острое кардиоваскулярное событие
+T83	ANATOMY 1318 1335	кардиоваскулярных
+T57	FINDING 1459 1469	осложнений
+T58	FINDING 1438 1469	НПВП-ассоциированных осложнений
+T85	CHEM 1438 1442	НПВП
+T60	DISO 1502 1513	гипертензии
+T86	ANATOMY 1489 1501	артериальной
+T87	DISO 1489 1513	артериальной гипертензии
+T59	FINDING 1474 1513	дестабилизацию артериальной гипертензии
+T88	ANATOMY 1518 1526	сердечно
+T89	ANATOMY 1527 1537	сосудистые
+T90	FINDING 1518 1545	сердечно-сосудистые события
+T91	ANATOMY 1567 1585	цереброваскулярные
+R1	SUBCLASS_OF Arg1:T15 Arg2:T14	
+R2	ABBREVIATION Arg1:T15 Arg2:T64	
+R3	SUBCLASS_OF Arg1:T16 Arg2:T15	
+R4	SUBCLASS_OF Arg1:T17 Arg2:T15	
+R5	SUBCLASS_OF Arg1:T18 Arg2:T15	
+R6	SUBCLASS_OF Arg1:T19 Arg2:T15	
+R7	USED_IN Arg1:T15 Arg2:T63	
+R8	SUBCLASS_OF Arg1:T45 Arg2:T44	
+R9	SUBCLASS_OF Arg1:T46 Arg2:T44	
+R10	MEDICAL_CONDITION Arg1:T42 Arg2:T6	
+R11	PART_OF Arg1:T40 Arg2:T42	
+R12	SUBCLASS_OF Arg1:T6 Arg2:T79	
+R13	AFFECTS Arg1:T79 Arg2:T40	
+R14	SUBCLASS_OF Arg1:T69 Arg2:T22	
+R15	SUBCLASS_OF Arg1:T23 Arg2:T69	
+R16	AFFECTS Arg1:T23 Arg2:T68	
+R17	SUBCLASS_OF Arg1:T75 Arg2:T30	
+R18	AFFECTS Arg1:T75 Arg2:T74	
+R19	PART_OF Arg1:T74 Arg2:T31	
+R20	MEMBER_OF Arg1:T27 Arg2:T26	
+R21	MEMBER_OF Arg1:T25 Arg2:T26	
+R22	TREATED_USING Arg1:T26 Arg2:T29	
+R23	TREATED_USING Arg1:T75 Arg2:T29	
+R24	MEDICAL_CONDITION Arg1:T26 Arg2:T75	
+R25	PART_OF Arg1:T74 Arg2:T26	
+R26	USED_IN Arg1:T35 Arg2:T34	
+R27	HAS_CAUSE Arg1:T33 Arg2:T34	
+R28	HAS_CAUSE Arg1:T32 Arg2:T34	
+R29	HAS_CAUSE Arg1:T32 Arg2:T35	
+R30	SUBCLASS_OF Arg1:T21 Arg2:T65	
+R31	SUBCLASS_OF Arg1:T20 Arg2:T65	
+R32	SUBCLASS_OF Arg1:T72 Arg2:T71	
+R33	SUBCLASS_OF Arg1:T70 Arg2:T71	
+R34	APPLIED_TO Arg1:T63 Arg2:T21	
+R35	APPLIED_TO Arg1:T63 Arg2:T20	
+R36	HAS_CAUSE Arg1:T23 Arg2:T73	
+R37	HAS_CAUSE Arg1:T72 Arg2:T73	
+R38	HAS_CAUSE Arg1:T71 Arg2:T73	
+R39	MEDICAL_CONDITION Arg1:T38 Arg2:T5	
+R40	PART_OF Arg1:T37 Arg2:T38	
+R42	TREATED_USING Arg1:T38 Arg2:T35	
+R44	SUBCLASS_OF Arg1:T78 Arg2:T77	
+R45	SUBCLASS_OF Arg1:T77 Arg2:T76	
+R46	SUBCLASS_OF Arg1:T76 Arg2:T36	
+R41	TREATED_USING Arg1:T78 Arg2:T35	
+R43	TREATED_USING Arg1:T78 Arg2:T34	
+R47	SUBCLASS_OF Arg1:T47 Arg2:T44	
+R48	PHYSIOLOGY_OF Arg1:T41 Arg2:T42	
+R49	HAS_CAUSE Arg1:T39 Arg2:T44	
+T28	DISO 1177 1218	острое нарушение мозгового кровообращения
+R50	SUBCLASS_OF Arg1:T52 Arg2:T80	
+R51	PHYSIOLOGY_OF Arg1:T52 Arg2:T81	
+R52	ASSOCIATED_WITH Arg1:T52 Arg2:T28	
+R53	FINDING_OF Arg1:T9 Arg2:T52	
+R54	MEDICAL_CONDITION Arg1:T50 Arg2:T28	
+R55	PHYSIOLOGY_OF Arg1:T52 Arg2:T50	
+R56	MEDICAL_CONDITION Arg1:T50 Arg2:T82	
+R57	HAS_CAUSE Arg1:T9 Arg2:T44	
+R58	HAS_CAUSE Arg1:T82 Arg2:T44	
+R59	SUBCLASS_OF Arg1:T87 Arg2:T60	
+R60	HAS_CAUSE Arg1:T55 Arg2:T56	
+R61	SUBCLASS_OF Arg1:T82 Arg2:T54	
+R62	AFFECTS Arg1:T82 Arg2:T53	
+R63	AFFECTS Arg1:T55 Arg2:T83	
+R64	ASSOCIATED_WITH Arg1:T87 Arg2:T59	
+R65	AFFECTS Arg1:T90 Arg2:T88	
+R66	AFFECTS Arg1:T90 Arg2:T89	

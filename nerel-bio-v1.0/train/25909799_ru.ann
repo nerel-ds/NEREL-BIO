@@ -1,0 +1,90 @@
+T1	NUMBER 185 187	40
+T2	NUMBER 197 199	12
+T3	NUMBER 211 213	28
+T4	DISO 272 321	острыми преходящими психотическими расстройствами
+T7	DISO 755 788	психозах без симптомов шизофрении
+T8	DISO 778 788	шизофрении
+T9	DISO 811 832	депрессивного аффекта
+T10	DISO 987 1001	психотического
+T11	PERCENT 1053 1056	25%
+T12	ORDINAL 1290 1297	первого
+T13	SCIPROC 20 38	клинический анализ
+T14	DISO 39 60	аффективных нарушений
+T15	DISO 91 116	психотических расстройств
+T16	PHYS 117 130	подросткового
+T17	PHYS 133 153	юношеского возраста.
+T19	PERSON 188 195	больных
+T20	PHYS 200 208	мужского
+T21	PHYS 214 227	женского пола
+T22	DISO 292 321	психотическими расстройствами
+T23	MENTALPROC 365 387	психического состояния
+T26	SCIPROC 448 453	PANSS
+T27	SCIPROC 455 462	HAMD-21
+T28	DISO 476 485	депрессий
+T29	SCIPROC 488 495	HDRS-21
+T30	DISO 519 524	мании
+T31	SCIPROC 527 532	YMRS.
+T32	DISO 584 616	острых психотических расстройств
+T33	DISO 653 674	аффективных нарушений
+T34	DISO 713 723	шизофрении
+T35	DISO 755 763	психозах
+T37	DISO 802 833	инверсия депрессивного аффекта.
+T38	DISO 853 876	маниакального состояния
+T39	DISO 987 1011	психотического приступа.
+T40	DISO 1097 1122	психотических расстройств
+T41	PHYS 1123 1136	подросткового
+T42	PHYS 1139 1158	юношеского возраста
+T43	DISO 1161 1178	атипичным дебютам
+T44	DISO 1179 1204	шизофренического процесса
+T45	MEDPROC 1240 1262	поддерживающей терапии
+T48	DISO 1298 1321	психотического эпизода.
+T49	AGE 257 268	18±1,3 года
+T18	DISO 591 616	психотических расстройств
+R1	AGE_IS Arg1:T19 Arg2:T49	
+T36	MEDPROC 341 364	психометрической оценки
+T5	SCIPROC 497 524	шкалу Янга для оценки мании
+R2	ABBREVIATION Arg1:T5 Arg2:T31	
+T24	SCIPROC 401 447	шкалы оценки позитивных и негативных симптомов
+T6	DISO 702 723	симптомами шизофрении
+T25	DISO 811 824	депрессивного
+T50	DISO 842 876	смешанного маниакального состояния
+T51	DISO 903 940	резидуальной аффективной симптоматики
+T52	DISO 916 940	аффективной симптоматики
+T53	DISO 1079 1122	острых преходящих психотических расстройств
+T54	NUMBER 460 462	21
+T55	NUMBER 493 495	21
+T56	NUMBER 332 334	10
+R3	SUBCLASS_OF Arg1:T4 Arg2:T22	
+T47	DISO 73 116	острых преходящих психотических расстройств
+R4	SUBCLASS_OF Arg1:T47 Arg2:T15	
+T57	SCIPROC 323 326	F23
+T58	SCIPROC 328 334	МКБ-10
+R5	TO_DETECT_OR_STUDY Arg1:T5 Arg2:T30	
+R6	SUBCLASS_OF Arg1:T32 Arg2:T18	
+R7	SUBCLASS_OF Arg1:T7 Arg2:T35	
+R8	SUBCLASS_OF Arg1:T50 Arg2:T38	
+R9	SUBCLASS_OF Arg1:T53 Arg2:T40	
+R10	USED_IN Arg1:T24 Arg2:T36	
+R11	TO_DETECT_OR_STUDY Arg1:T29 Arg2:T28	
+R12	HAS_CAUSE Arg1:T33 Arg2:T32	
+R13	SUBCLASS_OF Arg1:T25 Arg2:T9	
+R14	SUBCLASS_OF Arg1:T51 Arg2:T52	
+R15	SUBCLASS_OF Arg1:T10 Arg2:T39	
+R16	ASSOCIATED_WITH Arg1:T41 Arg2:T53	
+R17	ASSOCIATED_WITH Arg1:T42 Arg2:T53	
+R18	HAS_CAUSE Arg1:T43 Arg2:T44	
+R19	MENTAL_PROCESS_OF Arg1:T23 Arg2:T19	
+R20	MEDICAL_CONDITION Arg1:T19 Arg2:T4	
+R21	TO_DETECT_OR_STUDY Arg1:T13 Arg2:T14	
+R22	HAS_CAUSE Arg1:T14 Arg2:T47	
+R23	ASSOCIATED_WITH Arg1:T16 Arg2:T47	
+R24	ASSOCIATED_WITH Arg1:T17 Arg2:T47	
+T46	PHYS 1269 1289	клинической редукции
+R25	ASSOCIATED_WITH Arg1:T46 Arg2:T48	
+R26	TREATED_USING Arg1:T48 Arg2:T45	
+R27	SUBCLASS_OF Arg1:T26 Arg2:T24	
+R28	USED_IN Arg1:T27 Arg2:T36	
+R29	USED_IN Arg1:T29 Arg2:T36	
+R30	USED_IN Arg1:T5 Arg2:T36	
+R31	HAS_CAUSE Arg1:T6 Arg2:T34	
+R32	HAS_CAUSE Arg1:T37 Arg2:T9	

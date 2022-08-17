@@ -1,0 +1,105 @@
+T1	PERCENT 164 167	25%
+T3	DISO 495 506	мигренозной
+T4	DISO 627 655	поражением тонкого кишечника
+T5	DISO 726 803	церебральная аутосомно-доминантная артериопатия с субкортикальными инфарктами
+T6	DISO 0 7	Мигрень
+T8	DISO 58 68	приступами
+T9	DISO 81 94	головной боли
+T10	DISO 97 105	тошнотой
+T11	DISO 115 134	гиперсенситивностью
+T14	DISO 203 231	неврологической симптоматики
+T15	DISO 241 245	ауры
+T18	DISO 471 478	мигрени
+T19	PHYS 335 350	мутации в генах
+T22	DISO 384 407	гемиплегической мигрени
+T23	ANATOMY 409 436	Серотонинергическая система
+T26	DISO 531 553	нарушением метаболизма
+T27	PHYS 542 553	метаболизма
+T28	CHEM 554 564	серотонина
+T29	DISO 584 624	хронического полисиндромного заболевания
+T30	DISO 597 624	полисиндромного заболевания
+T32	ANATOMY 638 655	тонкого кишечника
+T34	DISO 707 714	мигрень
+T35	DISO 726 773	церебральная аутосомно-доминантная артериопатия
+T36	DISO 776 803	субкортикальными инфарктами
+T37	DISO 806 825	лейкоэнцефалопатией
+T38	DISO 835 842	CADASIL
+T39	DISO 845 869	ретинальная васкулопатия
+T40	DISO 872 900	церебральной лейкодистрофией
+T41	DISO 909 944	наследственная системная ангиопатия
+T42	DISO 952 985	митохондриальная энцефаломиопатия
+T43	DISO 988 1002	лактатацидозом
+T7	DISO 90 94	боли
+T44	ANATOMY 81 89	головной
+T45	DISO 69 94	интенсивной головной боли
+T12	DISO 115 143	гиперсенситивностью к звукам
+T25	DISO 107 113	рвотой
+T13	DISO 115 160	гиперсенситивностью к звукам, свету и запахам
+T46	DISO 400 407	мигрени
+T47	ANATOMY 646 655	кишечника
+T33	DISO 793 803	инфарктами
+T48	DISO 761 773	артериопатия
+T49	DISO 885 900	лейкодистрофией
+T50	DISO 934 944	ангиопатия
+T51	DISO 946 949	HAS
+R1	ABBREVIATION Arg1:T41 Arg2:T51	
+T52	DISO 573 581	целиакии
+T17	DISO 857 869	васкулопатия
+T31	DISO 845 900	ретинальная васкулопатия с церебральной лейкодистрофией
+T53	DISO 902 906	RVCL
+R2	ABBREVIATION Arg1:T31 Arg2:T53	
+T54	DISO 952 1032	митохондриальная энцефаломиопатия с лактатацидозом и инсультоподобными эпизодами
+T55	DISO 1034 1039	MELAS
+R3	ABBREVIATION Arg1:T54 Arg2:T55	
+T16	DISO 375 407	семейной гемиплегической мигрени
+T20	ANATOMY 507 515	головной
+T21	DISO 516 520	боли
+T24	DISO 507 520	головной боли
+T56	DISO 495 520	мигренозной головной боли
+T58	ANATOMY 726 738	церебральная
+T59	ANATOMY 776 792	субкортикальными
+T60	DISO 726 825	церебральная аутосомно-доминантная артериопатия с субкортикальными инфарктами и лейкоэнцефалопатией
+R4	ABBREVIATION Arg1:T60 Arg2:T38	
+T61	ANATOMY 872 884	церебральной
+T62	ANATOMY 845 856	ретинальная
+T63	ANATOMY 952 968	митохондриальная
+T64	DISO 1005 1032	инсультоподобными эпизодами
+R5	SUBCLASS_OF Arg1:T32 Arg2:T47	
+R6	SUBCLASS_OF Arg1:T9 Arg2:T7	
+R7	HAS_CAUSE Arg1:T10 Arg2:T6	
+R8	HAS_CAUSE Arg1:T25 Arg2:T6	
+R9	SUBCLASS_OF Arg1:T12 Arg2:T11	
+R10	SUBCLASS_OF Arg1:T13 Arg2:T12	
+R11	HAS_CAUSE Arg1:T13 Arg2:T6	
+R12	SUBCLASS_OF Arg1:T16 Arg2:T22	
+R13	SUBCLASS_OF Arg1:T22 Arg2:T46	
+R14	HAS_CAUSE Arg1:T16 Arg2:T19	
+R15	SUBCLASS_OF Arg1:T29 Arg2:T30	
+R19	SUBCLASS_OF Arg1:T52 Arg2:T29	
+R20	SUBCLASS_OF Arg1:T41 Arg2:T50	
+R21	SUBCLASS_OF Arg1:T24 Arg2:T21	
+R22	SUBCLASS_OF Arg1:T56 Arg2:T3	
+R23	SUBCLASS_OF Arg1:T56 Arg2:T24	
+R24	AFFECTS Arg1:T56 Arg2:T20	
+R25	AFFECTS Arg1:T4 Arg2:T32	
+R26	AFFECTS Arg1:T9 Arg2:T44	
+R27	HAS_CAUSE Arg1:T8 Arg2:T45	
+R28	HAS_CAUSE Arg1:T45 Arg2:T6	
+R29	HAS_CAUSE Arg1:T15 Arg2:T6	
+R30	HAS_CAUSE Arg1:T14 Arg2:T15	
+R16	ASSOCIATED_WITH Arg1:T27 Arg2:T26	
+R17	ASSOCIATED_WITH Arg1:T27 Arg2:T28	
+R18	HAS_CAUSE Arg1:T26 Arg2:T56	
+R31	HAS_CAUSE Arg1:T52 Arg2:T56	
+R32	SUBCLASS_OF Arg1:T36 Arg2:T33	
+R33	AFFECTS Arg1:T36 Arg2:T59	
+R34	AFFECTS Arg1:T5 Arg2:T58	
+T2	DISO 969 985	энцефаломиопатия
+R35	SUBCLASS_OF Arg1:T42 Arg2:T2	
+R36	AFFECTS Arg1:T42 Arg2:T63	
+R37	HAS_CAUSE Arg1:T4 Arg2:T56	
+R38	SUBCLASS_OF Arg1:T40 Arg2:T49	
+R39	AFFECTS Arg1:T40 Arg2:T61	
+R40	SUBCLASS_OF Arg1:T39 Arg2:T17	
+R41	AFFECTS Arg1:T39 Arg2:T62	
+R42	HAS_CAUSE Arg1:T4 Arg2:T29	

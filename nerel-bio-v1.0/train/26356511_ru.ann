@@ -1,0 +1,64 @@
+T1	DATE 87 112	в последние несколько лет
+T3	NUMBER 780 783	130
+T4	NUMBER 1208 1214	четыре
+T5	NUMBER 1641 1648	четырех
+T7	DISO 59 69	шизофрении
+T10	PROFESSION 149 175	исследователей-клиницистов
+T16	MENTALPROC 359 388	психопатологического феномена
+T17	PERSON 411 419	больного
+T19	PERSON 482 489	больных
+T24	PERSON 599 606	больных
+T25	FINDING 642 650	ремиссии
+T28	CHEM 693 708	антипсихотиками
+T29	SCIPROC 730 762	Клинико-катамнестическим методом
+T31	PERSON 784 793	пациентов
+T32	FINDING 844 866	лекарственной ремиссии
+T33	MEDPROC 916 941	антипсихотической терапии
+T34	PERSON 942 949	больные
+T35	CHEM 969 982	антипсихотики
+T36	PERSON 1035 1043	больными
+T41	FINDING 1160 1179	отсутствие рецидива
+T42	PHYS 1183 1197	переносимостью
+T43	FINDING 1233 1241	ремиссии
+T44	FINDING 1288 1296	ремиссии
+T46	ACTIVITY 1347 1375	личностного функционирования
+T48	PERSON 1460 1469	пациентов
+T49	ACTIVITY 1503 1531	личностного функционирования
+T6	PROFESSION 164 175	клиницистов
+T8	DISO 212 222	шизофрении
+T9	DISO 201 222	обострений шизофрении
+T2	DISO 607 618	шизофренией
+T11	DATE 651 665	не менее 3 лет
+T12	ACTIVITY 570 598	личностного функционирования
+T14	CHEM 682 708	атипичными антипсихотиками
+T15	DISO 806 817	шизофренией
+T18	DATE 881 895	не менее 3 лет
+T20	CHEM 959 982	атипичные антипсихотики
+T22	FINDING 1751 1759	ремиссии
+R1	SUBCLASS_OF Arg1:T10 Arg2:T6	
+R2	HAS_CAUSE Arg1:T9 Arg2:T8	
+R3	MENTAL_PROCESS_OF Arg1:T16 Arg2:T17	
+T13	DISO 248 284	патологических проявлений в ремиссии
+R4	HAS_CAUSE Arg1:T13 Arg2:T7	
+T21	PHYS 517 545	динамику клинической картины
+R5	PHYSIOLOGY_OF Arg1:T21 Arg2:T24	
+R6	PARTICIPANT_IN Arg1:T24 Arg2:T12	
+R7	MEDICAL_CONDITION Arg1:T24 Arg2:T2	
+R8	VALUE_IS Arg1:T25 Arg2:T11	
+R9	FINDING_OF Arg1:T25 Arg2:T24	
+R10	SUBCLASS_OF Arg1:T14 Arg2:T28	
+R11	TREATED_USING Arg1:T24 Arg2:T14	
+R12	TREATED_USING Arg1:T2 Arg2:T14	
+R13	PROCEDURE_PERFORMED Arg1:T31 Arg2:T29	
+R14	MEDICAL_CONDITION Arg1:T31 Arg2:T15	
+R15	FINDING_OF Arg1:T32 Arg2:T31	
+R16	VALUE_IS Arg1:T32 Arg2:T18	
+R17	TREATED_USING Arg1:T34 Arg2:T33	
+R18	TREATED_USING Arg1:T34 Arg2:T20	
+R19	SUBCLASS_OF Arg1:T20 Arg2:T35	
+R20	USED_IN Arg1:T20 Arg2:T33	
+R21	FINDING_OF Arg1:T41 Arg2:T36	
+R22	PHYSIOLOGY_OF Arg1:T42 Arg2:T36	
+R23	FINDING_OF Arg1:T43 Arg2:T36	
+R24	FINDING_OF Arg1:T44 Arg2:T48	
+R25	PARTICIPANT_IN Arg1:T48 Arg2:T49	

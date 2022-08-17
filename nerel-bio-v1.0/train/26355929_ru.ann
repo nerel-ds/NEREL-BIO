@@ -1,0 +1,122 @@
+T1	NUMBER 157 160;168 170	970 нм
+T2	NUMBER 163 170	1470 нм
+T3	NUMBER 450 452	20
+T4	DISO 463 482	варикозной болезнью
+T5	NUMBER 497 499	10
+T6	NUMBER 516 520	двух
+T7	NUMBER 760 766	0,6 Вт
+T8	NUMBER 780 787	3,15 Вт
+T9	NUMBER 1033 1039	970 нм
+T11	FINDING 25 37	карбонизации
+T12	MEDPROC 65 99	эндовазальной лазерной облитерации
+T18	DEVICE 273 282	световода
+T19	MEDPROC 300 304	ЭВЛО
+T21	DEVICE 355 378	стеклянного наконечника
+T23	SCIPROC 413 424	макросъемки
+T25	PERSON 453 460	больных
+T27	MEDPROC 509 513	ЭВЛО
+T28	DEVICE 545 552	W-лазер
+T29	DEVICE 577 584	Н-лазер
+T32	DEVICE 637 661	автоматический ретрактор
+T33	DEVICE 662 671	световода
+T36	MEDPROC 735 739	ЭВЛО
+T37	DEVICE 740 749	W-лазером
+T38	DEVICE 768 777	H-лазером
+T39	SCIPROC 803 814	макросъемке
+T41	DEVICE 847 870	стеклянного наконечника
+T43	DEVICE 883 892	световода
+T44	DEVICE 911 919	H-лазера
+T49	FINDING 1112 1124	карбонизации
+T50	DEVICE 1140 1163	стеклянного наконечника
+T55	DEVICE 1319 1340	радиального световода
+T57	CHEM 1417 1434	лазерного волокна
+T58	MEDPROC 1468 1479	облитерации
+T60	ANATOMY 1501 1504	вен
+T10	MEDPROC 101 105	ЭВЛО
+T13	DEVICE 187 218	световода с радиальной эмиссией
+T14	DEVICE 187 196	световода
+T15	DEVICE 355 398	стеклянного наконечника радиального волокна
+T16	NUMBER 553 560	1470 нм
+T17	ORDINAL 530 536	первый
+T22	ORDINAL 562 568	второй
+T24	NUMBER 585 591	970 нм
+T26	DEVICE 545 560	W-лазер 1470 нм
+T62	DEVICE 577 591	Н-лазер 970 нм
+T30	CHEM 606 635	волокно с радиальной эмиссией
+T31	CHEM 379 398	радиального волокна
+T34	NUMBER 791 796	0,002
+T20	SCIPROC 335 354	степени повреждения
+T40	DEVICE 871 892	радиального световода
+T35	DEVICE 847 892	стеклянного наконечника радиального световода
+T42	FINDING 824 892	выраженное повреждение стеклянного наконечника радиального световода
+T45	DEVICE 963 971	W-лазера
+T46	MEDPROC 987 1039	применение лазерного излучения с длиной волны 970 нм
+T47	DEVICE 1058 1067	световода
+T48	DEVICE 1058 1089	световода с радиальной эмиссией
+T63	MEDPROC 1044 1089	использовании световода с радиальной эмиссией
+T64	DEVICE 1164 1173	световода
+T65	DEVICE 1140 1173	стеклянного наконечника световода
+T51	FINDING 1228 1252	механического разрушения
+T52	DEVICE 1253 1258	колбы
+T53	FINDING 1192 1219	снижению мощности излучения
+T54	DEVICE 1274 1300	лазера с длиной волны 1470
+T66	NUMBER 1296 1300	1470
+T67	MEDPROC 1260 1300	Использование лазера с длиной волны 1470
+T68	DEVICE 1331 1340	световода
+T69	MEDPROC 1305 1340	использовании радиального световода
+T56	ANATOMY 1491 1504	сегментов вен
+T59	PERSON 1514 1522	пациента
+R1	HAS_CAUSE Arg1:T11 Arg2:T12	
+R2	ABBREVIATION Arg1:T12 Arg2:T10	
+R3	SUBCLASS_OF Arg1:T13 Arg2:T14	
+R4	USED_IN Arg1:T13 Arg2:T12	
+R5	USED_IN Arg1:T18 Arg2:T19	
+T61	SCIPROC 237 272	величина падения мощности излучения
+R6	USED_IN Arg1:T18 Arg2:T61	
+R7	USED_IN Arg1:T15 Arg2:T20	
+R8	SUBCLASS_OF Arg1:T15 Arg2:T21	
+R9	USED_IN Arg1:T23 Arg2:T20	
+R10	MEDICAL_CONDITION Arg1:T25 Arg2:T4	
+R11	PROCEDURE_PERFORMED Arg1:T25 Arg2:T27	
+R12	SUBCLASS_OF Arg1:T26 Arg2:T28	
+R13	USED_IN Arg1:T26 Arg2:T27	
+R14	USED_IN Arg1:T62 Arg2:T27	
+R15	SUBCLASS_OF Arg1:T62 Arg2:T29	
+R16	USED_IN Arg1:T32 Arg2:T27	
+R17	USED_IN Arg1:T33 Arg2:T27	
+T70	SCIPROC 705 728	медиана потери мощности
+T71	SCIPROC 713 728	потери мощности
+R18	USED_IN Arg1:T71 Arg2:T70	
+R19	TO_DETECT_OR_STUDY Arg1:T70 Arg2:T36	
+R20	USED_IN Arg1:T37 Arg2:T36	
+R21	VALUE_IS Arg1:T70 Arg2:T7	
+R22	USED_IN Arg1:T38 Arg2:T36	
+R23	VALUE_IS Arg1:T70 Arg2:T8	
+T72	SCIPROC 789 790	p
+R24	VALUE_IS Arg1:T72 Arg2:T34	
+R25	ORIGINS_FROM Arg1:T42 Arg2:T39	
+R26	SUBCLASS_OF Arg1:T35 Arg2:T41	
+R27	SUBCLASS_OF Arg1:T40 Arg2:T43	
+T73	FINDING 922 944	отсутствие повреждений
+R28	ORIGINS_FROM Arg1:T73 Arg2:T39	
+R29	USED_IN Arg1:T46 Arg2:T63	
+R30	USED_IN Arg1:T48 Arg2:T63	
+R31	SUBCLASS_OF Arg1:T48 Arg2:T47	
+R32	HAS_CAUSE Arg1:T49 Arg2:T46	
+R33	SUBCLASS_OF Arg1:T65 Arg2:T50	
+T74	FINDING 1179 1190	повреждению
+R34	HAS_CAUSE Arg1:T74 Arg2:T46	
+R35	HAS_CAUSE Arg1:T53 Arg2:T46	
+R36	HAS_CAUSE Arg1:T51 Arg2:T46	
+T75	DEVICE 1274 1280	лазера
+R37	SUBCLASS_OF Arg1:T54 Arg2:T75	
+R38	USED_IN Arg1:T54 Arg2:T67	
+R39	USED_IN Arg1:T55 Arg2:T69	
+R40	USED_IN Arg1:T67 Arg2:T69	
+R41	SUBCLASS_OF Arg1:T55 Arg2:T68	
+T76	FINDING 1398 1434	увеличивает ресурс лазерного волокна
+R42	HAS_CAUSE Arg1:T76 Arg2:T67	
+R43	APPLIED_TO Arg1:T58 Arg2:T56	
+R44	PART_OF Arg1:T56 Arg2:T60	
+R45	PART_OF Arg1:T60 Arg2:T59	
+R46	PROCEDURE_PERFORMED Arg1:T59 Arg2:T58	

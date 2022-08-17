@@ -1,0 +1,151 @@
+T1	DISO 102 136	алкогольным абстинентным синдромом
+T2	NUMBER 164 166	80
+T3	NUMBER 382 384	40
+T5	DATE 493 509	в течение 7 дней
+T6	NUMBER 533 535	40
+T7	PERCENT 585 588	25%
+T8	NUMBER 607 612	10 мл
+T9	PERCENT 616 618	4%
+T10	NUMBER 635 640	10 мл
+T14	CHEM 53 62	ремаксола
+T17	PERSON 92 99	больных
+T20	PERSON 167 176	пациентов
+T21	DISO 179 203	алкогольной зависимостью
+T22	DISO 230 265	алкогольного абстинентного синдрома
+T23	PERSON 296 304	пациенты
+T26	PERSON 385 392	больным
+T28	CHEM 424 432	ремаксол
+T30	PERSON 513 531	контрольной группе
+T31	CHEM 559 582	физиологический раствор
+T32	CHEM 585 605	25% сульфатом магния
+T33	CHEM 619 633	хлоридом калия
+T34	CHEM 680 689	ремаксола
+T37	DISO 816 824	дисфория
+T38	DISO 826 839	головная боль
+T41	PERSON 875 884	пациентов
+T48	FINDING 1057 1075;1095 1103	Гепатопротективные свойства
+T49	FINDING 1078 1103	детоксикационные свойства
+T51	CHEM 1177 1180	АЛТ
+T52	CHEM 1183 1186	АСТ
+T54	CHEM 1275 1284	липидного
+T60	DISO 1540 1575	алкогольного абстинентного синдрома
+T12	PHYS 29 136	эффективности включения ремаксола в схему комплексного лечения больных с алкогольным абстинентным синдромом
+T13	FOOD 102 113	алкогольным
+T15	DISO 114 136	абстинентным синдромом
+T19	FOOD 179 190	алкогольной
+T62	DISO 243 265	абстинентного синдрома
+T63	FOOD 230 242	алкогольного
+T64	PHYS 206 265	клиническими признаками алкогольного абстинентного синдрома
+T65	FACILITY 268 280	стационарных
+T27	PERSON 403 409	группа
+T66	PERSON 394 409	основная группа
+T4	ADMINISTRATION_ROUTE 433 444	внутривенно
+T67	TIME 454 467	2 раза в день
+T68	TIME 469 474	утром
+T69	TIME 477 481	днем
+T70	NUMBER 486 492	400 мл
+T71	PERSON 525 531	группе
+T72	PERSON 536 543	человек
+T73	CHEM 616 633	4% хлоридом калия
+T74	CHEM 589 605	сульфатом магния
+T75	CHEM 599 605	магния
+T76	CHEM 628 633	калия
+T78	PHYS 656 711	Эффективность включения ремаксола в комплексную терапию
+T79	DISO 749 771	астенического синдрома
+T80	DISO 749 762	астенического
+T81	FINDING 737 771	купировании астенического синдрома
+T82	FINDING 723 771	более быстром купировании астенического синдрома
+T83	DISO 801 814	напряженность
+T84	DISO 835 839	боль
+T85	ANATOMY 826 834	головная
+T39	PHYS 852 866	координаторных
+T86	DISO 842 871	нарушение координаторных проб
+T87	FINDING 773 871	редукции таких явлений, как напряженность, дисфория, головная боль и нарушение координаторных проб
+T88	CHEM 897 905	ремаксол
+T89	MENTALPROC 951 963;999 1055	аффективного компонентов синдрома патологического влечения к алкоголю
+T90	MENTALPROC 975 989;999 1055	поведенческого компонентов синдрома патологического влечения к алкоголю
+T47	FOOD 1047 1055	алкоголю
+T46	DISO 1020 1055	патологического влечения к алкоголю
+T45	DISO 1011 1055	синдрома патологического влечения к алкоголю
+T43	NUMBER 993 997	0,09
+T42	NUMBER 967 971	0,08
+T91	FINDING 928 950	более быстрой редукции
+T50	PHYS 1165 1186	показателей АЛТ и АСТ
+T55	PHYS 1275 1291	липидного обмена
+T95	PHYS 1263 1291	показателей липидного обмена
+T57	PHYS 1358 1365	дыхания
+T99	ANATOMY 1348 1357	тканевого
+T100	PHYS 1348 1365	тканевого дыхания
+T101	FINDING 1313 1365	нормализующее действие на процессы тканевого дыхания
+T58	FINDING 1367 1442	Нежелательных явлений, связанных с исследуемым препаратом, отмечено не было
+T102	CHEM 1508 1517	ремаксола
+T103	FOOD 1540 1552	алкогольного
+T104	DISO 1553 1575	абстинентного синдрома
+T61	PHYS 1594 1615	эффективности лечения
+T105	FINDING 1584 1615	повышения эффективности лечения
+R1	SUBCLASS_OF Arg1:T1 Arg2:T15	
+R2	MEDICAL_CONDITION Arg1:T17 Arg2:T1	
+R3	PHYSIOLOGY_OF Arg1:T12 Arg2:T17	
+R4	TREATED_USING Arg1:T17 Arg2:T14	
+R5	TREATED_USING Arg1:T1 Arg2:T14	
+R6	MEDICAL_CONDITION Arg1:T20 Arg2:T21	
+R7	SUBCLASS_OF Arg1:T22 Arg2:T62	
+T11	HEALTH_CARE_ACTIVITY 268 289	стационарных условиях
+R8	TAKES_PLACE_IN Arg1:T11 Arg2:T65	
+R9	PARTICIPANT_IN Arg1:T20 Arg2:T11	
+R10	MEDICAL_CONDITION Arg1:T20 Arg2:T22	
+R11	PHYSIOLOGY_OF Arg1:T64 Arg2:T20	
+R12	ASSOCIATED_WITH Arg1:T64 Arg2:T22	
+R13	ALTERNATIVE_NAME Arg1:T23 Arg2:T26	
+R14	SUBCLASS_OF Arg1:T66 Arg2:T27	
+R15	MEMBER_OF Arg1:T26 Arg2:T66	
+R16	TREATED_USING Arg1:T26 Arg2:T28	
+T16	MEDPROC 415 453	назначен ремаксол внутривенно капельно
+R17	PROCEDURE_PERFORMED Arg1:T26 Arg2:T16	
+R18	HAS_ADMINISTRATION_ROUTE Arg1:T28 Arg2:T4	
+R19	DOSE_IS Arg1:T28 Arg2:T70	
+R20	DURATION_OF Arg1:T28 Arg2:T67	
+R21	DURATION_OF Arg1:T28 Arg2:T5	
+R22	SUBCLASS_OF Arg1:T30 Arg2:T71	
+R23	MEMBER_OF Arg1:T72 Arg2:T30	
+R24	USED_IN Arg1:T32 Arg2:T31	
+R25	TREATED_USING Arg1:T72 Arg2:T31	
+R27	SUBCLASS_OF Arg1:T73 Arg2:T33	
+R28	SUBCLASS_OF Arg1:T32 Arg2:T74	
+R26	DOSE_IS Arg1:T32 Arg2:T8	
+R30	USED_IN Arg1:T73 Arg2:T31	
+R29	DOSE_IS Arg1:T73 Arg2:T10	
+R31	SUBCLASS_OF Arg1:T82 Arg2:T81	
+R32	SUBCLASS_OF Arg1:T80 Arg2:T79	
+R33	HAS_CAUSE Arg1:T82 Arg2:T34	
+R34	TREATED_USING Arg1:T79 Arg2:T34	
+R35	ASSOCIATED_WITH Arg1:T78 Arg2:T34	
+R36	SUBCLASS_OF Arg1:T38 Arg2:T84	
+R37	AFFECTS Arg1:T38 Arg2:T85	
+R38	HAS_CAUSE Arg1:T82 Arg2:T78	
+R39	HAS_CAUSE Arg1:T87 Arg2:T34	
+R40	HAS_CAUSE Arg1:T87 Arg2:T78	
+R41	TREATED_USING Arg1:T41 Arg2:T88	
+R42	MEDICAL_CONDITION Arg1:T41 Arg2:T45	
+R43	MENTAL_PROCESS_OF Arg1:T89 Arg2:T41	
+R44	MENTAL_PROCESS_OF Arg1:T90 Arg2:T41	
+R45	AFFECTS Arg1:T45 Arg2:T90	
+R46	AFFECTS Arg1:T46 Arg2:T90	
+R47	TREATED_USING Arg1:T45 Arg2:T88	
+R48	FINDING_OF Arg1:T91 Arg2:T41	
+T18	FINDING 1136 1186	достоверно значимом снижении показателей АЛТ и АСТ
+R49	FINDING_OF Arg1:T18 Arg2:T50	
+T24	FINDING 1228 1291	достоверная положительная динамика показателей липидного обмена
+R50	FINDING_OF Arg1:T24 Arg2:T95	
+R51	ASSOCIATED_WITH Arg1:T95 Arg2:T55	
+R52	ASSOCIATED_WITH Arg1:T55 Arg2:T54	
+T25	DATE 1187 1198	к 20-му дню
+T29	DATE 1292 1302	к 7-му дню
+R53	SUBCLASS_OF Arg1:T100 Arg2:T57	
+R54	PHYSIOLOGY_OF Arg1:T100 Arg2:T99	
+R55	FINDING_OF Arg1:T101 Arg2:T100	
+R56	SUBCLASS_OF Arg1:T60 Arg2:T104	
+R57	TREATED_USING Arg1:T60 Arg2:T102	
+R58	FINDING_OF Arg1:T105 Arg2:T61	
+R59	HAS_CAUSE Arg1:T105 Arg2:T102	
+R60	ASSOCIATED_WITH Arg1:T61 Arg2:T60	

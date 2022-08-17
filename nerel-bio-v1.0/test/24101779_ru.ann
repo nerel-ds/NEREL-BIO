@@ -1,0 +1,116 @@
+T1	AGE 60 73	старше 50 лет
+T2	ORGANIZATION 388 426	Всемирной организацией здравоохранения
+T3	AGE 468 481	старше 50 лет
+T4	PHYS 572 578	смерти
+T6	AGE 1032 1045	старше 50 лет
+T8	DISO 1272 1311	заболеваний сердечно-сосудистой системы
+T9	DISO 1690 1716	неинфекционных заболеваний
+T10	PHYS 25 35	смертности
+T11	PERSON 42 48	женщин
+T13	PERSON 149 155	женщин
+T15	PERSON 199 217	женского населения
+T16	PERSON 238 245	женщины
+T17	AGE 246 263	пожилого возраста
+T21	PHYS 443 449	смерти
+T22	PERSON 450 456	женщин
+T24	PHYS 542 552	смертности
+T26	PERSON 583 596	пожилых людей
+T28	PHYS 676 686	смертности
+T29	PERSON 693 707	пожилых женщин
+T31	DISO 717 756	заболевания сердечно-сосудистой системы
+T32	DISO 759 762	рак
+T34	PHYS 799 806	смертей
+T35	PHYS 808 818	смертность
+T36	DISO 822 861	заболеваний сердечно-сосудистой системы
+T37	ANATOMY 834 861	сердечно-сосудистой системы
+T38	PERSON 905 919	пожилых женщин
+T40	PERSON 1028 1031	лиц
+T41	PHYS 1093 1103	смертность
+T42	PERSON 1104 1118	пожилых женщин
+T43	PHYS 1188 1196	старения
+T44	PERSON 1197 1206	населения
+T46	ANATOMY 1284 1311	сердечно-сосудистой системы
+T48	PERSON 1339 1345	женщин
+T49	PERSON 1431 1440	населения
+T51	PERSON 1459 1466	детской
+T52	PHYS 1469 1491	материнской смертности
+T56	PHYS 1676 1686	смертности
+R1	AGE_IS Arg1:T11 Arg2:T1	
+R2	AGE_IS Arg1:T40 Arg2:T6	
+R3	AGE_IS Arg1:T16 Arg2:T17	
+R4	AGE_IS Arg1:T22 Arg2:T3	
+T5	PHYS 982 1023	вероятной средней продолжительности жизни
+T12	PHYS 1000 1023	продолжительности жизни
+T20	PERSON 1469 1480	материнской
+T23	ANATOMY 1284 1292	сердечно
+T25	ANATOMY 1293 1303	сосудистой
+T19	PERSON 701 707	женщин
+T27	ANATOMY 729 756	сердечно-сосудистой системы
+T30	ANATOMY 729 737	сердечно
+T33	ANATOMY 738 748	сосудистой
+T14	PHYS 323 330	смертях
+T18	PHYS 341 372	средней продолжительности жизни
+T39	PHYS 349 372	продолжительности жизни
+T47	PERSON 591 596	людей
+T50	ANATOMY 834 842	сердечно
+T53	ANATOMY 843 853	сосудистой
+T54	DISO 884 888	рака
+T55	PERSON 1112 1118	женщин
+T7	PHYS 1188 1206	старения населения
+T58	PHYS 1332 1338	смерти
+T59	COUNTRY 1368 1409	странах с низким и средним уровнем дохода
+T60	PHYS 1422 1430	старения
+T61	PHYS 1422 1440	старения населения
+T62	PHYS 1459 1466;1481 1491	детской смертности
+T63	PHYS 583 590	пожилых
+T64	PHYS 1104 1111	пожилых
+T65	DISO 1235 1261	неинфекционных заболеваний
+T45	DISO 1314 1318	рака
+R5	SUBCLASS_OF Arg1:T8 Arg2:T65	
+R6	SUBCLASS_OF Arg1:T45 Arg2:T65	
+T66	PHYS 693 700	пожилых
+R7	SUBCLASS_OF Arg1:T29 Arg2:T19	
+R8	SUBCLASS_OF Arg1:T26 Arg2:T47	
+T67	PERSON 913 919	женщин
+R9	SUBCLASS_OF Arg1:T38 Arg2:T67	
+R10	SUBCLASS_OF Arg1:T42 Arg2:T55	
+R11	PART_OF Arg1:T33 Arg2:T27	
+R12	PART_OF Arg1:T30 Arg2:T27	
+R13	AFFECTS Arg1:T31 Arg2:T27	
+R14	PART_OF Arg1:T27 Arg2:T29	
+R15	PHYSIOLOGY_OF Arg1:T66 Arg2:T29	
+R16	PHYSIOLOGY_OF Arg1:T28 Arg2:T29	
+R17	HAS_CAUSE Arg1:T28 Arg2:T31	
+R18	HAS_CAUSE Arg1:T28 Arg2:T32	
+R19	PHYSIOLOGY_OF Arg1:T63 Arg2:T26	
+R20	PHYSIOLOGY_OF Arg1:T4 Arg2:T26	
+T68	PHYS 905 912	пожилых
+R21	PHYSIOLOGY_OF Arg1:T68 Arg2:T38	
+T69	FINDING 971 1023	увеличению вероятной средней продолжительности жизни
+R22	FINDING_OF Arg1:T69 Arg2:T38	
+R23	PHYSIOLOGY_OF Arg1:T64 Arg2:T42	
+R24	PHYSIOLOGY_OF Arg1:T41 Arg2:T42	
+R25	PART_OF Arg1:T50 Arg2:T37	
+R26	PART_OF Arg1:T53 Arg2:T37	
+R27	AFFECTS Arg1:T36 Arg2:T37	
+R28	HAS_CAUSE Arg1:T35 Arg2:T36	
+R29	HAS_CAUSE Arg1:T34 Arg2:T36	
+R30	PHYSIOLOGY_OF Arg1:T58 Arg2:T48	
+R31	PLACE_RESIDES_IN Arg1:T48 Arg2:T59	
+R32	CAUSE_OF_DEATH Arg1:T29 Arg2:T31	
+R33	CAUSE_OF_DEATH Arg1:T29 Arg2:T32	
+R34	CAUSE_OF_DEATH Arg1:T38 Arg2:T54	
+R35	CAUSE_OF_DEATH Arg1:T38 Arg2:T36	
+R36	PART_OF Arg1:T37 Arg2:T38	
+R37	HAS_CAUSE Arg1:T35 Arg2:T54	
+R38	HAS_CAUSE Arg1:T34 Arg2:T54	
+R39	PART_OF Arg1:T23 Arg2:T46	
+R40	PART_OF Arg1:T25 Arg2:T46	
+R41	AFFECTS Arg1:T8 Arg2:T46	
+R42	CAUSE_OF_DEATH Arg1:T48 Arg2:T45	
+R43	CAUSE_OF_DEATH Arg1:T48 Arg2:T8	
+R44	PHYSIOLOGY_OF Arg1:T21 Arg2:T22	
+R45	PHYSIOLOGY_OF Arg1:T10 Arg2:T11	
+R46	FINDING_OF Arg1:T69 Arg2:T40	
+R47	HAS_CAUSE Arg1:T56 Arg2:T9	
+T57	COUNTRY 1606 1642	стран с более высоким уровнем дохода

@@ -1,0 +1,96 @@
+T1	DISO 232 263	респираторных вирусных инфекций
+T2	DISO 265 269	ОРВИ
+T3	DISO 289 310	риновирусной инфекции
+T4	ORDINAL 274 280	первую
+T5	DISO 461 494	вторичным бактериальным инфекциям
+T7	DISO 519 523	ХОБЛ
+T8	DISO 815 819	ХОБЛ
+T9	DISO 822 826	ОРВИ
+T10	DISO 1290 1294	ХОБЛ
+T12	LIVB 46 67	респираторных вирусов
+T13	DISO 76 86	обострения
+T14	DISO 109 149	хронической обструктивной болезни легких
+T15	PHYS 168 191	молекулярных механизмах
+T16	DISO 225 263	острых респираторных вирусных инфекций
+T18	DISO 350 360	обострений
+T19	DISO 508 518	обострения
+T21	LIVB 558 560	РВ
+T22	DISO 561 584	хронического воспаления
+T24	ANATOMY 603 620	дыхательных путей
+T25	CHEM 632 646	табачным дымом
+T26	SCIPROC 721 741	молекулярных методов
+T28	DISO 791 814	респираторных симптомов
+T30	ANATOMY 892 901	организма
+T31	DISO 905 921	вирусную инвазию
+T32	LIVB 948 963	противовирусной
+T37	LIVB 1270 1278	вирусами
+T41	CHEM 1360 1380	бактериальные лизаты
+T42	MEDPROC 1400 1426	сублингвального применения
+T45	FINDING 1477 1499	противовирусной защиты
+T47	PHYS 1533 1544	мукозальные
+T48	PHYS 1547 1564	системные реакции
+T49	LIVB 1598 1621	бактериальных патогенов
+T52	DISO 1745 1776	социально-значимого заболевания
+T53	LIVB 69 71	РВ
+T54	DISO 151 155	ХОБЛ
+T55	ANATOMY 143 149	легких
+T17	DISO 312 315	РВИ
+T56	DISO 361 365	ХОБЛ
+T57	DISO 456 460	ОРВИ
+T20	LIVB 754 756	РВ
+T58	LIVB 1048 1050	РВ
+T59	DISO 1088 1092	ХОБЛ
+T60	DISO 1095 1115	частыми обострениями
+T38	DISO 1279 1294	обострений ХОБЛ
+T50	DISO 1641 1645	ОРВИ
+T62	DISO 1660 1664	ХОБЛ
+T63	DISO 1648 1664	обострениях ХОБЛ
+R1	ABBREVIATION Arg1:T12 Arg2:T53	
+T11	LIVB 60 67	вирусов
+R2	ALTERNATIVE_NAME Arg1:T14 Arg2:T54	
+R3	ABBREVIATION Arg1:T16 Arg2:T2	
+R4	ABBREVIATION Arg1:T3 Arg2:T17	
+T64	LIVB 246 254	вирусных
+T6	LIVB 471 484	бактериальным
+T65	PHYS 603 614	дыхательных
+T27	PHYS 791 804	респираторных
+T29	LIVB 905 913	вирусную
+T33	FINDING 922 970	не отражает эффективности противовирусной защиты
+T34	CHEM 1374 1380	лизаты
+T35	LIVB 1360 1373	бактериальные
+T36	MEDPROC 1385 1397	перорального
+T39	PHYS 46 59	респираторных
+T40	PHYS 232 245	респираторных
+T43	LIVB 289 301	риновирусной
+T44	DISO 508 523	обострения ХОБЛ
+T46	INJURY_POISONING 982 1014	эндогенным повреждающим фактором
+T51	LIVB 1598 1611	бактериальных
+T61	DISO 350 365	обострений ХОБЛ
+R6	SUBCLASS_OF Arg1:T62 Arg2:T52	
+T66	PHYS 948 969	противовирусной защит
+R5	AFFECTS Arg1:T14 Arg2:T55	
+R7	HAS_CAUSE Arg1:T3 Arg2:T43	
+R8	HAS_CAUSE Arg1:T22 Arg2:T21	
+R9	SUBCLASS_OF Arg1:T49 Arg2:T51	
+R10	HAS_CAUSE Arg1:T31 Arg2:T29	
+R11	ASSOCIATED_WITH Arg1:T27 Arg2:T28	
+R12	HAS_CAUSE Arg1:T28 Arg2:T8	
+R13	SUBCLASS_OF Arg1:T41 Arg2:T34	
+R14	HAS_CAUSE Arg1:T63 Arg2:T62	
+T23	LIVB 1628 1645	возбудителей ОРВИ
+R15	HAS_CAUSE Arg1:T50 Arg2:T23	
+R16	SUBCLASS_OF Arg1:T12 Arg2:T11	
+T67	DISO 246 263	вирусных инфекций
+R17	SUBCLASS_OF Arg1:T1 Arg2:T67	
+R18	SUBCLASS_OF Arg1:T16 Arg2:T1	
+R19	HAS_CAUSE Arg1:T16 Arg2:T64	
+T68	DISO 302 310	инфекции
+R20	SUBCLASS_OF Arg1:T3 Arg2:T68	
+T69	DISO 471 494	бактериальным инфекциям
+T70	DISO 485 494	инфекциям
+R21	SUBCLASS_OF Arg1:T69 Arg2:T70	
+R22	SUBCLASS_OF Arg1:T5 Arg2:T69	
+R23	HAS_CAUSE Arg1:T5 Arg2:T6	
+T71	DISO 574 584	воспаления
+R24	SUBCLASS_OF Arg1:T22 Arg2:T71	
+R25	HAS_CAUSE Arg1:T60 Arg2:T59	

@@ -1,0 +1,107 @@
+T1	MEDPROC 97 123	каротидной эндартерэктомии
+T2	NUMBER 203 205	80
+T3	DATE 436 453	в течение 1,5 мес
+T4	MEDPROC 788 796	операции
+T5	DISO 874 895	ишемических инсультов
+T6	DISO 886 895	инсультов
+T8	CHEM 81 92	актовегином
+T10	MEDPROC 180 202	хирургического лечения
+T11	PERSON 206 215	пациентов
+T12	PHYS 218 233	гемодинамически
+T15	PERSON 314 323	пациентов
+T16	MEDPROC 384 404	прекондиционирования
+T17	CHEM 405 416	актовегином
+T19	MEDPROC 481 508	предоперационная подготовка
+T20	CHEM 526 536	актовегина
+T23	LABPROC 612 647	эмиссионной компьютерной томографии
+T26	PERSON 752 761	пациентов
+T28	FINDING 798 807	Улучшение
+T31	MEDPROC 992 1012	прекондиционирования
+T32	CHEM 1013 1024	актовегином
+T33	MEDPROC 1027 1048	хирургическом лечении
+T7	MEDPROC 41 80	фармакологического прекондиционирования
+T36	MEDPROC 60 80	прекондиционирования
+T38	MEDPROC 108 123	эндартерэктомии
+T9	ANATOMY 97 107	каротидной
+T14	ANATOMY 290 297	артерий
+T39	ANATOMY 283 297	сонных артерий
+T40	DISO 272 297	поражением сонных артерий
+T41	DISO 259 297	двусторонним поражением сонных артерий
+T42	DISO 243 256	односторонним
+T43	MEDPROC 329 340	оперированы
+T44	MEDPROC 365 404	фармакологического прекондиционирования
+T18	NUMBER 424 435	1200 мг/сут
+T47	PHYS 549 557	перфузию
+T48	ANATOMY 568 573	мозга
+T49	ANATOMY 558 567	головного
+T50	ANATOMY 558 573	головного мозга
+T51	FINDING 537 557	увеличивает перфузию
+T22	LABPROC 637 647	томографии
+T52	LABPROC 624 647	компьютерной томографии
+T53	DEVICE 624 636	компьютерной
+T54	LABPROC 599 647	однофотонной эмиссионной компьютерной томографии
+T24	MEDPROC 685 707	хирургического лечения
+T55	FINDING 665 707	улучшает результаты хирургического лечения
+T25	DATE 762 773	через 7 сут
+T56	DATE 776 781	6 мес
+T27	DISO 874 885	ишемических
+T29	ANATOMY 916 925	головного
+T30	ANATOMY 926 931	мозга
+T57	ANATOMY 916 931	головного мозга
+T58	ANATOMY 908 931	отделах головного мозга
+T59	DISO 856 895	послеоперационных ишемических инсультов
+T60	DISO 844 895	асимптомных послеоперационных ишемических инсультов
+T61	MEDPROC 973 1012	фармакологического прекондиционирования
+T35	ANATOMY 1081 1088	артерий
+T64	ANATOMY 1074 1088	сонных артерий
+T65	DISO 1049 1073	стенозирующего поражения
+R1	SUBCLASS_OF Arg1:T7 Arg2:T36	
+R2	USED_IN Arg1:T8 Arg2:T7	
+R3	SUBCLASS_OF Arg1:T1 Arg2:T38	
+R4	APPLIED_TO Arg1:T38 Arg2:T9	
+R5	TREATED_USING Arg1:T11 Arg2:T10	
+R6	SUBCLASS_OF Arg1:T39 Arg2:T14	
+R7	MEDICAL_CONDITION Arg1:T11 Arg2:T42	
+R8	MEDICAL_CONDITION Arg1:T11 Arg2:T41	
+R9	AFFECTS Arg1:T41 Arg2:T39	
+R10	AFFECTS Arg1:T42 Arg2:T39	
+R11	SUBCLASS_OF Arg1:T41 Arg2:T40	
+R12	SUBCLASS_OF Arg1:T42 Arg2:T40	
+R13	PROCEDURE_PERFORMED Arg1:T15 Arg2:T43	
+R14	SUBCLASS_OF Arg1:T44 Arg2:T16	
+R15	USED_IN Arg1:T17 Arg2:T44	
+R16	DOSE_IS Arg1:T17 Arg2:T18	
+R17	DURATION_OF Arg1:T44 Arg2:T3	
+R18	USED_IN Arg1:T20 Arg2:T19	
+R19	HAS_CAUSE Arg1:T51 Arg2:T19	
+R21	PHYSIOLOGY_OF Arg1:T47 Arg2:T50	
+R23	SUBCLASS_OF Arg1:T52 Arg2:T22	
+R24	SUBCLASS_OF Arg1:T23 Arg2:T52	
+R25	SUBCLASS_OF Arg1:T54 Arg2:T23	
+R26	HAS_CAUSE Arg1:T55 Arg2:T24	
+R27	SUBCLASS_OF Arg1:T5 Arg2:T6	
+R28	SUBCLASS_OF Arg1:T59 Arg2:T5	
+R29	SUBCLASS_OF Arg1:T60 Arg2:T59	
+R30	PART_OF Arg1:T58 Arg2:T57	
+R32	LOCATED_IN Arg1:T60 Arg2:T58	
+R33	SUBCLASS_OF Arg1:T61 Arg2:T31	
+R34	USED_IN Arg1:T32 Arg2:T61	
+R35	TREATED_USING Arg1:T65 Arg2:T33	
+R38	SUBCLASS_OF Arg1:T64 Arg2:T35	
+R22	PART_OF Arg1:T50 Arg2:T49	
+R31	PART_OF Arg1:T57 Arg2:T29	
+R40	HAS_CAUSE Arg1:T55 Arg2:T19	
+T13	FINDING 954 1024	положительная роль фармакологического прекондиционирования актовегином
+R41	USED_IN Arg1:T61 Arg2:T33	
+R42	PART_OF Arg1:T39 Arg2:T11	
+R43	PART_OF Arg1:T50 Arg2:T15	
+R44	PART_OF Arg1:T58 Arg2:T26	
+R45	PART_OF Arg1:T64 Arg2:T26	
+R46	TREATED_USING Arg1:T42 Arg2:T10	
+R47	TREATED_USING Arg1:T41 Arg2:T10	
+R48	HAS_CAUSE Arg1:T60 Arg2:T4	
+R20	TO_DETECT_OR_STUDY Arg1:T54 Arg2:T47	
+R39	HAS_CAUSE Arg1:T13 Arg2:T32	
+R36	AFFECTS Arg1:T65 Arg2:T64	
+R37	USED_IN Arg1:T7 Arg2:T1	
+R49	USED_IN Arg1:T53 Arg2:T54	

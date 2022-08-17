@@ -1,0 +1,130 @@
+T1	DATE 10 26	с 2007 по 2012 г
+T2	NUMBER 74 77	150
+T3	DISO 141 171	атеросклеротическим поражением
+T4	PERCENT 463 468	12,6%
+T5	DISO 805 822	ишемические атаки
+T7	DISO 827 868	острое нарушение мозгового кровообращения
+T8	DISO 870 874	ОНМК
+T9	ORDINAL 1024 1028	2-го
+T10	MEDPROC 28 54	каротидная эндартерэктомия
+T11	PERSON 78 85	больным
+T12	DISO 103 138	сосудистой мозговой недостаточности
+T14	ANATOMY 172 186	сонных артерий
+T15	SCIPROC 188 211	Динамическое наблюдение
+T16	LABPROC 247 281	цветового дуплексного сканирования
+T17	ANATOMY 282 304	брахицефальных артерий
+T18	LABPROC 306 358	транскраниального цветового дуплексного сканирования
+T19	LABPROC 360 400	мультиспиральной компьютерной томографии
+T20	LABPROC 403 420	контрастированием
+T21	ANATOMY 421 455	экстра- и интракраниальных артерий
+T23	PERSON 470 477	больных
+T24	DISO 497 549	прогрессирования сосудистой мозговой недостаточности
+T26	ANATOMY 588 605	сосудистой стенки
+T27	ANATOMY 620 645	внутренней сонной артерии
+T28	DISO 656 682	миоинтимальная гиперплазия
+T29	DISO 671 682	гиперплазия
+T30	DISO 684 692	рестеноз
+T31	DISO 703 712	осложнени
+T32	DISO 754 769	осложнений КЭАЭ
+T33	DISO 765 769	КЭАЭ
+T34	DISO 792 822	транзиторные ишемические атаки
+T36	DISO 834 868	нарушение мозгового кровообращения
+T38	DISO 877 909	острая сердечная недостаточность
+T39	DISO 989 1006	кризовым течением
+T40	DISO 1008 1033	сахарный диабет 2-го типа
+T41	PHYS 1045 1056	мужской пол
+T42	PHYS 1058 1086	пожилой и старческий возраст
+T43	ACTIVITY 1088 1095	курение
+T44	DISO 1124 1139	осложнений КЭАЭ
+T45	DISO 1135 1139	КЭАЭ
+T47	DISO 1180 1207	утолщения сосудистой стенки
+T48	DISO 1212 1238	неоинтимальной гиперплазии
+T49	DISO 1252 1277	гиперперфузионный синдром
+T50	LABPROC 1286 1301	гемодинамически
+T53	MEDPROC 56 60	КЭАЭ
+T54	ORDINAL 88 92	I-IV
+T55	NUMBER 459 461	19
+T56	MEDPROC 484 488	КЭАЭ
+T57	DISO 514 549	сосудистой мозговой недостаточности
+T25	PHYS 731 753	клиническими маркерами
+T58	PHYS 844 868	мозгового кровообращения
+T6	DISO 946 970	артериальная гипертензия
+T35	PHYS 1035 1043	ожирение
+T60	DISO 578 605	утолщение сосудистой стенки
+T61	ANATOMY 1190 1207	сосудистой стенки
+T62	DISO 1241 1250	рестенозе
+T63	DISO 1280 1284	ОНМК
+T64	PHYS 1344 1353	кровотока
+T51	PHYS 1321 1353	скоростных показателей кровотока
+T65	PHYS 1356 1406	индексов периферического сосудистого сопротивления
+T52	ANATOMY 114 122	мозговой
+T66	ANATOMY 297 304	артерий
+T22	DISO 1008 1023	сахарный диабет
+T37	DISO 1017 1023	диабет
+T46	ANATOMY 448 455	артерий
+T67	ANATOMY 844 853	мозгового
+T68	ANATOMY 946 958	артериальная
+T69	LABPROC 390 400	томографии
+T70	LABPROC 377 400	компьютерной томографии
+R1	ABBREVIATION Arg1:T10 Arg2:T53	
+T71	ANATOMY 103 113	сосудистой
+T72	ANATOMY 179 186	артерий
+T73	ANATOMY 525 533	мозговой
+T74	ANATOMY 588 598	сосудистой
+T75	ANATOMY 638 645	артерии
+T76	ANATOMY 884 893	сердечная
+T77	ANATOMY 1381 1392	сосудистого
+T78	MEDPROC 39 54	эндартерэктомия
+R2	ABBREVIATION Arg1:T7 Arg2:T8	
+T79	DISO 884 909	сердечная недостаточность
+T80	LABPROC 257 281	дуплексного сканирования
+T81	LABPROC 324 358	цветового дуплексного сканирования
+T82	ANATOMY 631 645	сонной артерии
+T83	DISO 959 970	гипертензия
+T84	LABPROC 1098 1123	Ультразвуковыми маркерами
+T59	DISO 1227 1238	гиперплазии
+R3	MEDICAL_CONDITION Arg1:T11 Arg2:T12	
+R4	SUBCLASS_OF Arg1:T16 Arg2:T80	
+R5	SUBCLASS_OF Arg1:T14 Arg2:T72	
+R6	SUBCLASS_OF Arg1:T34 Arg2:T5	
+R7	HAS_CAUSE Arg1:T32 Arg2:T33	
+R8	SUBCLASS_OF Arg1:T21 Arg2:T46	
+T85	LABPROC 334 358	дуплексного сканирования
+R9	SUBCLASS_OF Arg1:T81 Arg2:T85	
+R10	SUBCLASS_OF Arg1:T18 Arg2:T81	
+R11	SUBCLASS_OF Arg1:T17 Arg2:T66	
+R12	SUBCLASS_OF Arg1:T27 Arg2:T82	
+R13	SUBCLASS_OF Arg1:T82 Arg2:T75	
+R14	SUBCLASS_OF Arg1:T6 Arg2:T83	
+R15	SUBCLASS_OF Arg1:T48 Arg2:T59	
+R16	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T44	
+R17	HAS_CAUSE Arg1:T44 Arg2:T45	
+R18	ASSOCIATED_WITH Arg1:T51 Arg2:T64	
+R19	PHYSIOLOGY_OF Arg1:T65 Arg2:T77	
+R20	PART_OF Arg1:T26 Arg2:T74	
+R21	SUBCLASS_OF Arg1:T10 Arg2:T78	
+R22	TREATED_USING Arg1:T11 Arg2:T10	
+R23	TREATED_USING Arg1:T12 Arg2:T10	
+R24	PART_OF Arg1:T71 Arg2:T52	
+R25	PART_OF Arg1:T52 Arg2:T11	
+R26	PART_OF Arg1:T14 Arg2:T11	
+R27	AFFECTS Arg1:T3 Arg2:T14	
+R28	MEDICAL_CONDITION Arg1:T11 Arg2:T3	
+R29	APPLIED_TO Arg1:T16 Arg2:T17	
+R30	SUBCLASS_OF Arg1:T70 Arg2:T69	
+R31	SUBCLASS_OF Arg1:T19 Arg2:T70	
+R32	TO_DETECT_OR_STUDY Arg1:T19 Arg2:T21	
+R33	USED_IN Arg1:T20 Arg2:T19	
+R34	TO_DETECT_OR_STUDY Arg1:T18 Arg2:T21	
+R35	TREATED_USING Arg1:T23 Arg2:T56	
+R36	SUBCLASS_OF Arg1:T28 Arg2:T29	
+R37	SUBCLASS_OF Arg1:T22 Arg2:T37	
+R38	SUBCLASS_OF Arg1:T37 Arg2:T22	
+R39	HAS_CAUSE Arg1:T39 Arg2:T6	
+R40	SUBCLASS_OF Arg1:T7 Arg2:T36	
+R41	AFFECTS Arg1:T7 Arg2:T67	
+R42	ASSOCIATED_WITH Arg1:T58 Arg2:T7	
+R43	PHYSIOLOGY_OF Arg1:T58 Arg2:T67	
+R44	SUBCLASS_OF Arg1:T38 Arg2:T79	
+R45	AFFECTS Arg1:T38 Arg2:T76	
+R46	AFFECTS Arg1:T6 Arg2:T68	

@@ -1,0 +1,278 @@
+T1	NUMBER 205 207	58
+T2	NUMBER 219 221	62
+T3	ORDINAL 301 307	первой
+T4	NUMBER 354 355	2
+T5	ORDINAL 434 437	1-й
+T6	NUMBER 446 448	37
+T8	ORDINAL 513 516	2-й
+T9	NUMBER 525 527	25
+T10	ORDINAL 571 577	второй
+T11	ORDINAL 607 610	2-й
+T12	ORGANIZATION 759 767	Allergan
+T13	DATE 858 859;872 875	3 мес
+T15	DATE 861 862;872 875	6 мес
+T16	DATE 864 866;872 875	12 мес
+T18	ORDINAL 991 997	первой
+T20	ORDINAL 1344 1350	второй
+T22	NUMBER 1954 1970	от 8,9 до 6,9 дБ
+T23	NUMBER 2171 2189	от 0,11 до 0,18 мм
+T24	DATE 2216 2232	в течение 18 мес
+T25	PHYS 39 66	биомеханических показателей
+T26	ANATOMY 67 75	роговицы
+T27	MEDPROC 90 111	гипотензивной терапии
+T28	PHYS 114 144	морфофункционального состояния
+T31	PERSON 208 217	пациентов
+T34	DISO 231 266	первичной открытоугольной глаукомой
+T36	PERSON 327 335	пациенты
+T37	PHYS 389 413	корнеального гистерезиса
+T44	PERSON 597 606	пациентам
+T46	CHEM 709 720	бримонидина
+T47	CHEM 731 739	тимолола
+T52	ANATOMY 1058 1075	зрительного нерва
+T54	ANATOMY 1193 1210	зрительного нерва
+T56	DISO 1273 1293	глаукомного процесса
+T60	MEDPROC 1488 1509	гипотензивная терапия
+T65	PHYS 1640 1663	внутриглазного давления
+T67	PHYS 1718 1720	КГ
+T70	PHYS 1860 1881	светочувствительности
+T71	DISO 1926 1934	дефектов
+T73	LABPROC 1987 2026	оптической когерентной ретинотомограммы
+T76	CHEM 2072 2083	бримонидина
+T77	CHEM 2086 2094	тимолола
+T78	ANATOMY 2142 2169	ретинальных нервных волокон
+T82	PERSON 2356 2365	пациентов
+T83	CHEM 2451 2462	бримонидина
+T84	CHEM 2465 2473	тимолола
+T87	PERSON 2507 2516	пациентов
+T88	ANATOMY 2574 2579	глаза
+T90	PHYS 39 75	биомеханических показателей роговицы
+T29	ANATOMY 145 150	глаза
+T91	PHYS 114 150	морфофункционального состояния глаза
+T32	ANATOMY 222 227	глаза
+T33	DISO 257 266	глаукомой
+T92	DISO 241 266	открытоугольной глаукомой
+T93	DISO 268 272	ПОУГ
+T94	DATE 282 297	от 36 до 42 мес
+T35	PERSON 356 362	группы
+T38	PHYS 415 417	КГ
+T95	ANATOMY 389 401	корнеального
+T96	PHYS 429 431	КГ
+T97	PERSON 438 444	группе
+T98	PERSON 434 444	1-й группе
+T39	ANATOMY 449 453	глаз
+T99	FINDING 455 476	соответствовало норме
+T7	NUMBER 490 508	8,3-12,4 мм рт.ст.
+T40	PERSON 517 523	группе
+T100	PERSON 513 523	2-й группе
+T41	ANATOMY 528 532	глаз
+T42	NUMBER 550 567	5,6-8,2 мм рт.ст.
+T43	PERSON 611 617	группы
+T101	PERSON 607 617	2-й группы
+T103	PHYS 637 639	КГ
+T104	FINDING 620 639	низким значением КГ
+T105	NUMBER 721 728	2 мг/мл
+T107	NUMBER 740 747	5 мг/мл
+T48	CHEM 749 757	Комбиган
+T49	MEDPROC 782 803	инстилляционной схеме
+T109	NUMBER 808 815	1 капле
+T111	TIME 830 847	с интервалом 12 ч
+T14	DATE 849 856;872 875	Через 1 мес
+T17	DATE 869 875	18 мес
+T114	PHYS 968 974	зрения
+T115	ANATOMY 961 967	органа
+T116	ANATOMY 961 974	органа зрения
+T117	PHYS 924 960	структурно-функционального состояния
+T50	ANATOMY 1070 1075	нерва
+T51	PHYS 1058 1069	зрительного
+T119	PHYS 1026 1057	морфофункциональных показателей
+T120	PHYS 1026 1075	морфофункциональных показателей зрительного нерва
+T121	PHYS 1017 1075	динамики морфофункциональных показателей зрительного нерва
+T122	PHYS 1099 1101	КГ
+T19	NUMBER 1137 1156	менее 8,2 мм рт.ст.
+T53	ANATOMY 1205 1210	нерва
+T123	PHYS 1193 1204	зрительного
+T124	PHYS 1157 1192	структурно-функциональные изменения
+T125	PHYS 1157 1210	структурно-функциональные изменения зрительного нерва
+T127	FINDING 1256 1293	прогрессирования глаукомного процесса
+T128	PHYS 1251 1293	риск прогрессирования глаукомного процесса
+T129	FINDING 1228 1293	существенно повышается риск прогрессирования глаукомного процесса
+T57	MEDPROC 1317 1338	гипотензивного режима
+T59	PERSON 1372 1378	группе
+T130	PERSON 1372 1403	группе динамического наблюдения
+T131	PHYS 1425 1427	КГ
+T132	FINDING 1406 1427	низкими значениями КГ
+T133	PHYS 1452 1486	структурно-функциональную динамику
+T134	FINDING 1438 1486	отрицательную структурно-функциональную динамику
+T61	CHEM 1551 1561	'Комбиган'
+T63	ANATOMY 1640 1654	внутриглазного
+T64	PHYS 1632 1663	уровень внутриглазного давления
+T135	FINDING 1586 1663	оказала статистически значимое воздействие на уровень внутриглазного давления
+T66	NUMBER 1689 1702	4,6 мм рт.ст.
+T68	NUMBER 1747 1760	2,3 мм рт.ст.
+T69	FINDING 1851 1881	снижения светочувствительности
+T137	PHYS 1803 1881	корректированной внутригрупповой вариабельности снижения светочувствительности
+T138	SCIPROC 1778 1802	периметрического индекса
+T139	SCIPROC 1778 1881	периметрического индекса корректированной внутригрупповой вариабельности снижения светочувствительности
+T140	FINDING 1768 1881	изменений периметрического индекса корректированной внутригрупповой вариабельности снижения светочувствительности
+T141	PHYS 1901 1952	количества относительных дефектов различной глубины
+T142	FINDING 1890 1952	уменьшение количества относительных дефектов различной глубины
+T72	LABPROC 2010 2026	ретинотомограммы
+T144	ANATOMY 2154 2161	нервных
+T145	ANATOMY 2154 2169	нервных волокон
+T147	PHYS 2126 2169	средней толщины ретинальных нервных волокон
+T148	FINDING 2115 2169	увеличению средней толщины ретинальных нервных волокон
+T80	ANATOMY 2320 2325	нерва
+T149	PHYS 2308 2319	зрительного
+T150	ANATOMY 2308 2325	зрительного нерва
+T151	ANATOMY 2302 2325	диска зрительного нерва
+T152	PHYS 2265 2301	структурно-функциональных параметров
+T153	PHYS 2265 2325	структурно-функциональных параметров диска зрительного нерва
+T154	FINDING 2252 2325	стабильность структурно-функциональных параметров диска зрительного нерва
+T155	PHYS 2340 2348	давление
+T156	FINDING 2332 2381	целевое давление у этих пациентов было достигнуто
+T157	PHYS 2412 2414	КГ
+T158	FINDING 2395 2414	низких значениях КГ
+T85	CHEM 2475 2483	Комбиган
+T161	DISO 2519 2523	ПОУГ
+T162	PHYS 2548 2573	биомеханические параметры
+T163	PHYS 2548 2579	биомеханические параметры глаза
+T164	FINDING 2524 2579	позволяет нормализовать биомеханические параметры глаза
+T165	DISO 2598 2616	глаукомный процесс
+T166	FINDING 2582 2616	стабилизировать глаукомный процесс
+R1	SUBCLASS_OF Arg1:T90 Arg2:T25	
+R2	PHYSIOLOGY_OF Arg1:T90 Arg2:T26	
+R3	PHYSIOLOGY_OF Arg1:T91 Arg2:T29	
+R4	SUBCLASS_OF Arg1:T91 Arg2:T28	
+R5	PART_OF Arg1:T26 Arg2:T29	
+R6	APPLIED_TO Arg1:T27 Arg2:T29	
+R7	HAS_CAUSE Arg1:T90 Arg2:T27	
+R8	HAS_CAUSE Arg1:T25 Arg2:T91	
+R9	PART_OF Arg1:T32 Arg2:T31	
+R10	ABBREVIATION Arg1:T34 Arg2:T93	
+R11	SUBCLASS_OF Arg1:T34 Arg2:T92	
+R12	SUBCLASS_OF Arg1:T92 Arg2:T33	
+R13	MEDICAL_CONDITION Arg1:T31 Arg2:T34	
+R14	MEMBER_OF Arg1:T36 Arg2:T35	
+R15	ABBREVIATION Arg1:T37 Arg2:T38	
+R16	PHYSIOLOGY_OF Arg1:T37 Arg2:T95	
+R17	PHYSIOLOGY_OF Arg1:T37 Arg2:T35	
+R18	SUBCLASS_OF Arg1:T98 Arg2:T97	
+R19	PART_OF Arg1:T39 Arg2:T98	
+R20	PHYSIOLOGY_OF Arg1:T96 Arg2:T98	
+R21	FINDING_OF Arg1:T99 Arg2:T96	
+R22	FINDING_OF Arg1:T99 Arg2:T98	
+R23	VALUE_IS Arg1:T96 Arg2:T7	
+R24	VALUE_IS Arg1:T99 Arg2:T7	
+R25	SUBCLASS_OF Arg1:T100 Arg2:T40	
+R26	PART_OF Arg1:T41 Arg2:T100	
+T30	FINDING 539 546	снижено
+R27	FINDING_OF Arg1:T30 Arg2:T100	
+R28	FINDING_OF Arg1:T30 Arg2:T96	
+R29	PHYSIOLOGY_OF Arg1:T96 Arg2:T100	
+R30	VALUE_IS Arg1:T96 Arg2:T42	
+R31	VALUE_IS Arg1:T30 Arg2:T42	
+R32	SUBCLASS_OF Arg1:T101 Arg2:T43	
+R33	MEMBER_OF Arg1:T44 Arg2:T101	
+R34	ALTERNATIVE_NAME Arg1:T30 Arg2:T104	
+R35	FINDING_OF Arg1:T104 Arg2:T103	
+R36	FINDING_OF Arg1:T104 Arg2:T44	
+R37	PHYSIOLOGY_OF Arg1:T103 Arg2:T44	
+T45	MEDPROC 674 708	назначали фиксированную комбинацию
+R38	PROCEDURE_PERFORMED Arg1:T44 Arg2:T45	
+R39	USED_IN Arg1:T46 Arg2:T45	
+R40	VALUE_IS Arg1:T46 Arg2:T105	
+R41	VALUE_IS Arg1:T47 Arg2:T107	
+R42	USED_IN Arg1:T47 Arg2:T45	
+R43	USED_IN Arg1:T48 Arg2:T45	
+R44	USED_IN Arg1:T49 Arg2:T45	
+T102	DATE 823 829	в день
+T106	NUMBER 816 822	2 раза
+R45	DOSE_IS Arg1:T48 Arg2:T109	
+R46	USED_IN Arg1:T48 Arg2:T49	
+R48	SUBCLASS_OF Arg1:T116 Arg2:T115	
+R49	PHYSIOLOGY_OF Arg1:T114 Arg2:T116	
+T108	FINDING 876 923	оценивали субъективные и объективные показатели
+T110	PHYS 924 974	структурно-функционального состояния органа зрения
+R47	PHYSIOLOGY_OF Arg1:T110 Arg2:T116	
+R50	SUBCLASS_OF Arg1:T110 Arg2:T117	
+R51	FINDING_OF Arg1:T108 Arg2:T110	
+R52	ALTERNATIVE_NAME Arg1:T114 Arg2:T51	
+R53	SUBCLASS_OF Arg1:T52 Arg2:T50	
+R54	PART_OF Arg1:T52 Arg2:T116	
+R55	SUBCLASS_OF Arg1:T120 Arg2:T119	
+R56	ASSOCIATED_WITH Arg1:T121 Arg2:T120	
+R57	PHYSIOLOGY_OF Arg1:T120 Arg2:T52	
+R58	VALUE_IS Arg1:T122 Arg2:T19	
+R59	ALTERNATIVE_NAME Arg1:T121 Arg2:T125	
+R60	PHYSIOLOGY_OF Arg1:T123 Arg2:T54	
+R61	SUBCLASS_OF Arg1:T54 Arg2:T53	
+R62	SUBCLASS_OF Arg1:T125 Arg2:T124	
+R63	PHYSIOLOGY_OF Arg1:T125 Arg2:T54	
+T112	FINDING 1157 1225	структурно-функциональные изменения зрительного нерва более выражены
+R64	FINDING_OF Arg1:T112 Arg2:T125	
+R66	ALTERNATIVE_NAME Arg1:T33 Arg2:T56	
+R65	FINDING_OF Arg1:T129 Arg2:T128	
+R67	ASSOCIATED_WITH Arg1:T128 Arg2:T56	
+R68	SUBCLASS_OF Arg1:T130 Arg2:T59	
+R69	FINDING_OF Arg1:T132 Arg2:T131	
+R70	FINDING_OF Arg1:T132 Arg2:T130	
+R71	PHYSIOLOGY_OF Arg1:T131 Arg2:T130	
+R72	FINDING_OF Arg1:T134 Arg2:T133	
+R73	TREATED_USING Arg1:T130 Arg2:T61	
+R74	PROCEDURE_PERFORMED Arg1:T130 Arg2:T60	
+R75	TREATED_USING Arg1:T101 Arg2:T46	
+R76	TREATED_USING Arg1:T101 Arg2:T47	
+R77	TREATED_USING Arg1:T101 Arg2:T48	
+R78	PROCEDURE_PERFORMED Arg1:T101 Arg2:T49	
+R79	AFFECTS Arg1:T65 Arg2:T63	
+R80	ASSOCIATED_WITH Arg1:T64 Arg2:T65	
+R81	FINDING_OF Arg1:T135 Arg2:T64	
+R82	VALUE_IS Arg1:T67 Arg2:T68	
+R83	VALUE_IS Arg1:T64 Arg2:T66	
+R84	SUBCLASS_OF Arg1:T139 Arg2:T138	
+R85	FINDING_OF Arg1:T69 Arg2:T70	
+R86	FINDING_OF Arg1:T140 Arg2:T137	
+R87	VALUE_IS Arg1:T141 Arg2:T22	
+R88	VALUE_IS Arg1:T142 Arg2:T22	
+R89	ASSOCIATED_WITH Arg1:T141 Arg2:T71	
+R90	FINDING_OF Arg1:T142 Arg2:T141	
+R91	SUBCLASS_OF Arg1:T73 Arg2:T72	
+T21	MEDPROC 2035 2071	инстилляции фиксированной комбинации
+R92	USED_IN Arg1:T76 Arg2:T21	
+R93	USED_IN Arg1:T77 Arg2:T21	
+R94	TO_DETECT_OR_STUDY Arg1:T73 Arg2:T148	
+R95	TO_DETECT_OR_STUDY Arg1:T73 Arg2:T147	
+R96	FINDING_OF Arg1:T148 Arg2:T147	
+R97	SUBCLASS_OF Arg1:T78 Arg2:T145	
+R98	VALUE_IS Arg1:T147 Arg2:T23	
+R99	VALUE_IS Arg1:T148 Arg2:T23	
+R100	PHYSIOLOGY_OF Arg1:T147 Arg2:T78	
+R101	TO_DETECT_OR_STUDY Arg1:T73 Arg2:T78	
+R102	SUBCLASS_OF Arg1:T150 Arg2:T80	
+R103	PART_OF Arg1:T151 Arg2:T150	
+R104	PHYSIOLOGY_OF Arg1:T149 Arg2:T150	
+R105	PHYSIOLOGY_OF Arg1:T153 Arg2:T151	
+R106	FINDING_OF Arg1:T154 Arg2:T153	
+R107	SUBCLASS_OF Arg1:T153 Arg2:T152	
+R108	PHYSIOLOGY_OF Arg1:T155 Arg2:T82	
+R109	FINDING_OF Arg1:T156 Arg2:T82	
+R110	FINDING_OF Arg1:T156 Arg2:T155	
+R111	FINDING_OF Arg1:T158 Arg2:T157	
+T55	MEDPROC 2415 2450	применение фиксированной комбинации
+R112	USED_IN Arg1:T83 Arg2:T55	
+R113	USED_IN Arg1:T84 Arg2:T55	
+R114	ALTERNATIVE_NAME Arg1:T84 Arg2:T85	
+R115	MEDICAL_CONDITION Arg1:T87 Arg2:T161	
+R116	TREATED_USING Arg1:T87 Arg2:T84	
+R117	TREATED_USING Arg1:T87 Arg2:T83	
+R118	PROCEDURE_PERFORMED Arg1:T87 Arg2:T55	
+R119	PHYSIOLOGY_OF Arg1:T157 Arg2:T87	
+R120	FINDING_OF Arg1:T158 Arg2:T87	
+R121	PHYSIOLOGY_OF Arg1:T163 Arg2:T88	
+R122	SUBCLASS_OF Arg1:T163 Arg2:T162	
+R123	FINDING_OF Arg1:T164 Arg2:T163	
+R124	PART_OF Arg1:T88 Arg2:T87	
+R125	HAS_CAUSE Arg1:T166 Arg2:T55	
+R126	HAS_CAUSE Arg1:T164 Arg2:T55	
+R127	AFFECTS Arg1:T165 Arg2:T88	
+R128	MEDICAL_CONDITION Arg1:T87 Arg2:T165	

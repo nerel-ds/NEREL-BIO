@@ -1,0 +1,111 @@
+T1	DISO 124 136	риносинусита
+T2	DISO 371 391	острым риносинуситом
+T3	DISO 1032 1044	риносинусита
+T4	ANATOMY 72 90	слизистой оболочки
+T5	ANATOMY 91 103	полости носа
+T7	DISO 116 136	острого риносинусита
+T8	PERSON 149 167	возрастных группах
+T10	PHYS 205 216	температуры
+T11	PHYS 225 256	порога болевой чувствительности
+T12	PHYS 232 256	болевой чувствительности
+T13	ANATOMY 257 275	слизистой оболочки
+T14	ANATOMY 276 288	полости носа
+T15	PHYS 298 323	мукоцилиарного транспорта
+T16	LABPROC 344 356	джоульметрии
+T17	PERSON 359 368	пациентов
+T18	DISO 378 391	риносинуситом
+T21	ANATOMY 483 506	слизистой оболочки носа
+T23	PERSON 540 549	пациентов
+T24	PHYS 550 558	пожилого
+T25	PHYS 561 581	старческого возраста
+T26	ANATOMY 623 632	слизистой
+T28	PHYS 679 710	порога болевой чувствительности
+T29	PHYS 686 710	болевой чувствительности
+T30	ANATOMY 756 778	мерцательного эпителия
+T31	PHYS 831 844	ареактивность
+T34	ANATOMY 900 922	слизистой полости носа
+T35	PHYS 928 950	возрастные особенности
+T36	LABPROC 965 984	прямой джоульметрии
+T38	PHYS 1062 1083	возрастные особенност
+T42	ANATOMY 1198 1216	слизистой оболочки
+T43	ANATOMY 1217 1229	полости носа
+T45	DISO 1291 1301	воспаления
+T48	ANATOMY 99 103	носа
+T6	ANATOMY 284 288	носа
+T9	ANATOMY 257 288	слизистой оболочки полости носа
+T19	ANATOMY 900 909	слизистой
+T27	ANATOMY 910 922	полости носа
+T50	ANATOMY 918 922	носа
+T51	LABPROC 972 984	джоульметрии
+T52	ANATOMY 1225 1229	носа
+T53	ANATOMY 1198 1229	слизистой оболочки полости носа
+T32	PERSON 813 830	возрастной группе
+T39	PHYS 201 203	рН
+T40	DISO 232 239	болевой
+T20	ANATOMY 502 506	носа
+T44	ANATOMY 483 501	слизистой оболочки
+T22	DISO 686 693	болевой
+T46	DISO 1024 1044	острого риносинусита
+T41	PHYS 1280 1301	активность воспаления
+T33	DISO 873 922	патологических изменений в слизистой полости носа
+T37	ANATOMY 770 778	эпителия
+T47	PHYS 745 778	активности мерцательного эпителия
+T54	FINDING 719 778	длительное восстановление активности мерцательного эпителия
+T55	PHYS 325 328	МЦТ
+R3	ABBREVIATION Arg1:T15 Arg2:T55	
+T56	FINDING 657 710	более высокий уровень порога болевой чувствительности
+R4	MEDICAL_CONDITION Arg1:T17 Arg2:T2	
+R5	MEDICAL_CONDITION Arg1:T8 Arg2:T7	
+R7	PHYSIOLOGY_OF Arg1:T10 Arg2:T9	
+R8	PHYSIOLOGY_OF Arg1:T39 Arg2:T9	
+R9	PHYSIOLOGY_OF Arg1:T11 Arg2:T17	
+R10	PHYSIOLOGY_OF Arg1:T11 Arg2:T9	
+R11	PHYSIOLOGY_OF Arg1:T15 Arg2:T17	
+T57	PHYS 611 632	температура слизистой
+R12	PHYSIOLOGY_OF Arg1:T57 Arg2:T26	
+R14	PROCEDURE_PERFORMED Arg1:T17 Arg2:T16	
+R15	TO_DETECT_OR_STUDY Arg1:T36 Arg2:T33	
+R16	PHYSIOLOGY_OF Arg1:T35 Arg2:T34	
+R17	TO_DETECT_OR_STUDY Arg1:T36 Arg2:T35	
+R18	PHYSIOLOGY_OF Arg1:T41 Arg2:T53	
+R6	PART_OF Arg1:T5 Arg2:T48	
+R19	SUBCLASS_OF Arg1:T7 Arg2:T1	
+R20	PART_OF Arg1:T21 Arg2:T20	
+R21	SUBCLASS_OF Arg1:T21 Arg2:T44	
+R22	PART_OF Arg1:T14 Arg2:T6	
+R23	PART_OF Arg1:T43 Arg2:T52	
+R24	PART_OF Arg1:T53 Arg2:T43	
+R25	SUBCLASS_OF Arg1:T46 Arg2:T3	
+T58	PHYS 1001 1044	клинические проявления острого риносинусита
+R26	HAS_CAUSE Arg1:T58 Arg2:T38	
+R27	PART_OF Arg1:T27 Arg2:T50	
+R30	AFFECTS Arg1:T7 Arg2:T4	
+R31	ASSOCIATED_WITH Arg1:T11 Arg2:T40	
+R32	SUBCLASS_OF Arg1:T9 Arg2:T13	
+R33	PART_OF Arg1:T9 Arg2:T14	
+R34	PART_OF Arg1:T14 Arg2:T17	
+R35	AFFECTS Arg1:T2 Arg2:T14	
+R1	PHYSIOLOGY_OF Arg1:T24 Arg2:T23	
+R2	PHYSIOLOGY_OF Arg1:T25 Arg2:T23	
+R36	PART_OF Arg1:T26 Arg2:T23	
+R37	ASSOCIATED_WITH Arg1:T28 Arg2:T22	
+R38	FINDING_OF Arg1:T56 Arg2:T23	
+T59	FINDING 598 632	более низкая температура слизистой
+R39	FINDING_OF Arg1:T59 Arg2:T57	
+R40	FINDING_OF Arg1:T59 Arg2:T23	
+R41	SUBCLASS_OF Arg1:T30 Arg2:T37	
+R42	PHYSIOLOGY_OF Arg1:T47 Arg2:T30	
+R43	FINDING_OF Arg1:T54 Arg2:T23	
+R44	FINDING_OF Arg1:T54 Arg2:T47	
+R45	HAS_CAUSE Arg1:T54 Arg2:T31	
+R46	HAS_CAUSE Arg1:T59 Arg2:T31	
+R47	HAS_CAUSE Arg1:T56 Arg2:T31	
+R48	PHYSIOLOGY_OF Arg1:T31 Arg2:T32	
+R49	SUBCLASS_OF Arg1:T34 Arg2:T19	
+R50	AFFECTS Arg1:T33 Arg2:T34	
+R51	ASSOCIATED_WITH Arg1:T58 Arg2:T46	
+R52	SUBCLASS_OF Arg1:T53 Arg2:T42	
+R13	PART_OF Arg1:T4 Arg2:T5	
+R28	PART_OF Arg1:T5 Arg2:T8	
+T49	PHYS 149 159	возрастных
+R29	PHYSIOLOGY_OF Arg1:T49 Arg2:T8	

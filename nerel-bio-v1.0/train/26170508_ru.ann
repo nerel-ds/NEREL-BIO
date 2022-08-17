@@ -1,0 +1,127 @@
+T1	DATE 9 20	В 2010 году
+T2	NUMBER 187 199	1,5 миллиона
+T4	PROFESSION 630 635	врачу
+T6	PHYS 804 831	заболеваемости туберкулезом
+T7	LOCATION 889 902	Южной Америки
+T10	CITY 979 991	Порт-o-Пренс
+T13	PHYS 1244 1271	заболеваемости туберкулезом
+T14	NUMBER 1416 1419	230
+T15	NUMBER 1431 1438	100 000
+T16	NUMBER 1474 1477	три
+T18	NUMBER 1578 1581	693
+T19	NUMBER 1592 1599	100 000
+T20	NUMBER 1613 1617	пять
+T21	NUMBER 1679 1686	100 000
+T22	ORGANIZATION 1722 1759	Всемирной организации здравоохранения
+T23	DISO 2051 2062	туберкулеза
+T30	PERSON 286 295	населения
+T34	PERSON 433 445	переселенцев
+T38	MEDPROC 517 542	скрининговое обследование
+T40	PERSON 573 577	Люди
+T51	PHYS 1190 1204	заболеваемости
+T52	PHYS 1244 1258	заболеваемости
+T55	PERSON 1439 1446	человек
+T59	PERSON 1564 1576	переселенцев
+T68	MEDPROC 1874 1899	Скрининговое обследование
+T70	DISO 1925 1931	кашель
+T71	FAMILY 1934 1940	семьях
+T74	PERSON 2023 2032	пациентов
+T80	COUNTRY 24 29	Гаити
+T26	CITY 153 165	Порт-o-Пренс
+T28	PERSON 200 205	людей
+T81	DISO 268 279	туберкулеза
+T82	PHYS 230 279	количество зарегистрированных случаев туберкулеза
+T3	DISO 399 411	туберкулезом
+T84	PERSON 421 445	вынужденных переселенцев
+T35	PROFESSION 481 506	работники здравоохранения
+T37	DISO 546 556	туберкулез
+T39	PERSON 566 571	семье
+T41	DISO 593 610	постоянного кашля
+T86	DISO 605 610	кашля
+T5	DISO 672 684	туберкулезом
+T42	DISO 819 831	туберкулезом
+T43	FINDING 796 867	уровень заболеваемости туберкулезом на Гаити был одним из самых высоких
+T44	COUNTRY 835 840	Гаити
+T87	LOCATION 296 333	пострадавших от землетрясения районов
+T88	FACILITY 414 445	лагере вынужденных переселенцев
+T89	FACILITY 465 471	трущоб
+T90	LOCATION 878 886;895 902	Северной Америки
+T91	LOCATION 895 902	Америки
+T9	DISO 940 952	туберкулезом
+T11	DISO 1068 1080	туберкулезом
+T45	PHYS 1018 1080	Количество зарегистрированных случаев заболевания туберкулезом
+T46	COUNTRY 1084 1089	Гаити
+T47	FINDING 1018 1098	Количество зарегистрированных случаев заболевания туберкулезом на Гаити возросло
+T12	FINDING 1185 1204	рост заболеваемости
+T48	DISO 1259 1271	туберкулезом
+T49	PHYS 1237 1271	уровня заболеваемости туберкулезом
+T50	FINDING 1228 1271	высокого уровня заболеваемости туберкулезом
+T53	HEALTH_CARE_ACTIVITY 1325 1354	выявления случаев заболевания
+T54	PERSON 1447 1456	населения
+T17	DISO 1530 1542	туберкулезом
+T56	PERSON 1552 1576	вынужденных переселенцев
+T57	FACILITY 1545 1576	лагере вынужденных переселенцев
+T58	PERSON 1600 1607	человек
+T60	FACILITY 1645 1669	районах городских трущоб
+T92	NUMBER 1671 1675	1165
+T61	PERSON 1687 1694	человек
+T62	FACILITY 1762 1769	лагерях
+T63	FACILITY 1772 1790	городских трущобах
+T64	DISO 1914 1931	постоянный кашель
+T24	DISO 2109 2121	туберкулезом
+T66	PHYS 2091 2121	числа заболеваний туберкулезом
+T67	FINDING 2081 2121	растущего числа заболеваний туберкулезом
+T32	EVENT 55 68	землетрясение
+T33	EVENT 312 325	землетрясения
+T65	EVENT 782 795	землетрясения
+T69	EVENT 1105 1118	землетрясения
+R1	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T37	
+R2	SUBCLASS_OF Arg1:T41 Arg2:T86	
+R3	LOCATED_IN Arg1:T7 Arg2:T91	
+R4	POINT_IN_TIME Arg1:T32 Arg2:T1	
+R5	TAKES_PLACE_IN Arg1:T32 Arg2:T80	
+R6	LOCATED_IN Arg1:T26 Arg2:T80	
+R7	PLACE_RESIDES_IN Arg1:T28 Arg2:T80	
+T25	FINDING 221 279	возросло количество зарегистрированных случаев туберкулеза
+R8	ASSOCIATED_WITH Arg1:T81 Arg2:T25	
+R9	MEDICAL_CONDITION Arg1:T30 Arg2:T81	
+R10	MEDICAL_CONDITION Arg1:T40 Arg2:T41	
+R11	LOCATED_IN Arg1:T9 Arg2:T10	
+R12	LOCATED_IN Arg1:T10 Arg2:T44	
+T27	EVENT 168 186	оставило без крова
+R13	HAS_CAUSE Arg1:T27 Arg2:T32	
+R14	TAKES_PLACE_IN Arg1:T27 Arg2:T80	
+R15	FINDING_OF Arg1:T25 Arg2:T30	
+R16	PLACE_RESIDES_IN Arg1:T30 Arg2:T87	
+R17	LOCATED_IN Arg1:T87 Arg2:T80	
+T29	FACILITY 414 420	лагере
+R18	SUBCLASS_OF Arg1:T88 Arg2:T29	
+R19	SUBCLASS_OF Arg1:T84 Arg2:T34	
+R20	PLACE_RESIDES_IN Arg1:T84 Arg2:T88	
+R21	MEDICAL_CONDITION Arg1:T84 Arg2:T3	
+R22	LOCATED_IN Arg1:T88 Arg2:T80	
+R23	LOCATED_IN Arg1:T89 Arg2:T80	
+R24	PARTICIPANT_IN Arg1:T35 Arg2:T38	
+R25	PROCEDURE_PERFORMED Arg1:T39 Arg2:T38	
+T31	HEALTH_CARE_ACTIVITY 663 684	борьбе с туберкулезом
+R26	TO_DETECT_OR_STUDY Arg1:T31 Arg2:T5	
+R27	LOCATED_IN Arg1:T90 Arg2:T91	
+R28	LOCATED_IN Arg1:T42 Arg2:T44	
+R29	ASSOCIATED_WITH Arg1:T6 Arg2:T42	
+T36	FACILITY 1545 1551	лагере
+R30	SUBCLASS_OF Arg1:T57 Arg2:T36	
+R31	SUBCLASS_OF Arg1:T56 Arg2:T59	
+R32	PLACE_RESIDES_IN Arg1:T56 Arg2:T57	
+R33	SUBCLASS_OF Arg1:T64 Arg2:T70	
+R34	MEMBER_OF Arg1:T74 Arg2:T71	
+R35	MEDICAL_CONDITION Arg1:T74 Arg2:T64	
+R36	PROCEDURE_PERFORMED Arg1:T74 Arg2:T68	
+T72	DISO 2035 2062	активной формой туберкулеза
+R37	SUBCLASS_OF Arg1:T72 Arg2:T23	
+R38	TO_DETECT_OR_STUDY Arg1:T68 Arg2:T64	
+R39	TO_DETECT_OR_STUDY Arg1:T68 Arg2:T72	
+R40	MEDICAL_CONDITION Arg1:T74 Arg2:T72	
+T73	HEALTH_CARE_ACTIVITY 617 635	направлены к врачу
+R41	PARTICIPANT_IN Arg1:T40 Arg2:T73	
+T75	FACILITY 1782 1790	трущобах
+R42	SUBCLASS_OF Arg1:T63 Arg2:T75	

@@ -1,0 +1,143 @@
+T1	AGE 317 326	15-17 лет
+T2	CITY 452 458	Москвы
+T3	DISO 651 661	шизофрении
+T4	PERCENT 729 738	более 40%
+T11	PERSON 306 316	подростков
+T13	ORGANIZATION 359 391	психоневрологического диспансера
+T14	PERSON 394 406	подростковых
+T15	PERSON 527 533	юношей
+T16	PERSON 538 547	девушками
+T17	PHYS 595 603	прогноза
+T18	PERSON 619 626	детском
+T22	PERSON 695 702	больных
+T23	FINDING 711 727	стойкой ремиссии
+T24	PHYS 748 760	инвалидность
+T25	PHYS 761 768	детства
+T27	PERSON 818 828	подростков
+T30	PERSON 914 926	подростковом
+T31	PHYS 927 935	возрасте
+T35	PHYS 1113 1125	инвалидности
+T36	DISO 1149 1174	деструктивного потенциала
+T41	PERSON 1394 1401	детском
+T42	PERSON 1404 1416	подростковом
+T43	PHYS 1417 1425	возрасте
+T47	MEDPROC 1509 1538	социотерапевтических подходов
+T48	DISO 1571 1583	экзацербаций
+T52	PHYS 31 75	основные клинико-динамические характеристики
+T53	DISO 92 102	шизофрении
+T54	PHYS 117 134	гендерные аспекты
+T55	PHYS 117 126	гендерные
+T56	PHYS 136 153	критерии прогноза
+T6	PHYS 167 185	исхода заболевания
+T57	PHYS 156 185	показатели исхода заболевания
+T7	MEDPROC 249 285	клинико-катамнестического наблюдения
+T58	DISO 294 305	шизофренией
+T12	ORGANIZATION 381 391	диспансера
+T60	ORGANIZATION 394 416	подростковых отделений
+T61	ORDINAL 459 462	#15
+T62	ORGANIZATION 443 451	больницы
+T63	ORGANIZATION 427 451	психиатрической больницы
+T65	ORGANIZATION 417 462	Городской психиатрической больницы Москвы #15
+T66	ORGANIZATION 394 462	подростковых отделений Городской психиатрической больницы Москвы #15
+T67	DATE 463 477	в 1995-2014 гг
+T68	FINDING 501 547	существенное преобладание юношей над девушками
+T69	NUMBER 549 550	4
+T70	NUMBER 551 552	1
+T72	FINDING 578 603	неблагоприятного прогноза
+T74	PHYS 642 650	возрасте
+T75	PERSON 629 641	подростковом
+T21	PHYS 677 692	совершеннолетия
+T76	FINDING 719 727	ремиссии
+T77	FINDING 703 727	не было стойкой ремиссии
+T78	PHYS 748 768	инвалидность детства
+T79	FINDING 739 768	получили инвалидность детства
+T80	FINDING 770 804	сохранив ее и во взрослом возрасте
+T26	PHYS 796 804	возрасте
+T82	PHYS 787 804	взрослом возрасте
+T84	PHYS 914 935	подростковом возрасте
+T86	DISO 981 1014	злокачественных вариантов болезни
+T33	DISO 1029 1056	олигофреноподобному дефекту
+T34	FINDING 1093 1125	формированию ранней инвалидности
+T37	DISO 1149 1182	деструктивного потенциала болезни
+T88	PHYS 1135 1182	выраженностью деструктивного потенциала болезни
+T39	FINDING 1274 1303	отсутствие адекватной терапии
+T90	FINDING 1328 1370	неблагоприятным клинико-социальный прогноз
+T91	DISO 1371 1381	шизофрении
+T45	DISO 1476 1500	ранних симптомов болезни
+T46	MEDPROC 1463 1500	квалификации ранних симптомов болезни
+T93	HEALTH_CARE_ACTIVITY 1556 1583	предотвращение экзацербаций
+T49	PERSON 1628 1637	пациентов
+T94	HEALTH_CARE_ACTIVITY 1586 1627	профилактику социальной несостоятельности
+R1	ASSOCIATED_WITH Arg1:T57 Arg2:T6	
+R2	ASSOCIATED_WITH Arg1:T52 Arg2:T53	
+R3	ASSOCIATED_WITH Arg1:T56 Arg2:T53	
+R4	ASSOCIATED_WITH Arg1:T54 Arg2:T53	
+R5	ASSOCIATED_WITH Arg1:T57 Arg2:T53	
+R6	ASSOCIATED_WITH Arg1:T54 Arg2:T55	
+R7	AGE_IS Arg1:T11 Arg2:T1	
+R9	MEDICAL_CONDITION Arg1:T11 Arg2:T58	
+R12	TO_DETECT_OR_STUDY Arg1:T7 Arg2:T58	
+R13	PROCEDURE_PERFORMED Arg1:T11 Arg2:T7	
+R14	SUBCLASS_OF Arg1:T13 Arg2:T12	
+R15	ALTERNATIVE_NAME Arg1:T11 Arg2:T14	
+R16	PART_OF Arg1:T66 Arg2:T65	
+R17	HEADQUARTERED_IN Arg1:T65 Arg2:T2	
+R18	SUBCLASS_OF Arg1:T66 Arg2:T60	
+R19	SUBCLASS_OF Arg1:T65 Arg2:T63	
+R20	SUBCLASS_OF Arg1:T63 Arg2:T62	
+R21	POINT_IN_TIME Arg1:T7 Arg2:T67	
+R22	LOCATED_IN Arg1:T11 Arg2:T13	
+R23	LOCATED_IN Arg1:T11 Arg2:T66	
+R24	FINDING_OF Arg1:T68 Arg2:T15	
+R25	FINDING_OF Arg1:T68 Arg2:T16	
+R27	FINDING_OF Arg1:T72 Arg2:T17	
+T8	PHYS 619 650	детском и подростковом возрасте
+R28	PHYSIOLOGY_OF Arg1:T8 Arg2:T18	
+R29	PHYSIOLOGY_OF Arg1:T8 Arg2:T75	
+R30	SUBCLASS_OF Arg1:T8 Arg2:T74	
+R31	ASSOCIATED_WITH Arg1:T8 Arg2:T3	
+R32	MEDICAL_CONDITION Arg1:T18 Arg2:T3	
+R33	MEDICAL_CONDITION Arg1:T75 Arg2:T3	
+R35	SUBCLASS_OF Arg1:T15 Arg2:T14	
+R36	SUBCLASS_OF Arg1:T16 Arg2:T14	
+R37	SUBCLASS_OF Arg1:T82 Arg2:T26	
+R38	FINDING_OF Arg1:T80 Arg2:T82	
+R39	FINDING_OF Arg1:T80 Arg2:T78	
+R40	FINDING_OF Arg1:T79 Arg2:T78	
+R41	VALUE_IS Arg1:T79 Arg2:T4	
+R42	SUBCLASS_OF Arg1:T78 Arg2:T24	
+R45	PHYSIOLOGY_OF Arg1:T21 Arg2:T22	
+R46	FINDING_OF Arg1:T77 Arg2:T22	
+R47	SUBCLASS_OF Arg1:T23 Arg2:T76	
+T9	FINDING 829 856	оставались несостоятельными
+R49	FINDING_OF Arg1:T9 Arg2:T27	
+R52	PHYSIOLOGY_OF Arg1:T84 Arg2:T30	
+R53	SUBCLASS_OF Arg1:T84 Arg2:T31	
+T19	FINDING 961 1014	стабилизация ранних злокачественных вариантов болезни
+R54	FINDING_OF Arg1:T19 Arg2:T84	
+R56	SUBCLASS_OF Arg1:T37 Arg2:T36	
+R57	ASSOCIATED_WITH Arg1:T88 Arg2:T37	
+R60	FINDING_OF Arg1:T34 Arg2:T35	
+T28	PHYS 1394 1425	детском и подростковом возрасте
+R63	MEDICAL_CONDITION Arg1:T41 Arg2:T91	
+R64	MEDICAL_CONDITION Arg1:T42 Arg2:T91	
+R65	PHYSIOLOGY_OF Arg1:T28 Arg2:T41	
+R66	PHYSIOLOGY_OF Arg1:T28 Arg2:T42	
+R67	SUBCLASS_OF Arg1:T28 Arg2:T43	
+R68	TO_DETECT_OR_STUDY Arg1:T46 Arg2:T45	
+R69	TREATED_USING Arg1:T48 Arg2:T47	
+R73	MEDICAL_CONDITION Arg1:T49 Arg2:T48	
+R74	MEDICAL_CONDITION Arg1:T49 Arg2:T45	
+R8	ASSOCIATED_WITH Arg1:T3 Arg2:T72	
+R10	FINDING_OF Arg1:T72 Arg2:T8	
+R11	FINDING_OF Arg1:T77 Arg2:T21	
+R26	ASSOCIATED_WITH Arg1:T86 Arg2:T19	
+R34	HAS_CAUSE Arg1:T33 Arg2:T86	
+T5	FINDING 1240 1272	ошибочную диагностическую оценку
+R43	HAS_CAUSE Arg1:T34 Arg2:T88	
+R44	HAS_CAUSE Arg1:T34 Arg2:T5	
+R48	HAS_CAUSE Arg1:T34 Arg2:T39	
+R50	ASSOCIATED_WITH Arg1:T91 Arg2:T90	
+R51	FINDING_OF Arg1:T90 Arg2:T28	
+R55	PARTICIPANT_IN Arg1:T49 Arg2:T94	
+R58	PARTICIPANT_IN Arg1:T49 Arg2:T93	

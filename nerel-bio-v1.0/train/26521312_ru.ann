@@ -1,0 +1,109 @@
+T1	NUMBER 171 174	409
+T3	DISO 239 250	туберкулеза
+T4	DISO 1173 1199	ишемическая болезнь сердца
+T5	DISO 1185 1199	болезнь сердца
+T6	ORDINAL 1298 1304	первое
+T8	MEDPROC 31 62	патологоанатомического диагноза
+T10	PERSON 113 120	больных
+T13	PERSON 209 216	умерших
+T16	MEDPROC 349 380	патологоанатомического диагноза
+T21	PHYS 528 534	смерти
+T22	DISO 536 546	Туберкулез
+T23	MEDPROC 559 581	патологоанатомического
+T29	PHYS 770 781	локализацию
+T34	DISO 834 851	бактериовыделения
+T37	DISO 941 963	Смертельные осложнения
+T41	DISO 1115 1132	бактериовыделения
+T42	DISO 1166 1199	острая ишемическая болезнь сердца
+T43	DISO 1201 1234	ургентная хирургическая патология
+T47	DISO 1349 1360	туберкулеза
+T48	DISO 1476 1499	туберкулезного процесса
+T49	PHYS 1533 1545	танатогенезе
+T50	MEDPROC 1600 1622	патологоанатомического
+T52	MEDPROC 31 53	патологоанатомического
+T53	DISO 92 103	туберкулеза
+T54	DISO 123 135	туберкулезом
+T2	DATE 226 234	в 2013 г
+T11	CITY 219 225	Москве
+T55	MEDPROC 349 371	патологоанатомического
+T17	DISO 434 445	туберкулезе
+T18	PHYS 82 88	смерти
+T19	PHYS 202 208	смерти
+T56	PHYS 485 491	смерти
+T24	MEDPROC 559 590	патологоанатомического диагноза
+T25	PHYS 783 810	распространенность процесса
+T28	PHYS 812 824	фазу течения
+T30	PHYS 826 851	наличие бактериовыделения
+T31	DISO 881 892	туберкулеза
+T32	DISO 980 991	туберкулеза
+T33	DISO 1038 1049	туберкулеза
+T35	ANATOMY 1193 1199	сердца
+T7	DISO 1519 1530	туберкулеза
+T36	DISO 1576 1587	туберкулеза
+T38	MEDPROC 1600 1631	патологоанатомического диагноза
+T46	MEDPROC 507 534	заключения о причине смерти
+R1	USED_IN Arg1:T8 Arg2:T52	
+R2	HAS_CAUSE Arg1:T18 Arg2:T53	
+R3	MEDICAL_CONDITION Arg1:T10 Arg2:T54	
+R4	PHYSIOLOGY_OF Arg1:T19 Arg2:T13	
+R5	PLACE_OF_DEATH Arg1:T13 Arg2:T11	
+R6	DATE_OF_DEATH Arg1:T13 Arg2:T2	
+R7	CAUSE_OF_DEATH Arg1:T13 Arg2:T3	
+R8	USED_IN Arg1:T16 Arg2:T55	
+R9	PROCEDURE_PERFORMED Arg1:T13 Arg2:T16	
+R10	HAS_CAUSE Arg1:T56 Arg2:T17	
+R11	APPLIED_TO Arg1:T46 Arg2:T21	
+R12	USED_IN Arg1:T24 Arg2:T23	
+R13	TO_DETECT_OR_STUDY Arg1:T24 Arg2:T22	
+T9	MEDPROC 410 429	построения диагноза
+R14	TO_DETECT_OR_STUDY Arg1:T9 Arg2:T17	
+T12	DISO 618 639	основным заболеванием
+R15	SUBCLASS_OF Arg1:T22 Arg2:T12	
+T14	DISO 658 686	комбинированного заболевания
+R16	SUBCLASS_OF Arg1:T22 Arg2:T14	
+T15	DISO 702 725	сопутствующей патологии
+R17	SUBCLASS_OF Arg1:T22 Arg2:T15	
+T20	PHYS 747 764	форму заболевания
+R18	ASSOCIATED_WITH Arg1:T20 Arg2:T22	
+R19	ASSOCIATED_WITH Arg1:T29 Arg2:T22	
+R20	ASSOCIATED_WITH Arg1:T25 Arg2:T22	
+R21	ASSOCIATED_WITH Arg1:T28 Arg2:T22	
+R22	ASSOCIATED_WITH Arg1:T30 Arg2:T22	
+R23	ASSOCIATED_WITH Arg1:T30 Arg2:T34	
+T26	PHYS 875 880	форму
+R24	ASSOCIATED_WITH Arg1:T26 Arg2:T31	
+T27	PHYS 907 918	хронической
+T39	PHYS 921 939	деструктивной форм
+R25	SUBCLASS_OF Arg1:T27 Arg2:T26	
+R26	SUBCLASS_OF Arg1:T39 Arg2:T26	
+T40	DISO 953 963	осложнения
+R27	SUBCLASS_OF Arg1:T37 Arg2:T40	
+T44	PHYS 941 952	Смертельные
+R28	HAS_CAUSE Arg1:T44 Arg2:T37	
+T45	PHYS 974 979	форме
+R29	ASSOCIATED_WITH Arg1:T45 Arg2:T32	
+R30	HAS_CAUSE Arg1:T37 Arg2:T32	
+T51	PHYS 1025 1037	'малых' форм
+R31	ASSOCIATED_WITH Arg1:T51 Arg2:T33	
+T57	DISO 1052 1074	'основное' заболевание
+R32	SUBCLASS_OF Arg1:T33 Arg2:T57	
+R33	HAS_CAUSE Arg1:T41 Arg2:T33	
+T58	DISO 1140 1160	нозологические формы
+R34	SUBCLASS_OF Arg1:T42 Arg2:T58	
+R35	SUBCLASS_OF Arg1:T42 Arg2:T4	
+R36	SUBCLASS_OF Arg1:T4 Arg2:T5	
+R37	AFFECTS Arg1:T5 Arg2:T35	
+T59	DISO 1211 1234	хирургическая патология
+R38	SUBCLASS_OF Arg1:T43 Arg2:T58	
+R39	SUBCLASS_OF Arg1:T43 Arg2:T59	
+T60	DISO 1245 1283	комбинированном 'основном' заболевании
+T61	DISO 1261 1283	'основном' заболевании
+R40	SUBCLASS_OF Arg1:T60 Arg2:T61	
+R41	SUBCLASS_OF Arg1:T58 Arg2:T60	
+T62	PHYS 1444 1454	активности
+T63	PHYS 1457 1475	распространенности
+R42	ASSOCIATED_WITH Arg1:T62 Arg2:T48	
+R43	ASSOCIATED_WITH Arg1:T63 Arg2:T48	
+R44	ASSOCIATED_WITH Arg1:T49 Arg2:T7	
+R45	USED_IN Arg1:T38 Arg2:T50	
+R46	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T36	

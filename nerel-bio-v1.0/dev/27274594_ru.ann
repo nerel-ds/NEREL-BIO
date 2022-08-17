@@ -1,0 +1,53 @@
+T1	DISO 114 123	лихорадки
+T6	DISO 1814 1839	инфекционного заболевания
+T8	DISO 105 113	эпидемии
+T14	LIVB 366 379	вирусом Эбола
+T22	ANATOMY 941 946	калом
+T23	ANATOMY 949 955	кровью
+T24	LIVB 1009 1015	вируса
+T30	ANATOMY 1156 1161	крови
+T42	LIVB 1422 1434	вируса Эбола
+T45	CHEM 1618 1643	дезинфицирующего средства
+T46	ACTIVITY 1661 1668	очистки
+T48	DISO 1798 1806	эпидемии
+T10	PERSON 197 209	специалистов
+T11	SCIPROC 231 244	анализе риска
+T12	SCIPROC 1681 1694	анализа риска
+T7	PERSON 51 63	человеческих
+T47	PERSON 74 81	общинах
+T49	SCIPROC 15 28	оценку рисков
+T50	DISO 114 129	лихорадки Эбола
+T9	LIVB 366 373	вирусом
+T13	PERSON 585 597	специалистов
+T15	SCIPROC 610 622	анализ риска
+T16	ANATOMY 864 870	кровью
+T17	DEVICE 908 915	уборных
+T18	ANATOMY 930 936	кровью
+T19	LIVB 1009 1021	вируса Эбола
+T20	PHYS 985 1021	высоким риском передачи вируса Эбола
+T21	PHYS 1029 1050	высокий уровень риска
+T25	ANATOMY 1116 1141	биологическими жидкостями
+T26	DEVICE 1189 1196	уборных
+T27	ANATOMY 1393 1399	кровью
+T28	LIVB 1422 1428	вируса
+T29	PHYS 1408 1434	Риск передачи вируса Эбола
+T32	ACTIVITY 1581 1592	гигиены рук
+T31	ACTIVITY 1487 1548	использования полного комплекта средств индивидуальной защиты
+T33	ACTIVITY 1595 1643	применения подходящего дезинфицирующего средства
+R1	SUBCLASS_OF Arg1:T50 Arg2:T1	
+R2	TO_DETECT_OR_STUDY Arg1:T49 Arg2:T8	
+R3	MEDICAL_CONDITION Arg1:T47 Arg2:T8	
+R4	MEDICAL_CONDITION Arg1:T47 Arg2:T50	
+R5	SUBCLASS_OF Arg1:T14 Arg2:T9	
+R6	TO_DETECT_OR_STUDY Arg1:T11 Arg2:T14	
+R7	SUBCLASS_OF Arg1:T19 Arg2:T24	
+R8	TO_DETECT_OR_STUDY Arg1:T15 Arg2:T20	
+R9	SUBCLASS_OF Arg1:T30 Arg2:T25	
+R10	SUBCLASS_OF Arg1:T27 Arg2:T25	
+R11	SUBCLASS_OF Arg1:T42 Arg2:T28	
+R12	TO_DETECT_OR_STUDY Arg1:T12 Arg2:T42	
+R13	SUBCLASS_OF Arg1:T50 Arg2:T6	
+R14	ASSOCIATED_WITH Arg1:T12 Arg2:T48	
+R15	ASSOCIATED_WITH Arg1:T12 Arg2:T6	
+R16	HAS_CAUSE Arg1:T50 Arg2:T14	
+R17	HAS_CAUSE Arg1:T48 Arg2:T6	

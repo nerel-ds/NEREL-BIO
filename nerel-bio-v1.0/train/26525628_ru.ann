@@ -1,0 +1,46 @@
+T1	STATE_OR_PROVINCE 77 88	Башкирского
+T2	ORGANIZATION 77 117	Башкирского эпидемиологического кластера
+T3	NUMBER 172 175	712
+T4	STATE_OR_PROVINCE 218 241	Республике Башкортостан
+T5	AGE 364 379	от 10 до 30 лет
+T6	DISO 50 63	сирингомиелии
+T8	PERSON 176 185	пациентов
+T10	PERSON 313 320	больных
+T13	PHYS 444 459	чувствительными
+T14	DISO 462 490	двигательными расстройствами
+T15	DISO 492 516	трофическими изменениями
+T16	ANATOMY 517 521	кожи
+T17	DISO 523 564	нарушениями опорно-двигательного аппарата
+T18	ANATOMY 535 564	опорно-двигательного аппарата
+T20	DISO 620 635	очага поражения
+T21	ANATOMY 638 658	шейно-грудном отделе
+T22	ANATOMY 659 673	спинного мозга
+T7	DISO 188 202	сирингомиелией
+T9	PHYS 462 475	двигательными
+T12	ANATOMY 659 667	спинного
+T24	ANATOMY 638 643	шейно
+T25	ANATOMY 644 651	грудном
+T19	DISO 444 490	чувствительными и двигательными расстройствами
+R1	HEADQUARTERED_IN Arg1:T2 Arg2:T1	
+R2	MEDICAL_CONDITION Arg1:T8 Arg2:T7	
+R3	PLACE_RESIDES_IN Arg1:T8 Arg2:T4	
+R4	ALTERNATIVE_NAME Arg1:T4 Arg2:T1	
+R5	AGE_IS Arg1:T10 Arg2:T5	
+R6	PART_OF Arg1:T22 Arg2:T12	
+R7	AFFECTS Arg1:T17 Arg2:T18	
+R8	AFFECTS Arg1:T15 Arg2:T16	
+R9	HAS_CAUSE Arg1:T15 Arg2:T7	
+R10	ALTERNATIVE_NAME Arg1:T8 Arg2:T10	
+R11	PART_OF Arg1:T16 Arg2:T10	
+R12	PART_OF Arg1:T18 Arg2:T10	
+R13	PART_OF Arg1:T21 Arg2:T22	
+R14	AFFECTS Arg1:T20 Arg2:T21	
+R15	MEDICAL_CONDITION Arg1:T10 Arg2:T15	
+R16	MEDICAL_CONDITION Arg1:T10 Arg2:T17	
+R17	MEDICAL_CONDITION Arg1:T10 Arg2:T19	
+R18	HAS_CAUSE Arg1:T19 Arg2:T7	
+R19	HAS_CAUSE Arg1:T17 Arg2:T7	
+R20	ASSOCIATED_WITH Arg1:T9 Arg2:T19	
+R21	ASSOCIATED_WITH Arg1:T13 Arg2:T19	
+T11	PHYS 27 49	клинических проявлений
+R22	HAS_CAUSE Arg1:T11 Arg2:T6	

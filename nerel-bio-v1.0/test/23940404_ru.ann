@@ -1,0 +1,75 @@
+T1	COUNTRY 97 113	Республике Корея
+T2	DATE 204 223	в период между 1999
+T3	ORGANIZATION 238 318	Управлением по санитарному надзору за качеством пищевых продуктов и медикаментов
+T5	ORGANIZATION 320 353	Агентством по защите потребителей
+T7	ORGANIZATION 356 395	Ассоциацией народной корейской медицины
+T8	NUMBER 620 624	9624
+T9	NUMBER 726 729	522
+T10	DISO 826 844	проблемы с печенью
+T11	NUMBER 853 859	восемь
+T12	ORGANIZATION 955 1034	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов
+T13	INJURY_POISONING 1124 1137	пневмоторакса
+T14	INJURY_POISONING 1140 1146	ожогов
+T15	NUMBER 1191 1194	285
+T16	DATE 1429 1456	в период с 1999 по 2010 год
+T17	DATE 1438 1456	с 1999 по 2010 год
+T18	ORGANIZATION 1528 1560	Агентство по защите потребителей
+T19	ORGANIZATION 1563 1601	Ассоциация народной корейской медицины
+T20	FINDING 17 40	неблагоприятные явления
+T21	MEDPROC 77 94	народной медицины
+T23	FINDING 141 164	неблагоприятных явлений
+T28	PERSON 341 353	потребителей
+T33	PERSON 575 587	потребителей
+T34	FINDING 634 658	неблагоприятных явлениях
+T36	MEDPROC 695 712	народной медицины
+T37	MEDPROC 749 764	лечения травами
+T39	ANATOMY 837 844	печенью
+T40	FINDING 860 877	побочных эффектов
+T47	MEDPROC 1172 1185	физиотерапией
+T48	MEDPROC 1213 1226	моксотерапией
+T49	MEDPROC 1267 1284	народной медицины
+T51	ORGANIZATION 1479 1526	национальной системы фармакологического надзора
+T52	COUNTRY 1287 1303	Республике Корея
+T35	COUNTRY 187 203	Республике Корея
+T4	MEDPROC 481 505	народных методов лечения
+T6	MEDPROC 1200 1212	акупунктурой
+T22	NUMBER 1232 1236	1104
+T24	HEALTH_CARE_ACTIVITY 909 934	фармакологического надзор
+T25	NATIONALITY 1583 1592	корейской
+T26	NATIONALITY 377 386	корейской
+T27	NUMBER 1039 1043	9624
+T29	NUMBER 1054 1058	1389
+T30	DISO 1090 1114	инфекционных заболеваний
+T31	FINDING 1335 1358	неблагоприятных явлений
+T32	FINDING 1373 1398	нежелательные последствия
+R1	ALTERNATIVE_NAME Arg1:T31 Arg2:T32	
+R2	TAKES_PLACE_IN Arg1:T21 Arg2:T1	
+R3	HEADQUARTERED_IN Arg1:T3 Arg2:T35	
+R4	ALTERNATIVE_NAME Arg1:T21 Arg2:T4	
+R5	TAKES_PLACE_IN Arg1:T49 Arg2:T52	
+R6	HAS_CAUSE Arg1:T31 Arg2:T49	
+T38	HEALTH_CARE_ACTIVITY 1656 1682	фармакологического надзора
+T41	HEALTH_CARE_ACTIVITY 1500 1526	фармакологического надзора
+T42	HEALTH_CARE_ACTIVITY 969 988	санитарному надзору
+R7	ALTERNATIVE_NAME Arg1:T4 Arg2:T36	
+R8	SUBCLASS_OF Arg1:T37 Arg2:T36	
+R9	HAS_CAUSE Arg1:T20 Arg2:T21	
+R10	HEADQUARTERED_IN Arg1:T7 Arg2:T35	
+R11	HEADQUARTERED_IN Arg1:T5 Arg2:T35	
+R12	HAS_CAUSE Arg1:T34 Arg2:T36	
+R13	AFFECTS Arg1:T10 Arg2:T39	
+R14	HAS_CAUSE Arg1:T10 Arg2:T36	
+R15	HAS_CAUSE Arg1:T30 Arg2:T47	
+R16	HAS_CAUSE Arg1:T13 Arg2:T47	
+R17	HAS_CAUSE Arg1:T14 Arg2:T47	
+R18	HAS_CAUSE Arg1:T30 Arg2:T6	
+R19	HAS_CAUSE Arg1:T30 Arg2:T48	
+R20	HAS_CAUSE Arg1:T13 Arg2:T6	
+R21	HAS_CAUSE Arg1:T13 Arg2:T48	
+R22	HAS_CAUSE Arg1:T14 Arg2:T6	
+R23	HAS_CAUSE Arg1:T14 Arg2:T48	
+T43	INJURY_POISONING 524 565	несчастных случаях медицинского характера
+R24	HAS_CAUSE Arg1:T43 Arg2:T4	
+R25	PARTICIPANT_IN Arg1:T12 Arg2:T42	
+R26	PARTICIPANT_IN Arg1:T12 Arg2:T24	
+R27	PARTICIPANT_IN Arg1:T51 Arg2:T41	

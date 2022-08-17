@@ -1,0 +1,128 @@
+T1	DISO 49 55	гриппа
+T2	DATE 108 133	в межэпидемический период
+T3	NUMBER 194 196	40
+T4	DISO 224 233	пневмоний
+T5	NUMBER 301 303	20
+T6	NUMBER 424 426	17
+T7	NUMBER 555 556	3
+T8	DATE 576 601	в межэпидемический период
+T9	NUMBER 657 659	20
+T10	DISO 759 764	грипп
+T11	DISO 899 905	гриппа
+T12	PERCENT 1077 1080	30%
+T13	NUMBER 1371 1372	2
+T14	DISO 1754 1760	гриппа
+T16	PHYS 58 74	летальном исходе
+T17	DISO 97 105	эпидемий
+T19	SCIPROC 163 193	клинико-морфологический анализ
+T20	PHYS 197 214	летальных исходов
+T21	LABPROC 268 297	иммуногистохимического метода
+T25	LABPROC 467 475	вскрытия
+T26	FINDING 521 553	сезонного подъема заболеваемости
+T27	PHYS 539 553	заболеваемости
+T30	DISO 834 840	гриппу
+T32	LABPROC 929 964	иммуногистохимического исследования
+T33	ANATOMY 967 974	клетках
+T34	ANATOMY 975 997	бронхиального эпителия
+T35	INJURY_POISONING 1011 1035	цитопатических изменений
+T37	ANATOMY 1061 1074	альвеолоцитах
+T38	FINDING 1119 1159	позитивная иммуногистохимическая реакция
+T40	ANATOMY 1160 1166	клеток
+T41	ANATOMY 1167 1176	эндотелия
+T42	ANATOMY 1177 1196	кровеносных сосудов
+T44	ANATOMY 1226 1234	эпителия
+T45	ANATOMY 1237 1247	макрофагов
+T47	CHEM 1293 1307	нуклеопротеина
+T48	LABPROC 1325 1355	иммуногистохимического анализа
+T49	ANATOMY 1358 1368	макрофагах
+T50	ANATOMY 1400 1420	эпителиальных клеток
+T51	FINDING 1513 1543	позитивной реакцией макрофагов
+T52	ANATOMY 1533 1543	макрофагов
+T53	PERSON 1564 1578	опытной группе
+T56	INJURY_POISONING 1674 1698	цитопатических изменений
+T57	ANATOMY 1736 1746	макрофагах
+T58	LIVB 1846 1852	вируса
+T59	PHYS 1779 1793	вирулентностью
+T61	PHYS 1899 1909	смертности
+T62	DISO 1919 1927	эпидемии
+T63	FINDING 1942 1959	летального исхода
+T15	LIVB 42 48	вируса
+T64	DISO 78 87	пневмоний
+T65	DATE 234 249	за 2009-2013 гг
+T66	DISO 373 379	гриппа
+T67	DISO 457 465	эпидемии
+T68	DATE 476 509	с ноября 2009 г. по январь 2010 г
+T69	DATE 493 509	по январь 2010 г
+T71	PERSON 635 653	контрольная группа
+T72	DISO 777 786	пневмонии
+T29	DISO 793 806	эпидемический
+T31	CHEM 878 891	нуклеопротеин
+T74	LIVB 892 898	вируса
+T39	LIVB 1308 1314	вируса
+T43	DATE 1422 1429	40 дней
+T75	DATE 1437 1444	22 дней
+T76	PERSON 1449 1467	контрольной группе
+T55	LIVB 1747 1753	вируса
+T60	DISO 1853 1859	гриппа
+T18	ANATOMY 975 988	бронхиального
+T22	ANATOMY 989 997	эпителия
+T78	ANATOMY 1400 1413	эпителиальных
+T79	ANATOMY 1414 1420	клеток
+T80	LIVB 1846 1859	вируса гриппа
+T81	LABPROC 1130 1151	иммуногистохимическая
+T82	LIVB 42 55	вируса гриппа
+T83	DISO 215 233	очаговых пневмоний
+T23	PERSON 312 327	основной группы
+T24	DATE 476 491	с ноября 2009 г
+T28	LIVB 892 905	вируса гриппа
+T36	PHYS 1177 1188	кровеносных
+T70	ANATOMY 1189 1196	сосудов
+T46	LIVB 1747 1760	вируса гриппа
+T54	DATE 1960 1986	в межэпидемическом периоде
+T77	PERSON 321 327	группы
+T85	PERSON 647 653	группа
+T86	PERSON 863 877	опытной группе
+T87	PERSON 871 877	группе
+T89	CHEM 878 905	нуклеопротеин вируса гриппа
+T90	CHEM 1293 1314	нуклеопротеина вируса
+T91	PERSON 1461 1467	группе
+T92	PERSON 1572 1578	группе
+T93	FINDING 1763 1793	резко сниженной вирулентностью
+T94	FINDING 1884 1927	дополнительной смертности в период эпидемии
+T95	PHYS 1942 1952	летального
+R1	SUBCLASS_OF Arg1:T83 Arg2:T4	
+R2	SUBCLASS_OF Arg1:T86 Arg2:T87	
+R3	SUBCLASS_OF Arg1:T82 Arg2:T15	
+R4	HAS_CAUSE Arg1:T1 Arg2:T82	
+R5	SUBCLASS_OF Arg1:T23 Arg2:T77	
+R6	SUBCLASS_OF Arg1:T71 Arg2:T85	
+R7	SUBCLASS_OF Arg1:T80 Arg2:T58	
+R8	HAS_CAUSE Arg1:T60 Arg2:T80	
+R9	SUBCLASS_OF Arg1:T46 Arg2:T55	
+R10	HAS_CAUSE Arg1:T14 Arg2:T46	
+R11	SUBCLASS_OF Arg1:T53 Arg2:T92	
+R12	SUBCLASS_OF Arg1:T76 Arg2:T91	
+R13	PART_OF Arg1:T50 Arg2:T78	
+R14	SUBCLASS_OF Arg1:T50 Arg2:T79	
+R15	SUBCLASS_OF Arg1:T42 Arg2:T70	
+T73	ANATOMY 1160 1176	клеток эндотелия
+R16	SUBCLASS_OF Arg1:T73 Arg2:T40	
+R17	PART_OF Arg1:T73 Arg2:T41	
+R18	PART_OF Arg1:T40 Arg2:T42	
+R19	APPLIED_TO Arg1:T81 Arg2:T73	
+R20	SUBCLASS_OF Arg1:T90 Arg2:T47	
+R21	ORIGINS_FROM Arg1:T90 Arg2:T39	
+R22	TO_DETECT_OR_STUDY Arg1:T48 Arg2:T90	
+R23	FINDING_OF Arg1:T51 Arg2:T76	
+R24	FINDING_OF Arg1:T51 Arg2:T53	
+R25	HAS_CAUSE Arg1:T20 Arg2:T83	
+R26	TO_DETECT_OR_STUDY Arg1:T19 Arg2:T20	
+R27	HAS_CAUSE Arg1:T16 Arg2:T64	
+R28	HAS_CAUSE Arg1:T17 Arg2:T64	
+R29	HAS_CAUSE Arg1:T17 Arg2:T1	
+R30	HAS_CAUSE Arg1:T64 Arg2:T1	
+R31	PART_OF Arg1:T34 Arg2:T18	
+R32	SUBCLASS_OF Arg1:T34 Arg2:T22	
+R33	PART_OF Arg1:T33 Arg2:T34	
+R34	SUBCLASS_OF Arg1:T28 Arg2:T74	
+R35	HAS_CAUSE Arg1:T11 Arg2:T28	

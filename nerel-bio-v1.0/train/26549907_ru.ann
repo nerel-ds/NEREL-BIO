@@ -1,0 +1,81 @@
+T1	PERCENT 175 178	50%
+T2	PERCENT 229 232	75%
+T3	DATE 256 267	к 2025 году
+T4	DISO 580 591	туберкулеза
+T8	COUNTRY 1897 1902	Китае
+T9	DATE 51 57	сейчас
+T13	PHYS 245 255	смертности
+T14	PERSON 270 274	Лица
+T19	DISO 545 554	эпидемией
+T20	EVENT 631 638	реформы
+T22	EVENT 678 685	реформы
+T23	PERSON 686 694	пациенты
+T24	SCIPROC 806 827	математическая модель
+T27	FACILITY 1120 1145	туберкулезных диспансерах
+T30	MEDPROC 1217 1238	лекарственное лечение
+T31	PERSON 1267 1275	больными
+T37	PERSON 1577 1586	пациентов
+T38	FACILITY 1590 1615	туберкулезных диспансеров
+T42	COUNTRY 60 65	Китае
+T43	DISO 118 129	туберкулеза
+T44	DATE 142 153	на 2015 год
+T10	FINDING 182 226	сокращения частоты возникновения заболевания
+T12	COUNTRY 292 297	Китае
+T15	DISO 423 434	туберкулеза
+T16	FINDING 392 422	снижение частоты возникновения
+T17	DISO 555 591	лекарственно-устойчивого туберкулеза
+T18	EVENT 631 654	реформы здравоохранения
+T21	DISO 697 709	туберкулезом
+T45	FACILITY 730 752	диспансерных заведений
+T46	FACILITY 755 782	специализированные больницы
+T47	HEALTH_CARE_ACTIVITY 481 506	контроля над заболеванием
+T25	DISO 841 853	туберкулезом
+T48	HEALTH_CARE_ACTIVITY 828 853	контроля над туберкулезом
+T49	SCIPROC 806 853	математическая модель контроля над туберкулезом
+T50	COUNTRY 856 861	Китае
+T51	DATE 998 1018	на протяжении 10 лет
+T26	DISO 1120 1133	туберкулезных
+T52	FACILITY 1134 1145	диспансерах
+T28	DISO 1188 1199	туберкулеза
+T29	DISO 1188 1238	туберкулеза, реагирующего на лекарственное лечение
+T55	DISO 1276 1288	туберкулезом
+T56	DISO 1276 1333	туберкулезом со множественной лекарственной устойчивостью
+T33	DISO 1492 1504	туберкулезом
+T34	DISO 1492 1549	туберкулезом со множественной лекарственной устойчивостью
+T7	DISO 1590 1603	туберкулезных
+T36	FACILITY 1604 1615	диспансеров
+T59	FACILITY 1618 1645	специализированные больницы
+T39	HEALTH_CARE_ACTIVITY 1677 1702	контролю над туберкулезом
+T61	DISO 1690 1702	туберкулезом
+T40	FINDING 1727 1736	излечения
+T62	PHYS 1716 1736	показатели излечения
+T41	DISO 1882 1894	туберкулезом
+T63	HEALTH_CARE_ACTIVITY 1869 1894	контроля над туберкулезом
+T5	FACILITY 774 782	больницы
+T53	FACILITY 1637 1645	больницы
+T54	FACILITY 1744 1753	больницах
+T60	FINDING 236 255	снижения смертности
+T64	PHYS 401 434	частоты возникновения туберкулеза
+R1	SUBCLASS_OF Arg1:T34 Arg2:T33	
+R2	MEDICAL_CONDITION Arg1:T23 Arg2:T21	
+R3	TAKES_PLACE_IN Arg1:T63 Arg2:T8	
+R4	SUBCLASS_OF Arg1:T29 Arg2:T28	
+R5	SUBCLASS_OF Arg1:T56 Arg2:T55	
+T6	HEALTH_CARE_ACTIVITY 1258 1275	уходе за больными
+R6	MEDICAL_CONDITION Arg1:T31 Arg2:T56	
+R7	PARTICIPANT_IN Arg1:T31 Arg2:T6	
+R8	VALUE_IS Arg1:T10 Arg2:T1	
+R9	VALUE_IS Arg1:T60 Arg2:T2	
+R10	SUBCLASS_OF Arg1:T17 Arg2:T4	
+R11	TAKES_PLACE_IN Arg1:T18 Arg2:T12	
+R12	SUBCLASS_OF Arg1:T49 Arg2:T24	
+R13	HAS_CAUSE Arg1:T19 Arg2:T17	
+R14	ASSOCIATED_WITH Arg1:T15 Arg2:T16	
+R15	MEDICAL_CONDITION Arg1:T37 Arg2:T61	
+R16	TAKES_PLACE_IN Arg1:T48 Arg2:T50	
+R17	LOCATED_IN Arg1:T43 Arg2:T42	
+R18	LOCATED_IN Arg1:T15 Arg2:T12	
+R19	TAKES_PLACE_IN Arg1:T47 Arg2:T12	
+R20	MEDICAL_CONDITION Arg1:T37 Arg2:T7	
+R21	LOCATED_IN Arg1:T41 Arg2:T8	
+R22	PARTICIPANT_IN Arg1:T31 Arg2:T6	

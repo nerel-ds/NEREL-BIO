@@ -1,0 +1,67 @@
+T2	GENE 61 65	BDNF
+T3	NUMBER 891 894	169
+T4	NUMBER 946 949	320
+T5	ORDINAL 972 978	первой
+T6	ORDINAL 1400 1406	первой
+T7	GENE 20 59	Ген мозгового нейротрофического фактора
+T9	DISO 107 117	шизофрении
+T12	GENE 252 265	Val66Met BDNF
+T13	DISO 306 316	шизофрении
+T16	MENTALPROC 403 423	когнитивных резервов
+T19	MENTALPROC 576 595	когнитивных функций
+T20	PERSON 596 603	больных
+T21	GENE 642 655	Val66Met BDNF
+T23	PERSON 724 737	родственников
+T24	PERSON 751 760	пациентов
+T25	PERSON 763 771	здоровых
+T27	GENE 827 852	гена когнитивных резервов
+T28	MENTALPROC 832 852	когнитивных резервов
+T30	PERSON 895 902	больных
+T31	DISO 905 944	расстройствами шизофренического спектра
+T32	DISO 920 944	шизофренического спектра
+T33	PERSON 950 963	родственников
+T34	PERSON 964 971	больных
+T36	SCIPROC 1046 1070	молекулярно-генетические
+T37	SCIPROC 1073 1125	экспериментально-психологические методы исследования
+T38	GENE 1193 1205	полиморфизма
+T39	MENTALPROC 1209 1226	вербальную память
+T40	PERSON 1287 1294	больных
+T42	PERSON 1378 1391	родственников
+T43	PERSON 1392 1399	больных
+T45	PERSON 1426 1433	больных
+T46	PERSON 1436 1444	здоровых
+T47	DISO 1478 1487	психозами
+T49	GENE 1534 1538	BDNF
+T50	GENE 1543 1568	гене когнитивных резервов
+T51	MENTALPROC 1548 1568	когнитивных резервов
+R1	ABBREVIATION Arg1:T7 Arg2:T2	
+T1	MENTALPROC 1220 1226	память
+T8	GENE 1362 1375	Val66Met BDNF
+T10	GENE 796 800	BDNF
+T14	PERSON 1013 1031	контрольные группы
+T26	DISO 604 615	шизофренией
+T15	MENTALPROC 1263 1275	когнитивного
+T18	ANATOMY 24 33	мозгового
+T22	PERSON 1025 1031	группы
+T29	DISO 1263 1284	когнитивного дефицита
+R2	MEDICAL_CONDITION Arg1:T20 Arg2:T26	
+R3	MENTAL_PROCESS_OF Arg1:T19 Arg2:T20	
+R4	MEDICAL_CONDITION Arg1:T30 Arg2:T31	
+T11	PERSON 950 994	родственников больных первой степени родства
+R5	RELATIVE Arg1:T11 Arg2:T34	
+R6	SUBCLASS_OF Arg1:T39 Arg2:T1	
+R7	MEDICAL_CONDITION Arg1:T40 Arg2:T29	
+R8	AFFECTS Arg1:T29 Arg2:T15	
+R9	TO_DETECT_OR_STUDY Arg1:T36 Arg2:T31	
+R10	TO_DETECT_OR_STUDY Arg1:T37 Arg2:T31	
+R11	ORIGINS_FROM Arg1:T7 Arg2:T18	
+R12	HAS_CAUSE Arg1:T9 Arg2:T7	
+R13	SUBCLASS_OF Arg1:T12 Arg2:T7	
+R14	MENTAL_PROCESS_OF Arg1:T16 Arg2:T20	
+R15	ORIGINS_FROM Arg1:T21 Arg2:T20	
+R16	RELATIVE Arg1:T24 Arg2:T23	
+R17	ALTERNATIVE_NAME Arg1:T20 Arg2:T24	
+R18	SUBCLASS_OF Arg1:T14 Arg2:T22	
+T35	FINDING 1153 1205	Не было обнаружено влияния изучавшегося полиморфизма
+R19	FINDING_OF Arg1:T35 Arg2:T40	
+T17	FINDING 1507 1568	не поддерживают гипотезу о BDNF как гене когнитивных резервов
