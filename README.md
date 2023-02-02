@@ -1,6 +1,7 @@
 # NEREL-BIO
 
 A dataset of Russian biomedical abstracts annotated with nested named entities. NEREL-BIO extends the general domain dataset [NEREL](https://github.com/nerel-ds/NEREL).
+
 [NEREL-BIO annotation scheme](https://github.com/nerel-ds/NEREL-BIO/blob/master/nerel-bio-guidelines.pdf) covers both general and biomedical domains making it suitable for domain transfer experiments. 
 
 ### List of entity types
