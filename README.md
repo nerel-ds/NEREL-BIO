@@ -1,4 +1,4 @@
-# NEREL-BIO: Biomedical Corpus for Nested Named Entity Recorgition
+# NEREL-BIO: Biomedical Corpus for Nested Named Entity Recognition
 
 This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abstracts in Russian and in English. NEREL-BIO extends the general domain dataset [NEREL](https://github.com/nerel-ds/NEREL). [NEREL-BIO annotation scheme](https://github.com/nerel-ds/NEREL-BIO/blob/master/nerel-bio-guidelines.pdf) covers both general and biomedical domains making it suitable for domain transfer experiments. 
 
