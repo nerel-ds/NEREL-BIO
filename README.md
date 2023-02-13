@@ -4,6 +4,8 @@ A dataset of Russian biomedical abstracts annotated with nested named entities. 
 
 [NEREL-BIO annotation scheme](https://github.com/nerel-ds/NEREL-BIO/blob/master/nerel-bio-guidelines.pdf) covers both general and biomedical domains making it suitable for domain transfer experiments. 
 
+![](images/types.png)
+
 ### List of entity types
 
 |No. | Entity type | No. | Entity type | No. | Entity type
@@ -26,3 +28,15 @@ A dataset of Russian biomedical abstracts annotated with nested named entities. 
 ### Baselines for nested entities
  - [Machine Reading Comprehension model](https://github.com/fulstock/mrc_nested_ner_ru)
  - [Second-best Sequence model](https://github.com/fulstock/second-best-learning-and-decoding-rubert)
+
+
+### Citation
+https://arxiv.org/abs/2210.11913
+```
+@article{loukachevitch2022nerel,
+  title={NEREL-BIO: A Dataset of Biomedical Abstracts Annotated with Nested Named Entities},
+  author={Loukachevitch, Natalia and Manandhar, Suresh and Baral, Elina and Rozhkov, Igor and Braslavski, Pavel and Ivanov, Vladimir and Batura, Tatiana and Tutubalina, Elena},
+  journal={arXiv preprint arXiv:2210.11913},
+  year={2022}
+}
+```
