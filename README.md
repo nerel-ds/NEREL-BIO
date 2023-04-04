@@ -34,10 +34,15 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 ### Citation
 https://arxiv.org/abs/2210.11913
 ```
-@article{loukachevitch2022nerel,
-  title={NEREL-BIO: A Dataset of Biomedical Abstracts Annotated with Nested Named Entities},
-  author={Loukachevitch, Natalia and Manandhar, Suresh and Baral, Elina and Rozhkov, Igor and Braslavski, Pavel and Ivanov, Vladimir and Batura, Tatiana and Tutubalina, Elena},
-  journal={arXiv preprint arXiv:2210.11913},
-  year={2022}
+@article{NERELBIO,
+    author = {Loukachevitch, Natalia and Manandhar, Suresh and Baral, Elina and Rozhkov, Igor and Braslavski, Pavel and Ivanov, Vladimir and Batura, Tatiana and Tutubalina, Elena},
+    title = "{NEREL-BIO: A Dataset of Biomedical Abstracts Annotated with Nested Named Entities}",
+    journal = {Bioinformatics},
+    year = {2023},
+    month = {04},
+    issn = {1367-4811},
+    doi = {10.1093/bioinformatics/btad161},
+    url = {https://doi.org/10.1093/bioinformatics/btad161},
+    note = {btad161},
 }
 ```
