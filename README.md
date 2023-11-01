@@ -25,6 +25,11 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 |12. | LABPROC | 25. | FACILITY |  | 
 |13. | LIVB | 26. | LOCATION |  | 
 
+[![](https://img.shields.io/badge/AREkit--ss_Compatible-0.23.1-purple.svg)](https://github.com/nicolay-r/arekit-ss#usage)
+
+> 📓 **Update 1 November 2023**: this collection **is now available in [arekit-ss](https://github.com/nicolay-r/arekit-ss)**
+> for a [quick sampling](https://github.com/nicolay-r/arekit-ss#usage) of contexts with most subject-object relation mentions with just **single script into
+> `JSONL/CSV/SqLite`** including (optional) language transfering 🔥 [[Learn more ...]](https://github.com/nicolay-r/arekit-ss#usage)
 
 ### Baselines for nested entities
  - [Machine Reading Comprehension model](https://github.com/fulstock/mrc_nested_ner_ru)
@@ -32,7 +37,7 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 
 
 ### Citation
-https://arxiv.org/abs/2210.11913
+Loukachevitch N., Manandhar S., Baral E., Rozhkov I., Braslavski P., Ivanov V., Batura T., Tutubalina E. NEREL-BIO: a dataset of biomedical abstracts annotated with nested named entities. Bioinformatics. 2023. Volume 39, Issue 4, btad161. https://doi.org/10.1093/bioinformatics/btad161
 ```
 @article{NERELBIO,
     author = {Loukachevitch, Natalia and Manandhar, Suresh and Baral, Elina and Rozhkov, Igor and Braslavski, Pavel and Ivanov, Vladimir and Batura, Tatiana and Tutubalina, Elena},
