@@ -1,14 +1,13 @@
 # Baseline Solution
 
 
-This solution is based on BINDER ([**BI**-encoder for **N**ame**D** **E**ntity **R**ecognition via Contrastive Learning](https://openreview.net/forum?id=9EAQVEINuum)) model[^1].
-Based on the bi-encoder representations, BINDER introduces a unified contrastive learning framework for NER, which encourages the representation of entity types to be similar with the corresponding
-entity mentions, and to be dissimilar with non-entity text spans.
+This solution leverages BINDER ([**BI**-encoder for **N**ame**D** **E**ntity **R**ecognition via Contrastive Learning](https://openreview.net/forum?id=9EAQVEINuum)) model[^1].
+Based on the bi-encoder representations, BINDER introduces a unified contrastive learning framework for NER, which encourages the representation of entity types to be similar to the corresponding entity mentions, and to be dissimilar with non-entity text spans.
 
 
 ### 1. Data Preparation
 
-Binder framework requires HFDS JSON files as input for training data. As a first step, we need to convert our NEREL-BIO dataset from BRAT to HFDS format. Here is a [script]() for it.
+Binder framework requires HF-DS JSON files as input for training data. As a first step, we need to convert our NEREL-BIO dataset from BRAT to HFDS format. Here is a [script](brat_to_hfds.py) for it.
 ```bash
 python brat_to_hfds.py --brat_dataset_path data/NEREL-BIO --tags_path data/nerel_bio_frequent.tags --hfds_output_path data/processed_data
 ```
