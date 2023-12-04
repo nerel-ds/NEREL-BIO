@@ -15,7 +15,7 @@ The evaluation framework is divided into three broad tracks:
 *    Track 3 - Russian-oriented: Participants in this track are required to train a nested NER model for Russian scientific abstracts in the biomedical domain. Participants are allowed to train any model architecture on any publicly available data in order to achieve the best performance.
 
 
-![Nested Entity Annotation example](https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne/annotation_example.png?raw=true)
+![Nested Named Entity Annotation example](annotation_example.png?raw=true)
 
 ## Baseline Solution
 You can find the baseline solution in the [baseline_model](https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne/baseline_model) directory.
