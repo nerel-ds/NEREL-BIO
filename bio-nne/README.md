@@ -18,7 +18,17 @@ The evaluation framework is divided into three broad tracks:
 Nested Named Entity Annotation example
 
 ## Dataset
-In order to download our train/dev splits with annotations for BioNNE 2024, please register at the [BioASQ](http://participants-area.bioasq.org/#) website.
+In order to download our train/dev splits with annotations in English and Russian for BioNNE 2024, please register at the [BioASQ](http://participants-area.bioasq.org/#) website.
+
+We strongly encourage participants to apply cross-language (Russian to English) and cross-domain (existing bio NER corpora to the BioNNE set) techniques in the BioNNE Task.
+For example, you can use the following datasets:
+
+- [NEREL](https://github.com/nerel-ds/NEREL) (Russian, general-domain, nested named entities, BRAT format)
+- [RuCCoN](https://github.com/AIRI-Institute/RuCCoN) (Russian, electronic health records, flat named entities, BRAT format)
+- [MedMentions](https://github.com/chanzuckerberg/MedMentions) (English, PubMed abstracts, PubTator format)
+- BC2GM, BC5-chem, BC5-disease, EBM PICO, JNLPBA, NCBI-disease from the [BigBio library](https://github.com/bigscience-workshop/biomedical)  (English, PubMed abstracts, flat named entities)
+
+
 
 ## Baseline Solution
 You can find the baseline solution in the [baseline_model](https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne/baseline_model) directory.
