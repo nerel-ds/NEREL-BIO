@@ -17,6 +17,9 @@ The evaluation framework is divided into three broad tracks:
 <img src="annotation_example.png" width="450">
 Nested Named Entity Annotation example
 
+## Dataset
+In order to download our train/dev splits with annotations for BioNNE 2024, please register at [BioASQ](http://participants-area.bioasq.org/#) website.
+
 ## Baseline Solution
 You can find the baseline solution in the [baseline_model](https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne/baseline_model) directory.
 
