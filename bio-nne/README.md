@@ -18,7 +18,7 @@ The evaluation framework is divided into three broad tracks:
 Nested Named Entity Annotation example
 
 ## Dataset
-In order to download our train/dev splits with annotations for BioNNE 2024, please register at [BioASQ](http://participants-area.bioasq.org/#) website.
+In order to download our train/dev splits with annotations for BioNNE 2024, please register at the [BioASQ](http://participants-area.bioasq.org/#) website.
 
 ## Baseline Solution
 You can find the baseline solution in the [baseline_model](https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne/baseline_model) directory.
@@ -29,17 +29,16 @@ You need to register on the official [BioNNE Codalab page](https://codalab.lisn.
 ## Timeline
 Phase |	Dates
 --- | --
-Training Data Release |	January 2024
-Validation Data Release |	TBA
-Validation set submission due | TBA
-Test data release, evaluation phase starts | TBA
-Test set predictions due | TBA
-Test set evaluation scores release | TBA
-System descriptions due | TBA
-Acceptance notification | TBA
-Camera-ready system descriptions | TBA
-BioASQ Workshop at CLEF 2024 | September 9-12, 2024
+Registration opens |	13 Nov 2023
+Training Data Release |	5 Feb 2024
+Test data release, evaluation phase starts | 25 April 2024
+Test set predictions due | 6 May 2024
+Submission of participant papers  | 31 May 2024
+Acceptance notification for participant papers | 24 June 2024
+Camera-ready working notes papers | 8 July 2024
+BioASQ Workshop at CLEF 2024, Grenoble, France | September 9-12, 2024
 
+See also important dates on the [CLEF 2024](https://clef2024.imag.fr/index.php?page=Pages/schedule.html) website.
 
 ## Organizers
 Vera Davydova, Sber AI, email: veranchos@gmail.com
