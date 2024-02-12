@@ -18,6 +18,9 @@ The evaluation framework is divided into three broad tracks:
 Nested Named Entity Annotation example
 
 ## Dataset
+
+The train/dev splits are based on an improved subset of NEREL-BIO dataset. It consists of 766 annotated PubMed abstracts in Russian and English. For this competition, we only use the eight most common medical entities from the dataset: FINDING, DISO, INJURY_POISONING, PHYS, DEVICE, LABPROC, ANATOMY, CHEM. The annotation format is BRAT.
+
 In order to download our train/dev splits with annotations in English and Russian for BioNNE 2024, please register at the [BioASQ](http://participants-area.bioasq.org/#) website.
 
 We strongly encourage participants to apply cross-language (Russian to English) and cross-domain (existing bio NER corpora to the BioNNE set) techniques in the BioNNE Task.
