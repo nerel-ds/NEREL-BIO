@@ -19,7 +19,7 @@ Nested Named Entity Annotation example
 
 ## Dataset
 
-The train/dev splits are based on an improved subset of NEREL-BIO dataset. It consists of 766 annotated PubMed abstracts in Russian and English. For this competition, we only use the eight most common medical entities from the dataset: FINDING, DISO, INJURY_POISONING, PHYS, DEVICE, LABPROC, ANATOMY, CHEM. The annotation format is BRAT.
+The train/dev splits are based on an improved subset of NEREL-BIO dataset. In particular, compared to the original dataset, we fixed some annotators' errors, merged PRODUCT and DEVICE type classes into DEVICE class and selected the eight most common medical entities from the dataset: FINDING, DISO, INJURY_POISONING, PHYS, DEVICE, LABPROC, ANATOMY, CHEM. The annotation format is BRAT. The resulting dataset consists of 661 annotated PubMed abstracts in Russian and 105 parallel abstracts in Russian and English.
 
 In order to download our train/dev splits with annotations in English and Russian for BioNNE 2024, please register at the [BioASQ](http://participants-area.bioasq.org/#) website.
 
