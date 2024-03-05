@@ -37,7 +37,10 @@ For example, you can use the following datasets:
 You can find the baseline solution in the [baseline_model](https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne/baseline_model) directory.
 
 ## Submitting the results
-You need to register on the official [BioNNE Codalab page](https://codalab.lisn.upsaclay.fr/competitions/16464) in order to submit your results and see the leaderboard. Please note that your submission should only include the JSON with your predictions archived in .zip format.
+You need to register on the official [BioNNE Codalab page](https://codalab.lisn.upsaclay.fr/competitions/16464) in order to submit your results and see the leaderboard. Please note that your submission should only include the JSON with your predictions archived in .zip format. 
+
+The span-level macro-averaged F1 will be used as an evaluation metric. 
+
 
 ## Timeline
 Phase |	Dates
