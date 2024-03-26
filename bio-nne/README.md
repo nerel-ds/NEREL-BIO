@@ -37,10 +37,22 @@ For example, you can use the following datasets:
 You can find the baseline solution in the [baseline_model](https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne/baseline_model) directory.
 
 ## Submitting the results
-You need to register on the official [BioNNE Codalab page](https://codalab.lisn.upsaclay.fr/competitions/16464) in order to submit your results and see the leaderboard. Please note that your submission should only include the JSON with your predictions archived in .zip format. 
-
+You need to register on the official [BioNNE Codalab page](https://codalab.lisn.upsaclay.fr/competitions/16464) in order to submit your results and see the leaderboard. Please note that your submission should only include the JSONL with your predictions archived in .zip format. 
 The span-level macro-averaged F1 will be used as an evaluation metric. 
+### Submition format
+According to Codalab rules, the submition format is .zip archive containing only one JSONL file. Make sure your archive doesn't have any hidden files, i.e. _.MACOS_).
+Each line in .jsonl file should consist of the predictions for one text from the dev/test set. The format of one JSON line containing the predictions is:
+```
+{"entities":[[27,39,"CHEM"],[86,92,"DISO"],[109,131,"DISO"],[184,196,"CHEM"],[435,453,"PHYS"],...],
+"id":"25591652_en",
+"text": "Clinical effectiveness of pioglitazone in the combination treatment of patients with asthma concurrent with coronary heart disease].  AIM To investigate the clinical effectiveness of pioglitazone in the combination treatment of patients with asthma concurrent with coronary heart disease (CHD).  SUBJECTS AND METHODS Fifty patients aged 40-75 years with asthma concurrent with CHD were examined.  External respiratory function (ERF), electrocardiograms, blood pressure (BP), and anthropometric measurements were assessed in all the patients..."}
+```
 
+ - "entities" is a list of lists containing the starting position of the entity, the ending position of the entity and the type of the entity;
+ - "id" is the id (name) of the corresponding .txt and .ann files;
+ - "text" is the medical abstract from the corresponding .txt file.
+
+You should submit your results [here](https://codalab.lisn.upsaclay.fr/competitions/16464#participate-submit_results) (available after registration). Make sure you choose the right competition phase (bilingual/English/Russian + development or test) for each of your submissions. 
 
 ## Timeline
 Phase |	Dates
