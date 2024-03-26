@@ -31,6 +31,10 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 > for a [quick sampling](https://github.com/nicolay-r/arekit-ss#usage) of contexts with most subject-object relation mentions with just **single script into
 > `JSONL/CSV/SqLite`** including (optional) language transfering 🔥 [[Learn more ...]](https://github.com/nicolay-r/arekit-ss#usage)
 
+### Concept Normalization over Nested Entities
+
+We release entity normalization annotation over nested entities, [see](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/data).
+
 ### Baselines for nested entities
  - [Machine Reading Comprehension model](https://github.com/fulstock/mrc_nested_ner_ru)
  - [Second-best Sequence model](https://github.com/fulstock/second-best-learning-and-decoding-rubert)
