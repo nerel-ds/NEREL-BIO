@@ -1,0 +1,174 @@
+T1	PERCENT 105 109	1,8%
+T2	DISO 279 306	тромбозом нижней полой вены
+T3	AGE 324 330	57 лет
+T4	DISO 333 353	колоректальным раком
+T5	DISO 363 407	метастатическое поражение правой доли печени
+T6	NUMBER 507 508	8
+T7	MEDPROC 624 653	правосторонняя адреналэктомия
+T8	DISO 0 9	Метастазы
+T9	ANATOMY 33 44	надпочечник
+T10	PERSON 47 54	больных
+T13	DISO 237 262	колоректальных метастазах
+T14	ANATOMY 265 276	надпочечник
+T15	DISO 279 288	тромбозом
+T16	ANATOMY 289 306	нижней полой вены
+T17	PERSON 316 323	больной
+T18	DISO 333 361	колоректальным раком pT3N2M1
+T19	DISO 363 388	метастатическое поражение
+T20	ANATOMY 389 407	правой доли печени
+T21	MEDPROC 421 453	паллиативную дистальную резекцию
+T22	ANATOMY 454 471	сигмовидной кишки
+T23	MEDPROC 488 504	гемигепатэктомию
+T25	MEDPROC 516 532	полихимиотерапии
+T26	DISO 543 568	метастатическое поражение
+T27	ANATOMY 569 589	правого надпочечника
+T29	ANATOMY 609 612	НПВ
+T30	MEDPROC 639 653	адреналэктомия
+T31	MEDPROC 705 717	тромбэктомия
+T32	DISO 752 761	метастаза
+T33	ANATOMY 764 776	надпочечнике
+T34	DISO 803 821	опухолевого тромба
+T36	MEDPROC 902 929	неоадъювантной химиотерапии
+T37	DISO 26 30	рака
+T38	DISO 10 30	колоректального рака
+T39	DISO 0 30	Метастазы колоректального рака
+T40	ANATOMY 84 90	печени
+T42	MEDPROC 917 929	химиотерапии
+T43	DISO 803 814	опухолевого
+T44	DISO 815 821	тромба
+T35	MEDPROC 673 692	сосудистой изоляции
+T45	ANATOMY 673 683	сосудистой
+T46	ANATOMY 308 311	НПВ
+T47	ANATOMY 721 724	НПВ
+R1	ALTERNATIVE_NAME Arg1:T16 Arg2:T46	
+T48	ANATOMY 296 306	полой вены
+T49	ANATOMY 302 306	вены
+T50	ANATOMY 466 471	кишки
+T51	DISO 57 90	метастатическим поражением печени
+T52	DISO 57 83	метастатическим поражением
+T12	DISO 252 262	метастазах
+R2	AGE_IS Arg1:T17 Arg2:T3	
+T53	DISO 348 353	раком
+T54	ANATOMY 401 407	печени
+T56	MEDPROC 445 453	резекцию
+T57	MEDPROC 421 471	паллиативную дистальную резекцию сигмовидной кишки
+T58	MEDPROC 473 504	правостороннюю гемигепатэктомию
+T24	DISO 592 597	тромб
+T28	DISO 592 612	тромб в просвете НПВ
+T59	ANATOMY 577 589	надпочечника
+T60	DISO 543 589	метастатическое поражение правого надпочечника
+T61	FINDING 161 201	ухудшают прогноз долгосрочного выживания
+R12	APPLIED_TO Arg1:T57 Arg2:T22	
+R13	TREATED_USING Arg1:T17 Arg2:T57	
+R15	TREATED_USING Arg1:T17 Arg2:T25	
+R3	SUBCLASS_OF Arg1:T51 Arg2:T52	
+R4	AFFECTS Arg1:T51 Arg2:T40	
+R5	PART_OF Arg1:T40 Arg2:T10	
+R6	PART_OF Arg1:T9 Arg2:T10	
+R7	AFFECTS Arg1:T51 Arg2:T10	
+R8	SUBCLASS_OF Arg1:T39 Arg2:T8	
+R9	SUBCLASS_OF Arg1:T38 Arg2:T37	
+R10	AFFECTS Arg1:T39 Arg2:T9	
+R11	MEDICAL_CONDITION Arg1:T10 Arg2:T39	
+R16	MEDICAL_CONDITION Arg1:T10 Arg2:T38	
+R17	PART_OF Arg1:T20 Arg2:T54	
+R18	SUBCLASS_OF Arg1:T27 Arg2:T59	
+R19	SUBCLASS_OF Arg1:T28 Arg2:T24	
+R22	AFFECTS Arg1:T28 Arg2:T29	
+R23	SUBCLASS_OF Arg1:T7 Arg2:T30	
+R29	APPLIED_TO Arg1:T35 Arg2:T45	
+R30	APPLIED_TO Arg1:T31 Arg2:T47	
+R31	SUBCLASS_OF Arg1:T34 Arg2:T44	
+R32	HAS_CAUSE Arg1:T34 Arg2:T43	
+R33	SUBCLASS_OF Arg1:T36 Arg2:T42	
+R34	SUBCLASS_OF Arg1:T58 Arg2:T23	
+R35	USED_IN Arg1:T35 Arg2:T31	
+R36	HAS_CAUSE Arg1:T61 Arg2:T51	
+R37	HAS_CAUSE Arg1:T61 Arg2:T39	
+R38	SUBCLASS_OF Arg1:T16 Arg2:T48	
+R39	SUBCLASS_OF Arg1:T48 Arg2:T49	
+R40	SUBCLASS_OF Arg1:T2 Arg2:T15	
+R41	AFFECTS Arg1:T13 Arg2:T14	
+R42	SUBCLASS_OF Arg1:T4 Arg2:T53	
+R43	SUBCLASS_OF Arg1:T18 Arg2:T4	
+R44	AFFECTS Arg1:T18 Arg2:T17	
+R45	ALTERNATIVE_NAME Arg1:T18 Arg2:T5	
+R46	SUBCLASS_OF Arg1:T13 Arg2:T12	
+R47	SUBCLASS_OF Arg1:T5 Arg2:T19	
+R48	AFFECTS Arg1:T5 Arg2:T20	
+R49	SUBCLASS_OF Arg1:T22 Arg2:T50	
+R50	PART_OF Arg1:T50 Arg2:T17	
+R51	SUBCLASS_OF Arg1:T57 Arg2:T21	
+R52	SUBCLASS_OF Arg1:T21 Arg2:T56	
+R54	PART_OF Arg1:T29 Arg2:T17	
+R55	PART_OF Arg1:T27 Arg2:T17	
+R56	SUBCLASS_OF Arg1:T60 Arg2:T26	
+R57	AFFECTS Arg1:T60 Arg2:T27	
+R58	MEDICAL_CONDITION Arg1:T17 Arg2:T60	
+R59	MEDICAL_CONDITION Arg1:T17 Arg2:T28	
+T11	PHYS 192 201	выживания
+T63	PHYS 178 201	долгосрочного выживания
+R61	AFFECTS Arg1:T32 Arg2:T33	
+N1	Reference T2 UMLS:C0549289	тромбозом нижней полой вены
+N2	Reference T8 UMLS:C0027627	Метастазы
+N3	Reference T9 UMLS:C0001625	надпочечник
+N4	Reference T13 UMLS:C4721579	колоректальных метастазах
+N5	Reference T15 UMLS:C0040053	тромбозом
+N7	Reference T22 UMLS:C0227391	сигмовидной кишки
+N8	Reference T34 UMLS:C2242635	опухолевого тромба
+N9	Reference T37 UMLS:C0027651	рака
+N11	Reference T39 UMLS:C4721579	Метастазы колоректального рака
+N13	Reference T43 UMLS:C0027651	опухолевого
+N15	Reference T48 UMLS:C0042460	полой вены
+N16	Reference T49 UMLS:C0042449	вены
+N21	Reference T24 UMLS:C0302148	тромб
+N19	Reference T52 UMLS:C0027627	новообразований метастазы
+N17	Reference T50 UMLS:C0021853	кишечник
+N22	Reference T27 UMLS:C0229559	
+N18	Reference T51 UMLS:C0494165	метастазы в печень
+N10	Reference T38 UMLS:C4722085	
+N6	Reference T16 UMLS:C0042458	полая вена, нижняя
+N23	Reference T18 UMLS:NULL	
+N14	Reference T45 UMLS:C0005847	кровеносные сосуды
+N24	Reference T28 UMLS:C0549289	тромбоз нижней полой вены
+N25	Reference T20 UMLS:C0227481	
+N26	Reference T60 UMLS:C1096379	метастатический рак надпочечной железы
+N12	Reference T40 UMLS:C0023884	печень
+N27	Reference T12 UMLS:C0027627	Метастазы
+N28	Reference T32 UMLS:C0027627	Метастазы
+N29	Reference T14 UMLS:C0001625	надпочечник
+N30	Reference T33 UMLS:C0001625	надпочечник
+N31	Reference T59 UMLS:C0001625	надпочечник
+N32	Reference T53 UMLS:C0027651	рака
+N33	Reference T44 UMLS:C0302148	тромб
+N34	Reference T19 UMLS:C0027627	новообразований метастазы
+N35	Reference T26 UMLS:C0027627	новообразований метастазы
+N36	Reference T4 UMLS:C4722085	
+N37	Reference T29 UMLS:C0042458	полая вена, нижняя
+N38	Reference T46 UMLS:C0042458	полая вена, нижняя
+N39	Reference T47 UMLS:C0042458	полая вена, нижняя
+N40	Reference T5 UMLS:NULL	
+N41	Reference T54 UMLS:C0023884	печень
+R20	ALTERNATIVE_NAME Arg1:T8 Arg2:T52	
+R21	SUBCLASS_OF Arg1:T63 Arg2:T11	
+R27	FINDING_OF Arg1:T61 Arg2:T63	
+T62	ANATOMY 10 25	колоректального
+R60	AFFECTS Arg1:T38 Arg2:T62	
+R62	PART_OF Arg1:T62 Arg2:T10	
+T64	ANATOMY 237 251	колоректальных
+R63	AFFECTS Arg1:T13 Arg2:T64	
+R64	AFFECTS Arg1:T2 Arg2:T16	
+T55	ANATOMY 333 347	колоректальным
+R65	AFFECTS Arg1:T18 Arg2:T55	
+R66	PART_OF Arg1:T20 Arg2:T17	
+R67	MEDICAL_CONDITION Arg1:T17 Arg2:T18	
+R14	TREATED_USING Arg1:T17 Arg2:T58	
+R53	ALTERNATIVE_NAME Arg1:T2 Arg2:T28	
+R68	PART_OF Arg1:T55 Arg2:T17	
+R69	MEDICAL_CONDITION Arg1:T17 Arg2:T28	
+T41	FINDING 735 751	резектабельности
+R71	ASSOCIATED_WITH Arg1:T32 Arg2:T41	
+R24	AFFECTS Arg1:T41 Arg2:T33	
+T65	FINDING 779 821	небольшой протяженности опухолевого тромба
+R25	ASSOCIATED_WITH Arg1:T34 Arg2:T65	
+R26	TREATED_USING Arg1:T26 Arg2:T7	

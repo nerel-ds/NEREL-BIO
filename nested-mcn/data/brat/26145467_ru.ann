@@ -1,0 +1,132 @@
+T1	NUMBER 18 20	28
+T2	NUMBER 31 32	2
+T3	DATE 779 792	К 90-м суткам
+T5	LIVB 21 28	собаках
+T8	MEDPROC 119 133	трансплантацию
+T9	ANATOMY 134 165	ксеногенного костного материала
+T11	ANATOMY 192 199	костных
+T12	ANATOMY 228 251	стенки костного дефекта
+T13	DISO 235 251	костного дефекта
+T14	MEDPROC 254 274	трансплантированного
+T15	ANATOMY 275 297	ксеногенного материала
+T18	ANATOMY 330 338	костного
+T19	ANATOMY 339 361	ксеногенного материала
+T20	MEDPROC 364 378	Трансплантация
+T21	ANATOMY 379 410	ксеногенного костного материала
+T22	ANATOMY 392 400	костного
+T23	DISO 425 440	костные дефекты
+T25	PHYS 521 535	иммуногенности
+T26	PHYS 538 553	аллергогенности
+T27	MEDPROC 596 610	трансплантации
+T28	ANATOMY 611 633	ксеногенного материала
+T29	ANATOMY 671 697	фиброзных костных трабекул
+T30	ANATOMY 689 697	трабекул
+T32	ANATOMY 746 754	костного
+T33	ANATOMY 746 777	костного ксеногенного материала
+T34	ANATOMY 810 815	кость
+T35	SCIPROC 886 891	опыта
+T37	ANATOMY 933 951	реципиентного ложа
+T38	ANATOMY 954 978	ксеногенный трансплантат
+T39	ANATOMY 979 998	клеточных элементов
+T40	ANATOMY 1022 1038	костное вещество
+T41	ANATOMY 1039 1065	ксеногенного трансплантата
+T44	ANATOMY 1141 1163	ксеногенного материала
+T45	LIVB 1218 1235	организма-хозяина
+T4	ANATOMY 147 155	костного
+T7	SCIPROC 2 14	эксперименте
+T36	DATE 873 885	с 42-х суток
+T42	ANATOMY 1197 1217	костными структурами
+T16	PHYS 91 115	местные тканевые реакции
+T17	PHYS 99 115	тканевые реакции
+T43	ANATOMY 99 107	тканевые
+T10	FINDING 506 553	низким уровнем иммуногенности и аллергогенности
+T46	ANATOMY 1022 1029	костное
+T47	ANATOMY 330 361	костного ксеногенного материала
+T48	ANATOMY 192 208	костных структур
+T49	ANATOMY 425 432	костные
+T24	DISO 453 488	воспалительно-деструктивных реакций
+T50	ANATOMY 681 688	костных
+T51	ANATOMY 681 697	костных трабекул
+T6	LIVB 33 51	группах наблюдения
+T31	LIVB 33 40	группах
+R1	PART_OF Arg1:T40 Arg2:T46	
+R2	SUBCLASS_OF Arg1:T6 Arg2:T31	
+R3	PROCEDURE_PERFORMED Arg1:T5 Arg2:T7	
+R4	PART_OF Arg1:T42 Arg2:T45	
+R5	MEMBER_OF Arg1:T5 Arg2:T31	
+R6	APPLIED_TO Arg1:T8 Arg2:T9	
+R7	SUBCLASS_OF Arg1:T51 Arg2:T30	
+R8	PART_OF Arg1:T51 Arg2:T50	
+R9	SUBCLASS_OF Arg1:T29 Arg2:T51	
+T52	LIVB 53 61;64 70	основной группе
+T53	LIVB 64 80	группе сравнения
+T54	LIVB 64 70	группе
+R10	SUBCLASS_OF Arg1:T53 Arg2:T54	
+R11	SUBCLASS_OF Arg1:T52 Arg2:T54	
+R12	SUBCLASS_OF Arg1:T52 Arg2:T6	
+R13	SUBCLASS_OF Arg1:T53 Arg2:T6	
+R14	SUBCLASS_OF Arg1:T16 Arg2:T17	
+R15	AFFECTS Arg1:T16 Arg2:T43	
+R16	HAS_CAUSE Arg1:T16 Arg2:T8	
+T55	ANATOMY 235 243	костного
+R17	AFFECTS Arg1:T13 Arg2:T55	
+R18	AFFECTS Arg1:T23 Arg2:T49	
+T56	PHYS 655 697	новообразование фиброзных костных трабекул
+R19	HAS_CAUSE Arg1:T56 Arg2:T27	
+R20	PHYSIOLOGY_OF Arg1:T16 Arg2:T5	
+R21	TREATED_USING Arg1:T5 Arg2:T8	
+N10	Reference T43 UMLS:C0040300	ткани
+N11	Reference T9 UMLS:C0581217	
+N9	Reference T4 UMLS:C0262950	
+N12	Reference T48 UMLS:C0262950	
+N13	Reference T12 UMLS:NULL	
+N14	Reference T13 UMLS:C0005940	костей болезни
+N1	Reference T15 UMLS:C0581217	
+N15	Reference T47 UMLS:C0581217	
+N2	Reference T19 UMLS:C0522537	гетеротрансплантаты
+N16	Reference T24 UMLS:NULL	
+N17	Reference T29 UMLS:NULL	
+N18	Reference T51 UMLS:C2826619	
+N3	Reference T30 UMLS:C4539057	
+N4	Reference T34 UMLS:C0262950	
+N5	Reference T37 UMLS:C1455688	
+N6	Reference T38 UMLS:C0522537	гетеротрансплантаты
+N7	Reference T39 UMLS:NULL	
+N8	Reference T40 UMLS:C0262950	
+N19	Reference T21 UMLS:C0581217	
+N20	Reference T50 UMLS:C0262950	
+N21	Reference T46 UMLS:C0262950	
+N22	Reference T18 UMLS:C0262950	
+N23	Reference T11 UMLS:C0262950	
+N24	Reference T55 UMLS:C0262950	
+N25	Reference T49 UMLS:C0262950	
+N26	Reference T32 UMLS:C0262950	
+N27	Reference T22 UMLS:C0262950	
+N28	Reference T42 UMLS:C0262950	
+N29	Reference T23 UMLS:C0005940	костей болезни
+N30	Reference T44 UMLS:C0581217	
+N31	Reference T28 UMLS:C0581217	
+N32	Reference T33 UMLS:C0581217	
+N33	Reference T41 UMLS:C0522537	гетеротрансплантаты
+R22	FINDING_OF Arg1:T10 Arg2:T25	
+R23	SUBCLASS_OF Arg1:T47 Arg2:T19	
+R24	SUBCLASS_OF Arg1:T9 Arg2:T47	
+T57	ANATOMY 755 777	ксеногенного материала
+R25	SUBCLASS_OF Arg1:T33 Arg2:T57	
+T58	ANATOMY 966 978	трансплантат
+R26	SUBCLASS_OF Arg1:T38 Arg2:T58	
+N34	Reference T58 UMLS:C0332835	трансплантаты
+T59	ANATOMY 1052 1065	трансплантата
+R27	SUBCLASS_OF Arg1:T41 Arg2:T59	
+N35	Reference T59 UMLS:C0332835	трансплантаты
+R28	SUBCLASS_OF Arg1:T41 Arg2:T44	
+T60	FINDING 441 488	не вызывала воспалительно-деструктивных реакций
+R29	ASSOCIATED_WITH Arg1:T24 Arg2:T60	
+T61	DISO 453 466	воспалительно
+R30	PHYSIOLOGY_OF Arg1:T56 Arg2:T29	
+R31	HAS_CAUSE Arg1:T60 Arg2:T20	
+R32	HAS_CAUSE Arg1:T60 Arg2:T10	
+R33	FINDING_OF Arg1:T10 Arg2:T26	
+T62	ANATOMY 554 584	трансплантированного материала
+N36	Reference T62 UMLS:C0332835	трансплантаты
+R34	ALTERNATIVE_NAME Arg1:T62 Arg2:T58	

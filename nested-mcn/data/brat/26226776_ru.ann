@@ -1,0 +1,223 @@
+T1	NUMBER 993 997	трех
+T4	CHEM 40 51	Е-кадгерина
+T5	CHEM 54 64	β-катенина
+T6	DISO 67 77	метастазах
+T7	ANATOMY 107 113	печени
+T9	MEDPROC 161 182	лекарственной терапии
+T10	ANATOMY 206 223	опухолевых клеток
+T11	MEDPROC 245 279	Иммуногистохимическое исследование
+T12	CHEM 282 292	антителами
+T13	CHEM 295 306	Е-кадгерину
+T14	CHEM 309 319	β-катенину
+T15	DISO 356 366	метастазов
+T16	DISO 367 370	КРР
+T17	ANATOMY 373 379	печени
+T18	PERSON 380 389	пациентов
+T19	MEDPROC 419 431	химиотерапию
+T20	CHEM 432 460	цитотоксическими препаратами
+T21	CHEM 482 497	цитотоксическую
+T22	MEDPROC 510 519	анти-VEGF
+T25	PERSON 597 605	пациенты
+T26	MEDPROC 615 636	лекарственное лечение
+T27	ANATOMY 727 749	мембранной локализации
+T28	CHEM 750 761	Е-кадгерина
+T29	MEDPROC 777 795	сочетанной терапии
+T30	CHEM 796 812	цитотоксическими
+T31	CHEM 815 836	анти-VEGF-препаратами
+T32	PERSON 852 871	контрольной группой
+T33	NUMBER 875 882	0,00043
+T35	PERSON 896 905	пациентов
+T38	CHEM 980 990	β-катенина
+T39	PERSON 998 1015	группах пациентов
+T40	CHEM 1174 1179	белка
+T41	PERSON 1234 1243	пациентов
+T42	MEDPROC 1256 1279	цитотоксическую терапию
+T44	CHEM 1321 1331	β-катенина
+T45	ANATOMY 1334 1352	опухолевых клетках
+T46	PERSON 1369 1378	пациентов
+T47	MEDPROC 1391 1414	комбинированную терапию
+T48	PHYS 1449 1471	мембранной локализации
+T50	CHEM 1472 1483	Е-кадгерина
+T51	CHEM 1486 1514	мембранно-цитоплазматической
+T53	CHEM 1527 1537	β-катенина
+T55	PERSON 1562 1581	контрольной группой
+T57	MEDPROC 1614 1637	цитотоксической терапии
+T58	CHEM 1674 1693	анти-VEGF-препарата
+T59	MEDPROC 1696 1717	лекарственной терапии
+T60	DISO 1718 1734	метастатического
+T61	DISO 1735 1738	КРР
+T62	CHEM 1762 1791	кадгерин-катениновый комплекс
+T63	PHYS 1812 1834	межклеточных контактов
+T65	CHEM 1865 1875	β-катенина
+T66	PHYS 1929 1941	пролиферацию
+T67	ANATOMY 1942 1959	опухолевых клеток
+T2	ANATOMY 78 93	колоректального
+T68	DISO 94 98	рака
+T69	DISO 100 103	КРР
+T70	DISO 78 98	колоректального рака
+T8	DISO 206 216	опухолевых
+T72	DISO 356 370	метастазов КРР
+T36	PERSON 570 586	Группу сравнения
+T73	DISO 1942 1952	опухолевых
+T74	ANATOMY 1953 1959	клеток
+T64	PHYS 1929 1959	пролиферацию опухолевых клеток
+T3	ANATOMY 217 223	клеток
+T75	MEDPROC 402 431	предоперационную химиотерапию
+T76	CHEM 1072 1076	VEGF
+T23	NUMBER 952 956	0,01
+T24	PERSON 1199 1218	контрольной группой
+T77	MEDPROC 925 948	цитотоксическую терапию
+T78	CHEM 925 940	цитотоксическую
+T79	CHEM 1256 1271	цитотоксическую
+T43	CHEM 1307 1318	Е-кадгерина
+T80	DISO 1334 1344	опухолевых
+T81	ANATOMY 1345 1352	клетках
+T52	NUMBER 1541 1546	0,009
+T54	NUMBER 1586 1590	0,04
+T56	CHEM 1614 1629	цитотоксической
+T82	DISO 1718 1738	метастатического КРР
+T83	CHEM 1762 1770	кадгерин
+T84	CHEM 1771 1782	катениновый
+T85	CHEM 515 519	VEGF
+T86	ANATOMY 521 531	сосудистый
+T87	CHEM 820 824	VEGF
+T88	CHEM 1679 1683	VEGF
+T89	CHEM 42 51	кадгерина
+T90	CHEM 56 64	катенина
+T91	MEDPROC 1067 1076	анти-VEGF
+T92	CHEM 1067 1086	анти-VEGF-препарата
+T93	PERSON 1211 1218	группой
+T94	FINDING 1803 1834	усилению межклеточных контактов
+T95	FINDING 1837 1875	подавлению функционирования β-катенина
+T96	PERSON 1574 1581	группой
+T97	PHYS 1153 1179	ядерной локализацией белка
+T49	ANATOMY 1449 1459	мембранной
+T98	PERSON 1606 1613	группой
+T99	FINDING 1739 1758	положительно влияет
+T101	PERSON 888 895	группой
+T102	PERSON 1006 1015	пациентов
+T103	PERSON 1226 1233	группой
+T104	PERSON 998 1005	группах
+R2	USED_IN Arg1:T78 Arg2:T77	
+R3	USED_IN Arg1:T30 Arg2:T29	
+R4	USED_IN Arg1:T31 Arg2:T29	
+R5	USED_IN Arg1:T56 Arg2:T57	
+R6	TREATED_USING Arg1:T98 Arg2:T57	
+R7	TREATED_USING Arg1:T98 Arg2:T56	
+R10	USED_IN Arg1:T79 Arg2:T42	
+R11	PART_OF Arg1:T17 Arg2:T18	
+R12	SUBCLASS_OF Arg1:T75 Arg2:T19	
+R13	TREATED_USING Arg1:T46 Arg2:T47	
+R14	SUBCLASS_OF Arg1:T45 Arg2:T81	
+R15	SUBCLASS_OF Arg1:T70 Arg2:T68	
+R16	SUBCLASS_OF Arg1:T10 Arg2:T3	
+R17	SUBCLASS_OF Arg1:T72 Arg2:T15	
+R18	USED_IN Arg1:T20 Arg2:T75	
+R19	SUBCLASS_OF Arg1:T67 Arg2:T74	
+R20	MEMBER_OF Arg1:T35 Arg2:T101	
+R21	TREATED_USING Arg1:T35 Arg2:T77	
+R22	TREATED_USING Arg1:T35 Arg2:T78	
+R23	TREATED_USING Arg1:T18 Arg2:T75	
+R24	AFFECTS Arg1:T15 Arg2:T17	
+R8	TREATED_USING Arg1:T41 Arg2:T79	
+R9	TREATED_USING Arg1:T41 Arg2:T42	
+R25	MEMBER_OF Arg1:T41 Arg2:T103	
+R26	SUBCLASS_OF Arg1:T24 Arg2:T93	
+T34	PERSON 570 576	Группу
+R27	SUBCLASS_OF Arg1:T36 Arg2:T34	
+R28	MEMBER_OF Arg1:T25 Arg2:T36	
+R29	SUBCLASS_OF Arg1:T4 Arg2:T89	
+R30	SUBCLASS_OF Arg1:T5 Arg2:T90	
+R1	ABBREVIATION Arg1:T70 Arg2:T69	
+R31	HAS_CAUSE Arg1:T6 Arg2:T70	
+R32	AFFECTS Arg1:T6 Arg2:T7	
+R33	AFFECTS Arg1:T70 Arg2:T2	
+T37	PHYS 29 39	экспрессии
+R34	ASSOCIATED_WITH Arg1:T37 Arg2:T4	
+R35	ASSOCIATED_WITH Arg1:T37 Arg2:T5	
+R36	TREATED_USING Arg1:T6 Arg2:T9	
+T71	CHEM 297 306	кадгерину
+T100	CHEM 311 319	катенину
+R37	SUBCLASS_OF Arg1:T13 Arg2:T71	
+R38	SUBCLASS_OF Arg1:T14 Arg2:T100	
+R39	USED_IN Arg1:T12 Arg2:T11	
+T105	MEDPROC 466 568	комбинированную цитотоксическую и таргетную анти-VEGF (сосудистый эндотелиальный фактор роста)-терапию
+R40	TREATED_USING Arg1:T18 Arg2:T105	
+R41	USED_IN Arg1:T21 Arg2:T105	
+R42	USED_IN Arg1:T22 Arg2:T105	
+R43	USED_IN Arg1:T85 Arg2:T105	
+T106	PERSON 864 871	группой
+T107	CHEM 982 990	катенина
+R44	SUBCLASS_OF Arg1:T38 Arg2:T107	
+T108	CHEM 1309 1318	кадгерина
+R45	SUBCLASS_OF Arg1:T43 Arg2:T108	
+R46	AFFECTS Arg1:T80 Arg2:T45	
+R47	PART_OF Arg1:T45 Arg2:T46	
+R48	MEDICAL_CONDITION Arg1:T46 Arg2:T80	
+R49	SUBCLASS_OF Arg1:T55 Arg2:T96	
+R50	USED_IN Arg1:T58 Arg2:T59	
+R51	TREATED_USING Arg1:T82 Arg2:T59	
+R52	SUBCLASS_OF Arg1:T82 Arg2:T61	
+R53	FINDING_OF Arg1:T94 Arg2:T63	
+R54	HAS_CAUSE Arg1:T15 Arg2:T16	
+N2	Reference T5 UMLS:C0105770	β-катенина
+N3	Reference T6 UMLS:C0027627	метастазах
+N6	Reference T12 UMLS:C0003241	антителами
+N7	Reference T21 UMLS:C0010868	цитотоксическую
+N10	Reference T51 UMLS:C0007603	мембранно-цитоплазматической
+N13	Reference T68 UMLS:C0027651	рака
+N15	Reference T8 UMLS:C0027651	опухолевых
+N17	Reference T84 UMLS:C1564904	катениновый
+N20	Reference T89 UMLS:C0006631	кадгерина
+N21	Reference T90 UMLS:C1564904	катенина
+N1	Reference T4 UMLS:C0042172	
+N12	Reference T2 UMLS:C0555952	
+N14	Reference T70 UMLS:C0009402	рак толстой и прямой кишки
+N4	Reference T7 UMLS:C0023884	печень
+N16	Reference T3 UMLS:C0007634	клетки
+N5	Reference T10 UMLS:C0597032	
+N23	Reference T62 UMLS:C1167214	
+N11	Reference T60 UMLS:C0027627	новообразований метастазы
+N18	Reference T85 UMLS:C1256770	кровеносных сосудов эндотелиальные факторы роста
+N24	Reference T20 UMLS:C0010868	цитотоксины
+N19	Reference T86 UMLS:C0005847	кровеносные сосуды
+N9	Reference T40 UMLS:C0033684	белки
+N22	Reference T49 UMLS:C0887867	клеточной мембраны структуры
+N25	Reference T27 UMLS:C0887867	клеточной мембраны структуры
+N8	Reference T31 UMLS:NULL	
+N26	Reference T82 UMLS:C4744564	
+N27	Reference T72 UMLS:C4744564	
+N28	Reference T53 UMLS:C0105770	β-катенина
+N29	Reference T38 UMLS:C0105770	β-катенина
+N30	Reference T14 UMLS:C0105770	β-катенина
+N31	Reference T65 UMLS:C0105770	β-катенина
+N32	Reference T44 UMLS:C0105770	β-катенина
+N33	Reference T15 UMLS:C0027627	метастазах
+N34	Reference T30 UMLS:C0010868	цитотоксическую
+N35	Reference T79 UMLS:C0010868	цитотоксическую
+N36	Reference T56 UMLS:C0010868	цитотоксическую
+N37	Reference T78 UMLS:C0010868	цитотоксическую
+N38	Reference T80 UMLS:C0027651	опухолевых
+N39	Reference T73 UMLS:C0027651	опухолевых
+N40	Reference T83 UMLS:C0006631	кадгерина
+N41	Reference T71 UMLS:C0006631	кадгерина
+N42	Reference T108 UMLS:C0006631	кадгерина
+N43	Reference T100 UMLS:C1564904	катенина
+N44	Reference T107 UMLS:C1564904	катенина
+N45	Reference T50 UMLS:C0042172	
+N46	Reference T13 UMLS:C0042172	
+N47	Reference T43 UMLS:C0042172	
+N48	Reference T28 UMLS:C0042172	
+N49	Reference T69 UMLS:C0009402	рак толстой и прямой кишки
+N50	Reference T16 UMLS:C0009402	рак толстой и прямой кишки
+N51	Reference T61 UMLS:C0009402	рак толстой и прямой кишки
+N52	Reference T17 UMLS:C0023884	печень
+N53	Reference T81 UMLS:C0007634	клетки
+N54	Reference T74 UMLS:C0007634	клетки
+N55	Reference T45 UMLS:C0597032	
+N56	Reference T67 UMLS:C0597032	
+N57	Reference T76 UMLS:C1256770	кровеносных сосудов эндотелиальные факторы роста
+N58	Reference T87 UMLS:C1256770	кровеносных сосудов эндотелиальные факторы роста
+N59	Reference T88 UMLS:C1256770	кровеносных сосудов эндотелиальные факторы роста
+N60	Reference T92 UMLS:NULL	
+N61	Reference T58 UMLS:NULL	

@@ -1,0 +1,288 @@
+T1	DISO 115 141	ишемической болезни сердца
+T2	DISO 127 141	болезни сердца
+T3	DISO 143 146	ИБС
+T4	NUMBER 295 297	60
+T5	NUMBER 393 395	55
+T7	DISO 2100 2103	ИБС
+T9	DISO 258 261	ИБС
+T10	LABPROC 298 311	кардиобиопсий
+T11	PERSON 327 334	больных
+T12	MEDPROC 339 367	аортокоронарном шунтировании
+T15	DISO 500 526	коронарную недостаточность
+T16	CHEM 542 554	вазопрессина
+T17	LABPROC 602 617	гистохимических
+T18	LABPROC 619 648	иммуногистохимических методик
+T19	LABPROC 658 686	электронно-микроскопического
+T20	LABPROC 689 722	электронно-гистохимический методы
+T22	LABPROC 738 749	морфометрия
+T23	CHEM 795 806	холестерина
+T24	CHEM 809 822	триглицеридов
+T25	ANATOMY 825 830	крови
+T26	LABPROC 840 852	ЭКГ-контроль
+T27	LIVB 855 863	животных
+T28	CHEM 888 899	вазопрессин
+T30	ANATOMY 961 970	эндотелия
+T31	ANATOMY 961 989	эндотелия трофического звена
+T33	PHYS 1049 1058	кровотока
+T34	DISO 1071 1079	гипоксии
+T35	ANATOMY 1124 1132	миокарда
+T36	ANATOMY 1135 1144	фасцикулы
+T40	ANATOMY 1226 1238	микрососудов
+T41	ANATOMY 1240 1254	кардиомиоцитов
+T42	ANATOMY 1256 1262	стромы
+T43	ANATOMY 1264 1288	лимфатических капилляров
+T44	ANATOMY 1290 1307	нервных окончаний
+T45	PHYS 1321 1329	секреции
+T49	DISO 1438 1465	поражения сосудистого русла
+T50	ANATOMY 1448 1465	сосудистого русла
+T51	ANATOMY 1468 1482	ткани миокарда
+T52	ANATOMY 1474 1482	миокарда
+T55	DISO 1570 1604	нарушения микро- и лимфоциркуляции
+T56	PHYS 1580 1586;1594 1604	микро- циркуляции
+T57	PHYS 1589 1604	лимфоциркуляции
+T58	PHYS 1606 1616	иннервации
+T59	DISO 1647 1671	поражение кардиомиоцитов
+T60	ANATOMY 1657 1671	кардиомиоцитов
+T62	ANATOMY 1697 1705	миокарда
+T64	DISO 1737 1741	ИКМП
+T67	ANATOMY 1857 1864	миокард
+T68	PHYS 1879 1904	морфологические изменения
+T69	DISO 1932 1940	гипоксии
+T72	DISO 2088 2103	хронической ИБС
+T74	DISO 2117 2121	ИКМП
+T77	DISO 2240 2243	ИБС
+T78	ANATOMY 135 141	сердца
+T8	DISO 34 60	ишемическая кардиомиопатия
+T79	DISO 62 66	ИКМП
+T80	DISO 46 60	кардиомиопатия
+R1	ABBREVIATION Arg1:T1 Arg2:T3	
+T81	DISO 103 141	хронической ишемической болезни сердца
+T82	ANATOMY 171 180	сердечной
+T83	DISO 171 196	сердечной недостаточности
+T84	DISO 159 196	хронической сердечной недостаточности
+T85	LABPROC 761 783	биохимический контроль
+T86	ANATOMY 339 354	аортокоронарном
+T87	DISO 378 381	ИБС
+T13	LIVB 396 404	кроликов
+T14	DISO 440 452	атеросклероз
+T21	ADMINISTRATION_ROUTE 876 887	внутривенно
+T29	DISO 934 937	ИБС
+T88	MEDPROC 533 554	введения вазопрессина
+T32	ANATOMY 990 1019	микрогемоциркуляторного русла
+T6	DISO 2058 2061	ИБС
+T53	DISO 1813 1838	коронарного атеросклероза
+T54	DISO 1825 1838	атеросклероза
+T89	ANATOMY 1813 1824	коронарного
+T63	PHYS 990 1013	микрогемоциркуляторного
+T61	FINDING 1687 1705	изменений миокарда
+T73	DISO 1555 1568	кардиосклероз
+T37	ANATOMY 385 392	миокард
+T65	LABPROC 585 600	гистологических
+T39	DISO 2155 2192	хроническая сердечная недостаточность
+T66	DISO 2167 2192	сердечная недостаточность
+T71	ANATOMY 2167 2176	сердечная
+R2	ABBREVIATION Arg1:T8 Arg2:T79	
+T48	ANATOMY 500 510	коронарную
+T75	LABPROC 669 686	микроскопического
+T76	LABPROC 700 715	гистохимический
+T90	LABPROC 840 843	ЭКГ
+T38	ANATOMY 1290 1297	нервных
+T91	ANATOMY 1278 1288	капилляров
+T92	ANATOMY 1264 1277	лимфатических
+T93	ANATOMY 1468 1473	ткани
+T94	ANATOMY 1448 1459	сосудистого
+R3	SUBCLASS_OF Arg1:T8 Arg2:T1	
+R6	MEDICAL_CONDITION Arg1:T11 Arg2:T87	
+R7	APPLIED_TO Arg1:T12 Arg2:T86	
+R8	TREATED_USING Arg1:T11 Arg2:T12	
+R9	PROCEDURE_PERFORMED Arg1:T11 Arg2:T10	
+R10	MEDICAL_CONDITION Arg1:T13 Arg2:T14	
+T95	PHYS 784 806	содержания холестерина
+R15	TO_DETECT_OR_STUDY Arg1:T85 Arg2:T25	
+R17	TREATED_USING Arg1:T27 Arg2:T28	
+R18	PHYSIOLOGY_OF Arg1:T63 Arg2:T32	
+R4	AFFECTS Arg1:T81 Arg2:T78	
+R5	AFFECTS Arg1:T84 Arg2:T82	
+R11	ALTERNATIVE_NAME Arg1:T78 Arg2:T82	
+R12	TREATED_USING Arg1:T87 Arg2:T12	
+R16	PART_OF Arg1:T37 Arg2:T13	
+R19	USED_IN Arg1:T16 Arg2:T88	
+R20	AFFECTS Arg1:T15 Arg2:T48	
+R21	SUBCLASS_OF Arg1:T8 Arg2:T80	
+R22	SUBCLASS_OF Arg1:T81 Arg2:T1	
+R23	SUBCLASS_OF Arg1:T1 Arg2:T2	
+R24	SUBCLASS_OF Arg1:T84 Arg2:T83	
+R31	HAS_ADMINISTRATION_ROUTE Arg1:T28 Arg2:T21	
+R32	PROCEDURE_PERFORMED Arg1:T27 Arg2:T26	
+R33	PART_OF Arg1:T25 Arg2:T27	
+R35	ASSOCIATED_WITH Arg1:T95 Arg2:T23	
+R36	PHYSIOLOGY_OF Arg1:T95 Arg2:T25	
+R37	PHYSIOLOGY_OF Arg1:T95 Arg2:T27	
+R38	PART_OF Arg1:T36 Arg2:T35	
+T96	DISO 1214 1238	повреждению микрососудов
+R39	PART_OF Arg1:T50 Arg2:T94	
+R40	AFFECTS Arg1:T49 Arg2:T50	
+T97	DISO 1531 1568	неравномерный диффузный кардиосклероз
+T98	FINDING 1033 1058	нарушению в нем кровотока
+R41	AFFECTS Arg1:T34 Arg2:T35	
+R43	PHYSIOLOGY_OF Arg1:T33 Arg2:T35	
+R44	AFFECTS Arg1:T96 Arg2:T40	
+R45	AFFECTS Arg1:T59 Arg2:T60	
+R46	AFFECTS Arg1:T53 Arg2:T89	
+R47	SUBCLASS_OF Arg1:T53 Arg2:T54	
+R49	ASSOCIATED_WITH Arg1:T57 Arg2:T55	
+R50	AFFECTS Arg1:T53 Arg2:T67	
+R51	AFFECTS Arg1:T69 Arg2:T67	
+R52	SUBCLASS_OF Arg1:T72 Arg2:T7	
+R53	SUBCLASS_OF Arg1:T39 Arg2:T66	
+R54	AFFECTS Arg1:T66 Arg2:T71	
+R55	SUBCLASS_OF Arg1:T39 Arg2:T74	
+R56	PART_OF Arg1:T51 Arg2:T52	
+R57	AFFECTS Arg1:T61 Arg2:T62	
+R58	PHYSIOLOGY_OF Arg1:T68 Arg2:T67	
+R59	HAS_CAUSE Arg1:T68 Arg2:T69	
+T70	DISO 1438 1447;1468 1482	поражения ткани миокарда
+R67	TO_DETECT_OR_STUDY Arg1:T85 Arg2:T95	
+R68	SUBCLASS_OF Arg1:T31 Arg2:T30	
+R69	PART_OF Arg1:T31 Arg2:T32	
+T99	FINDING 951 989	изменений эндотелия трофического звена
+R70	AFFECTS Arg1:T99 Arg2:T31	
+R71	HAS_CAUSE Arg1:T98 Arg2:T99	
+R72	HAS_CAUSE Arg1:T34 Arg2:T99	
+R73	SUBCLASS_OF Arg1:T43 Arg2:T91	
+R74	PART_OF Arg1:T44 Arg2:T38	
+T100	PHYS 1619 1631	проводимости
+N2	Reference T2 UMLS:C0018799	болезни сердца
+N3	Reference T15 UMLS:C0542052	коронарную недостаточность
+N4	Reference T16 UMLS:C0201849	вазопрессина
+N5	Reference T23 UMLS:C0008377	холестерина
+N6	Reference T24 UMLS:C0041004	триглицеридов
+N8	Reference T30 UMLS:C0014257	эндотелия
+N9	Reference T34 UMLS:C0242184	гипоксии
+N11	Reference T40 UMLS:C2350570	микрососудов
+N12	Reference T41 UMLS:C0225828	кардиомиоцитов
+N14	Reference T43 UMLS:C0229889	лимфатических капилляров
+N15	Reference T44 UMLS:C0027747	нервных окончаний
+N16	Reference T49 UMLS:C0019080	поражения сосудистого русла
+N20	Reference T8 UMLS:C0349782	ишемическая кардиомиопатия
+N21	Reference T80 UMLS:C0878544	кардиомиопатия
+N22	Reference T81 UMLS:C0155669	хронической ишемической болезни сердца
+N23	Reference T83 UMLS:C0018801	сердечной недостаточности
+N24	Reference T84 UMLS:C0264716	хронической сердечной недостаточности
+N26	Reference T14 UMLS:C0004153	атеросклероз
+N27	Reference T53 UMLS:C1956346	коронарного атеросклероза
+N29	Reference T37 UMLS:C0027061	миокард
+N30	Reference T48 UMLS:C0010075	коронарную
+N32	Reference T91 UMLS:C0006901	капилляров
+N33	Reference T92 UMLS:C0024235	лимфатических
+N34	Reference T93 UMLS:C0040300	ткани
+N19	Reference T78 UMLS:C0018787	сердце
+N1	Reference T1 UMLS:C0151744	ишемическая болезнь сердца
+N7	Reference T25 UMLS:C0005767	кровь
+N25	Reference T86 UMLS:C0205042	
+N36	Reference T98 UMLS:C0859056	функциональное нарушение кровообращения
+N31	Reference T38 UMLS:C0027740	
+N17	Reference T51 UMLS:C0225827	
+N37	Reference T97 UMLS:NULL	
+N38	Reference T72 UMLS:C1399137	
+N13	Reference T42 UMLS:C0596380	
+N18	Reference T59 UMLS:NULL	
+N39	Reference T55 UMLS:NULL	
+N40	Reference T96 UMLS:NULL	
+N41	Reference T31 UMLS:NULL	
+N10	Reference T36 UMLS:C1185741	
+N35	Reference T94 UMLS:C0005847	кровеносные сосуды
+N42	Reference T50 UMLS:NULL	
+N28	Reference T73 UMLS:C1392034	кардиосклероз
+N43	Reference T32 UMLS:NULL	
+N44	Reference T70 UMLS:NULLL	
+N45	Reference T28 UMLS:C0201849	вазопрессина
+N46	Reference T69 UMLS:C0242184	гипоксии
+N47	Reference T60 UMLS:C0225828	кардиомиоцитов
+N48	Reference T79 UMLS:C0349782	ишемическая кардиомиопатия
+N49	Reference T64 UMLS:C0349782	ишемическая кардиомиопатия
+N50	Reference T74 UMLS:C0349782	ишемическая кардиомиопатия
+N51	Reference T66 UMLS:C0018801	сердечной недостаточности
+N52	Reference T39 UMLS:C0264716	хронической сердечной недостаточности
+N53	Reference T54 UMLS:C0004153	атеросклероз
+N54	Reference T62 UMLS:C0027061	миокард
+N55	Reference T52 UMLS:C0027061	миокард
+N56	Reference T67 UMLS:C0027061	миокард
+N57	Reference T35 UMLS:C0027061	миокард
+N58	Reference T89 UMLS:C0010075	коронарную
+N59	Reference T71 UMLS:C0018787	сердце
+N60	Reference T82 UMLS:C0018787	сердце
+N61	Reference T87 UMLS:C0151744	ишемическая болезнь сердца
+N62	Reference T29 UMLS:C0151744	ишемическая болезнь сердца
+N63	Reference T7 UMLS:C0151744	ишемическая болезнь сердца
+N64	Reference T77 UMLS:C0151744	ишемическая болезнь сердца
+N65	Reference T9 UMLS:C0151744	ишемическая болезнь сердца
+N66	Reference T6 UMLS:C0151744	ишемическая болезнь сердца
+N67	Reference T3 UMLS:C0151744	ишемическая болезнь сердца
+T101	DISO 34 45	ишемическая
+R79	HAS_CAUSE Arg1:T8 Arg2:T101	
+T102	DISO 115 126	ишемической
+R80	HAS_CAUSE Arg1:T1 Arg2:T102	
+T103	MEDPROC 355 367	шунтировании
+R81	SUBCLASS_OF Arg1:T12 Arg2:T103	
+T104	DISO 511 526	недостаточность
+R82	SUBCLASS_OF Arg1:T15 Arg2:T104	
+R83	SUBCLASS_OF Arg1:T19 Arg2:T75	
+R84	SUBCLASS_OF Arg1:T20 Arg2:T76	
+R13	HAS_CAUSE Arg1:T15 Arg2:T88	
+R14	HAS_CAUSE Arg1:T15 Arg2:T16	
+R25	PART_OF Arg1:T48 Arg2:T13	
+T105	PHYS 784 794	содержания
+R26	ASSOCIATED_WITH Arg1:T105 Arg2:T24	
+R27	ORIGINS_FROM Arg1:T24 Arg2:T25	
+R28	ORIGINS_FROM Arg1:T23 Arg2:T25	
+R29	PHYSIOLOGY_OF Arg1:T105 Arg2:T25	
+R30	USED_IN Arg1:T90 Arg2:T26	
+R34	TO_DETECT_OR_STUDY Arg1:T85 Arg2:T105	
+R85	HAS_CAUSE Arg1:T99 Arg2:T29	
+R42	FINDING_OF Arg1:T98 Arg2:T33	
+T106	PERSON 913 919	Авторы
+R86	PART_OF Arg1:T43 Arg2:T92	
+T107	FINDING 1310 1329	изменениям секреции
+R87	FINDING_OF Arg1:T107 Arg2:T45	
+R93	SUBCLASS_OF Arg1:T51 Arg2:T93	
+R61	AFFECTS Arg1:T70 Arg2:T51	
+T47	FINDING 1419 1482	маскируют симптомы поражения сосудистого русла и ткани миокарда
+R75	ASSOCIATED_WITH Arg1:T70 Arg2:T47	
+R76	ASSOCIATED_WITH Arg1:T49 Arg2:T47	
+T109	DISO 1545 1568	диффузный кардиосклероз
+R48	SUBCLASS_OF Arg1:T97 Arg2:T109	
+R60	SUBCLASS_OF Arg1:T109 Arg2:T73	
+T110	PERSON 1706 1712	авторы
+R62	HAS_CAUSE Arg1:T61 Arg2:T64	
+T111	ANATOMY 1957 1963	органа
+R63	SUBCLASS_OF Arg1:T67 Arg2:T111	
+T112	DISO 2177 2192	недостаточность
+R64	SUBCLASS_OF Arg1:T66 Arg2:T112	
+T113	FINDING 2215 2243	патогенеза и морфогенеза ИБС
+R65	ASSOCIATED_WITH Arg1:T77 Arg2:T113	
+T108	DISO 1214 1225;1240 1254	повреждению кардиомиоцитов
+R66	AFFECTS Arg1:T108 Arg2:T41	
+T114	DISO 1214 1225;1256 1262	повреждению стромы
+R78	AFFECTS Arg1:T114 Arg2:T42	
+T115	DISO 1214 1225;1264 1288	повреждению лимфатических капилляров
+R88	AFFECTS Arg1:T115 Arg2:T43	
+T116	DISO 1214 1225;1290 1307	повреждению нервных окончаний
+R89	AFFECTS Arg1:T116 Arg2:T44	
+T46	PHYS 1371 1396	приспособительные реакции
+T117	PHYS 1354 1368;1389 1396	компенсаторные реакции
+R77	ASSOCIATED_WITH Arg1:T46 Arg2:T70	
+R90	ASSOCIATED_WITH Arg1:T117 Arg2:T49	
+R91	ASSOCIATED_WITH Arg1:T46 Arg2:T70	
+R92	ASSOCIATED_WITH Arg1:T117 Arg2:T70	
+R94	HAS_CAUSE Arg1:T46 Arg2:T47	
+R95	HAS_CAUSE Arg1:T117 Arg2:T47	
+T118	DISO 1570 1579;1606 1616	нарушения иннервации
+R96	ASSOCIATED_WITH Arg1:T58 Arg2:T118	
+T119	DISO 1570 1579;1619 1631	нарушения проводимости
+R97	ASSOCIATED_WITH Arg1:T100 Arg2:T119	
+T120	FINDING 1796 1838	прогрессирования коронарного атеросклероза
+R98	ASSOCIATED_WITH Arg1:T53 Arg2:T120	
+R99	AFFECTS Arg1:T120 Arg2:T67	
+T121	DISO 1846 1864	пораженный миокард
+R100	AFFECTS Arg1:T121 Arg2:T67	

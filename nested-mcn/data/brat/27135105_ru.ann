@@ -1,0 +1,207 @@
+T1	ANATOMY 79 81	ПЖ
+T2	DISO 416 434	мальабсорбция жира
+T3	NUMBER 485 490	тремя
+T4	ANATOMY 114 139	функционирующей паренхимы
+T5	ANATOMY 142 150	протоков
+T8	DISO 198 204	фиброз
+T9	DISO 206 219	кальцификация
+T10	FINDING 237 271	утерей эндо- и экзокринной функции
+T11	PHYS 244 271	эндо- и экзокринной функции
+T12	PHYS 252 271	экзокринной функции
+T14	DISO 325 327	ХП
+T16	PHYS 357 366	анамнезом
+T17	DISO 376 388	мальнутриции
+T18	PERSON 391 400	пациентов
+T19	DISO 416 429	мальабсорбция
+T20	ANATOMY 430 434	жира
+T21	PHYS 437 457	Тяжесть мальнутриции
+T22	DISO 445 457	мальнутриции
+T23	PERSON 460 467	больных
+T24	DISO 468 470	ХП
+T25	DISO 540 567	дефицит питательных веществ
+T26	DISO 569 597	панкреатическая мальдигестия
+T27	DISO 610 631	синдром мальабсорбции
+T29	DISO 633 659	потеря питательных веществ
+T31	DISO 662 677	гиперметаболизм
+T32	DISO 693 717	воспалительным процессом
+T33	ANATOMY 720 722	ПЖ
+T35	DISO 768 795	нутритивной недостаточности
+T36	PERSON 798 805	больных
+T37	DISO 806 808	ХП
+T38	DISO 828 839	осложнением
+T40	DISO 859 871	мальнутриция
+T41	PERSON 915 922	больных
+T42	DISO 925 946	тяжелой мальнутрицией
+T43	DISO 933 946	мальнутрицией
+T44	ANATOMY 990 1015	панкреатических ферментов
+T45	ANATOMY 1018 1041	дуоденальном содержимом
+T46	ANATOMY 1043 1047	кале
+T47	CHEM 1101 1106	белка
+T48	CHEM 1109 1118	альбумина
+T49	ANATOMY 1121 1126	крови
+T50	DISO 12 22	панкреатит
+T51	DISO 0 22	Хронический панкреатит
+T52	DISO 24 26	ХП
+T53	DISO 30 56	воспалительное заболевание
+T54	ANATOMY 57 77	поджелудочной железы
+T55	ANATOMY 71 77	железы
+T56	DISO 30 77	воспалительное заболевание поджелудочной железы
+T57	ANATOMY 130 139	паренхимы
+T6	FINDING 163 196	необратимых структурных изменений
+T58	DISO 286 298	Мальдигестия
+T15	DISO 403 405	ХП
+T59	DISO 501 528	патогенетическими факторами
+T28	DISO 618 631	мальабсорбции
+T34	PHYS 979 1015	активности панкреатических ферментов
+T39	FINDING 958 1015	достоверное снижение активности панкреатических ферментов
+T60	ANATOMY 1049 1054	крови
+T61	CHEM 1094 1106	общего белка
+T62	FINDING 1056 1118	коррелирующее со снижением количества общего белка и альбумина
+R1	ABBREVIATION Arg1:T54 Arg2:T1	
+R2	SUBCLASS_OF Arg1:T54 Arg2:T55	
+R3	SUBCLASS_OF Arg1:T56 Arg2:T53	
+R4	AFFECTS Arg1:T56 Arg2:T54	
+R5	SUBCLASS_OF Arg1:T51 Arg2:T50	
+R6	ABBREVIATION Arg1:T52 Arg2:T51	
+R7	SUBCLASS_OF Arg1:T51 Arg2:T56	
+R9	PART_OF Arg1:T4 Arg2:T54	
+R12	ASSOCIATED_WITH Arg1:T8 Arg2:T6	
+R13	ASSOCIATED_WITH Arg1:T9 Arg2:T6	
+R14	PHYSIOLOGY_OF Arg1:T12 Arg2:T54	
+R16	AFFECTS Arg1:T10 Arg2:T54	
+R15	PHYSIOLOGY_OF Arg1:T11 Arg2:T54	
+R17	AFFECTS Arg1:T6 Arg2:T54	
+R18	AFFECTS Arg1:T8 Arg2:T54	
+R19	AFFECTS Arg1:T9 Arg2:T54	
+R20	HAS_CAUSE Arg1:T14 Arg2:T58	
+R21	ASSOCIATED_WITH Arg1:T16 Arg2:T14	
+R22	PART_OF Arg1:T20 Arg2:T18	
+R23	MEDICAL_CONDITION Arg1:T18 Arg2:T15	
+R24	SUBCLASS_OF Arg1:T2 Arg2:T19	
+R25	MEDICAL_CONDITION Arg1:T18 Arg2:T17	
+R26	HAS_CAUSE Arg1:T19 Arg2:T17	
+R27	MEDICAL_CONDITION Arg1:T18 Arg2:T58	
+R28	MEDICAL_CONDITION Arg1:T18 Arg2:T14	
+R29	PHYSIOLOGY_OF Arg1:T16 Arg2:T18	
+R30	FINDING_OF Arg1:T10 Arg2:T18	
+R31	MEDICAL_CONDITION Arg1:T18 Arg2:T9	
+R32	MEDICAL_CONDITION Arg1:T18 Arg2:T8	
+R33	FINDING_OF Arg1:T6 Arg2:T18	
+R34	PART_OF Arg1:T54 Arg2:T18	
+R35	MEDICAL_CONDITION Arg1:T18 Arg2:T56	
+R36	MEDICAL_CONDITION Arg1:T18 Arg2:T51	
+R37	MEDICAL_CONDITION Arg1:T23 Arg2:T24	
+R38	ALTERNATIVE_NAME Arg1:T23 Arg2:T18	
+R39	MEDICAL_CONDITION Arg1:T23 Arg2:T22	
+R40	MEDICAL_CONDITION Arg1:T23 Arg2:T59	
+R41	SUBCLASS_OF Arg1:T25 Arg2:T59	
+R42	SUBCLASS_OF Arg1:T26 Arg2:T59	
+R43	SUBCLASS_OF Arg1:T29 Arg2:T27	
+R44	ALTERNATIVE_NAME Arg1:T27 Arg2:T28	
+R45	MEDICAL_CONDITION Arg1:T23 Arg2:T27	
+R46	MEDICAL_CONDITION Arg1:T23 Arg2:T25	
+R47	MEDICAL_CONDITION Arg1:T23 Arg2:T26	
+R48	MEDICAL_CONDITION Arg1:T23 Arg2:T31	
+R49	HAS_CAUSE Arg1:T32 Arg2:T31	
+R50	MEDICAL_CONDITION Arg1:T23 Arg2:T32	
+R51	AFFECTS Arg1:T32 Arg2:T33	
+R52	PART_OF Arg1:T33 Arg2:T23	
+R53	MEDICAL_CONDITION Arg1:T36 Arg2:T37	
+R54	MEDICAL_CONDITION Arg1:T36 Arg2:T35	
+R55	MEDICAL_CONDITION Arg1:T36 Arg2:T40	
+R56	ALTERNATIVE_NAME Arg1:T35 Arg2:T40	
+R57	MEDICAL_CONDITION Arg1:T36 Arg2:T38	
+R58	SUBCLASS_OF Arg1:T42 Arg2:T43	
+R59	MEDICAL_CONDITION Arg1:T41 Arg2:T42	
+R60	PART_OF Arg1:T44 Arg2:T45	
+R61	PART_OF Arg1:T44 Arg2:T46	
+R62	PART_OF Arg1:T44 Arg2:T60	
+R63	PHYSIOLOGY_OF Arg1:T34 Arg2:T44	
+R64	PART_OF Arg1:T44 Arg2:T41	
+R65	PART_OF Arg1:T45 Arg2:T41	
+R66	PART_OF Arg1:T46 Arg2:T41	
+R67	PART_OF Arg1:T60 Arg2:T41	
+R68	PART_OF Arg1:T49 Arg2:T41	
+R70	HAS_CAUSE Arg1:T42 Arg2:T39	
+R71	SUBCLASS_OF Arg1:T61 Arg2:T47	
+R72	ORIGINS_FROM Arg1:T48 Arg2:T49	
+R73	ORIGINS_FROM Arg1:T61 Arg2:T49	
+R11	FINDING_OF Arg1:T39 Arg2:T41	
+R69	FINDING_OF Arg1:T39 Arg2:T34	
+R74	HAS_CAUSE Arg1:T62 Arg2:T61	
+R75	HAS_CAUSE Arg1:T62 Arg2:T48	
+R76	FINDING_OF Arg1:T62 Arg2:T41	
+R77	HAS_CAUSE Arg1:T38 Arg2:T37	
+T7	DISO 101 139	повреждением функционирующей паренхимы
+R78	AFFECTS Arg1:T7 Arg2:T57	
+T13	DISO 101 113;142 150	повреждением протоков
+R79	HAS_CAUSE Arg1:T7 Arg2:T51	
+R80	HAS_CAUSE Arg1:T13 Arg2:T51	
+R81	AFFECTS Arg1:T13 Arg2:T5	
+R82	FINDING_OF Arg1:T10 Arg2:T11	
+R83	ASSOCIATED_WITH Arg1:T21 Arg2:T22	
+R84	PHYSIOLOGY_OF Arg1:T21 Arg2:T23	
+T63	DISO 585 597	мальдигестия
+R85	SUBCLASS_OF Arg1:T26 Arg2:T63	
+T64	PHYS 738 757	тяжесть заболевания
+R86	HAS_CAUSE Arg1:T64 Arg2:T32	
+T65	ANATOMY 1018 1030	дуоденальном
+R87	PART_OF Arg1:T45 Arg2:T65	
+N3	Reference T8 UMLS:C0016059	фиброз
+N5	Reference T17 UMLS:C0162429	мальнутриции
+N6	Reference T19 UMLS:C0024523	мальабсорбция
+N7	Reference T20 UMLS:C0325230	жира
+N10	Reference T31 UMLS:C0342952	гиперметаболизм
+N11	Reference T32 UMLS:C0021368	воспалительным процессом
+N13	Reference T43 UMLS:C0162429	мальнутрицией
+N16	Reference T48 UMLS:C0201838	альбумина
+N17	Reference T50 UMLS:C0030305	панкреатит
+N18	Reference T51 UMLS:C0149521	Хронический панкреатит
+N20	Reference T54 UMLS:C0030274	поджелудочной железы
+N23	Reference T58 UMLS:C0232459	Мальдигестия
+N24	Reference T59 UMLS:C1136170	патогенетическими факторами
+N26	Reference T61 UMLS:C0036409	общего белка
+N21	Reference T55 UMLS:C1285092	
+N19	Reference T53 UMLS:C0021368	воспаление
+N22	Reference T56 UMLS:C0030305	панкреатит
+N15	Reference T47 UMLS:C0033684	белки
+N25	Reference T60 UMLS:C0005767	кровь
+N28	Reference T42 UMLS:NULL	
+N14	Reference T46 UMLS:C0009566	
+N4	Reference T9 UMLS:C1533591	отложение кальция
+N29	Reference T57 UMLS:C4277702	паренхиматозная ткань
+N1	Reference T2 UMLS:C0554103	
+N30	Reference T4 UMLS:NULL	
+N2	Reference T5 UMLS:C0030288	поджелудочной железы протоки
+N31	Reference T6 UMLS:NULL	
+N32	Reference T10 UMLS:NULL	
+N33	Reference T26 UMLS:NULL	
+N34	Reference T44 UMLS:C0920330	
+N35	Reference T25 UMLS:C3647269	
+N8	Reference T29 UMLS:NULL	
+N12	Reference T38 UMLS:C0009566	
+N27	Reference T65 UMLS:C0013303	двенадцатиперстная кишка
+N36	Reference T45 UMLS:C0940356	
+N37	Reference T22 UMLS:C0162429	мальнутриции
+N38	Reference T40 UMLS:C0162429	мальнутриции
+N39	Reference T35 UMLS:C0162429	мальнутриции
+N40	Reference T27 UMLS:C0024523	мальабсорбция
+N41	Reference T28 UMLS:C0024523	мальабсорбция
+N42	Reference T14 UMLS:C0149521	Хронический панкреатит
+N43	Reference T52 UMLS:C0149521	Хронический панкреатит
+N44	Reference T15 UMLS:C0149521	Хронический панкреатит
+N45	Reference T24 UMLS:C0149521	Хронический панкреатит
+N46	Reference T37 UMLS:C0149521	Хронический панкреатит
+N47	Reference T33 UMLS:C0030274	поджелудочной железы
+N48	Reference T1 UMLS:C0030274	поджелудочной железы
+N49	Reference T63 UMLS:C0232459	Мальдигестия
+N50	Reference T49 UMLS:C0005767	кровь
+R8	PART_OF Arg1:T57 Arg2:T54	
+T66	FINDING 471 528	коррелирует с тремя основными патогенетическими факторами
+R10	FINDING_OF Arg1:T66 Arg2:T23	
+T67	DISO 780 795	недостаточности
+N51	Reference T67 UMLS:C0231179	
+R88	SUBCLASS_OF Arg1:T35 Arg2:T67	
+T30	FINDING 308 327	типичным исходом ХП
+R89	ASSOCIATED_WITH Arg1:T58 Arg2:T30	
+R90	HAS_CAUSE Arg1:T30 Arg2:T14	

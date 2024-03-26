@@ -1,0 +1,107 @@
+T2	NUMBER 472 474	20
+T3	NUMBER 587 589	10
+T5	INJURY_POISONING 32 40	стрессом
+T6	DISO 41 68	диссоциативные расстройства
+T13	INJURY_POISONING 316 324	стрессом
+T14	PERSON 475 484	пациентов
+T15	INJURY_POISONING 502 510	стрессом
+T16	DISO 511 538	онкологического заболевания
+T17	DISO 540 550	нозогенные
+T18	DISO 552 582	диссоциативными расстройствами
+T19	DISO 600 621	детачмент-диссоциации
+T20	MENTALPROC 628 645	отрицание болезни
+T22	ACTIVITY 682 698	некомплаентность
+T26	INJURY_POISONING 778 784	стресс
+T27	MENTALPROC 802 813	когнитивные
+T29	DISO 988 1015	Диссоциативные расстройства
+T31	DISO 1075 1077	ДД
+T32	DISO 1099 1114	шизофренических
+T33	DISO 1115 1133	нозогенных реакций
+T34	PHYS 1161 1187	соматического благополучия
+T36	DISO 1273 1310	шизотипическим расстройством личности
+T37	DISO 1313 1336	Компартмент-диссоциация
+T38	DISO 1376 1394	нозогенных реакций
+T40	DISO 1447 1468	патология воображения
+T41	MENTALPROC 1457 1468	воображения
+T42	DISO 1470 1501	синдром 'прекрасного равнодушия
+T43	MENTALPROC 1518 1526	тревогой
+T45	DISO 1588 1611	расстройствами личности
+T46	DISO 1588 1631	расстройствами личности истерического круга
+T1	DISO 70 72	ДР
+R1	ABBREVIATION Arg1:T6 Arg2:T1	
+T47	DISO 186 188	ДР
+T7	DISO 197 217	расстройств личности
+T8	DISO 333 359	диссоциативных расстройств
+T9	DISO 325 359	стойких диссоциативных расстройств
+T10	DISO 623 625	ДД
+R2	ABBREVIATION Arg1:T19 Arg2:T10	
+T11	MENTALPROC 1612 1625	истерического
+T4	DISO 1288 1310	расстройством личности
+T12	DISO 1213 1245	злокачественного новообразования
+T25	DISO 1099 1133	шизофренических нозогенных реакций
+T28	DISO 1273 1287	шизотипическим
+T30	DISO 1362 1375	невротических
+T35	DISO 1362 1394	невротических нозогенных реакций
+T39	DISO 1403 1444	психогенных комплексов бинарной структуры
+T44	MENTALPROC 787 800	эмоциональные
+T23	DISO 702 725	компартмент-диссоциации
+T24	PERSON 592 599	группах
+T48	PHYS 675 680	жизни
+T49	PERSON 844 850	Группы
+T50	DISO 1230 1245	новообразования
+T51	ACTIVITY 826 840	комплаентность
+R3	SUBCLASS_OF Arg1:T9 Arg2:T8	
+R4	SUBCLASS_OF Arg1:T36 Arg2:T4	
+R5	SUBCLASS_OF Arg1:T46 Arg2:T45	
+R6	ALTERNATIVE_NAME Arg1:T40 Arg2:T42	
+R7	AFFECTS Arg1:T40 Arg2:T41	
+R8	SUBCLASS_OF Arg1:T25 Arg2:T33	
+R9	SUBCLASS_OF Arg1:T12 Arg2:T50	
+R10	MEDICAL_CONDITION Arg1:T14 Arg2:T16	
+R11	MEDICAL_CONDITION Arg1:T14 Arg2:T18	
+R12	MEDICAL_CONDITION Arg1:T24 Arg2:T19	
+R13	MEDICAL_CONDITION Arg1:T24 Arg2:T23	
+R14	SUBCLASS_OF Arg1:T25 Arg2:T32	
+R15	SUBCLASS_OF Arg1:T35 Arg2:T30	
+R16	SUBCLASS_OF Arg1:T35 Arg2:T38	
+R17	HAS_CAUSE Arg1:T6 Arg2:T5	
+R18	HAS_CAUSE Arg1:T9 Arg2:T13	
+R19	HAS_CAUSE Arg1:T16 Arg2:T15	
+R20	HAS_CAUSE Arg1:T31 Arg2:T25	
+R21	ABBREVIATION Arg1:T29 Arg2:T31	
+N1	Reference T6 UMLS:C0012746	диссоциативные расстройства
+N4	Reference T32 UMLS:C0036341	шизофренических
+N5	Reference T36 UMLS:C0036363	шизотипическим расстройством личности
+N7	Reference T46 UMLS:C0019681	расстройствами личности истерического круга
+N8	Reference T7 UMLS:C0031212	расстройств личности
+N9	Reference T9 UMLS:C0012746	стойких диссоциативных расстройств
+N11	Reference T28 UMLS:C0036363	шизотипическим
+N12	Reference T30 UMLS:C1842981	невротических
+N13	Reference T50 UMLS:C0027651	новообразования
+N2	Reference T16 UMLS:C0006826	злокачественное новообразование
+N10	Reference T12 UMLS:C0006826	злокачественное новообразование
+N3	Reference T17 UMLS:C0037650	соматоформные расстройства
+N14	Reference T33 UMLS:C0037650	соматоформные расстройства
+N6	Reference T40 UMLS:C0860660	великолепное безразличие
+N15	Reference T35 UMLS:NULL	
+N17	Reference T25 UMLS:NULL	
+N18	Reference T23 UMLS:NULL	
+N16	Reference T39 UMLS:NULL	
+N19	Reference T29 UMLS:C0012746	диссоциативные расстройства
+N20	Reference T18 UMLS:C0012746	диссоциативные расстройства
+N21	Reference T10 UMLS:C0012746	диссоциативные расстройства
+N22	Reference T31 UMLS:C0012746	диссоциативные расстройства
+N23	Reference T8 UMLS:C0012746	диссоциативные расстройства
+N24	Reference T47 UMLS:C0012746	диссоциативные расстройства
+N26	Reference T1 UMLS:C0012746	диссоциативные расстройства
+N27	Reference T45 UMLS:C0031212	расстройств личности
+N28	Reference T4 UMLS:C0031212	расстройств личности
+N29	Reference T38 UMLS:C0037650	соматоформные расстройства
+N30	Reference T42 UMLS:C0860660	великолепное безразличие
+N31	Reference T37 UMLS:NULL	
+N25	Reference T19 UMLS:C0541879	отчужденность психологическая
+T21	DISO 610 621	диссоциации
+R22	SUBCLASS_OF Arg1:T19 Arg2:T21	
+R23	ALTERNATIVE_NAME Arg1:T18 Arg2:T21	
+T52	DISO 714 725	диссоциации
+R24	SUBCLASS_OF Arg1:T23 Arg2:T52	

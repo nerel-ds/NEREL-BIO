@@ -1,0 +1,209 @@
+T1	AGE 33 42	6-летнего
+T3	NUMBER 401 402	5
+T4	NUMBER 428 430	20
+T5	DATE 622 638	в течение 5 дней
+T6	NUMBER 641 642	1
+T7	ORDINAL 665 668	2-й
+T9	DATE 725 741	в течение 2 дней
+T10	DISO 979 1005	внутричерепная гипертензия
+T12	PERSON 43 51	пациента
+T14	DISO 68 99	герминативно-клеточной опухолью
+T15	DISO 145 155	полидипсия
+T17	DISO 225 240	снижение зрения
+T18	LABPROC 242 273	Магнитно-резонансная томография
+T19	DISO 288 295	опухоль
+T20	ANATOMY 296 324	хиазмально-селлярной области
+T22	CHEM 354 365	Онкомаркеры
+T24	CHEM 407 424	альфа-фетопротеин
+T26	CHEM 435 461	хорионический гонадотропин
+T27	PERSON 462 470	человека
+T30	PERSON 506 513	Пациент
+T32	SCIPROC 556 559	PEI
+T34	CHEM 581 590	цисплатин
+T35	CHEM 602 610	этопозид
+T36	MEDPROC 648 664	полихимиотерапии
+T38	CHEM 705 713	эндоксан
+T39	CHEM 772 784	онкомаркеров
+T41	PHYS 795 801	зрение
+T43	LABPROC 825 828	МРТ
+T44	DISO 857 864	опухоли
+T47	PHYS 943 961	зрительные функции
+T48	DISO 994 1005	гипертензия
+T49	LABPROC 1007 1035	Гистологическое исследование
+T50	ANATOMY 1036 1041	ткани
+T51	DISO 1042 1049	опухоли
+T53	DISO 1081 1089	тератомы
+T11	ANATOMY 54 67	негерминомной
+T61	ANATOMY 100 128	хиазмально-селлярной области
+T63	DISO 134 142	полиурия
+T64	PHYS 204 223	полового созревания
+T16	DISO 187 223	преждевременного полового созревания
+T66	DISO 91 99	опухолью
+T59	DISO 54 99	негерминомной герминативно-клеточной опухолью
+T67	PHYS 234 240	зрения
+T65	ANATOMY 81 90	клеточной
+T68	LABPROC 275 278	МРТ
+T2	DISO 340 352	гидроцефалию
+T21	DISO 327 352	окклюзионную гидроцефалию
+T23	ANATOMY 368 377	сыворотке
+T71	ANATOMY 378 383	крови
+T72	ANATOMY 368 383	сыворотке крови
+T73	CHEM 435 470	хорионический гонадотропин человека
+T28	NUMBER 522 523	2
+T29	MEDPROC 530 546	полихимиотерапии
+T31	MEDPROC 530 559	полихимиотерапии по схеме PEI
+T33	CHEM 561 570	ифосфамид
+T74	NUMBER 571 579	1,5 г/м2
+T75	NUMBER 591 599	20 мг/м2
+T76	NUMBER 611 620	100 мг/м2
+T37	MEDPROC 648 674	полихимиотерапии 2-й линии
+T77	CHEM 676 685	цисплатин
+T78	NUMBER 686 695	100 мг/м2
+T79	DATE 696 702	1 день
+T8	NUMBER 714 724	1500 мг/м2
+T40	FINDING 756 793	снижение уровня онкомаркеров до нормы
+T80	PHYS 837 864	увеличение размеров опухоли
+T45	DISO 924 931	опухоли
+T46	MEDPROC 915 931	удаления опухоли
+T81	ANATOMY 979 993	внутричерепная
+T82	FINDING 932 961	улучшились зрительные функции
+T83	FINDING 964 1005	регрессировала внутричерепная гипертензия
+T84	ANATOMY 1036 1049	ткани опухоли
+T52	DISO 1074 1089	зрелой тератомы
+T54	DISO 1134 1142	тератомы
+T55	DISO 1115 1142	синдромом растущей тератомы
+T56	DISO 1224 1232	опухолях
+T57	ANATOMY 1214 1223	клеточных
+T58	ANATOMY 1187 1200	негерминомных
+T85	ANATOMY 1170 1186	интракраниальных
+T87	DISO 1201 1232	герминативно-клеточных опухолях
+T88	DISO 1187 1232	негерминомных герминативно-клеточных опухолях
+T89	DISO 1170 1232	интракраниальных негерминомных герминативно-клеточных опухолях
+R1	ABBREVIATION Arg1:T18 Arg2:T68	
+R2	AGE_IS Arg1:T12 Arg2:T1	
+R3	SUBCLASS_OF Arg1:T21 Arg2:T2	
+R4	DOSE_IS Arg1:T33 Arg2:T74	
+R5	DOSE_IS Arg1:T34 Arg2:T75	
+R6	DOSE_IS Arg1:T35 Arg2:T76	
+R7	SUBCLASS_OF Arg1:T31 Arg2:T29	
+R8	USED_IN Arg1:T33 Arg2:T29	
+R9	USED_IN Arg1:T34 Arg2:T29	
+R10	USED_IN Arg1:T35 Arg2:T29	
+R11	DURATION_OF Arg1:T29 Arg2:T5	
+R12	PART_OF Arg1:T72 Arg2:T71	
+R13	ALTERNATIVE_NAME Arg1:T72 Arg2:T23	
+R14	SUBCLASS_OF Arg1:T37 Arg2:T36	
+R15	USED_IN Arg1:T77 Arg2:T37	
+R16	DOSE_IS Arg1:T77 Arg2:T78	
+R17	USED_IN Arg1:T38 Arg2:T37	
+R18	DOSE_IS Arg1:T38 Arg2:T8	
+R19	DURATION_OF Arg1:T38 Arg2:T9	
+T90	LABPROC 263 273	томография
+R20	SUBCLASS_OF Arg1:T18 Arg2:T90	
+R21	TREATED_USING Arg1:T30 Arg2:T29	
+R22	TREATED_USING Arg1:T30 Arg2:T37	
+R23	ASSOCIATED_WITH Arg1:T67 Arg2:T17	
+R24	SUBCLASS_OF Arg1:T10 Arg2:T48	
+R25	AFFECTS Arg1:T10 Arg2:T81	
+R26	ASSOCIATED_WITH Arg1:T10 Arg2:T83	
+R27	TO_DETECT_OR_STUDY Arg1:T43 Arg2:T80	
+R28	TREATED_USING Arg1:T45 Arg2:T46	
+R29	SUBCLASS_OF Arg1:T84 Arg2:T50	
+R30	HAS_CAUSE Arg1:T82 Arg2:T46	
+R31	HAS_CAUSE Arg1:T83 Arg2:T46	
+R32	TO_DETECT_OR_STUDY Arg1:T49 Arg2:T50	
+R33	SUBCLASS_OF Arg1:T52 Arg2:T53	
+R34	ASSOCIATED_WITH Arg1:T80 Arg2:T44	
+R35	AFFECTS Arg1:T19 Arg2:T20	
+R36	TO_DETECT_OR_STUDY Arg1:T18 Arg2:T19	
+R37	TO_DETECT_OR_STUDY Arg1:T18 Arg2:T21	
+R38	MEDICAL_CONDITION Arg1:T12 Arg2:T63	
+R39	MEDICAL_CONDITION Arg1:T12 Arg2:T15	
+R40	MEDICAL_CONDITION Arg1:T12 Arg2:T16	
+R41	MEDICAL_CONDITION Arg1:T12 Arg2:T17	
+R42	ORIGINS_FROM Arg1:T24 Arg2:T72	
+R43	ASSOCIATED_WITH Arg1:T64 Arg2:T16	
+R44	FINDING_OF Arg1:T40 Arg2:T30	
+R45	HAS_CAUSE Arg1:T40 Arg2:T29	
+R46	HAS_CAUSE Arg1:T40 Arg2:T37	
+R47	TO_DETECT_OR_STUDY Arg1:T49 Arg2:T52	
+R48	ORIGINS_FROM Arg1:T73 Arg2:T72	
+R49	SUBCLASS_OF Arg1:T73 Arg2:T26	
+T25	CHEM 449 461	гонадотропин
+R50	SUBCLASS_OF Arg1:T26 Arg2:T25	
+R51	ORIGINS_FROM Arg1:T22 Arg2:T72	
+R52	SUBCLASS_OF Arg1:T24 Arg2:T22	
+R53	SUBCLASS_OF Arg1:T73 Arg2:T22	
+R54	AFFECTS Arg1:T59 Arg2:T61	
+R55	PART_OF Arg1:T61 Arg2:T12	
+R56	SUBCLASS_OF Arg1:T14 Arg2:T66	
+R57	SUBCLASS_OF Arg1:T59 Arg2:T14	
+R58	MEDICAL_CONDITION Arg1:T12 Arg2:T59	
+R59	HAS_CAUSE Arg1:T55 Arg2:T54	
+R60	SUBCLASS_OF Arg1:T87 Arg2:T56	
+R61	SUBCLASS_OF Arg1:T88 Arg2:T87	
+R62	SUBCLASS_OF Arg1:T89 Arg2:T88	
+R63	AFFECTS Arg1:T89 Arg2:T85	
+N1	Reference T10 UMLS:C0151740	внутричерепная гипертензия
+N3	Reference T15 UMLS:C0085602	полидипсия
+N6	Reference T24 UMLS:C0002210	альфа-фетопротеин
+N7	Reference T26 UMLS:C0018062	хорионический гонадотропин
+N8	Reference T34 UMLS:C0008838	цисплатин
+N9	Reference T35 UMLS:C0015133	этопозид
+N10	Reference T38 UMLS:C0014310	эндоксан
+N12	Reference T48 UMLS:C0020538	гипертензия
+N13	Reference T50 UMLS:C0040300	ткани
+N14	Reference T53 UMLS:C0039538	тератомы
+N16	Reference T63 UMLS:C0032617	полиурия
+N17	Reference T16 UMLS:C0034013	преждевременного полового созревания
+N18	Reference T66 UMLS:C0027651	опухолью
+N19	Reference T59 UMLS:C1696109	негерминомной герминативно-клеточной опухолью
+N21	Reference T2 UMLS:C0020255	гидроцефалию
+N23	Reference T72 UMLS:C0229671	сыворотке крови
+N24	Reference T73 UMLS:C0428402	хорионический гонадотропин человека
+N25	Reference T33 UMLS:C0020823	ифосфамид
+N30	Reference T25 UMLS:C0546642	гонадотропин
+N22	Reference T71 UMLS:C0005767	кровь
+N4	Reference T17 UMLS:C3665347	расстройство зрения
+N26	Reference T81 UMLS:C0524466	
+N31	Reference T21 UMLS:C2673781	
+N20	Reference T65 UMLS:C0007634	клетки
+N32	Reference T11 UMLS:NULL	
+N2	Reference T14 UMLS:C0205851	новообразование половых клеток
+N15	Reference T61 UMLS:C4744370	
+N5	Reference T22 UMLS:C0041365	
+N27	Reference T84 UMLS:C0475358	
+N33	Reference T52 UMLS:C1368910	
+N29	Reference T89 UMLS:C1266158	
+N28	Reference T85 UMLS:C0524466	
+N34	Reference T55 UMLS:C3891714	
+N35	Reference T77 UMLS:C0008838	цисплатин
+N36	Reference T54 UMLS:C0039538	тератомы
+N37	Reference T45 UMLS:C0027651	опухолью
+N38	Reference T56 UMLS:C0027651	опухолью
+N39	Reference T19 UMLS:C0027651	опухолью
+N40	Reference T44 UMLS:C0027651	опухолью
+N41	Reference T51 UMLS:C0027651	опухолью
+N42	Reference T88 UMLS:C1696109	негерминомной герминативно-клеточной опухолью
+N43	Reference T23 UMLS:C0229671	сыворотке крови
+N44	Reference T57 UMLS:C0007634	клетки
+N45	Reference T58 UMLS:NULL	
+N46	Reference T87 UMLS:C0205851	новообразование половых клеток
+N47	Reference T20 UMLS:C4744370	
+T13	CHEM 413 424	фетопротеин
+N48	Reference T13 UMLS:C0015950	плода белки
+R64	SUBCLASS_OF Arg1:T24 Arg2:T13	
+N49	Reference T39 UMLS:C0041365	
+T42	FINDING 354 397	Онкомаркеры в сыворотке крови были повышены
+R65	HAS_CAUSE Arg1:T42 Arg2:T22	
+R66	AFFECTS Arg1:T42 Arg2:T72	
+R67	HAS_CAUSE Arg1:T40 Arg2:T39	
+T60	ANATOMY 68 90	герминативно-клеточной
+N11	Reference T60 UMLS:C0017471	половые клетки
+R68	SUBCLASS_OF Arg1:T60 Arg2:T65	
+T62	FINDING 476 504	динамике уровень их нарастал
+R69	HAS_CAUSE Arg1:T62 Arg2:T73	
+R70	HAS_CAUSE Arg1:T62 Arg2:T24	
+T69	FINDING 795 823	зрение продолжало ухудшаться
+R71	FINDING_OF Arg1:T69 Arg2:T41	
+R72	FINDING_OF Arg1:T82 Arg2:T47	

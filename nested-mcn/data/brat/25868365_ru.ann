@@ -1,0 +1,235 @@
+T1	NUMBER 192 194	25
+T2	DISO 215 247	ВИЧ-ассоциированного туберкулеза
+T3	DISO 236 247	туберкулеза
+T6	NUMBER 728 729	7
+T8	COUNTRY 927 935	Германия
+T9	DISO 1018 1028	туберкулез
+T10	ORDINAL 1208 1212	1-го
+T11	ORDINAL 1313 1317	1-го
+T12	DISO 2474 2485	туберкулеза
+T14	ANATOMY 27 36	клеточных
+T15	ANATOMY 39 51	субклеточных
+T16	INJURY_POISONING 39 61	субклеточных нарушений
+T17	ANATOMY 64 70	легких
+T18	DISO 75 106	ВИЧ-ассоциированном туберкулезе
+T19	LABPROC 127 167	Комплексное морфологическое исследование
+T20	LABPROC 195 203	аутопсий
+T21	PERSON 204 211	умерших
+T22	LIVB 215 218	ВИЧ
+T24	LABPROC 250 276	Микроскопическому изучению
+T26	ANATOMY 297 303	легких
+T29	LABPROC 463 483	световой микроскопии
+T30	LABPROC 497 513	обзорные окраски
+T31	LABPROC 515 534	гистобактериоскопию
+T33	LABPROC 563 597	иммуногистохимическое исследование
+T34	CHEM 598 648	туберкулезными моноклональными мышиными антителами
+T35	CHEM 650 663	clone 1.1/3/1
+T36	ORGANIZATION 665 671	Vector
+T37	LABPROC 674 704	Ультраструктурное исследование
+T38	LABPROC 737 745	вскрытий
+T39	LABPROC 794 812	Ультратонкие срезы
+T40	CHEM 829 844	цитратом свинца
+T41	DEVICE 877 915	трансмиссионном электронном микроскопе
+T42	DEVICE 916 925	Libra-120
+T43	LABPROC 938 954	Полутонкие срезы
+T44	CHEM 966 978	толуидиновым
+T45	DISO 998 1028	ВИЧ-ассоциированный туберкулез
+T46	DISO 1052 1074	инфекционной агрессией
+T47	ANATOMY 1098 1125	гематоальвеолярного барьера
+T48	ANATOMY 1194 1217	альвеолоцитов 1-го типа
+T49	PHYS 1261 1273	детоксикацию
+T50	ANATOMY 1299 1322	альвеолоцитов 1-го типа
+T51	ANATOMY 1325 1337	плазмоцитами
+T52	ANATOMY 1377 1392	ультраструктуре
+T54	PHYS 1438 1450	фагоцитарных
+T55	PHYS 1453 1477	детоксикационных функций
+T56	ANATOMY 1508 1514	клеток
+T57	DISO 1575 1595	сочетанной патологии
+T59	INJURY_POISONING 1639 1662	повреждением макрофагов
+T60	ANATOMY 1652 1662	макрофагов
+T61	PHYS 1702 1711	фагоцитоз
+T62	LIVB 1712 1724	микобактерий
+T63	ANATOMY 1742 1763	плазматические клетки
+T64	LABPROC 1821 1851	ультраструктурном исследовании
+T65	INJURY_POISONING 1873 1905	деструкция органелл гранулоцитов
+T66	ANATOMY 1884 1905	органелл гранулоцитов
+T67	INJURY_POISONING 1926 1932	некроз
+T68	ANATOMY 1933 1939	клеток
+T69	ANATOMY 2004 2011	сосудов
+T70	PHYS 2012 2029	микроциркулярного
+T71	ANATOMY 2087 2108	эндотелиальных клеток
+T72	DISO 2129 2164	экссудативно-воспалительной реакции
+T73	ANATOMY 2165 2179	легочной ткани
+T74	ANATOMY 2193 2202	Клеточные
+T75	ANATOMY 2205 2217	субклеточные
+T77	INJURY_POISONING 2268 2281	некротические
+T78	PHYS 2284 2310	апоптотические перестройки
+T79	ANATOMY 2311 2317	клеток
+T80	PHYS 2347 2376	патофизиологических процессах
+T81	PHYS 2406 2415	гомеостаз
+T83	DISO 2453 2485	ВИЧ-ассоциированного туберкулеза
+T13	LABPROC 472 483	микроскопии
+T85	TIME 747 752	1-2 ч
+T86	DISO 95 106	туберкулезе
+T87	LIVB 75 78	ВИЧ
+T25	LABPROC 139 167	морфологическое исследование
+T23	INJURY_POISONING 355 362	некроза
+T88	INJURY_POISONING 344 362	казеозного некроза
+T89	ANATOMY 385 392	легкого
+T27	INJURY_POISONING 314 332	казеозного некроза
+T90	INJURY_POISONING 325 332	некроза
+T91	ANATOMY 450 457	легкого
+T28	LABPROC 515 551	гистобактериоскопию по Цилю-Нильсену
+T4	CHEM 638 648	антителами
+T5	LIVB 629 637	мышиными
+T32	DISO 598 612	туберкулезными
+T92	LABPROC 730 745	ранних вскрытий
+T93	PHYS 771 791	биологической смерти
+T94	PHYS 785 791	смерти
+T58	PHYS 1233 1258	физиологический газообмен
+T76	PHYS 1249 1258	газообмен
+T53	ANATOMY 2004 2035	сосудов микроциркулярного русла
+T96	LIVB 998 1001	ВИЧ
+T97	LABPROC 955 984	окрашивали толуидиновым синим
+T98	CHEM 829 837	цитратом
+T99	CHEM 838 844	свинца
+T7	LABPROC 813 858	контрастировали цитратом свинца по Рейнольдсу
+T100	ANATOMY 1194 1207	альвеолоцитов
+T84	LIVB 2453 2456	ВИЧ
+T82	PHYS 1702 1724	фагоцитоз микобактерий
+T101	ANATOMY 1757 1763	клетки
+T102	ANATOMY 1893 1905	гранулоцитов
+T103	ANATOMY 1884 1892	органелл
+T104	INJURY_POISONING 1926 1939	некроз клеток
+T105	PHYS 1962 1977	апоптотическими
+T106	ANATOMY 2087 2101	эндотелиальных
+T107	ANATOMY 2102 2108	клеток
+T108	ANATOMY 2165 2173	легочной
+T109	ANATOMY 2174 2179	ткани
+T110	NUMBER 922 925	120
+T111	DISO 1052 1064	инфекционной
+T112	DISO 2142 2156	воспалительной
+R2	SUBCLASS_OF Arg1:T18 Arg2:T86	
+R3	SUBCLASS_OF Arg1:T2 Arg2:T3	
+R5	SUBCLASS_OF Arg1:T45 Arg2:T9	
+R7	SUBCLASS_OF Arg1:T104 Arg2:T67	
+R8	SUBCLASS_OF Arg1:T71 Arg2:T107	
+R9	PART_OF Arg1:T71 Arg2:T106	
+R10	SUBCLASS_OF Arg1:T73 Arg2:T108	
+R11	PART_OF Arg1:T73 Arg2:T109	
+R12	SUBCLASS_OF Arg1:T83 Arg2:T12	
+R14	AFFECTS Arg1:T104 Arg2:T68	
+R15	SUBCLASS_OF Arg1:T88 Arg2:T23	
+R16	SUBCLASS_OF Arg1:T27 Arg2:T90	
+R17	APPLIED_TO Arg1:T24 Arg2:T26	
+R18	TO_DETECT_OR_STUDY Arg1:T24 Arg2:T27	
+R19	SUBCLASS_OF Arg1:T29 Arg2:T13	
+R20	USED_IN Arg1:T34 Arg2:T33	
+R21	SUBCLASS_OF Arg1:T28 Arg2:T31	
+R22	HAS_CAUSE Arg1:T16 Arg2:T18	
+R23	AFFECTS Arg1:T16 Arg2:T17	
+R24	AFFECTS Arg1:T18 Arg2:T17	
+R25	CAUSE_OF_DEATH Arg1:T21 Arg2:T2	
+R26	SUBCLASS_OF Arg1:T92 Arg2:T38	
+R27	SUBCLASS_OF Arg1:T111 Arg2:T46	
+R28	SUBCLASS_OF Arg1:T42 Arg2:T41	
+R29	PART_OF Arg1:T14 Arg2:T17	
+R30	PART_OF Arg1:T15 Arg2:T14	
+R31	AFFECTS Arg1:T16 Arg2:T14	
+R32	AFFECTS Arg1:T16 Arg2:T15	
+R33	USED_IN Arg1:T30 Arg2:T29	
+R34	USED_IN Arg1:T28 Arg2:T29	
+R35	SUBCLASS_OF Arg1:T19 Arg2:T25	
+R36	USED_IN Arg1:T92 Arg2:T37	
+R37	USED_IN Arg1:T39 Arg2:T7	
+R39	SUBCLASS_OF Arg1:T40 Arg2:T98	
+R40	USED_IN Arg1:T40 Arg2:T7	
+R38	USED_IN Arg1:T42 Arg2:T7	
+R41	USED_IN Arg1:T40 Arg2:T7	
+R42	USED_IN Arg1:T44 Arg2:T97	
+R43	SUBCLASS_OF Arg1:T48 Arg2:T100	
+R44	PHYSIOLOGY_OF Arg1:T78 Arg2:T79	
+T113	DISO 1076 1125	Нарушение целостности гематоальвеолярного барьера
+R45	AFFECTS Arg1:T59 Arg2:T60	
+R46	SUBCLASS_OF Arg1:T63 Arg2:T101	
+R47	SUBCLASS_OF Arg1:T82 Arg2:T61	
+R48	PHYSIOLOGY_OF Arg1:T82 Arg2:T62	
+R49	AFFECTS Arg1:T77 Arg2:T79	
+R50	AFFECTS Arg1:T72 Arg2:T73	
+R52	SUBCLASS_OF Arg1:T58 Arg2:T76	
+R53	AFFECTS Arg1:T113 Arg2:T47	
+R54	ALTERNATIVE_NAME Arg1:T51 Arg2:T63	
+R55	SUBCLASS_OF Arg1:T66 Arg2:T103	
+R56	PART_OF Arg1:T66 Arg2:T102	
+R57	AFFECTS Arg1:T65 Arg2:T66	
+N2	Reference T15 UMLS:C0038528	субклеточных
+N3	Reference T17 UMLS:C0024109	легких
+N5	Reference T44 UMLS:C0040387	толуидиновым
+N8	Reference T60 UMLS:C0024432	макрофагов
+N10	Reference T71 UMLS:C0225336	эндотелиальных клеток
+N11	Reference T72 UMLS:C0021381	экссудативно-воспалительной реакции
+N12	Reference T73 UMLS:C0041327	легочной ткани
+N13	Reference T86 UMLS:C0041296	туберкулезе
+N14	Reference T4 UMLS:C0003241	антителами
+N15	Reference T32 UMLS:C0041296	туберкулезными
+N16	Reference T98 UMLS:C0055819	цитратом
+N18	Reference T100 UMLS:C0225698	альвеолоцитов
+N19	Reference T102 UMLS:C0018183	гранулоцитов
+N20	Reference T103 UMLS:C0029219	органелл
+N21	Reference T106 UMLS:C0014257	эндотелиальных
+N22	Reference T108 UMLS:C0024109	легочной
+N23	Reference T109 UMLS:C0040300	ткани
+N25	Reference T112 UMLS:C0021368	воспалительной
+N26	Reference T48 UMLS:C0225699	
+N27	Reference T50 UMLS:C0225699	
+N7	Reference T56 UMLS:C0007634	клетки
+N6	Reference T51 UMLS:C0032112	
+N17	Reference T99 UMLS:C0023175	
+N28	Reference T40 UMLS:NULL	
+N1	Reference T14 UMLS:C0007634	клетки
+N24	Reference T111 UMLS:C3714514	инфекции
+N4	Reference T34 UMLS:C0003250	антитела моноклональные
+N29	Reference T46 UMLS:NULL	
+N30	Reference T57 UMLS:C1275743	
+N31	Reference T66 UMLS:NULL	
+N9	Reference T69 UMLS:C0005847	кровеносные сосуды
+N32	Reference T53 UMLS:C2350570	микрососуды
+N33	Reference T52 UMLS:C0041623	
+N34	Reference T113 UMLS:NULL	
+N35	Reference T47 UMLS:C0005853	альвеолярно-капиллярный барьер
+N36	Reference T75 UMLS:C0038528	субклеточных
+N37	Reference T91 UMLS:C0024109	легких
+N38	Reference T89 UMLS:C0024109	легких
+N39	Reference T26 UMLS:C0024109	легких
+N40	Reference T9 UMLS:C0041296	туберкулезе
+N41	Reference T12 UMLS:C0041296	туберкулезе
+N42	Reference T3 UMLS:C0041296	туберкулезе
+N43	Reference T68 UMLS:C0007634	клетки
+N44	Reference T79 UMLS:C0007634	клетки
+N45	Reference T101 UMLS:C0007634	клетки
+N46	Reference T107 UMLS:C0007634	клетки
+N47	Reference T63 UMLS:C0032112	
+N48	Reference T74 UMLS:C0007634	клетки
+T95	DISO 75 94	ВИЧ-ассоциированном
+T114	DISO 215 235	ВИЧ-ассоциированного
+N49	Reference T95 UMLS:C0019693	вич инфекции
+R58	HAS_CAUSE Arg1:T95 Arg2:T87	
+N50	Reference T114 UMLS:C0019693	вич инфекции
+R1	HAS_CAUSE Arg1:T114 Arg2:T22	
+T115	DISO 998 1017	ВИЧ-ассоциированный
+R4	HAS_CAUSE Arg1:T115 Arg2:T96	
+N51	Reference T115 UMLS:C0019693	вич инфекции
+T116	DISO 2453 2473	ВИЧ-ассоциированного
+N52	Reference T116 UMLS:C0019693	вич инфекции
+R6	HAS_CAUSE Arg1:T116 Arg2:T84	
+R13	SUBCLASS_OF Arg1:T53 Arg2:T69	
+R51	AFFECTS Arg1:T27 Arg2:T26	
+R59	SUBCLASS_OF Arg1:T34 Arg2:T4	
+T117	ANATOMY 1299 1312	альвеолоцитов
+N53	Reference T117 UMLS:C0225698	альвеолярные эпителиальные клетки
+R60	SUBCLASS_OF Arg1:T50 Arg2:T117	
+T118	FINDING 1284 1337	тесный контакт альвеолоцитов 1-го типа с плазмоцитами
+R61	AFFECTS Arg1:T118 Arg2:T51	
+R62	AFFECTS Arg1:T118 Arg2:T50	
+R63	PHYSIOLOGY_OF Arg1:T105 Arg2:T68	
+R64	SUBCLASS_OF Arg1:T72 Arg2:T112	

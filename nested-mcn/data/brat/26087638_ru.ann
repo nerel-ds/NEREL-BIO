@@ -1,0 +1,164 @@
+T1	DISO 137 139	МК
+T2	DISO 260 290	хронической водянистой диареей
+T3	NUMBER 421 424	две
+T4	NUMBER 627 636	около 100
+T5	NUMBER 648 655	100 000
+T6	DISO 693 732	воспалительными заболеваниями кишечника
+T7	DISO 762 775	болезнь Крона
+T8	AGE 826 839	старше 50 лет
+T9	DISO 966 983	водянистая диарея
+T10	NUMBER 1094 1106	более 10 мкм
+T11	NUMBER 1173 1181	более 20
+T14	DISO 111 135	микроскопического колита
+T15	DISO 182 208	воспалительное заболевание
+T16	ANATOMY 209 218	кишечника
+T20	DISO 272 290	водянистой диареей
+T22	INJURY_POISONING 331 354	поражения толстой кишки
+T23	ANATOMY 341 354	толстой кишки
+T24	DISO 381 410	патоморфологических изменений
+T25	DISO 523 542	коллагенозный колит
+T26	DISO 550 569	лимфоцитарный колит
+T27	SCIPROC 594 615	распространенность МК
+T28	PERSON 656 665	населения
+T29	DISO 693 722	воспалительными заболеваниями
+T30	ANATOMY 723 732	кишечника
+T33	PERSON 794 800	женщин
+T37	PERSON 894 903	пациентов
+T38	DISO 933 958	патогномоничным симптомом
+T39	DISO 977 983	диарея
+T43	ANATOMY 1142 1171	интраэпителиальных лимфоцитов
+T44	ANATOMY 1182 1211	интраэпителиальных лимфоцитов
+T45	ANATOMY 1216 1229	эпителиоцитов
+T46	CHEM 1251 1281	топический глюкокортикостероид
+T47	CHEM 1282 1291	будесонид
+T50	PHYS 1389 1400	ремиссии МК
+T52	DISO 129 135	колита
+T12	DISO 173 175	МК
+T13	DISO 182 218	воспалительное заболевание кишечника
+T17	ANATOMY 349 354	кишки
+T18	DISO 613 615	МК
+T53	DISO 745 759	язвенный колит
+T54	DISO 754 759	колит
+T21	DISO 440 442	МК
+R1	AGE_IS Arg1:T33 Arg2:T8	
+T34	DISO 863 865	МК
+T19	DISO 283 290	диареей
+T35	DISO 537 542	колит
+T36	DISO 544 546	КК
+T55	DISO 564 569	колит
+T56	DISO 571 573	ЛК
+R2	ABBREVIATION Arg1:T26 Arg2:T56	
+R3	ABBREVIATION Arg1:T25 Arg2:T36	
+R4	ABBREVIATION Arg1:T14 Arg2:T1	
+T57	DISO 916 918	МК
+T40	LABPROC 496 511	гистологическим
+T58	DISO 1032 1034	КК
+T59	DISO 1115 1117	ЛК
+T60	DISO 1398 1400	МК
+T48	CHEM 1262 1281	глюкокортикостероид
+T61	ANATOMY 1161 1171	лимфоцитов
+T62	ANATOMY 1201 1211	лимфоцитов
+T63	NUMBER 1212 1215	100
+T64	LABPROC 994 1009	гистологическим
+T49	CHEM 1071 1083	коллагеновой
+T32	ANATOMY 1054 1070	субэпителиальной
+T41	PHYS 1044 1092	утолщение субэпителиальной коллагеновой выстилки
+T42	FINDING 1120 1171	повышенное количество интраэпителиальных лимфоцитов
+R6	ALTERNATIVE_NAME Arg1:T14 Arg2:T52	
+R5	SUBCLASS_OF Arg1:T12 Arg2:T13	
+R7	AFFECTS Arg1:T12 Arg2:T16	
+R8	AFFECTS Arg1:T13 Arg2:T16	
+R9	SUBCLASS_OF Arg1:T20 Arg2:T19	
+R10	SUBCLASS_OF Arg1:T2 Arg2:T19	
+R11	SUBCLASS_OF Arg1:T23 Arg2:T17	
+R12	AFFECTS Arg1:T22 Arg2:T23	
+R13	SUBCLASS_OF Arg1:T25 Arg2:T35	
+R14	MEDICAL_CONDITION Arg1:T37 Arg2:T57	
+R15	SUBCLASS_OF Arg1:T9 Arg2:T39	
+R16	SUBCLASS_OF Arg1:T35 Arg2:T21	
+R17	SUBCLASS_OF Arg1:T26 Arg2:T21	
+R18	SUBCLASS_OF Arg1:T26 Arg2:T55	
+R19	SUBCLASS_OF Arg1:T6 Arg2:T29	
+R20	AFFECTS Arg1:T6 Arg2:T30	
+R21	SUBCLASS_OF Arg1:T53 Arg2:T29	
+R22	SUBCLASS_OF Arg1:T53 Arg2:T54	
+R23	SUBCLASS_OF Arg1:T7 Arg2:T6	
+R24	MEDICAL_CONDITION Arg1:T37 Arg2:T9	
+R25	HAS_CAUSE Arg1:T2 Arg2:T12	
+R26	HAS_CAUSE Arg1:T24 Arg2:T12	
+R27	TO_DETECT_OR_STUDY Arg1:T40 Arg2:T21	
+T31	DISO 777 779	МК
+R28	MEDICAL_CONDITION Arg1:T33 Arg2:T31	
+R29	TO_DETECT_OR_STUDY Arg1:T64 Arg2:T58	
+R30	TO_DETECT_OR_STUDY Arg1:T40 Arg2:T25	
+R31	TO_DETECT_OR_STUDY Arg1:T40 Arg2:T26	
+R32	TO_DETECT_OR_STUDY Arg1:T64 Arg2:T59	
+R33	SUBCLASS_OF Arg1:T46 Arg2:T48	
+R34	SUBCLASS_OF Arg1:T47 Arg2:T46	
+R35	TREATED_USING Arg1:T60 Arg2:T47	
+R36	ASSOCIATED_WITH Arg1:T50 Arg2:T47	
+T51	FINDING 1326 1339	эффективность
+R37	HAS_CAUSE Arg1:T51 Arg2:T47	
+R38	FINDING_OF Arg1:T51 Arg2:T50	
+R39	SUBCLASS_OF Arg1:T43 Arg2:T61	
+R40	HAS_CAUSE Arg1:T42 Arg2:T58	
+R41	PART_OF Arg1:T23 Arg2:T16	
+R42	AFFECTS Arg1:T53 Arg2:T30	
+R43	AFFECTS Arg1:T18 Arg2:T30	
+R44	AFFECTS Arg1:T7 Arg2:T30	
+R45	HAS_CAUSE Arg1:T38 Arg2:T57	
+R46	MEDICAL_CONDITION Arg1:T37 Arg2:T38	
+R47	VALUE_IS Arg1:T41 Arg2:T10	
+R48	TO_DETECT_OR_STUDY Arg1:T64 Arg2:T41	
+R49	HAS_CAUSE Arg1:T41 Arg2:T58	
+R50	HAS_CAUSE Arg1:T42 Arg2:T59	
+R51	SUBCLASS_OF Arg1:T44 Arg2:T62	
+N1	Reference T7 UMLS:C0010346	болезнь Крона
+N2	Reference T14 UMLS:C0400821	микроскопического колита
+N6	Reference T26 UMLS:C0400822	лимфоцитарный колит
+N7	Reference T43 UMLS:C1512944	интраэпителиальных лимфоцитов
+N8	Reference T45 UMLS:C0014597	эпителиоцитов
+N10	Reference T47 UMLS:C0054201	будесонид
+N11	Reference T13 UMLS:C0021390	воспалительное заболевание кишечника
+N13	Reference T53 UMLS:C0302596	язвенный колит
+N14	Reference T19 UMLS:C0011991	диареей
+N15	Reference T48 UMLS:C0017710	глюкокортикостероид
+N16	Reference T61 UMLS:C0024264	лимфоцитов
+N3	Reference T15 UMLS:C0021368	
+N20	Reference T20 UMLS:C0239182	диарея с водянистым стулом
+N4	Reference T16 UMLS:C0021853	
+N5	Reference T23 UMLS:C0021851	толстая кишка
+N12	Reference T17 UMLS:C0021853	кишечник
+N9	Reference T46 UMLS:C2064827	
+N17	Reference T49 UMLS:C0009325	коллаген
+N18	Reference T32 UMLS:NULL	
+N21	Reference T2 UMLS:C0401151	
+N22	Reference T38 UMLS:C0277788	
+N23	Reference T24 UMLS:NULL	
+N24	Reference T54 UMLS:C0400821	микроскопического колита
+N25	Reference T60 UMLS:C0400821	микроскопического колита
+N27	Reference T18 UMLS:C0400821	микроскопического колита
+N28	Reference T55 UMLS:C0400821	микроскопического колита
+N29	Reference T52 UMLS:C0400821	микроскопического колита
+N30	Reference T58 UMLS:C0400821	микроскопического колита
+N31	Reference T31 UMLS:C0400821	микроскопического колита
+N32	Reference T21 UMLS:C0400821	микроскопического колита
+N33	Reference T34 UMLS:C0400821	микроскопического колита
+N34	Reference T36 UMLS:C0400821	микроскопического колита
+N35	Reference T35 UMLS:C0400821	микроскопического колита
+N36	Reference T57 UMLS:C0400821	микроскопического колита
+N37	Reference T12 UMLS:C0400821	микроскопического колита
+N38	Reference T1 UMLS:C0400821	микроскопического колита
+N39	Reference T56 UMLS:C0400822	лимфоцитарный колит
+N40	Reference T59 UMLS:C0400822	лимфоцитарный колит
+N41	Reference T44 UMLS:C1512944	интраэпителиальных лимфоцитов
+N42	Reference T6 UMLS:C0021390	воспалительное заболевание кишечника
+N43	Reference T39 UMLS:C0011991	диареей
+N44	Reference T62 UMLS:C0024264	лимфоцитов
+N45	Reference T29 UMLS:C0021368	
+N46	Reference T9 UMLS:C0239182	диарея с водянистым стулом
+N47	Reference T30 UMLS:C0021853	
+R52	SUBCLASS_OF Arg1:T13 Arg2:T15	
+R53	AFFECTS Arg1:T42 Arg2:T43	
+R54	ASSOCIATED_WITH Arg1:T50 Arg2:T60	
+N19	Reference T25 UMLS:C0238067	колит коллагеновый

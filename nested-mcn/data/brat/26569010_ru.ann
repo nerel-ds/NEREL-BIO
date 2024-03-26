@@ -1,0 +1,230 @@
+T1	DISO 428 437	люмбалгии
+T2	CHEM 49 66	хондропротекторов
+T3	DISO 71 100	хронических болевых синдромах
+T4	CHEM 115 122	плацебо
+T5	CHEM 133 146	анальгетиками
+T10	CHEM 351 368	хондропротекторов
+T12	CHEM 473 520	нестероидными противовоспалительными средствами
+T13	CHEM 529 541	целекоксибом
+T14	CHEM 543 550	плацебо
+T16	DISO 559 576	болевого синдрома
+T19	SCIPROC 643 646	ВАШ
+T24	CHEM 789 806	хондропротекторов
+T25	CHEM 830 834	НПВС
+T27	DISO 880 896	хронической боли
+T28	ANATOMY 899 904	спине
+T31	CHEM 1040 1056	хондропротекторы
+T32	CHEM 1082 1113	противовоспалительных цитокинов
+T33	ANATOMY 1116 1121	крови
+T34	CHEM 1133 1146	интерлейкин-6
+T35	CHEM 1155 1173	С-реактивный белок
+T38	CHEM 1229 1234	IL-10
+T39	ANATOMY 1237 1258	синовиальной мембране
+T40	CHEM 1300 1311	глюкозамина
+T41	ANATOMY 1314 1325	хондроцитах
+T43	CHEM 1357 1372	интерлейкина-1β
+T44	PHYS 1397 1409	ингибируются
+T45	CHEM 1410 1433	воспалительные ферменты
+T46	CHEM 1445 1465	синтаза оксида азота
+T47	CHEM 1468 1485	циклооксигеназа-2
+T49	CHEM 1565 1582	хондропротекторов
+T50	CHEM 1596 1622	провоспалительные цитокины
+T52	DISO 1686 1695	артралгий
+T53	DISO 1709 1738	хронических болевых синдромов
+T54	DISO 83 100	болевых синдромах
+T55	DISO 83 90	болевых
+T7	DISO 384 391	болевой
+T8	DISO 384 399	болевой синдром
+T9	DISO 372 399	хронический болевой синдром
+T56	DISO 71 82	хронических
+T58	DISO 408 420	остеоартрозе
+T11	CHEM 487 520	противовоспалительными средствами
+T59	CHEM 522 526	НПВС
+T15	DISO 559 567	болевого
+T17	SCIPROC 620 632	шкалам WOMAC
+T18	SCIPROC 634 640	Лекена
+T60	PHYS 678 683	жизни
+T61	SCIPROC 659 699	опроснику качества жизни Роланда-Морриса
+T21	FINDING 753 788	выраженный антиноцицептивный эффект
+T23	FINDING 178 204	антиноцицептивного эффекта
+T26	DISO 857 869	остеоартроза
+T65	DISO 892 904	боли в спине
+T30	CHEM 1104 1113	цитокинов
+T67	FINDING 1066 1113	снижать уровень противовоспалительных цитокинов
+T68	CHEM 1148 1152	IL-6
+T69	CHEM 1168 1173	белок
+T36	CHEM 1219 1228	цитокинов
+T37	CHEM 1200 1228	антивоспалительных цитокинов
+T70	ANATOMY 1250 1258	мембране
+T71	ANATOMY 1237 1249	синовиальной
+T42	CHEM 1357 1369	интерлейкина
+T74	FINDING 1335 1372	блокирование эффектов интерлейкина-1β
+T75	CHEM 1425 1433	ферменты
+T76	FINDING 1397 1433	ингибируются воспалительные ферменты
+T77	CHEM 1460 1465	азота
+T78	CHEM 1453 1465	оксида азота
+T79	CHEM 1468 1483	циклооксигеназа
+T48	PHYS 1583 1595	ингибировать
+T80	CHEM 1614 1622	цитокины
+T51	DISO 1721 1728	болевых
+T82	DISO 1721 1738	болевых синдромов
+T83	PHYS 1200 1218	антивоспалительных
+R1	ABBREVIATION Arg1:T12 Arg2:T59	
+T20	ORDINAL 1484 1485	2
+T62	FINDING 1583 1622	ингибировать провоспалительные цитокины
+T81	FINDING 1177 1228	активировать выработку антивоспалительных цитокинов
+T84	PHYS 1074 1113	уровень противовоспалительных цитокинов
+R2	SUBCLASS_OF Arg1:T12 Arg2:T11	
+R3	HAS_CAUSE Arg1:T9 Arg2:T58	
+R4	HAS_CAUSE Arg1:T9 Arg2:T1	
+R5	TO_DETECT_OR_STUDY Arg1:T17 Arg2:T16	
+R6	TO_DETECT_OR_STUDY Arg1:T18 Arg2:T16	
+R7	TO_DETECT_OR_STUDY Arg1:T19 Arg2:T16	
+R8	TREATED_USING Arg1:T9 Arg2:T10	
+R10	AFFECTS Arg1:T27 Arg2:T28	
+R11	TREATED_USING Arg1:T3 Arg2:T2	
+R13	TREATED_USING Arg1:T3 Arg2:T4	
+R12	TREATED_USING Arg1:T3 Arg2:T5	
+R14	SUBCLASS_OF Arg1:T3 Arg2:T54	
+T64	PHYS 669 683	качества жизни
+R15	TO_DETECT_OR_STUDY Arg1:T61 Arg2:T64	
+R16	HAS_CAUSE Arg1:T21 Arg2:T24	
+R17	ASSOCIATED_WITH Arg1:T26 Arg2:T21	
+R18	ASSOCIATED_WITH Arg1:T27 Arg2:T21	
+R19	TREATED_USING Arg1:T26 Arg2:T25	
+R20	TREATED_USING Arg1:T27 Arg2:T25	
+R21	TREATED_USING Arg1:T26 Arg2:T24	
+R22	TREATED_USING Arg1:T27 Arg2:T25	
+R23	TO_DETECT_OR_STUDY Arg1:T61 Arg2:T16	
+R24	SUBCLASS_OF Arg1:T53 Arg2:T82	
+R25	SUBCLASS_OF Arg1:T52 Arg2:T53	
+R26	HAS_CAUSE Arg1:T82 Arg2:T51	
+R27	TREATED_USING Arg1:T52 Arg2:T49	
+R28	TREATED_USING Arg1:T53 Arg2:T49	
+R29	SUBCLASS_OF Arg1:T46 Arg2:T45	
+R30	SUBCLASS_OF Arg1:T47 Arg2:T45	
+R31	HAS_CAUSE Arg1:T62 Arg2:T49	
+R32	SUBCLASS_OF Arg1:T50 Arg2:T80	
+R33	ABBREVIATION Arg1:T34 Arg2:T68	
+R34	SUBCLASS_OF Arg1:T35 Arg2:T69	
+R35	PART_OF Arg1:T39 Arg2:T71	
+R36	ALTERNATIVE_NAME Arg1:T39 Arg2:T70	
+R37	HAS_CAUSE Arg1:T8 Arg2:T7	
+R38	SUBCLASS_OF Arg1:T9 Arg2:T8	
+R39	TREATED_USING Arg1:T9 Arg2:T12	
+R40	TREATED_USING Arg1:T9 Arg2:T13	
+R41	TREATED_USING Arg1:T9 Arg2:T14	
+R42	HAS_CAUSE Arg1:T67 Arg2:T31	
+R43	SUBCLASS_OF Arg1:T32 Arg2:T30	
+R44	PHYSIOLOGY_OF Arg1:T84 Arg2:T33	
+R45	AFFECTS Arg1:T67 Arg2:T33	
+R46	SUBCLASS_OF Arg1:T34 Arg2:T32	
+R47	SUBCLASS_OF Arg1:T35 Arg2:T32	
+R48	HAS_CAUSE Arg1:T81 Arg2:T31	
+R49	SUBCLASS_OF Arg1:T37 Arg2:T36	
+R50	SUBCLASS_OF Arg1:T38 Arg2:T37	
+R51	PHYSIOLOGY_OF Arg1:T83 Arg2:T39	
+R53	HAS_CAUSE Arg1:T74 Arg2:T40	
+R54	AFFECTS Arg1:T74 Arg2:T41	
+R55	HAS_CAUSE Arg1:T76 Arg2:T74	
+R56	SUBCLASS_OF Arg1:T45 Arg2:T75	
+R57	USED_IN Arg1:T77 Arg2:T78	
+R58	SUBCLASS_OF Arg1:T47 Arg2:T79	
+N1	Reference T1 UMLS:C0024031	люмбалгии
+N4	Reference T4 UMLS:C0032042	плацебо
+N5	Reference T5 UMLS:C0002771	анальгетиками
+N6	Reference T12 UMLS:C0003211	нестероидными противовоспалительными средствами
+N7	Reference T13 UMLS:C0538927	целекоксибом
+N8	Reference T27 UMLS:C0150055	хронической боли
+N9	Reference T28 UMLS:C0004600	спине
+N11	Reference T34 UMLS:C0021760	интерлейкин-6
+N12	Reference T35 UMLS:C0201657	С-реактивный белок
+N13	Reference T38 UMLS:C0085295	IL-10
+N14	Reference T40 UMLS:C0017718	глюкозамина
+N15	Reference T41 UMLS:C0225369	хондроцитах
+N18	Reference T46 UMLS:C0132555	синтаза оксида азота
+N19	Reference T47 UMLS:C0387583	циклооксигеназа-2
+N20	Reference T52 UMLS:C0003862	артралгий
+N22	Reference T56 UMLS:C0150055	хронических
+N23	Reference T58 UMLS:C0029408	остеоартрозе
+N24	Reference T11 UMLS:C0003209	противовоспалительными средствами
+N26	Reference T30 UMLS:C0079189	цитокинов
+N27	Reference T68 UMLS:C0021760	IL-6
+N28	Reference T71 UMLS:C0039097	синовиальной
+N29	Reference T42 UMLS:C0021764	интерлейкина
+N30	Reference T77 UMLS:C0028158	азота
+N31	Reference T78 UMLS:C0028167	оксида азота
+N32	Reference T79 UMLS:C0033551	циклооксигеназа
+N33	Reference T80 UMLS:C0079189	цитокины
+N3	Reference T3 UMLS:C0150055	боли хронические
+N21	Reference T55 UMLS:C0030193	боли
+N34	Reference T54 UMLS:C0391976	
+N10	Reference T33 UMLS:C0005767	кровь
+N2	Reference T2 UMLS:NULL	
+N35	Reference T32 UMLS:NULL	
+N36	Reference T37 UMLS:NULL	
+N37	Reference T50 UMLS:NULL	
+N16	Reference T43 UMLS:C0021753	интерлейкин-1-бета
+N38	Reference T39 UMLS:C0039099	синовиальная оболочка
+N39	Reference T14 UMLS:C0032042	плацебо
+N40	Reference T25 UMLS:C0003211	нестероидными противовоспалительными средствами
+N41	Reference T59 UMLS:C0003211	нестероидными противовоспалительными средствами
+N44	Reference T26 UMLS:C0029408	остеоартрозе
+N45	Reference T36 UMLS:C0079189	цитокинов
+N46	Reference T53 UMLS:C0150055	боли хронические
+N47	Reference T9 UMLS:C0150055	боли хронические
+N48	Reference T15 UMLS:C0030193	боли
+N49	Reference T7 UMLS:C0030193	боли
+N50	Reference T51 UMLS:C0030193	боли
+N51	Reference T16 UMLS:C0391976	
+N52	Reference T8 UMLS:C0391976	
+N53	Reference T82 UMLS:C0391976	
+N54	Reference T49 UMLS:NULL	
+N55	Reference T10 UMLS:NULL	
+N56	Reference T31 UMLS:NULL	
+N57	Reference T24 UMLS:NULL	
+N58	Reference T70 UMLS:C0039099	синовиальная оболочка
+T22	DISO 892 896	боли
+N59	Reference T22 UMLS:C0030193	боли
+N25	Reference T65 UMLS:C0423673	спинальная боль
+R9	SUBCLASS_OF Arg1:T27 Arg2:T22	
+R59	HAS_CAUSE Arg1:T16 Arg2:T15	
+R60	SUBCLASS_OF Arg1:T65 Arg2:T22	
+R61	FINDING_OF Arg1:T67 Arg2:T84	
+N42	Reference T69 UMLS:C0033684	белки
+T57	CHEM 1133 1144	интерлейкин
+N60	Reference T57 UMLS:C0021764	интерлейкины
+R62	SUBCLASS_OF Arg1:T34 Arg2:T57	
+T63	ORDINAL 1145 1146	6
+T66	ORDINAL 1151 1152	6
+T72	CHEM 1148 1150	IL
+R63	SUBCLASS_OF Arg1:T68 Arg2:T72	
+R64	ABBREVIATION Arg1:T57 Arg2:T72	
+R65	SUBCLASS_OF Arg1:T35 Arg2:T32	
+R66	HAS_CAUSE Arg1:T81 Arg2:T37	
+T73	ORDINAL 1232 1234	10
+R67	ORIGINS_FROM Arg1:T38 Arg2:T39	
+T85	CHEM 1229 1231	IL
+N61	Reference T85 UMLS:C0021764	
+R68	SUBCLASS_OF Arg1:T38 Arg2:T85	
+N43	Reference T75 UMLS:C0014442	ферменты
+R69	SUBCLASS_OF Arg1:T43 Arg2:T42	
+R70	AFFECTS Arg1:T49 Arg2:T48	
+R71	FINDING_OF Arg1:T62 Arg2:T48	
+N17	Reference T45 UMLS:NULL	
+R72	FINDING_OF Arg1:T76 Arg2:T44	
+T86	CHEM 1453 1459	оксида
+R73	SUBCLASS_OF Arg1:T78 Arg2:T86	
+N62	Reference T86 UMLS:C0030015	оксиды
+R74	ASSOCIATED_WITH Arg1:T84 Arg2:T32	
+R75	HAS_CAUSE Arg1:T54 Arg2:T55	
+R76	HAS_CAUSE Arg1:T23 Arg2:T2	
+T87	FINDING 764 788	антиноцицептивный эффект
+R77	SUBCLASS_OF Arg1:T21 Arg2:T87	
+T88	FINDING 963 998	с длительным сохранением результата
+R78	HAS_CAUSE Arg1:T88 Arg2:T24	
+R79	ASSOCIATED_WITH Arg1:T22 Arg2:T88	
+R80	ASSOCIATED_WITH Arg1:T26 Arg2:T88	
+T29	DISO 1410 1424	воспалительные
+N63	Reference T29 UMLS:C0021368	воспаление
+R52	APPLIED_TO Arg1:T40 Arg2:T41	

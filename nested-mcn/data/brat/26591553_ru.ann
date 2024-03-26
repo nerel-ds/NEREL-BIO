@@ -1,0 +1,180 @@
+T1	DISO 31 71	хронической обструктивной болезни легких
+T3	DISO 73 77	ХОБЛ
+T4	DISO 146 163	инфаркта миокарда
+T5	NUMBER 228 231	529
+T6	ORDINAL 290 293	1-ю
+T7	NUMBER 307 309	65
+T8	PERCENT 311 316	12,3%
+T9	ORDINAL 363 366	2-ю
+T10	NUMBER 369 372	464
+T11	PERCENT 374 379	87,7%
+T12	NUMBER 425 428	384
+T13	PERCENT 430 435	81,5%
+T14	DISO 515 526	стенокардии
+T15	DISO 542 579	хронической сердечной недостаточности
+T16	DISO 581 584	ХСН
+T17	DISO 646 687	острое нарушение мозгового кровообращения
+T19	PERCENT 767 772	12,3%
+T20	DISO 860 881	сочетанной патологией
+T21	DATE 1003 1017	в течение года
+T22	DATE 1064 1078	в течение года
+T23	DATE 1199 1213	в течение года
+T29	DISO 146 154	инфаркта
+T30	ANATOMY 155 163	миокарда
+T31	PERSON 232 241	пациентов
+T33	DISO 254 259	ИМпST
+T35	PERSON 318 327	пациентов
+T36	DISO 354 358	ХОБЛ
+T37	PERSON 381 389	пациента
+T39	FINDING 400 415	Годовой прогноз
+T42	DISO 494 496	ИМ
+T44	DISO 528 579	декомпенсация хронической сердечной недостаточности
+T45	MEDPROC 597 621	чрескожные вмешательства
+T46	ANATOMY 625 644	коронарных артериях
+T48	PHYS 663 687	мозгового кровообращения
+T49	PHYS 689 695	смерть
+T50	PERSON 739 748	пациентов
+T51	FINDING 774 805	Неблагоприятный годовой прогноз
+T53	PHYS 896 904	возраста
+T54	PHYS 906 910	пола
+T55	ACTIVITY 919 926	курения
+T57	DISO 1046 1063	декомпенсации ХСН
+T58	DISO 1060 1063	ХСН
+T59	DISO 1085 1090	ИМпST
+T60	FINDING 1175 1198	неблагоприятных исходов
+T61	DISO 1220 1222	ИМ
+T2	ANATOMY 65 71	легких
+R1	ABBREVIATION Arg1:T1 Arg2:T3	
+T18	DISO 936 940	ХОБЛ
+T25	FINDING 90 145	неблагоприятных исходов отдаленного (годового) прогноза
+T26	DISO 146 186	инфаркта миокарда с подъемом сегмента ST
+T40	DISO 188 193	ИМпST
+R2	ABBREVIATION Arg1:T26 Arg2:T40	
+R3	MEDICAL_CONDITION Arg1:T31 Arg2:T33	
+T32	PERSON 290 300	1-ю группу
+R4	MEDICAL_CONDITION Arg1:T35 Arg2:T36	
+T62	ANATOMY 554 563	сердечной
+R5	ABBREVIATION Arg1:T15 Arg2:T16	
+T63	ADMINISTRATION_ROUTE 597 607	чрескожные
+T64	ANATOMY 625 635	коронарных
+T43	FINDING 498 526	прогрессирование стенокардии
+T65	ANATOMY 636 644	артериях
+T66	DISO 751 756	ИМпST
+R6	MEDICAL_CONDITION Arg1:T50 Arg2:T66	
+T67	NUMBER 1029 1032	1,9
+T24	DISO 1024 1026	ИМ
+T68	NUMBER 1093 1096	2,6
+T52	FINDING 941 1002	увеличивало риск развития комбинированных оцениваемых исходов
+R7	HAS_CAUSE Arg1:T52 Arg2:T18	
+T56	PERSON 851 857	группе
+T28	FINDING 790 805	годовой прогноз
+T38	DISO 394 398	ХОБЛ
+T41	PERSON 437 446	пациентов
+R8	AFFECTS Arg1:T1 Arg2:T2	
+R9	AFFECTS Arg1:T4 Arg2:T30	
+R10	SUBCLASS_OF Arg1:T26 Arg2:T4	
+R11	SUBCLASS_OF Arg1:T4 Arg2:T29	
+T69	DATE 127 135	годового
+R14	HAS_CAUSE Arg1:T25 Arg2:T1	
+R16	MEMBER_OF Arg1:T35 Arg2:T32	
+T70	DATE 400 407	Годовой
+R18	FINDING_OF Arg1:T39 Arg2:T41	
+R19	SUBCLASS_OF Arg1:T46 Arg2:T65	
+T71	PHYS 673 687	кровообращения
+T72	ANATOMY 663 672	мозгового
+R20	SUBCLASS_OF Arg1:T48 Arg2:T71	
+R21	AFFECTS Arg1:T48 Arg2:T72	
+T47	DISO 646 662	острое нарушение
+R22	SUBCLASS_OF Arg1:T17 Arg2:T47	
+T73	FINDING 466 472	исходы
+R23	AFFECTS Arg1:T15 Arg2:T62	
+T74	DISO 554 579	сердечной недостаточности
+T75	DISO 564 579	недостаточности
+R24	SUBCLASS_OF Arg1:T74 Arg2:T75	
+R25	SUBCLASS_OF Arg1:T15 Arg2:T74	
+T76	FINDING 474 496	развитие повторного ИМ
+R26	SUBCLASS_OF Arg1:T76 Arg2:T73	
+R27	SUBCLASS_OF Arg1:T43 Arg2:T73	
+R28	ASSOCIATED_WITH Arg1:T42 Arg2:T76	
+R29	ASSOCIATED_WITH Arg1:T14 Arg2:T43	
+R30	APPLIED_TO Arg1:T45 Arg2:T46	
+T77	DISO 728 732	ХОБЛ
+T78	FINDING 709 732	Распространенность ХОБЛ
+R31	VALUE_IS Arg1:T78 Arg2:T19	
+R32	ASSOCIATED_WITH Arg1:T66 Arg2:T78	
+T79	DATE 790 797	годовой
+R33	SUBCLASS_OF Arg1:T51 Arg2:T28	
+T80	FINDING 967 1002	комбинированных оцениваемых исходов
+R35	VALUE_IS Arg1:T52 Arg2:T67	
+T82	DISO 1046 1059	декомпенсации
+R37	HAS_CAUSE Arg1:T57 Arg2:T58	
+T83	FINDING 1041 1063	риск декомпенсации ХСН
+R38	VALUE_IS Arg1:T83 Arg2:T68	
+T84	DISO 1115 1119	ХОБЛ
+T85	FINDING 1191 1198	исходов
+R39	SUBCLASS_OF Arg1:T60 Arg2:T85	
+R40	HAS_CAUSE Arg1:T60 Arg2:T84	
+T34	PERSON 294 300	группу
+R12	HAS_CAUSE Arg1:T44 Arg2:T15	
+R17	PART_OF Arg1:T46 Arg2:T64	
+R41	MEDICAL_CONDITION Arg1:T50 Arg2:T77	
+R42	ASSOCIATED_WITH Arg1:T77 Arg2:T78	
+R43	MEDICAL_CONDITION Arg1:T56 Arg2:T20	
+R44	FINDING_OF Arg1:T51 Arg2:T56	
+R45	ASSOCIATED_WITH Arg1:T20 Arg2:T51	
+T86	PHYS 264 274	возрастных
+R46	ASSOCIATED_WITH Arg1:T61 Arg2:T60	
+R34	ASSOCIATED_WITH Arg1:T57 Arg2:T83	
+R47	ASSOCIATED_WITH Arg1:T59 Arg2:T83	
+R48	ASSOCIATED_WITH Arg1:T58 Arg2:T83	
+N2	Reference T4 UMLS:C0027051	инфаркта миокарда
+N3	Reference T14 UMLS:C0002962	стенокардии
+N4	Reference T15 UMLS:C0264716	хронической сердечной недостаточности
+N6	Reference T29 UMLS:C0021308	инфаркта
+N7	Reference T30 UMLS:C0027061	миокарда
+N8	Reference T42 UMLS:C0027051	ИМ
+N10	Reference T2 UMLS:C0024109	легких
+N11	Reference T26 UMLS:C1536220	инфаркта миокарда с подъемом сегмента ST
+N14	Reference T65 UMLS:C0003842	артериях
+N17	Reference T74 UMLS:C0018801	сердечной недостаточности
+N1	Reference T1 UMLS:C0024117	легких болезнь хроническая обструктивная
+N12	Reference T62 UMLS:C0018787	сердце
+N18	Reference T75 UMLS:C0231174	
+N15	Reference T72 UMLS:C0006104	мозг головной
+N9	Reference T46 UMLS:C0205042	
+N13	Reference T64 UMLS:C0018787	сердце
+N5	Reference T17 UMLS:C0541890	мозговое нарушение (острое)
+N16	Reference T47 UMLS:C0001314	острая болезнь
+N21	Reference T57 UMLS:C1961112	декомпенсированная сердечная недостаточность
+N20	Reference T20 UMLS:C0009488	коморбидность
+N22	Reference T16 UMLS:C0264716	хронической сердечной недостаточности
+N23	Reference T58 UMLS:C0264716	хронической сердечной недостаточности
+N24	Reference T24 UMLS:C0027051	ИМ
+N25	Reference T61 UMLS:C0027051	ИМ
+N26	Reference T40 UMLS:C1536220	инфаркта миокарда с подъемом сегмента ST
+N27	Reference T33 UMLS:C1536220	инфаркта миокарда с подъемом сегмента ST
+N28	Reference T66 UMLS:C1536220	инфаркта миокарда с подъемом сегмента ST
+N29	Reference T59 UMLS:C1536220	инфаркта миокарда с подъемом сегмента ST
+N30	Reference T38 UMLS:C0024117	легких болезнь хроническая обструктивная
+N31	Reference T18 UMLS:C0024117	легких болезнь хроническая обструктивная
+N32	Reference T84 UMLS:C0024117	легких болезнь хроническая обструктивная
+N33	Reference T36 UMLS:C0024117	легких болезнь хроническая обструктивная
+N34	Reference T77 UMLS:C0024117	легких болезнь хроническая обструктивная
+N35	Reference T3 UMLS:C0024117	легких болезнь хроническая обструктивная
+N36	Reference T82 UMLS:C0231187	
+T81	DISO 43 71	обструктивной болезни легких
+R49	SUBCLASS_OF Arg1:T1 Arg2:T81	
+N37	Reference T81 UMLS:C0600260	легких болезни обструктивные
+R50	PHYSIOLOGY_OF Arg1:T86 Arg2:T31	
+R51	PHYSIOLOGY_OF Arg1:T53 Arg2:T56	
+R52	PHYSIOLOGY_OF Arg1:T54 Arg2:T56	
+R53	PARTICIPANT_IN Arg1:T56 Arg2:T55	
+R54	FINDING_OF Arg1:T78 Arg2:T50	
+R55	ASSOCIATED_WITH Arg1:T66 Arg2:T78	
+T87	DISO 528 541	декомпенсация
+R56	SUBCLASS_OF Arg1:T44 Arg2:T87	
+N38	Reference T87 UMLS:C0231187	
+N19	Reference T44 UMLS:C1961112	декомпенсированная сердечная недостаточность
+R13	ASSOCIATED_WITH Arg1:T26 Arg2:T25	
+R15	HAS_CAUSE Arg1:T83 Arg2:T18	
+R36	SUBCLASS_OF Arg1:T57 Arg2:T82	

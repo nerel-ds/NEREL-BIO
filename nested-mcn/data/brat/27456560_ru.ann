@@ -1,0 +1,134 @@
+T1	DISO 466 485	малигнизация невуса
+T3	NUMBER 804 806	52
+T4	AGE 842 856	от 2 до 65 лет
+T5	NUMBER 865 867	48
+T6	NUMBER 918 919	1
+T7	NUMBER 956 957	3
+T9	DISO 0 18	Невусы конъюнктивы
+T10	ANATOMY 7 18	конъюнктивы
+T13	DISO 162 181	невусов конъюнктивы
+T15	DISO 207 213	невусы
+T17	DISO 262 275	голубой невус
+T19	PHYS 315 327	беременности
+T24	DISO 506 512	невусы
+T25	ANATOMY 534 545	меланоцитов
+T26	ANATOMY 563 569	строме
+T28	MEDPROC 633 661	хирургического вмешательства
+T29	DISO 666 673	невусах
+T30	ANATOMY 674 685	конъюнктивы
+T31	ANATOMY 688 702	слезного мясца
+T35	PERSON 807 814	больных
+T37	PERSON 868 877	пациентов
+T38	DISO 880 899	невусом конъюнктивы
+T39	ANATOMY 888 899	конъюнктивы
+T40	ANATOMY 902 916	слезного мясца
+T41	PERSON 920 927	больная
+T43	PERSON 958 966	человека
+T45	PERSON 1004 1011	Больные
+T46	DISO 1028 1035	невусом
+T48	MEDPROC 1082 1098	прооперированных
+T49	PERSON 1099 1108	пациентов
+T52	DISO 1241 1250	метастазы
+T57	PERSON 1370 1377	больные
+T12	DISO 47 54	опухоли
+T11	ANATOMY 170 181	конъюнктивы
+T14	DISO 302 309	меланоз
+T59	DISO 278 309	первичный приобретенный меланоз
+T20	DISO 479 485	невуса
+T21	DISO 270 275	невус
+T16	ANATOMY 580 595	базальному слою
+T18	DISO 739 747	меланомы
+T22	DATE 769 785	С 2009 по 2013 г
+T23	DISO 930 954	меланомой слезного мясца
+T27	ANATOMY 940 954	слезного мясца
+T8	DISO 969 990	меланомой конъюнктивы
+T32	ANATOMY 979 990	конъюнктивы
+T33	FINDING 1112 1143	не наблюдали ни одного рецидива
+T34	DISO 1180 1187	меланом
+T36	DISO 1205 1231	метастатическая активность
+T42	DISO 1380 1389	меланомой
+T44	HEALTH_CARE_ACTIVITY 1403 1433	пожизненном диспансерном учете
+R1	SUBCLASS_OF Arg1:T9 Arg2:T12	
+R2	AFFECTS Arg1:T9 Arg2:T10	
+R3	AFFECTS Arg1:T13 Arg2:T11	
+R5	SUBCLASS_OF Arg1:T59 Arg2:T14	
+R7	AGE_IS Arg1:T35 Arg2:T4	
+R8	AFFECTS Arg1:T23 Arg2:T27	
+R9	MEDICAL_CONDITION Arg1:T41 Arg2:T23	
+R10	AFFECTS Arg1:T8 Arg2:T32	
+R11	MEDICAL_CONDITION Arg1:T43 Arg2:T8	
+R12	TREATED_USING Arg1:T49 Arg2:T48	
+R13	MEDICAL_CONDITION Arg1:T57 Arg2:T42	
+R14	PARTICIPANT_IN Arg1:T57 Arg2:T44	
+R4	SUBCLASS_OF Arg1:T17 Arg2:T15	
+R6	SUBCLASS_OF Arg1:T14 Arg2:T15	
+R15	AFFECTS Arg1:T29 Arg2:T30	
+R16	AFFECTS Arg1:T29 Arg2:T31	
+R17	TREATED_USING Arg1:T29 Arg2:T28	
+R18	AFFECTS Arg1:T38 Arg2:T39	
+R19	AFFECTS Arg1:T38 Arg2:T40	
+R20	MEDICAL_CONDITION Arg1:T37 Arg2:T38	
+R21	MEDICAL_CONDITION Arg1:T45 Arg2:T46	
+R22	HAS_CAUSE Arg1:T36 Arg2:T34	
+R23	SUBCLASS_OF Arg1:T17 Arg2:T21	
+R24	PART_OF Arg1:T27 Arg2:T41	
+T47	DISO 0 6	Невусы
+R25	SUBCLASS_OF Arg1:T9 Arg2:T47	
+T50	DISO 162 169	невусов
+R26	SUBCLASS_OF Arg1:T13 Arg2:T50	
+T51	DISO 880 887	невусом
+R27	SUBCLASS_OF Arg1:T38 Arg2:T51	
+R28	FINDING_OF Arg1:T33 Arg2:T49	
+T53	PHYS 332 351	пубертатном периоде
+T54	PHYS 407 430	постпубертатном периоде
+T56	DATE 1317 1328	спустя годы
+N1	Reference T9 UMLS:C0346363	Невусы конъюнктивы
+N2	Reference T10 UMLS:C0009758	конъюнктивы
+N3	Reference T17 UMLS:C0206736	голубой невус
+N4	Reference T25 UMLS:C0025201	меланоцитов
+N6	Reference T52 UMLS:C0027627	метастазы
+N8	Reference T12 UMLS:C0027651	опухоли
+N9	Reference T14 UMLS:C0025209	меланоз
+N10	Reference T59 UMLS:C3263719	первичный приобретенный меланоз
+N11	Reference T18 UMLS:C0025202	меланомы
+N13	Reference T47 UMLS:C0027960	Невусы
+N12	Reference T36 UMLS:C0027627	новообразований метастазы
+N5	Reference T26 UMLS:C0927195	
+N14	Reference T16 UMLS:C0221925	
+N15	Reference T1 UMLS:NULL	
+N16	Reference T31 UMLS:C0446860	
+N17	Reference T38 UMLS:C0346363	Невусы конъюнктивы
+N18	Reference T13 UMLS:C0346363	Невусы конъюнктивы
+N19	Reference T30 UMLS:C0009758	конъюнктивы
+N20	Reference T32 UMLS:C0009758	конъюнктивы
+N21	Reference T11 UMLS:C0009758	конъюнктивы
+N22	Reference T39 UMLS:C0009758	конъюнктивы
+N23	Reference T34 UMLS:C0025202	меланомы
+N26	Reference T42 UMLS:C0025202	меланомы
+N27	Reference T46 UMLS:C0027960	Невусы
+N28	Reference T50 UMLS:C0027960	Невусы
+N29	Reference T20 UMLS:C0027960	Невусы
+N30	Reference T29 UMLS:C0027960	Невусы
+N31	Reference T21 UMLS:C0027960	Невусы
+N32	Reference T15 UMLS:C0027960	Невусы
+N33	Reference T24 UMLS:C0027960	Невусы
+N34	Reference T51 UMLS:C0027960	Невусы
+N35	Reference T27 UMLS:C0446860	
+N36	Reference T40 UMLS:C0446860	
+R29	HAS_CAUSE Arg1:T1 Arg2:T20	
+T2	LABPROC 487 505	Гистопатологически
+R30	TO_DETECT_OR_STUDY Arg1:T2 Arg2:T24	
+R31	AFFECTS Arg1:T24 Arg2:T25	
+R32	HAS_CAUSE Arg1:T33 Arg2:T48	
+R33	TREATED_USING Arg1:T46 Arg2:T48	
+T55	FINDING 1262 1309	обнаружены как при диагностике первичного очага
+R34	ASSOCIATED_WITH Arg1:T52 Arg2:T55	
+T58	DISO 969 978	меланомой
+R35	SUBCLASS_OF Arg1:T8 Arg2:T58	
+N7	Reference T58 UMLS:C0025202	меланома
+N24	Reference T8 UMLS:C0346360	меланома конъюнктивы
+T60	DISO 930 939	меланомой
+R36	SUBCLASS_OF Arg1:T23 Arg2:T60	
+N37	Reference T60 UMLS:C0025202	меланома
+N25	Reference T23 UMLS:NULL	
+R37	HAS_CAUSE Arg1:T18 Arg2:T29	

@@ -1,0 +1,191 @@
+T3	DISO 254 269	PARK2-формой БП
+T4	PERCENT 709 712	25%
+T8	CHEM 42 67	дофаминового транспортера
+T9	DISO 78 118	аутосомно-рецессивной болезни Паркинсона
+T10	PHYS 139 155	мутациями в гене
+T12	ANATOMY 191 217	дофаминергических нейронов
+T13	ANATOMY 230 242	фибробластов
+T14	PERSON 243 251	пациента
+T20	PHYS 344 354	Экспрессия
+T21	CHEM 355 358	DAT
+T22	ANATOMY 367 383	клеточных линиях
+T23	CHEM 406 410	мРНК
+T24	CHEM 413 418	белка
+T25	PHYS 426 436	активность
+T28	ANATOMY 515 522	клетках
+T29	PHYS 525 534	мутациями
+T30	GENE 535 540	PARK2
+T31	PHYS 549 559	экспрессии
+T32	CHEM 560 563	DAT
+T33	ANATOMY 611 620	нейронами
+T35	CHEM 651 655	ASP+
+T36	ANATOMY 667 695	дофаминергическими нейронами
+T39	PHYS 772 789	ингибирования DAT
+T40	CHEM 786 789	DAT
+T42	PHYS 798 807	инкубации
+T44	CHEM 888 896	дофамина
+T47	ANATOMY 983 1008	дофаминергические нейроны
+T48	PHYS 1018 1025	мутации
+T49	GENE 1033 1038	PARK2
+T52	ANATOMY 1129 1138	клеточных
+T54	PHYS 1216 1226	экспрессии
+T55	CHEM 1227 1232	белка
+T7	CHEM 69 72	DAT
+T57	CHEM 42 54	дофаминового
+T58	DISO 120 122	БП
+T59	DISO 100 118	болезни Паркинсона
+T11	GENE 156 161	PARK2
+T2	ANATOMY 209 217	нейронов
+T15	DISO 267 269	БП
+T16	GENE 254 259	PARK2
+T17	PERSON 275 291	здорового донора
+T62	PERSON 285 291	донора
+T18	ANATOMY 313 323	клеточного
+T64	PHYS 541 559	уровень экспрессии
+T65	FINDING 629 655	интенсивность захвата ASP+
+T66	PHYS 656 666	мутантными
+T5	CHEM 820 824	ASP+
+T37	CHEM 838 845	дофамин
+T38	ANATOMY 909 917	клетками
+T6	ANATOMY 957 966	нейронами
+T41	PHYS 946 956	мутантными
+T43	GENE 940 945	PARK2
+T46	ANATOMY 686 695	нейронами
+T67	ANATOMY 1001 1008	нейроны
+T50	DISO 1056 1087	функциональной недостаточностью
+T51	PHYS 1095 1118	дофаминового транспорта
+T69	CHEM 1095 1107	дофаминового
+T53	CHEM 1233 1249	DAT транспортера
+T56	CHEM 1233 1236	DAT
+T70	FINDING 1129 1161	клеточных механизмов компенсации
+T19	LABPROC 313 342	клеточного репрограммирования
+R1	ABBREVIATION Arg1:T8 Arg2:T7	
+R2	ABBREVIATION Arg1:T59 Arg2:T58	
+R3	SUBCLASS_OF Arg1:T9 Arg2:T59	
+R4	ASSOCIATED_WITH Arg1:T10 Arg2:T11	
+R5	HAS_CAUSE Arg1:T9 Arg2:T11	
+R6	HAS_CAUSE Arg1:T9 Arg2:T10	
+R7	SUBCLASS_OF Arg1:T12 Arg2:T2	
+R8	PART_OF Arg1:T12 Arg2:T13	
+R9	PART_OF Arg1:T13 Arg2:T14	
+R10	MEDICAL_CONDITION Arg1:T14 Arg2:T3	
+R11	SUBCLASS_OF Arg1:T3 Arg2:T15	
+R12	HAS_CAUSE Arg1:T3 Arg2:T16	
+R13	ORIGINS_FROM Arg1:T16 Arg2:T14	
+R14	SUBCLASS_OF Arg1:T17 Arg2:T62	
+T71	PHYS 275 284	здорового
+R15	PHYSIOLOGY_OF Arg1:T71 Arg2:T17	
+R16	PART_OF Arg1:T13 Arg2:T17	
+R17	APPLIED_TO Arg1:T19 Arg2:T12	
+R18	ASSOCIATED_WITH Arg1:T20 Arg2:T21	
+R19	ORIGINS_FROM Arg1:T21 Arg2:T22	
+R20	PHYSIOLOGY_OF Arg1:T20 Arg2:T22	
+T72	CHEM 473 481	дофамина
+R21	ALTERNATIVE_NAME Arg1:T57 Arg2:T72	
+T73	CHEM 449 486	флуоресцентного аналога дофамина ASP+
+R23	ASSOCIATED_WITH Arg1:T25 Arg2:T21	
+R24	ASSOCIATED_WITH Arg1:T29 Arg2:T30	
+R25	ORIGINS_FROM Arg1:T30 Arg2:T28	
+R26	PHYSIOLOGY_OF Arg1:T29 Arg2:T28	
+R27	ASSOCIATED_WITH Arg1:T64 Arg2:T31	
+R28	ASSOCIATED_WITH Arg1:T31 Arg2:T32	
+R29	ASSOCIATED_WITH Arg1:T64 Arg2:T32	
+R30	SUBCLASS_OF Arg1:T33 Arg2:T28	
+T74	CHEM 482 486	ASP+
+R36	ALTERNATIVE_NAME Arg1:T29 Arg2:T66	
+R37	SUBCLASS_OF Arg1:T36 Arg2:T46	
+R38	PHYSIOLOGY_OF Arg1:T66 Arg2:T36	
+R40	ASSOCIATED_WITH Arg1:T39 Arg2:T40	
+R22	ALTERNATIVE_NAME Arg1:T73 Arg2:T74	
+R31	ASSOCIATED_WITH Arg1:T42 Arg2:T5	
+R32	ASSOCIATED_WITH Arg1:T42 Arg2:T37	
+R41	SUBCLASS_OF Arg1:T6 Arg2:T38	
+R42	ORIGINS_FROM Arg1:T43 Arg2:T6	
+R43	ASSOCIATED_WITH Arg1:T41 Arg2:T43	
+R44	PHYSIOLOGY_OF Arg1:T41 Arg2:T6	
+T26	PHYS 877 896	связывание дофамина
+R45	ASSOCIATED_WITH Arg1:T26 Arg2:T44	
+R46	PHYSIOLOGY_OF Arg1:T26 Arg2:T38	
+R47	SUBCLASS_OF Arg1:T47 Arg2:T67	
+R48	ALTERNATIVE_NAME Arg1:T41 Arg2:T48	
+R49	ASSOCIATED_WITH Arg1:T48 Arg2:T49	
+R50	ALTERNATIVE_NAME Arg1:T43 Arg2:T49	
+R51	PHYSIOLOGY_OF Arg1:T48 Arg2:T47	
+R52	ORIGINS_FROM Arg1:T49 Arg2:T47	
+R53	AFFECTS Arg1:T50 Arg2:T47	
+R54	PHYSIOLOGY_OF Arg1:T51 Arg2:T47	
+R55	ALTERNATIVE_NAME Arg1:T44 Arg2:T69	
+R56	ASSOCIATED_WITH Arg1:T51 Arg2:T69	
+R57	AFFECTS Arg1:T70 Arg2:T52	
+T27	CHEM 1227 1249	белка DAT транспортера
+R58	SUBCLASS_OF Arg1:T27 Arg2:T55	
+R59	ASSOCIATED_WITH Arg1:T54 Arg2:T27	
+R60	ALTERNATIVE_NAME Arg1:T27 Arg2:T53	
+T75	FINDING 1199 1226	раннее повышение экспрессии
+R61	HAS_CAUSE Arg1:T75 Arg2:T70	
+R62	FINDING_OF Arg1:T75 Arg2:T54	
+R63	ABBREVIATION Arg1:T57 Arg2:T8	
+R64	ASSOCIATED_WITH Arg1:T51 Arg2:T50	
+T1	FINDING 541 583	уровень экспрессии DAT был достоверно выше
+R65	AFFECTS Arg1:T1 Arg2:T64	
+N2	Reference T12 UMLS:C1512035	дофаминергических нейронов
+N3	Reference T13 UMLS:C0016030	фибробластов
+N4	Reference T22 UMLS:C0007600	клеточных линиях
+N5	Reference T23 UMLS:C0035696	мРНК
+N8	Reference T59 UMLS:C0030567	болезни Паркинсона
+N9	Reference T2 UMLS:C0027882	нейронов
+N7	Reference T28 UMLS:C0007634	клетки
+N10	Reference T18 UMLS:C0007634	клетки
+N1	Reference T8 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N12	Reference T9 UMLS:C5548208	
+N13	Reference T3 UMLS:C1868675	
+N6	Reference T24 UMLS:C0033684	белки
+N14	Reference T73 UMLS:NULL	
+N11	Reference T50 UMLS:C0679222	
+N15	Reference T27 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N16	Reference T36 UMLS:C1512035	дофаминергических нейронов
+N17	Reference T47 UMLS:C1512035	дофаминергических нейронов
+N18	Reference T15 UMLS:C0030567	болезни Паркинсона
+N19	Reference T58 UMLS:C0030567	болезни Паркинсона
+N20	Reference T46 UMLS:C0027882	нейронов
+N21	Reference T33 UMLS:C0027882	нейронов
+N22	Reference T67 UMLS:C0027882	нейронов
+N23	Reference T6 UMLS:C0027882	нейронов
+N24	Reference T38 UMLS:C0007634	клетки
+N25	Reference T52 UMLS:C0007634	клетки
+N26	Reference T40 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N27	Reference T32 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N28	Reference T69 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N29	Reference T7 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N30	Reference T21 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N31	Reference T56 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N32	Reference T44 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N33	Reference T37 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N34	Reference T57 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N35	Reference T72 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+N36	Reference T55 UMLS:C0033684	белки
+N37	Reference T5 UMLS:NULL	
+N38	Reference T74 UMLS:NULL	
+N39	Reference T35 UMLS:NULL	
+N40	Reference T53 UMLS:C0114838	дофамина транспорта белки плазматических мембран
+T45	ANATOMY 367 376	клеточных
+N41	Reference T45 UMLS:C0007634	клетки
+R66	PART_OF Arg1:T45 Arg2:T22	
+T60	DISO 1071 1087	недостаточностью
+R67	SUBCLASS_OF Arg1:T50 Arg2:T60	
+N42	Reference T60 UMLS:C0231179	
+T61	FINDING 924 966	вдвое выше, чем PARK2-мутантными нейронами
+R68	AFFECTS Arg1:T61 Arg2:T6	
+R69	FINDING_OF Arg1:T61 Arg2:T26	
+R33	HAS_CAUSE Arg1:T65 Arg2:T35	
+R34	AFFECTS Arg1:T65 Arg2:T36	
+R35	VALUE_IS Arg1:T65 Arg2:T4	
+R39	APPLIED_TO Arg1:T23 Arg2:T20	
+R70	APPLIED_TO Arg1:T24 Arg2:T20	
+R71	APPLIED_TO Arg1:T73 Arg2:T25	
+T34	GENE 78 87	аутосомно
+R72	HAS_CAUSE Arg1:T9 Arg2:T34	
+R73	SUBCLASS_OF Arg1:T3 Arg2:T9	
+R74	APPLIED_TO Arg1:T19 Arg2:T18	
+T63	PHYS 139 148	мутациями
+R75	SUBCLASS_OF Arg1:T10 Arg2:T63	

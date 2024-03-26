@@ -1,0 +1,130 @@
+T1	DISO 0 30	Артериовенозная ангиодисплазия
+T4	DISO 90 101	осложнениям
+T5	ANATOMY 166 183	костного аппарата
+T6	MEDPROC 211 220	ампутации
+T8	ANATOMY 263 273	конечности
+T9	DISO 289 312	артериовенозного сброса
+T10	DISO 315 336	трофических нарушений
+T13	PERSON 426 435	пациентке
+T14	DISO 438 469	артериовенозной ангиодисплазией
+T15	ANATOMY 470 487	нижней конечности
+T17	ANATOMY 512 532	большеберцовой кости
+T18	MEDPROC 567 578	эмболизации
+T19	DISO 613 636	артериовенозного сброса
+T20	DISO 681 694	ангиоматозных
+T21	MEDPROC 733 745	экскохлеации
+T22	ANATOMY 766 771	кости
+T23	ANATOMY 807 812	кости
+T24	ANATOMY 788 812	оси большеберцовой кости
+T25	ANATOMY 792 812	большеберцовой кости
+T26	ANATOMY 813 833	костномозговой канал
+T27	CHEM 857 878	полиметилметакрилатом
+T30	PERSON 982 991	пациентов
+T31	MEDPROC 992 1003	эмболизаций
+T32	ANATOMY 1004 1023	афферентных артерий
+T33	MEDPROC 1026 1055	удаления ангиоматозных тканей
+T34	DISO 1035 1048	ангиоматозных
+T35	PHYS 1118 1133	опорной функции
+T36	ANATOMY 1134 1145	конечностей
+T2	CHEM 880 884	ПММК
+R1	ABBREVIATION Arg1:T27 Arg2:T2	
+T37	ANATOMY 1016 1023	артерий
+T38	ANATOMY 0 15	Артериовенозная
+T39	PHYS 108 124	молодом возрасте
+T11	DISO 454 469	ангиодисплазией
+T40	ANATOMY 477 487	конечности
+T41	DISO 16 30	ангиодисплазия
+T7	ANATOMY 232 242	конечности
+T29	ANATOMY 695 701	тканей
+T42	MEDPROC 672 701	удаления ангиоматозных тканей
+T43	ANATOMY 1049 1055	тканей
+T44	PHYS 1118 1145	опорной функции конечностей
+T3	ANATOMY 166 174	костного
+R2	AFFECTS Arg1:T1 Arg2:T38	
+R3	SUBCLASS_OF Arg1:T1 Arg2:T41	
+R4	HAS_CAUSE Arg1:T4 Arg2:T1	
+R5	ASSOCIATED_WITH Arg1:T39 Arg2:T4	
+R6	SUBCLASS_OF Arg1:T15 Arg2:T40	
+R7	SUBCLASS_OF Arg1:T32 Arg2:T37	
+R8	AFFECTS Arg1:T34 Arg2:T43	
+R9	SUBCLASS_OF Arg1:T25 Arg2:T23	
+R10	PART_OF Arg1:T24 Arg2:T25	
+R11	PART_OF Arg1:T26 Arg2:T25	
+R12	APPLIED_TO Arg1:T6 Arg2:T7	
+R13	ALTERNATIVE_NAME Arg1:T14 Arg2:T11	
+R14	PART_OF Arg1:T15 Arg2:T13	
+R15	AFFECTS Arg1:T14 Arg2:T15	
+R16	USED_IN Arg1:T21 Arg2:T42	
+R17	APPLIED_TO Arg1:T31 Arg2:T32	
+R18	TREATED_USING Arg1:T30 Arg2:T31	
+R19	PART_OF Arg1:T32 Arg2:T30	
+R20	APPLIED_TO Arg1:T21 Arg2:T22	
+R21	TREATED_USING Arg1:T30 Arg2:T33	
+R22	PART_OF Arg1:T36 Arg2:T30	
+R23	PHYSIOLOGY_OF Arg1:T44 Arg2:T36	
+R24	PART_OF Arg1:T5 Arg2:T7	
+R25	AFFECTS Arg1:T1 Arg2:T5	
+R26	AFFECTS Arg1:T9 Arg2:T8	
+R27	AFFECTS Arg1:T10 Arg2:T8	
+R28	MEDICAL_CONDITION Arg1:T13 Arg2:T14	
+R29	PART_OF Arg1:T17 Arg2:T15	
+R30	AFFECTS Arg1:T14 Arg2:T17	
+R31	TREATED_USING Arg1:T19 Arg2:T18	
+R32	TREATED_USING Arg1:T14 Arg2:T18	
+R33	TREATED_USING Arg1:T13 Arg2:T18	
+R34	APPLIED_TO Arg1:T18 Arg2:T15	
+R35	APPLIED_TO Arg1:T18 Arg2:T17	
+T12	ANATOMY 438 453	артериовенозной
+R36	AFFECTS Arg1:T14 Arg2:T12	
+R37	AFFECTS Arg1:T20 Arg2:T29	
+R38	APPLIED_TO Arg1:T42 Arg2:T29	
+R39	PART_OF Arg1:T29 Arg2:T22	
+T16	MEDPROC 848 878	заполнен полиметилметакрилатом
+R40	USED_IN Arg1:T27 Arg2:T16	
+R41	APPLIED_TO Arg1:T16 Arg2:T26	
+R42	SUBCLASS_OF Arg1:T25 Arg2:T22	
+R43	APPLIED_TO Arg1:T33 Arg2:T43	
+N2	Reference T4 UMLS:C0544688	осложнениям
+N4	Reference T10 UMLS:C0852189	трофических нарушений
+N6	Reference T17 UMLS:C0040184	большеберцовой кости
+N7	Reference T20 UMLS:C0002992	ангиоматозных
+N10	Reference T27 UMLS:C0005533	полиметилметакрилатом
+N11	Reference T37 UMLS:C0003842	артерий
+N13	Reference T41 UMLS:C0085411	ангиодисплазия
+N14	Reference T7 UMLS:C0015385	конечности
+N5	Reference T15 UMLS:C0023216	конечность нижняя
+N8	Reference T22 UMLS:C0262950	
+N1	Reference T1 UMLS:C0085411	ангиодисплазия
+N12	Reference T38 UMLS:NULL	
+N16	Reference T3 UMLS:C0262950	
+N17	Reference T5 UMLS:Q726543	
+N15	Reference T29 UMLS:C0040300	ткани
+N9	Reference T24 UMLS:C0588199	
+N18	Reference T32 UMLS:NULL	
+N19	Reference T26 UMLS:C1550278	
+N3	Reference T9 UMLS:C0003855	артериовенозный свищ
+N20	Reference T25 UMLS:C0040184	большеберцовой кости
+N21	Reference T34 UMLS:C0002992	ангиоматозных
+N22	Reference T2 UMLS:C0005533	полиметилметакрилатом
+N23	Reference T11 UMLS:C0085411	ангиодисплазия
+N24	Reference T36 UMLS:C0015385	конечности
+N25	Reference T40 UMLS:C0015385	конечности
+N26	Reference T8 UMLS:C0015385	конечности
+N27	Reference T23 UMLS:C0262950	
+N28	Reference T14 UMLS:C0085411	ангиодисплазия
+N29	Reference T12 UMLS:NULL	
+N30	Reference T43 UMLS:C0040300	ткани
+N31	Reference T19 UMLS:C0003855	артериовенозный свищ
+R44	PART_OF Arg1:T3 Arg2:T5	
+T28	ANATOMY 527 532	кости
+R45	SUBCLASS_OF Arg1:T17 Arg2:T28	
+N32	Reference T28 UMLS:C0262950	
+R46	TREATED_USING Arg1:T34 Arg2:T33	
+R47	SUBCLASS_OF Arg1:T44 Arg2:T35	
+R48	TREATED_USING Arg1:T20 Arg2:T42	
+T45	PHYS 116 124	возрасте
+R49	SUBCLASS_OF Arg1:T39 Arg2:T45	
+T46	FINDING 1066 1102	увеличить радикальность вмешательств
+R50	FINDING_OF Arg1:T46 Arg2:T30	
+R51	HAS_CAUSE Arg1:T46 Arg2:T31	
+R52	HAS_CAUSE Arg1:T46 Arg2:T33	

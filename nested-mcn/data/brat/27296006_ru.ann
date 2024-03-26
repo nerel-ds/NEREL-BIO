@@ -1,0 +1,237 @@
+T2	AGE 174 183	55-летней
+T3	DATE 313 329	в течение 10 лет
+T4	CHEM 596 609	синаптофизину
+T6	NUMBER 989 990	8
+T8	DISO 13 39	адренокортикальные опухоли
+T9	DISO 92 133	интрадуральной, экстрамедуллярной аденомы
+T11	ANATOMY 144 160	conus medullaris
+T12	PERSON 184 191	женщины
+T13	DISO 221 260	болями в поясничном отделе позвоночника
+T14	ANATOMY 230 247	поясничном отделе
+T15	ANATOMY 248 260	позвоночника
+T16	DISO 262 271	онемением
+T17	ANATOMY 274 286	левой голени
+T18	DISO 289 298	слабостью
+T19	ANATOMY 301 312	левой стопе
+T23	ANATOMY 446 459	эозинофильной
+T25	DISO 483 490	Некрозы
+T26	DISO 493 499	митозы
+T28	CHEM 555 560	AE1/3
+T29	CHEM 562 571	виментину
+T30	CHEM 573 583	α-ингибину
+T31	CHEM 585 593	мелану-А
+T34	DISO 671 698	онкоцитарной трансформацией
+T35	DISO 700 713	параганглиомы
+T36	DISO 715 724	метастаза
+T38	DISO 799 819	эктопической аденомы
+T40	DISO 878 904	вненадпочечниковые опухоли
+T43	DISO 1048 1063	новообразования
+T45	ANATOMY 1128 1155	центральной нервной системы
+T7	DISO 0 39	Эктопические адренокортикальные опухоли
+T48	DISO 32 39	опухоли
+T49	ANATOMY 13 31	адренокортикальные
+T1	DISO 108 133	экстрамедуллярной аденомы
+T50	DISO 126 133	аденомы
+T51	ANATOMY 92 106	интрадуральной
+T52	ANATOMY 108 125	экстрамедуллярной
+T10	ANATOMY 230 260	поясничном отделе позвоночника
+T53	ANATOMY 280 286	голени
+T54	ANATOMY 307 312	стопе
+T20	ANATOMY 401 407	клеток
+T55	ANATOMY 370 407	полей округлых и полигональных клеток
+T21	ANATOMY 429 435	ядрами
+T22	ANATOMY 470 481	цитоплазмой
+T24	PHYS 515 535	Иммуногистохимически
+T27	ANATOMY 536 542	клетки
+T32	DISO 658 668	менингиомы
+T33	DISO 629 656	миксопапиллярной эпендимомы
+T5	DISO 725 748	почечно-клеточного рака
+T57	DISO 744 748	рака
+T58	ANATOMY 725 732	почечно
+T59	ANATOMY 733 743	клеточного
+T60	DISO 751 779	адренокортикальной карциномы
+T61	ANATOMY 751 769	адренокортикальной
+T62	DISO 770 779	карциномы
+T37	ANATOMY 820 832	надпочечника
+T39	DISO 812 819	аденомы
+T63	PROFESSION 862 876	исследователей
+T64	DISO 897 904	опухоли
+T65	ANATOMY 878 896	вненадпочечниковые
+T41	ANATOMY 933 957	адренокортикальной ткани
+T66	ANATOMY 933 951	адренокортикальной
+T67	DISO 920 957	эктопической адренокортикальной ткани
+T68	DISO 920 932	эктопической
+T69	DISO 799 811	эктопической
+T70	DISO 0 12	Эктопические
+T42	DISO 999 1042	интраспинальных адренокортикальных опухолей
+T71	ANATOMY 999 1014	интраспинальных
+T72	ANATOMY 1015 1033	адренокортикальных
+T73	DISO 1034 1042	опухолей
+T74	DISO 1015 1042	адренокортикальных опухолей
+T44	ANATOMY 1140 1155	нервной системы
+T75	DISO 1116 1155	образований центральной нервной системы
+T46	ANATOMY 1188 1207	позвоночного канала
+T47	ANATOMY 1175 1207	нижней трети позвоночного канала
+R1	PART_OF Arg1:T49 Arg2:T12	
+R2	SUBCLASS_OF Arg1:T8 Arg2:T48	
+R3	SUBCLASS_OF Arg1:T7 Arg2:T8	
+R4	MEDICAL_CONDITION Arg1:T12 Arg2:T7	
+R5	AGE_IS Arg1:T12 Arg2:T2	
+R6	PART_OF Arg1:T11 Arg2:T12	
+R7	PART_OF Arg1:T52 Arg2:T12	
+R8	PART_OF Arg1:T51 Arg2:T12	
+R9	SUBCLASS_OF Arg1:T1 Arg2:T50	
+R10	SUBCLASS_OF Arg1:T9 Arg2:T1	
+R11	LOCATED_IN Arg1:T9 Arg2:T11	
+R12	MEDICAL_CONDITION Arg1:T12 Arg2:T9	
+R13	SUBCLASS_OF Arg1:T50 Arg2:T48	
+R14	MEDICAL_CONDITION Arg1:T12 Arg2:T13	
+R15	MEDICAL_CONDITION Arg1:T12 Arg2:T16	
+R16	MEDICAL_CONDITION Arg1:T12 Arg2:T18	
+R17	SUBCLASS_OF Arg1:T19 Arg2:T54	
+R18	SUBCLASS_OF Arg1:T17 Arg2:T53	
+R19	PART_OF Arg1:T15 Arg2:T12	
+R20	PART_OF Arg1:T10 Arg2:T15	
+R21	PART_OF Arg1:T14 Arg2:T12	
+R22	AFFECTS Arg1:T13 Arg2:T10	
+R25	AFFECTS Arg1:T16 Arg2:T17	
+R26	AFFECTS Arg1:T18 Arg2:T19	
+R23	PART_OF Arg1:T17 Arg2:T12	
+R24	PART_OF Arg1:T19 Arg2:T12	
+R27	SUBCLASS_OF Arg1:T55 Arg2:T20	
+R28	PART_OF Arg1:T21 Arg2:T55	
+R29	PART_OF Arg1:T22 Arg2:T55	
+R31	MEDICAL_CONDITION Arg1:T12 Arg2:T25	
+R32	MEDICAL_CONDITION Arg1:T12 Arg2:T26	
+R33	PHYSIOLOGY_OF Arg1:T24 Arg2:T27	
+R34	ASSOCIATED_WITH Arg1:T24 Arg2:T28	
+R35	ASSOCIATED_WITH Arg1:T24 Arg2:T29	
+R36	ASSOCIATED_WITH Arg1:T24 Arg2:T30	
+R37	ASSOCIATED_WITH Arg1:T24 Arg2:T31	
+R38	ASSOCIATED_WITH Arg1:T24 Arg2:T4	
+R39	AFFECTS Arg1:T57 Arg2:T59	
+R40	AFFECTS Arg1:T57 Arg2:T58	
+R41	SUBCLASS_OF Arg1:T5 Arg2:T57	
+R42	HAS_CAUSE Arg1:T5 Arg2:T36	
+R43	AFFECTS Arg1:T62 Arg2:T61	
+R44	SUBCLASS_OF Arg1:T60 Arg2:T62	
+R45	SUBCLASS_OF Arg1:T69 Arg2:T39	
+R46	AFFECTS Arg1:T69 Arg2:T37	
+R47	SUBCLASS_OF Arg1:T33 Arg2:T64	
+R48	SUBCLASS_OF Arg1:T32 Arg2:T64	
+R49	SUBCLASS_OF Arg1:T35 Arg2:T64	
+R50	SUBCLASS_OF Arg1:T5 Arg2:T64	
+R51	SUBCLASS_OF Arg1:T36 Arg2:T64	
+R52	SUBCLASS_OF Arg1:T60 Arg2:T64	
+R53	SUBCLASS_OF Arg1:T38 Arg2:T64	
+R54	AFFECTS Arg1:T40 Arg2:T65	
+R55	SUBCLASS_OF Arg1:T40 Arg2:T64	
+R56	HAS_CAUSE Arg1:T67 Arg2:T64	
+R57	SUBCLASS_OF Arg1:T74 Arg2:T73	
+R58	SUBCLASS_OF Arg1:T42 Arg2:T74	
+R59	LOCATED_IN Arg1:T74 Arg2:T72	
+R60	LOCATED_IN Arg1:T42 Arg2:T71	
+R61	ALTERNATIVE_NAME Arg1:T43 Arg2:T73	
+R62	SUBCLASS_OF Arg1:T75 Arg2:T43	
+R63	SUBCLASS_OF Arg1:T45 Arg2:T44	
+R64	AFFECTS Arg1:T75 Arg2:T45	
+R65	PART_OF Arg1:T47 Arg2:T46	
+R66	LOCATED_IN Arg1:T75 Arg2:T47	
+T56	ANATOMY 952 957	ткани
+R68	SUBCLASS_OF Arg1:T41 Arg2:T56	
+T76	ANATOMY 1188 1200	позвоночного
+R69	PART_OF Arg1:T46 Arg2:T76	
+N1	Reference T4 UMLS:C0085255	синаптофизину
+N2	Reference T9 UMLS:C5208089	интрадуральной, экстрамедуллярной аденомы
+N5	Reference T15 UMLS:C0037949	позвоночника
+N6	Reference T16 UMLS:C0028643	онемением
+N7	Reference T18 UMLS:C3714552	слабостью
+N8	Reference T23 UMLS:C0014467	эозинофильной
+N9	Reference T25 UMLS:C0027540	Некрозы
+N10	Reference T26 UMLS:C0026255	митозы
+N12	Reference T29 UMLS:C0042666	виментину
+N15	Reference T35 UMLS:C0030421	параганглиомы
+N16	Reference T36 UMLS:C0027627	метастаза
+N18	Reference T48 UMLS:C0027651	опухоли
+N21	Reference T50 UMLS:C0001430	аденомы
+N24	Reference T53 UMLS:C1140621	голени
+N25	Reference T54 UMLS:C0016504	стопе
+N28	Reference T22 UMLS:C0010834	цитоплазмой
+N29	Reference T32 UMLS:C0025286	менингиомы
+N30	Reference T5 UMLS:C0007134	почечно-клеточного рака
+N31	Reference T57 UMLS:C0027651	рака
+N34	Reference T60 UMLS:C0206686	адренокортикальной карциномы
+N35	Reference T62 UMLS:C0007097	карциномы
+N36	Reference T37 UMLS:C0001625	надпочечника
+N37	Reference T70 UMLS:C0008519	Эктопические
+N38	Reference T44 UMLS:C0027765	нервной системы
+N40	Reference T46 UMLS:C0037922	позвоночного канала
+N41	Reference T56 UMLS:C0040300	ткани
+N42	Reference T76 UMLS:C0037949	позвоночного
+N22	Reference T52 UMLS:C1517060	
+N43	Reference T19 UMLS:C0230461	
+N44	Reference T17 UMLS:C0230443	
+N45	Reference T51 UMLS:C0013313	мозговая оболочка твердая
+N26	Reference T20 UMLS:C0007634	клетки
+N19	Reference T49 UMLS:C0001613	надпочечников кора
+N46	Reference T8 UMLS:C0206686	карцинома адренокортикальная
+N47	Reference T7 UMLS:NULL	
+N48	Reference T11 UMLS:C0149601	
+N20	Reference T1 UMLS:NULL	
+N23	Reference T10 UMLS:C3887615	
+N4	Reference T14 UMLS:C0024090	
+N27	Reference T21 UMLS:C0007610	клетки ядро
+N13	Reference T30 UMLS:C0883157	
+N14	Reference T31 UMLS:C1522481	mart-1 антиген
+N11	Reference T28 UMLS:C1291823	
+N49	Reference T33 UMLS:C0205769	доброкачественная эпендимома
+N32	Reference T58 UMLS:C0022646	почки
+N33	Reference T59 UMLS:C0007634	клетки
+N50	Reference T34 UMLS:C1378050	
+N51	Reference T40 UMLS:NULL	
+N52	Reference T71 UMLS:C1283188	
+N53	Reference T42 UMLS:NULL	
+N54	Reference T47 UMLS:C0223491	
+N17	Reference T45 UMLS:C0027763	нервная система
+N39	Reference T75 UMLS:C0027766	нервной системы новообразования
+N55	Reference T41 UMLS:NULL	
+N56	Reference T67 UMLS:NULL	
+N57	Reference T64 UMLS:C0027651	опухоли
+N58	Reference T43 UMLS:C0027651	опухоли
+N59	Reference T73 UMLS:C0027651	опухоли
+N60	Reference T39 UMLS:C0001430	аденомы
+N61	Reference T68 UMLS:C0008519	Эктопические
+N62	Reference T69 UMLS:C0008519	Эктопические
+N63	Reference T27 UMLS:C0007634	клетки
+N64	Reference T66 UMLS:C0001613	надпочечников кора
+N65	Reference T72 UMLS:C0001613	надпочечников кора
+N66	Reference T61 UMLS:C0001613	надпочечников кора
+N67	Reference T74 UMLS:C0206686	карцинома адренокортикальная
+T77	DISO 221 227	болями
+R70	SUBCLASS_OF Arg1:T13 Arg2:T77	
+N68	Reference T77 UMLS:C0030193	боли
+N3	Reference T13 UMLS:C0423681	боль в поясничном отделе позвоночника
+T78	ANATOMY 376 384;401 407	округлых клеток
+N69	Reference T78 UMLS:C0487470	
+N70	Reference T55 UMLS:NULL	
+T79	ANATOMY 387 407	полигональных клеток
+N71	Reference T79 UMLS:NULL	
+R67	SUBCLASS_OF Arg1:T79 Arg2:T20	
+T80	LABPROC 331 345	Гистологически
+R71	PROCEDURE_PERFORMED Arg1:T12 Arg2:T80	
+N72	Reference T38 UMLS:NULL	
+T81	DISO 1116 1127	образований
+R72	SUBCLASS_OF Arg1:T75 Arg2:T81	
+N73	Reference T81 UMLS:C0027651	новообразования
+T82	DISO 346 357	образование
+N74	Reference T82 UMLS:C0027651	новообразования
+R30	TO_DETECT_OR_STUDY Arg1:T80 Arg2:T82	
+R73	ORIGINS_FROM Arg1:T55 Arg2:T82	
+R74	MEDICAL_CONDITION Arg1:T12 Arg2:T82	
+T83	CHEM 575 583	ингибину
+R75	SUBCLASS_OF Arg1:T30 Arg2:T83	
+N75	Reference T83 UMLS:C0021463	ингибины
+T84	DISO 646 656	эпендимомы
+R76	SUBCLASS_OF Arg1:T33 Arg2:T84	
+N76	Reference T84 UMLS:C0014474	эпендимома
+R77	PART_OF Arg1:T41 Arg2:T66	

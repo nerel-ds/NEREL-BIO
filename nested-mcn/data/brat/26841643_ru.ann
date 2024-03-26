@@ -1,0 +1,182 @@
+T1	DISO 96 114	аномалией Эбштейна
+T3	NUMBER 242 244	41
+T4	AGE 265 283	от 9 мес до 57 лет
+T5	NUMBER 381 385	двух
+T6	DISO 818 850	синдрома Вольфа-Паркинсона-Уайта
+T9	ANATOMY 50 68	Z-полос миофибрилл
+T10	ANATOMY 71 85	кардиомиоцитах
+T11	PERSON 86 93	больных
+T16	ANATOMY 218 239	правых отделов сердца
+T17	PERSON 245 253	больного
+T19	PERSON 305 312	больных
+T20	ANATOMY 325 339	кардиомиоцитах
+T22	ANATOMY 361 369	Z-дисков
+T23	ANATOMY 370 380	миофибрилл
+T24	ANATOMY 427 435	Z-дисков
+T26	ANATOMY 472 483	Z-материала
+T28	ANATOMY 525 533	Z-дисков
+T29	ANATOMY 551 565	кардиомиоцитах
+T30	ANATOMY 566 576	предсердия
+T32	FINDING 608 626	нарушений Z-дисков
+T33	ANATOMY 629 643	кардиомиоцитах
+T34	ANATOMY 733 744	Z-материала
+T35	PERSON 810 817	больных
+T38	PERSON 874 881	больных
+T39	DISO 884 902	аномалией Эбштейна
+T40	ANATOMY 911 925	кардиомиоцитов
+T41	ANATOMY 966 973	Z-полос
+T42	ANATOMY 974 984	миофибрилл
+T43	ANATOMY 1054 1061	Z-полос
+T44	ANATOMY 1064 1080	скелетных мышцах
+T47	CHEM 1100 1118	саркомерных белков
+T8	ANATOMY 58 68	миофибрилл
+T52	ANATOMY 50 57	Z-полос
+T53	FINDING 40 68	изменения Z-полос миофибрилл
+T12	LABPROC 143 166	электронной микроскопии
+T13	LABPROC 155 166	микроскопии
+T14	ANATOMY 208 217	биоптатов
+T15	ANATOMY 190 217	интраоперационных биоптатов
+T54	ANATOMY 233 239	сердца
+T55	ANATOMY 190 239	интраоперационных биоптатов правых отделов сердца
+T21	ANATOMY 361 380	Z-дисков миофибрилл
+T56	FINDING 351 380	изменения Z-дисков миофибрилл
+T57	FINDING 393 446	локальные симметричные расширения Z-дисков в виде бус
+T25	ANATOMY 503 513	миофибрилл
+T27	FINDING 462 483	отложения Z-материала
+T58	FINDING 451 513	продольные отложения Z-материала разной длины вдоль миофибрилл
+T59	FINDING 515 533	Изменения Z-дисков
+T60	ANATOMY 551 576	кардиомиоцитах предсердия
+T31	ANATOMY 584 593	желудочке
+T61	ANATOMY 618 626	Z-дисков
+T62	FINDING 596 643	Присутствие нарушений Z-дисков в кардиомиоцитах
+T63	PHYS 666 689	клинических показателей
+T64	FINDING 723 744	отложений Z-материала
+T65	ANATOMY 759 773	кардиомиоцитах
+T66	ANATOMY 747 758	предсердных
+T67	ANATOMY 747 773	предсердных кардиомиоцитах
+T68	FINDING 704 773	наличие продольных отложений Z-материала в предсердных кардиомиоцитах
+T70	ANATOMY 966 984	Z-полос миофибрилл
+T71	FINDING 938 984	ультраструктурных изменений Z-полос миофибрилл
+T72	ANATOMY 1074 1080	мышцах
+T73	ANATOMY 1064 1073	скелетных
+T74	FINDING 1042 1080	нарушениями Z-полос в скелетных мышцах
+T45	ANATOMY 1100 1111	саркомерных
+T46	GENE 1094 1118	генов саркомерных белков
+T75	FINDING 1085 1118	мутациях генов саркомерных белков
+T48	ANATOMY 1197 1205	Z-дисков
+T49	ANATOMY 1206 1216	миофибрилл
+T51	ANATOMY 1217 1231	кардиомиоцитов
+T76	ANATOMY 1206 1231	миофибрилл кардиомиоцитов
+T77	ANATOMY 1197 1231	Z-дисков миофибрилл кардиомиоцитов
+T80	FINDING 1157 1231	мутации генов белков, входящих в состав Z-дисков миофибрилл кардиомиоцитов
+R1	PART_OF Arg1:T9 Arg2:T8	
+R2	PART_OF Arg1:T9 Arg2:T10	
+R3	PART_OF Arg1:T10 Arg2:T11	
+R4	MEDICAL_CONDITION Arg1:T11 Arg2:T1	
+R5	SUBCLASS_OF Arg1:T9 Arg2:T52	
+R6	FINDING_OF Arg1:T53 Arg2:T11	
+R7	SUBCLASS_OF Arg1:T12 Arg2:T13	
+R8	SUBCLASS_OF Arg1:T55 Arg2:T15	
+R9	PART_OF Arg1:T55 Arg2:T16	
+R10	PART_OF Arg1:T16 Arg2:T54	
+R11	PART_OF Arg1:T15 Arg2:T14	
+R12	TO_DETECT_OR_STUDY Arg1:T12 Arg2:T55	
+R13	PART_OF Arg1:T55 Arg2:T17	
+R15	AGE_IS Arg1:T17 Arg2:T4	
+R17	PART_OF Arg1:T20 Arg2:T19	
+R18	PART_OF Arg1:T21 Arg2:T23	
+R19	SUBCLASS_OF Arg1:T21 Arg2:T22	
+R20	PART_OF Arg1:T21 Arg2:T20	
+R21	FINDING_OF Arg1:T56 Arg2:T19	
+R22	SUBCLASS_OF Arg1:T57 Arg2:T56	
+R23	SUBCLASS_OF Arg1:T58 Arg2:T56	
+R24	FINDING_OF Arg1:T57 Arg2:T19	
+R25	FINDING_OF Arg1:T58 Arg2:T19	
+R26	PART_OF Arg1:T26 Arg2:T25	
+R27	PART_OF Arg1:T25 Arg2:T19	
+R28	SUBCLASS_OF Arg1:T60 Arg2:T29	
+R29	PART_OF Arg1:T60 Arg2:T30	
+R30	PART_OF Arg1:T28 Arg2:T29	
+R31	PART_OF Arg1:T61 Arg2:T33	
+R33	PART_OF Arg1:T67 Arg2:T66	
+R34	SUBCLASS_OF Arg1:T67 Arg2:T65	
+R35	PART_OF Arg1:T34 Arg2:T67	
+R36	FINDING_OF Arg1:T68 Arg2:T35	
+R37	FINDING_OF Arg1:T64 Arg2:T35	
+R38	MEDICAL_CONDITION Arg1:T35 Arg2:T6	
+R39	HAS_CAUSE Arg1:T68 Arg2:T6	
+R40	MEDICAL_CONDITION Arg1:T38 Arg2:T39	
+R41	PART_OF Arg1:T40 Arg2:T38	
+R42	FINDING_OF Arg1:T71 Arg2:T38	
+R43	PART_OF Arg1:T70 Arg2:T42	
+R44	SUBCLASS_OF Arg1:T70 Arg2:T41	
+R45	PART_OF Arg1:T70 Arg2:T40	
+R46	PART_OF Arg1:T44 Arg2:T73	
+R47	SUBCLASS_OF Arg1:T44 Arg2:T72	
+R48	PART_OF Arg1:T43 Arg2:T73	
+R49	HAS_CAUSE Arg1:T74 Arg2:T75	
+R50	ORIGINS_FROM Arg1:T47 Arg2:T45	
+R51	ORIGINS_FROM Arg1:T46 Arg2:T45	
+T81	CHEM 1112 1118	белков
+R52	SUBCLASS_OF Arg1:T47 Arg2:T81	
+T78	CHEM 1171 1177	белков
+R54	SUBCLASS_OF Arg1:T76 Arg2:T51	
+R55	PART_OF Arg1:T77 Arg2:T76	
+R56	SUBCLASS_OF Arg1:T76 Arg2:T49	
+R57	SUBCLASS_OF Arg1:T77 Arg2:T48	
+R60	HAS_CAUSE Arg1:T53 Arg2:T1	
+N1	Reference T1 UMLS:C0013481	аномалией Эбштейна
+N2	Reference T6 UMLS:C0043202	синдрома Вольфа-Паркинсона-Уайта
+N3	Reference T10 UMLS:C0225828	кардиомиоцитах
+N6	Reference T30 UMLS:C0018792	предсердия
+N7	Reference T44 UMLS:C0242692	скелетных мышцах
+N8	Reference T8 UMLS:C0027075	миофибрилл
+N12	Reference T66 UMLS:C0018792	предсердных
+N14	Reference T73 UMLS:C0816871	скелетных
+N15	Reference T45 UMLS:C0036225	саркомерных
+N16	Reference T81 UMLS:C0033684	белков
+N9	Reference T52 UMLS:C0230719	
+N17	Reference T9 UMLS:C0230719	
+N10	Reference T54 UMLS:C0018787	сердце
+N4	Reference T22 UMLS:C0230719	
+N18	Reference T21 UMLS:C0230719	
+N19	Reference T14 UMLS:C0677862	
+N20	Reference T15 UMLS:NULL	
+N21	Reference T55 UMLS:NULL	
+N5	Reference T26 UMLS:NULL	
+N11	Reference T31 UMLS:C0018827	сердца желудочки
+N22	Reference T16 UMLS:C0225808	
+N23	Reference T67 UMLS:NULL	
+N25	Reference T47 UMLS:NULL	
+N13	Reference T72 UMLS:C4083049	
+N26	Reference T77 UMLS:NULL	
+N27	Reference T76 UMLS:NULL	
+N28	Reference T39 UMLS:C0013481	аномалией Эбштейна
+N29	Reference T40 UMLS:C0225828	кардиомиоцитах
+N30	Reference T20 UMLS:C0225828	кардиомиоцитах
+N31	Reference T29 UMLS:C0225828	кардиомиоцитах
+N32	Reference T65 UMLS:C0225828	кардиомиоцитах
+N33	Reference T33 UMLS:C0225828	кардиомиоцитах
+N34	Reference T51 UMLS:C0225828	кардиомиоцитах
+N35	Reference T25 UMLS:C0027075	миофибрилл
+N36	Reference T49 UMLS:C0027075	миофибрилл
+N37	Reference T23 UMLS:C0027075	миофибрилл
+N38	Reference T42 UMLS:C0027075	миофибрилл
+N39	Reference T78 UMLS:C0033684	белков
+N40	Reference T41 UMLS:C0230719	
+N41	Reference T43 UMLS:C0230719	
+N42	Reference T70 UMLS:C0230719	
+N43	Reference T48 UMLS:C0230719	
+N44	Reference T24 UMLS:C0230719	
+N45	Reference T28 UMLS:C0230719	
+N46	Reference T61 UMLS:C0230719	
+N47	Reference T34 UMLS:NULL	
+R14	ORIGINS_FROM Arg1:T78 Arg2:T77	
+R16	AFFECTS Arg1:T59 Arg2:T28	
+T2	FINDING 644 689	коррелировало с рядом клинических показателей
+R32	HAS_CAUSE Arg1:T2 Arg2:T62	
+T7	FINDING 780 850	коррелировало с проявлением у больных синдрома Вольфа-Паркинсона-Уайта
+R53	HAS_CAUSE Arg1:T7 Arg2:T68	
+R58	AFFECTS Arg1:T71 Arg2:T40	
+R61	AFFECTS Arg1:T71 Arg2:T70	
+R59	HAS_CAUSE Arg1:T80 Arg2:T78	

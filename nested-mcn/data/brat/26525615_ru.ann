@@ -1,0 +1,168 @@
+T1	DISO 142 180	транзиторным неонатальным гипотиреозом
+T2	DISO 252 271	церебральной ишемии
+T3	DISO 286 324	транзиторным неонатальным гипотиреозом
+T4	NUMBER 327 329	89
+T5	NUMBER 389 391	43
+T10	DATE 478 494	в течение 5 дней
+T11	NUMBER 496 498	46
+T13	CHEM 41 52	цитофлавина
+T15	DISO 63 97	гипоксически-ишемических поражений
+T16	ANATOMY 98 113	нервной системы
+T17	PERSON 116 121	детей
+T20	DISO 155 180	неонатальным гипотиреозом
+T24	PERSON 330 343	новорожденных
+T26	PERSON 392 399	ребенка
+T27	CHEM 424 434	цитофлавин
+T29	PERSON 499 512	новорожденным
+T31	PHYS 620 649	неврологическими проявлениями
+T34	ACTIVITY 715 738	двигательной активности
+T35	PHYS 741 770	вегетовисцеральные дисфункции
+T37	DISO 834 854	гипертиреотропинемии
+T39	DISO 865 883	гипербилирубинемии
+T40	LABPROC 941 974	нейросонографическом исследовании
+T42	PERSON 1054 1073	контрольной группой
+T43	CHEM 1145 1156	цитофлавина
+T48	ANATOMY 1318 1321	ЦНС
+T18	AGE 122 133	1-го месяца
+T19	DISO 168 180	гипотиреозом
+T23	CHEM 239 251	цитофлавином
+T49	ANATOMY 252 264	церебральной
+T50	DISO 265 271	ишемии
+T51	DISO 312 324	гипотиреозом
+T52	DISO 299 324	неонатальным гипотиреозом
+T25	AGE 344 355	1-го месяца
+T54	ADMINISTRATION_ROUTE 412 423	внутривенно
+T6	NUMBER 446 477	2 мл на 1 кг массы тела в сутки
+T9	PERSON 513 528	группы контроля
+T28	PHYS 715 727	двигательной
+T30	DISO 697 738	синдром угнетения двигательной активности
+T32	ANATOMY 741 759	вегетовисцеральные
+T36	DISO 917 936	церебральной ишемии
+T38	ANATOMY 917 929	церебральной
+T55	DATE 978 989	5-6-е сутки
+T56	FINDING 800 883	достоверно более быстрое снижение гипертиреотропинемии, непрямой гипербилирубинемии
+T57	FINDING 885 936	уменьшение степени выраженности церебральной ишемии
+T41	FINDING 1098 1156	нейропротективное и тиреопротективное действие цитофлавина
+T46	DISO 1283 1317	гипоксически-ишемических поражений
+T12	FINDING 27 52	эффективности цитофлавина
+T21	FINDING 217 251	эффективности терапии цитофлавином
+R1	AGE_IS Arg1:T17 Arg2:T18	
+T44	FINDING 1158 1189	хорошая переносимость препарата
+T47	PERSON 1066 1073	группой
+R2	HAS_CAUSE Arg1:T12 Arg2:T13	
+R3	TREATED_USING Arg1:T15 Arg2:T13	
+R4	AFFECTS Arg1:T15 Arg2:T16	
+R5	MEDICAL_CONDITION Arg1:T17 Arg2:T15	
+R6	PART_OF Arg1:T16 Arg2:T17	
+R7	SUBCLASS_OF Arg1:T1 Arg2:T20	
+R8	SUBCLASS_OF Arg1:T20 Arg2:T19	
+R9	MEDICAL_CONDITION Arg1:T17 Arg2:T1	
+R10	HAS_CAUSE Arg1:T21 Arg2:T23	
+R11	TREATED_USING Arg1:T2 Arg2:T23	
+R12	SUBCLASS_OF Arg1:T2 Arg2:T50	
+R13	AFFECTS Arg1:T2 Arg2:T49	
+R14	SUBCLASS_OF Arg1:T3 Arg2:T52	
+R15	SUBCLASS_OF Arg1:T52 Arg2:T51	
+R16	TREATED_USING Arg1:T3 Arg2:T23	
+R17	MEDICAL_CONDITION Arg1:T24 Arg2:T3	
+R18	MEDICAL_CONDITION Arg1:T24 Arg2:T2	
+R19	TREATED_USING Arg1:T17 Arg2:T13	
+R20	TREATED_USING Arg1:T24 Arg2:T23	
+R21	AGE_IS Arg1:T24 Arg2:T25	
+T14	PERSON 363 378	Основную группу
+T58	PERSON 372 378	группу
+R22	SUBCLASS_OF Arg1:T14 Arg2:T58	
+R23	MEMBER_OF Arg1:T26 Arg2:T14	
+R24	TREATED_USING Arg1:T26 Arg2:T27	
+R25	HAS_ADMINISTRATION_ROUTE Arg1:T27 Arg2:T54	
+R26	DOSE_IS Arg1:T27 Arg2:T6	
+R27	DURATION_OF Arg1:T27 Arg2:T10	
+T7	PERSON 513 519	группы
+R28	SUBCLASS_OF Arg1:T9 Arg2:T7	
+R29	MEMBER_OF Arg1:T29 Arg2:T9	
+T8	MEDPROC 541 557	базисная терапия
+R30	TREATED_USING Arg1:T29 Arg2:T8	
+T53	PERSON 664 671	группах
+R31	PHYSIOLOGY_OF Arg1:T31 Arg2:T53	
+R32	MEDICAL_CONDITION Arg1:T53 Arg2:T30	
+R33	PARTICIPANT_IN Arg1:T53 Arg2:T34	
+R34	HAS_CAUSE Arg1:T28 Arg2:T34	
+R35	PHYSIOLOGY_OF Arg1:T28 Arg2:T53	
+R36	SUBCLASS_OF Arg1:T35 Arg2:T31	
+R37	PHYSIOLOGY_OF Arg1:T35 Arg2:T53	
+R38	PHYSIOLOGY_OF Arg1:T35 Arg2:T32	
+T33	PERSON 775 790	основной группе
+T60	PERSON 784 790	группе
+R39	SUBCLASS_OF Arg1:T33 Arg2:T60	
+R40	FINDING_OF Arg1:T56 Arg2:T33	
+R41	ASSOCIATED_WITH Arg1:T37 Arg2:T56	
+R42	MEDICAL_CONDITION Arg1:T33 Arg2:T37	
+R43	MEDICAL_CONDITION Arg1:T33 Arg2:T39	
+R44	FINDING_OF Arg1:T57 Arg2:T33	
+R45	ASSOCIATED_WITH Arg1:T36 Arg2:T57	
+R46	MEDICAL_CONDITION Arg1:T33 Arg2:T36	
+T61	DISO 930 936	ишемии
+R47	SUBCLASS_OF Arg1:T36 Arg2:T61	
+R48	AFFECTS Arg1:T36 Arg2:T38	
+R49	PROCEDURE_PERFORMED Arg1:T33 Arg2:T40	
+R50	SUBCLASS_OF Arg1:T42 Arg2:T47	
+R51	HAS_CAUSE Arg1:T41 Arg2:T43	
+R53	HAS_CAUSE Arg1:T44 Arg2:T43	
+T62	MEDPROC 1263 1282	стандартном лечении
+R55	TREATED_USING Arg1:T46 Arg2:T62	
+R56	AFFECTS Arg1:T46 Arg2:T48	
+N2	Reference T2 UMLS:C0917798	церебральной ишемии
+N4	Reference T15 UMLS:C0752304	гипоксически-ишемических поражений
+N8	Reference T39 UMLS:C0020433	гипербилирубинемии
+N10	Reference T19 UMLS:C0020676	гипотиреозом
+N12	Reference T50 UMLS:C0022116	ишемии
+N13	Reference T30 UMLS:C0086439	синдром угнетения двигательной активности
+N3	Reference T13 UMLS:C1701400	
+N5	Reference T16 UMLS:C3714787	нервная система центральная
+N1	Reference T1 UMLS:C0349477	
+N6	Reference T20 UMLS:C1400313	
+N11	Reference T49 UMLS:C0006104	мозг головной
+N14	Reference T32 UMLS:NULL	
+N7	Reference T37 UMLS:C0020550	гипертиреоз
+N9	Reference T48 UMLS:C3714787	нервная система центральная
+N15	Reference T36 UMLS:C0917798	церебральной ишемии
+N16	Reference T46 UMLS:C0752304	гипоксически-ишемических поражений
+N17	Reference T51 UMLS:C0020676	гипотиреозом
+N18	Reference T61 UMLS:C0022116	ишемии
+N19	Reference T23 UMLS:C1701400	
+N20	Reference T27 UMLS:C1701400	
+N21	Reference T43 UMLS:C1701400	
+N22	Reference T3 UMLS:C0349477	
+N23	Reference T52 UMLS:C1400313	
+N24	Reference T38 UMLS:C0006104	мозг головной
+R57	ASSOCIATED_WITH Arg1:T2 Arg2:T21	
+R58	ASSOCIATED_WITH Arg1:T15 Arg2:T12	
+T45	FINDING 992 1038	больший регресс основных клинических симптомов
+R59	FINDING_OF Arg1:T45 Arg2:T33	
+R60	HAS_CAUSE Arg1:T45 Arg2:T27	
+T22	FINDING 1166 1189	переносимость препарата
+R52	SUBCLASS_OF Arg1:T44 Arg2:T22	
+T59	FINDING 1196 1245	совместимость с другими лекарственными средствами
+R54	HAS_CAUSE Arg1:T59 Arg2:T43	
+R61	AFFECTS Arg1:T59 Arg2:T48	
+R62	AFFECTS Arg1:T44 Arg2:T48	
+R63	AFFECTS Arg1:T41 Arg2:T48	
+R64	TREATED_USING Arg1:T46 Arg2:T43	
+R65	APPLIED_TO Arg1:T43 Arg2:T48	
+R66	TO_DETECT_OR_STUDY Arg1:T40 Arg2:T57	
+R67	PART_OF Arg1:T49 Arg2:T24	
+T63	DISO 76 87	ишемических
+N25	Reference T63 UMLS:C0022116	ишемия
+R68	SUBCLASS_OF Arg1:T15 Arg2:T63	
+T64	DISO 1296 1307	ишемических
+R69	SUBCLASS_OF Arg1:T46 Arg2:T64	
+N26	Reference T64 UMLS:C0022116	ишемия
+T65	DISO 63 75	гипоксически
+N27	Reference T65 UMLS:C0242184	гипоксия
+R70	SUBCLASS_OF Arg1:T15 Arg2:T65	
+T66	DISO 1283 1295	гипоксически
+R71	SUBCLASS_OF Arg1:T46 Arg2:T66	
+N28	Reference T66 UMLS:C0242184	гипоксия
+T67	DISO 856 883	непрямой гипербилирубинемии
+R72	SUBCLASS_OF Arg1:T67 Arg2:T39	
+N29	Reference T67 UMLS:C1565886	

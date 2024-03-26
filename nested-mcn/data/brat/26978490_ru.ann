@@ -1,0 +1,164 @@
+T2	NUMBER 137 140	две
+T4	ORDINAL 720 726	первые
+T5	NUMBER 761 762	4
+T6	ORDINAL 1218 1225	первого
+T7	DISO 0 13	Болезнь Помпе
+T9	DISO 50 79	лизосомальный гликогеноз мышц
+T14	DISO 190 192	БП
+T15	PHYS 195 202	дебютом
+T16	PHYS 247 264	активности энзима
+T17	DISO 294 296	БП
+T20	DISO 400 409	слабостью
+T21	ANATOMY 425 435;450 454	аксиальных мышц
+T22	ANATOMY 438 454	дыхательных мышц
+T26	PERSON 610 618	взрослых
+T30	PERSON 763 772	пациентов
+T32	DISO 820 824	БППН
+T33	PHYS 854 863	возрастом
+T37	DISO 928 945	мышечной слабости
+T45	CHEM 1159 1179	кислой α-глюкозидазы
+T46	LABPROC 1182 1200	сухих пятнах крови
+T49	DISO 15 17	БП
+T50	ANATOMY 75 79	мышц
+T51	DISO 64 74	гликогеноз
+T52	DISO 64 79	гликогеноз мышц
+T53	ANATOMY 50 63	лизосомальный
+T54	GENE 38 49	рецессивный
+T56	DISO 28 79	аутосомно-рецессивный лизосомальный гликогеноз мышц
+T11	CHEM 114 125	глюкозидазы
+T57	CHEM 112 125	α-глюкозидазы
+T58	CHEM 105 125	кислой α-глюкозидазы
+T59	DISO 95 125	дефицитом кислой α-глюкозидазы
+T13	DISO 165 192	агрессивная младенческая БП
+T60	PERSON 177 189	младенческая
+T64	CHEM 258 264	энзима
+T65	DISO 225 264	значительном снижении активности энзима
+T66	DISO 268 291	полиорганной патологией
+T67	PHYS 299 314	поздним началом
+T69	DISO 294 314	БП с поздним началом
+T18	DISO 316 320	БППН
+T71	FINDING 324 380	ранними признаками и прогрессирующим развитием симптомов
+T19	ANATOMY 410 423;450 454	проксимальных мышц
+T73	ANATOMY 450 454	мышц
+T74	PHYS 438 449	дыхательных
+T75	DISO 400 454	слабостью проксимальных, аксиальных и дыхательных мышц
+T78	PROFESSION 555 561	врачей
+T31	DISO 790 794	БППН
+T34	ORDINAL 874 880	первых
+T82	ANATOMY 928 936	мышечной
+T83	DISO 937 945	слабости
+T85	PHYS 911 945	расположения зон мышечной слабости
+T40	DISO 1114 1116	БП
+T42	CHEM 1168 1179	глюкозидазы
+T86	CHEM 1166 1179	α-глюкозидазы
+T87	PHYS 1148 1179	активности кислой α-глюкозидазы
+T88	ANATOMY 1195 1200	крови
+T89	LABPROC 1118 1147	Флуориметрическое определение
+T48	DISO 1265 1269	БППН
+R1	ABBREVIATION Arg1:T7 Arg2:T49	
+R2	SUBCLASS_OF Arg1:T56 Arg2:T9	
+R3	SUBCLASS_OF Arg1:T9 Arg2:T52	
+R4	AFFECTS Arg1:T56 Arg2:T50	
+R5	SUBCLASS_OF Arg1:T52 Arg2:T51	
+R6	AFFECTS Arg1:T56 Arg2:T53	
+T55	GENE 28 37	аутосомно
+R7	SUBCLASS_OF Arg1:T7 Arg2:T56	
+R8	SUBCLASS_OF Arg1:T57 Arg2:T11	
+R9	SUBCLASS_OF Arg1:T58 Arg2:T57	
+R10	HAS_CAUSE Arg1:T56 Arg2:T59	
+R11	SUBCLASS_OF Arg1:T13 Arg2:T14	
+R12	ASSOCIATED_WITH Arg1:T16 Arg2:T64	
+R13	HAS_CAUSE Arg1:T65 Arg2:T16	
+R14	SUBCLASS_OF Arg1:T69 Arg2:T17	
+R15	ABBREVIATION Arg1:T69 Arg2:T18	
+R19	ASSOCIATED_WITH Arg1:T67 Arg2:T69	
+R20	MEDICAL_CONDITION Arg1:T60 Arg2:T13	
+R21	ASSOCIATED_WITH Arg1:T15 Arg2:T13	
+R22	AFFECTS Arg1:T75 Arg2:T19	
+R23	AFFECTS Arg1:T75 Arg2:T21	
+R24	AFFECTS Arg1:T75 Arg2:T22	
+R26	SUBCLASS_OF Arg1:T19 Arg2:T73	
+R25	SUBCLASS_OF Arg1:T22 Arg2:T73	
+R27	SUBCLASS_OF Arg1:T19 Arg2:T73	
+R28	PHYSIOLOGY_OF Arg1:T74 Arg2:T22	
+R29	SUBCLASS_OF Arg1:T75 Arg2:T20	
+T61	AGE 203 220	на 1-м году жизни
+T3	AGE 483 523	после 1-го года жизни до 75 лет и старше
+R36	MEDICAL_CONDITION Arg1:T30 Arg2:T31	
+R37	SUBCLASS_OF Arg1:T37 Arg2:T83	
+R38	AFFECTS Arg1:T37 Arg2:T82	
+R39	PHYSIOLOGY_OF Arg1:T85 Arg2:T82	
+R40	SUBCLASS_OF Arg1:T86 Arg2:T42	
+R41	SUBCLASS_OF Arg1:T45 Arg2:T86	
+R42	ASSOCIATED_WITH Arg1:T87 Arg2:T45	
+R43	TO_DETECT_OR_STUDY Arg1:T89 Arg2:T87	
+R46	TO_DETECT_OR_STUDY Arg1:T89 Arg2:T45	
+R47	TO_DETECT_OR_STUDY Arg1:T89 Arg2:T48	
+R48	HAS_CAUSE Arg1:T59 Arg2:T58	
+R49	HAS_CAUSE Arg1:T65 Arg2:T13	
+R50	HAS_CAUSE Arg1:T66 Arg2:T13	
+T1	PHYS 854 898	возрастом появления первых признаков болезни
+R30	SUBCLASS_OF Arg1:T1 Arg2:T33	
+R32	ASSOCIATED_WITH Arg1:T1 Arg2:T32	
+R33	HAS_CAUSE Arg1:T85 Arg2:T32	
+R51	USED_IN Arg1:T45 Arg2:T89	
+N1	Reference T7 UMLS:C0017921	Болезнь Помпе
+N2	Reference T20 UMLS:C3714552	слабостью
+N3	Reference T22 UMLS:C0035231	дыхательных мышц
+N4	Reference T37 UMLS:C0151786	мышечной слабости
+N5	Reference T50 UMLS:C0026845	мышц
+N6	Reference T51 UMLS:C0017919	гликогеноз
+N8	Reference T53 UMLS:C0024369	лизосомальный
+N10	Reference T11 UMLS:C0017764	глюкозидазы
+N11	Reference T57 UMLS:C0002272	α-глюкозидазы
+N14	Reference T64 UMLS:C0014442	энзима
+N15	Reference T66 UMLS:C1141933	полиорганной патологией
+N18	Reference T88 UMLS:C0005767	кровь
+N19	Reference T46 UMLS:NULL	
+N9	Reference T56 UMLS:NULL	
+N7	Reference T52 UMLS:C1969054	
+N20	Reference T9 UMLS:C5681077	
+N12	Reference T58 UMLS:C1706105	
+N13	Reference T59 UMLS:C0342752	
+N21	Reference T13 UMLS:C3888924	болезнь помпе с манифестацией в младенческом возрасте
+N22	Reference T65 UMLS:C2609069	снижение активности ферментов
+N16	Reference T69 UMLS:C0342753	
+N17	Reference T82 UMLS:C0026845	мышцы
+N23	Reference T75 UMLS:NULL	
+N24	Reference T19 UMLS:C2984223	
+N25	Reference T21 UMLS:NULL	
+N26	Reference T40 UMLS:C0017921	Болезнь Помпе
+N27	Reference T14 UMLS:C0017921	Болезнь Помпе
+N28	Reference T17 UMLS:C0017921	Болезнь Помпе
+N29	Reference T49 UMLS:C0017921	Болезнь Помпе
+N30	Reference T83 UMLS:C3714552	слабостью
+N31	Reference T73 UMLS:C0026845	мышц
+N32	Reference T42 UMLS:C0017764	глюкозидазы
+N33	Reference T86 UMLS:C0002272	α-глюкозидазы
+N34	Reference T45 UMLS:C1706105	
+N35	Reference T32 UMLS:C0342753	
+N36	Reference T18 UMLS:C0342753	
+N37	Reference T31 UMLS:C0342753	
+N38	Reference T48 UMLS:C0342753	
+R16	ASSOCIATED_WITH Arg1:T69 Arg2:T71	
+R18	AGE_IS Arg1:T60 Arg2:T61	
+R31	AGE_IS Arg1:T15 Arg2:T61	
+T8	PHYS 458 465	дебютом
+R52	HAS_CAUSE Arg1:T75 Arg2:T69	
+R53	AGE_IS Arg1:T8 Arg2:T3	
+R54	ASSOCIATED_WITH Arg1:T8 Arg2:T69	
+T10	FINDING 700 758	типичные симптомы и первые ранние неспецифические признаки
+R17	FINDING_OF Arg1:T10 Arg2:T30	
+R34	ASSOCIATED_WITH Arg1:T31 Arg2:T10	
+T12	FINDING 525 561	Недостаточная настороженность врачей
+T23	FINDING 630 685	продолжительной задержке правильной постановки диагноза
+R35	HAS_CAUSE Arg1:T23 Arg2:T12	
+R55	FINDING_OF Arg1:T23 Arg2:T26	
+R56	FINDING_OF Arg1:T12 Arg2:T26	
+R57	ASSOCIATED_WITH Arg1:T18 Arg2:T12	
+R58	ASSOCIATED_WITH Arg1:T18 Arg2:T23	
+T24	FINDING 1210 1269	методом первого выбора в случаях подозрения на наличие БППН
+R45	APPLIED_TO Arg1:T46 Arg2:T88	
+R44	USED_IN Arg1:T46 Arg2:T89	
+R59	ORIGINS_FROM Arg1:T24 Arg2:T89	
+R60	ASSOCIATED_WITH Arg1:T48 Arg2:T24	

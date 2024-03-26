@@ -1,0 +1,195 @@
+T1	ANATOMY 194 197	БДА
+T2	DATE 219 241	За период 2002-2015 гг
+T3	NUMBER 265 267	24
+T4	AGE 303 312	47,2 года
+T7	TIME 814 823	до 10 мин
+T8	NUMBER 1045 1047	22
+T9	NUMBER 1061 1062	2
+T10	DISO 1102 1119	рецидив стриктуры
+T12	LABPROC 48 74	интервенционной радиологии
+T15	PERSON 139 148	пациентов
+T17	ANATOMY 164 192	билиодигестивных анастомозов
+T19	PERSON 268 276	пациента
+T21	PERSON 295 302	больных
+T23	MEDPROC 346 371	реконструктивных операций
+T24	ANATOMY 375 403	внепеченочном желчном дереве
+T25	DEVICE 437 455	каркасных дренажей
+T26	MEDPROC 493 526	купирования билиарной гипертензии
+T28	MEDPROC 602 615	Реканализацию
+T31	MEDPROC 676 697	Антеградную дилатацию
+T33	DEVICE 718 737	баллонным катетером
+T35	DEVICE 776 783	баллоне
+T39	MEDPROC 982 1026	антеградными рентгенохирургическими методами
+T42	DISO 1102 1109	рецидив
+T44	MEDPROC 1145 1172	эндобилиарной реконструкции
+T48	DEVICE 1239 1245	стента
+T50	DISO 1275 1305	постманипуляционных осложнений
+T51	PHYS 1308 1325	летальных исходов
+T54	PERSON 1379 1387	пациента
+T57	DEVICE 1416 1442	баллонорасширяемого стента
+T11	LABPROC 64 74	радиологии
+T13	ADMINISTRATION_ROUTE 92 128	антеградного чреспеченочного доступа
+T14	ADMINISTRATION_ROUTE 421 436	транспеченочных
+T16	DEVICE 421 455	транспеченочных каркасных дренажей
+T20	DATE 465 483	от 9 мес до 12 лет
+T22	DISO 515 526	гипертензии
+T58	DISO 505 526	билиарной гипертензии
+T27	MEDPROC 586 600	холангиостомию
+T59	ADMINISTRATION_ROUTE 571 585	чреспеченочную
+T60	ADMINISTRATION_ROUTE 560 570	чрескожную
+T61	MEDPROC 560 600	чрескожную чреспеченочную холангиостомию
+T5	DEVICE 657 664	катетер
+T29	DEVICE 665 674	проводник
+T30	MEDPROC 602 625	Реканализацию стриктуры
+T62	MEDPROC 688 697	дилатацию
+T32	MEDPROC 676 707	Антеградную дилатацию стриктуры
+T63	DEVICE 728 737	катетером
+T6	NUMBER 748 752	8 мм
+T34	NUMBER 787 792	6 атм
+T64	MEDPROC 865 921	каркасным наружновнутренним дренированием зоны стриктуры
+T65	MEDPROC 893 921	дренированием зоны стриктуры
+T66	MEDPROC 893 906	дренированием
+T36	ANATOMY 844 854	анастомоза
+T67	MEDPROC 825 843	Баллонную пластику
+T68	DEVICE 825 834	Баллонную
+T69	ANATOMY 181 192	анастомозов
+T70	ANATOMY 389 396	желчном
+T71	ANATOMY 375 388	внепеченочном
+T72	ANATOMY 978 981	БДА
+T38	DISO 968 981	стриктуры БДА
+T73	DISO 152 192	стриктурами билиодигестивных анастомозов
+T37	FINDING 935 981	Восстановление проходимости зоны стриктуры БДА
+T40	PERSON 1048 1057	пациентов
+T41	DATE 1083 1094	до 1,5 года
+T43	PERSON 1255 1263	пациента
+T45	DEVICE 1212 1245	блокированного непокрытого стента
+T46	MEDPROC 1188 1211	антеградным извлечением
+T47	DEVICE 1404 1442	непокрытого баллонорасширяемого стента
+T49	DEVICE 1436 1442	стента
+T52	MEDPROC 1394 1442	установки непокрытого баллонорасширяемого стента
+T53	DATE 1482 1488	11 лет
+T55	ANATOMY 1450 1472	гепатикоеюноанастомоза
+R1	SUBCLASS_OF Arg1:T12 Arg2:T11	
+R2	PROCEDURE_PERFORMED Arg1:T15 Arg2:T12	
+R3	SUBCLASS_OF Arg1:T17 Arg2:T69	
+R4	ABBREVIATION Arg1:T17 Arg2:T1	
+R5	AFFECTS Arg1:T73 Arg2:T17	
+R6	MEDICAL_CONDITION Arg1:T15 Arg2:T73	
+R7	ALTERNATIVE_NAME Arg1:T19 Arg2:T21	
+R8	TREATED_USING Arg1:T21 Arg2:T23	
+R9	PART_OF Arg1:T70 Arg2:T21	
+R10	PART_OF Arg1:T71 Arg2:T21	
+R11	PART_OF Arg1:T24 Arg2:T21	
+R12	SUBCLASS_OF Arg1:T16 Arg2:T25	
+R13	USED_IN Arg1:T16 Arg2:T23	
+R14	SUBCLASS_OF Arg1:T61 Arg2:T27	
+R15	SUBCLASS_OF Arg1:T58 Arg2:T22	
+R16	TREATED_USING Arg1:T58 Arg2:T26	
+R17	TREATED_USING Arg1:T21 Arg2:T61	
+R18	SUBCLASS_OF Arg1:T27 Arg2:T23	
+R19	SUBCLASS_OF Arg1:T30 Arg2:T28	
+R20	USED_IN Arg1:T5 Arg2:T30	
+R21	USED_IN Arg1:T29 Arg2:T30	
+R22	MEDICAL_CONDITION Arg1:T21 Arg2:T58	
+R23	USED_IN Arg1:T61 Arg2:T26	
+R24	SUBCLASS_OF Arg1:T31 Arg2:T62	
+R25	SUBCLASS_OF Arg1:T32 Arg2:T31	
+R26	SUBCLASS_OF Arg1:T32 Arg2:T23	
+R27	SUBCLASS_OF Arg1:T33 Arg2:T63	
+R28	USED_IN Arg1:T33 Arg2:T32	
+R29	USED_IN Arg1:T35 Arg2:T32	
+R30	USED_IN Arg1:T68 Arg2:T67	
+R31	SUBCLASS_OF Arg1:T65 Arg2:T66	
+R32	SUBCLASS_OF Arg1:T64 Arg2:T65	
+R33	USED_IN Arg1:T64 Arg2:T67	
+R34	APPLIED_TO Arg1:T67 Arg2:T36	
+R35	AFFECTS Arg1:T38 Arg2:T72	
+R37	FINDING_OF Arg1:T37 Arg2:T40	
+R38	MEDICAL_CONDITION Arg1:T40 Arg2:T38	
+R40	TREATED_USING Arg1:T40 Arg2:T39	
+R41	PART_OF Arg1:T72 Arg2:T40	
+R42	SUBCLASS_OF Arg1:T10 Arg2:T42	
+R43	MEDICAL_CONDITION Arg1:T43 Arg2:T10	
+R45	SUBCLASS_OF Arg1:T45 Arg2:T48	
+R46	USED_IN Arg1:T45 Arg2:T46	
+R47	TREATED_USING Arg1:T43 Arg2:T46	
+R49	USED_IN Arg1:T46 Arg2:T44	
+R50	MEDICAL_CONDITION Arg1:T43 Arg2:T50	
+R52	PART_OF Arg1:T55 Arg2:T54	
+R53	SUBCLASS_OF Arg1:T57 Arg2:T49	
+R54	SUBCLASS_OF Arg1:T47 Arg2:T57	
+R55	USED_IN Arg1:T47 Arg2:T52	
+R56	TREATED_USING Arg1:T54 Arg2:T52	
+R57	AGE_IS Arg1:T21 Arg2:T4	
+T56	MEDPROC 995 1026	рентгенохирургическими методами
+R58	SUBCLASS_OF Arg1:T39 Arg2:T56	
+R59	MEDICAL_CONDITION Arg1:T19 Arg2:T73	
+T74	DISO 152 163	стриктурами
+R60	SUBCLASS_OF Arg1:T73 Arg2:T74	
+T75	DISO 331 339	стриктур
+R61	HAS_CAUSE Arg1:T75 Arg2:T23	
+T76	DISO 912 921	стриктуры
+T77	DISO 968 977	стриктуры
+R62	SUBCLASS_OF Arg1:T38 Arg2:T77	
+R63	TREATED_USING Arg1:T10 Arg2:T88	
+T78	FINDING 1265 1333	'Больших' постманипуляционных осложнений и летальных исходов не было
+R51	FINDING_OF Arg1:T78 Arg2:T40	
+N1	Reference T42 UMLS:C2825055	рецидив
+N2	Reference T22 UMLS:C0020538	гипертензии
+N4	Reference T70 UMLS:C0005388	желчном
+N7	Reference T73 UMLS:NULL	
+N6	Reference T74 UMLS:C1261287	сужение патологическое
+N8	Reference T17 UMLS:NULL	
+N3	Reference T69 UMLS:C0332853	
+N9	Reference T24 UMLS:C0206187	желчные протоки внепеченочные
+N10	Reference T71 UMLS:C1517058	
+N11	Reference T58 UMLS:NULL	
+N5	Reference T38 UMLS:NULL	
+N12	Reference T10 UMLS:NULL	
+N13	Reference T50 UMLS:C1141930	послепроцедурное осложнение
+N14	Reference T55 UMLS:NULL	
+N15	Reference T76 UMLS:C1261287	сужение патологическое
+N16	Reference T77 UMLS:C1261287	сужение патологическое
+N17	Reference T75 UMLS:C1261287	сужение патологическое
+N18	Reference T72 UMLS:NULL	
+N19	Reference T1 UMLS:NULL	
+N20	Reference T36 UMLS:C0332853	
+T79	FINDING 26 74	эффективности методов интервенционной радиологии
+R64	FINDING_OF Arg1:T79 Arg2:T15	
+R65	ORIGINS_FROM Arg1:T79 Arg2:T12	
+R66	ASSOCIATED_WITH Arg1:T73 Arg2:T79	
+T80	FINDING 314 339	Срок образования стриктур
+R67	ASSOCIATED_WITH Arg1:T75 Arg2:T80	
+R68	HAS_CAUSE Arg1:T80 Arg2:T23	
+T18	ANATOMY 389 403	желчном дереве
+N21	Reference T18 UMLS:C0005423	желчные пути
+R69	SUBCLASS_OF Arg1:T24 Arg2:T18	
+R70	VALUE_IS Arg1:T80 Arg2:T20	
+T81	MEDPROC 493 504	купирования
+R71	SUBCLASS_OF Arg1:T26 Arg2:T81	
+T82	DISO 616 625	стриктуры
+R72	TREATED_USING Arg1:T82 Arg2:T30	
+N22	Reference T82 UMLS:C1261287	сужение патологическое
+T83	DISO 698 707	стриктуры
+N23	Reference T83 UMLS:C1261287	сужение патологическое
+R73	TREATED_USING Arg1:T83 Arg2:T32	
+R36	HAS_CAUSE Arg1:T37 Arg2:T39	
+R39	ASSOCIATED_WITH Arg1:T38 Arg2:T37	
+R74	AFFECTS Arg1:T37 Arg2:T72	
+T84	DISO 1110 1119	стриктуры
+T85	MEDPROC 1159 1172	реконструкции
+R75	SUBCLASS_OF Arg1:T44 Arg2:T85	
+T86	DISO 1295 1305	осложнений
+R76	FINDING_OF Arg1:T78 Arg2:T51	
+R77	SUBCLASS_OF Arg1:T50 Arg2:T86	
+R78	ASSOCIATED_WITH Arg1:T50 Arg2:T78	
+N24	Reference T86 UMLS:C0009566	
+T87	FINDING 1335 1387	Максимальный срок безрецидивного наблюдения пациента
+R79	FINDING_OF Arg1:T87 Arg2:T54	
+R80	HAS_CAUSE Arg1:T87 Arg2:T52	
+R81	AFFECTS Arg1:T87 Arg2:T55	
+R82	VALUE_IS Arg1:T87 Arg2:T53	
+T88	MEDPROC 1135 1172	повторной эндобилиарной реконструкции
+R83	SUBCLASS_OF Arg1:T88 Arg2:T44	
+R44	TREATED_USING Arg1:T43 Arg2:T88	
+N25	Reference T84 UMLS:C1261287	сужение патологическое

@@ -1,0 +1,174 @@
+T1	DISO 124 136	риносинусита
+T2	DISO 371 391	острым риносинуситом
+T3	DISO 1032 1044	риносинусита
+T4	ANATOMY 72 103	слизистой оболочки полости носа
+T5	ANATOMY 91 103	полости носа
+T7	DISO 116 136	острого риносинусита
+T8	PERSON 149 167	возрастных группах
+T10	PHYS 205 216	температуры
+T11	PHYS 225 256	порога болевой чувствительности
+T12	PHYS 232 256	болевой чувствительности
+T13	ANATOMY 257 275	слизистой оболочки
+T14	ANATOMY 276 288	полости носа
+T15	PHYS 298 323	мукоцилиарного транспорта
+T16	LABPROC 344 356	джоульметрии
+T17	PERSON 359 368	пациентов
+T18	DISO 378 391	риносинуситом
+T21	ANATOMY 483 506	слизистой оболочки носа
+T23	PERSON 540 549	пациентов
+T24	PHYS 550 558	пожилого
+T25	PHYS 561 581	старческого возраста
+T26	ANATOMY 623 632	слизистой
+T28	PHYS 679 710	порога болевой чувствительности
+T29	PHYS 686 710	болевой чувствительности
+T30	ANATOMY 756 778	мерцательного эпителия
+T31	PHYS 831 844	ареактивность
+T34	ANATOMY 900 922	слизистой полости носа
+T35	PHYS 928 950	возрастные особенности
+T36	LABPROC 965 984	прямой джоульметрии
+T38	PHYS 1062 1083	возрастные особенност
+T42	ANATOMY 1198 1216	слизистой оболочки
+T43	ANATOMY 1217 1229	полости носа
+T45	DISO 1291 1301	воспаления
+T48	ANATOMY 99 103	носа
+T6	ANATOMY 284 288	носа
+T9	ANATOMY 257 288	слизистой оболочки полости носа
+T19	ANATOMY 900 909	слизистой
+T27	ANATOMY 910 922	полости носа
+T50	ANATOMY 918 922	носа
+T51	LABPROC 972 984	джоульметрии
+T52	ANATOMY 1225 1229	носа
+T53	ANATOMY 1198 1229	слизистой оболочки полости носа
+T32	PERSON 813 830	возрастной группе
+T39	PHYS 201 203	рН
+T40	DISO 232 239	болевой
+T20	ANATOMY 502 506	носа
+T44	ANATOMY 483 501	слизистой оболочки
+T22	DISO 686 693	болевой
+T46	DISO 1024 1044	острого риносинусита
+T41	FINDING 1280 1301	активность воспаления
+T33	DISO 873 897	патологических изменений
+T37	ANATOMY 770 778	эпителия
+T47	PHYS 745 778	активности мерцательного эпителия
+T54	FINDING 719 778	длительное восстановление активности мерцательного эпителия
+T55	PHYS 325 328	МЦТ
+R3	ABBREVIATION Arg1:T15 Arg2:T55	
+T56	FINDING 657 710	более высокий уровень порога болевой чувствительности
+R4	MEDICAL_CONDITION Arg1:T17 Arg2:T2	
+R5	MEDICAL_CONDITION Arg1:T8 Arg2:T7	
+R7	PHYSIOLOGY_OF Arg1:T10 Arg2:T9	
+R8	PHYSIOLOGY_OF Arg1:T39 Arg2:T9	
+R9	PHYSIOLOGY_OF Arg1:T11 Arg2:T17	
+R10	PHYSIOLOGY_OF Arg1:T11 Arg2:T9	
+R11	PHYSIOLOGY_OF Arg1:T15 Arg2:T17	
+T57	PHYS 611 622	температура
+R12	PHYSIOLOGY_OF Arg1:T57 Arg2:T26	
+R14	PROCEDURE_PERFORMED Arg1:T17 Arg2:T16	
+R15	TO_DETECT_OR_STUDY Arg1:T36 Arg2:T33	
+R16	PHYSIOLOGY_OF Arg1:T35 Arg2:T34	
+R17	TO_DETECT_OR_STUDY Arg1:T36 Arg2:T35	
+R18	AFFECTS Arg1:T41 Arg2:T53	
+R6	PART_OF Arg1:T5 Arg2:T48	
+R19	SUBCLASS_OF Arg1:T7 Arg2:T1	
+R20	PART_OF Arg1:T21 Arg2:T20	
+R21	SUBCLASS_OF Arg1:T21 Arg2:T44	
+R22	PART_OF Arg1:T14 Arg2:T6	
+R23	PART_OF Arg1:T43 Arg2:T52	
+R24	PART_OF Arg1:T53 Arg2:T43	
+R25	SUBCLASS_OF Arg1:T46 Arg2:T3	
+T58	DISO 1001 1023	клинические проявления
+R26	HAS_CAUSE Arg1:T58 Arg2:T38	
+R27	PART_OF Arg1:T27 Arg2:T50	
+R30	AFFECTS Arg1:T7 Arg2:T4	
+R31	ASSOCIATED_WITH Arg1:T11 Arg2:T40	
+R32	SUBCLASS_OF Arg1:T9 Arg2:T13	
+R33	PART_OF Arg1:T9 Arg2:T14	
+R34	PART_OF Arg1:T14 Arg2:T17	
+R35	AFFECTS Arg1:T2 Arg2:T14	
+R1	PHYSIOLOGY_OF Arg1:T24 Arg2:T23	
+R2	PHYSIOLOGY_OF Arg1:T25 Arg2:T23	
+R36	PART_OF Arg1:T26 Arg2:T23	
+R37	ASSOCIATED_WITH Arg1:T28 Arg2:T22	
+R38	FINDING_OF Arg1:T56 Arg2:T23	
+T59	FINDING 598 632	более низкая температура слизистой
+R39	FINDING_OF Arg1:T59 Arg2:T57	
+R40	FINDING_OF Arg1:T59 Arg2:T23	
+R41	SUBCLASS_OF Arg1:T30 Arg2:T37	
+R42	PHYSIOLOGY_OF Arg1:T47 Arg2:T30	
+R43	FINDING_OF Arg1:T54 Arg2:T23	
+R44	FINDING_OF Arg1:T54 Arg2:T47	
+R45	HAS_CAUSE Arg1:T54 Arg2:T31	
+R46	HAS_CAUSE Arg1:T59 Arg2:T31	
+R47	HAS_CAUSE Arg1:T56 Arg2:T31	
+R48	PHYSIOLOGY_OF Arg1:T31 Arg2:T32	
+R49	SUBCLASS_OF Arg1:T34 Arg2:T19	
+R50	AFFECTS Arg1:T33 Arg2:T34	
+R51	HAS_CAUSE Arg1:T58 Arg2:T46	
+R52	SUBCLASS_OF Arg1:T53 Arg2:T42	
+R13	PART_OF Arg1:T4 Arg2:T5	
+R28	PART_OF Arg1:T5 Arg2:T8	
+T49	PHYS 149 159	возрастных
+R29	PHYSIOLOGY_OF Arg1:T49 Arg2:T8	
+N1	Reference T1 UMLS:C0948780	риносинусита
+N2	Reference T4 UMLS:C0026724	слизистой оболочки
+N3	Reference T5 UMLS:C0027423	полости носа
+N4	Reference T21 UMLS:C0027428	слизистой оболочки носа
+N8	Reference T45 UMLS:C0021368	воспаления
+N9	Reference T48 UMLS:C0028429	носа
+N11	Reference T40 UMLS:C0030193	болевой
+N12	Reference T37 UMLS:C0014609	эпителия
+N10	Reference T9 UMLS:C0027428	носа слизистая оболочка
+N7	Reference T34 UMLS:C0027428	носа слизистая оболочка
+N5	Reference T26 UMLS:C0026724	слизистая оболочка
+N13	Reference T7 UMLS:C2317131	
+N6	Reference T30 UMLS:C0682576	
+N14	Reference T33 UMLS:NULL	
+N15	Reference T18 UMLS:C0948780	риносинусита
+N16	Reference T3 UMLS:C0948780	риносинусита
+N17	Reference T44 UMLS:C0026724	слизистой оболочки
+N18	Reference T13 UMLS:C0026724	слизистой оболочки
+N19	Reference T42 UMLS:C0026724	слизистой оболочки
+N20	Reference T14 UMLS:C0027423	полости носа
+N21	Reference T27 UMLS:C0027423	полости носа
+N22	Reference T43 UMLS:C0027423	полости носа
+N23	Reference T50 UMLS:C0028429	носа
+N24	Reference T20 UMLS:C0028429	носа
+N25	Reference T52 UMLS:C0028429	носа
+N26	Reference T6 UMLS:C0028429	носа
+N27	Reference T22 UMLS:C0030193	болевой
+N28	Reference T53 UMLS:C0027428	носа слизистая оболочка
+N29	Reference T19 UMLS:C0026724	слизистая оболочка
+N30	Reference T46 UMLS:C2317131	
+N31	Reference T2 UMLS:C2317131	
+R53	ASSOCIATED_WITH Arg1:T11 Arg2:T12	
+T60	PERSON 160 167	группах
+R54	SUBCLASS_OF Arg1:T8 Arg2:T60	
+T61	ANATOMY 72 90	слизистой оболочки
+R55	SUBCLASS_OF Arg1:T4 Arg2:T61	
+T62	DATE 181 191	ежедневное
+R56	SUBCLASS_OF Arg1:T2 Arg2:T18	
+R57	MEDICAL_CONDITION Arg1:T17 Arg2:T40	
+R58	ALTERNATIVE_NAME Arg1:T9 Arg2:T21	
+R59	ASSOCIATED_WITH Arg1:T28 Arg2:T29	
+T63	PHYS 813 823	возрастной
+T64	PERSON 824 830	группе
+R60	SUBCLASS_OF Arg1:T32 Arg2:T64	
+R61	PHYSIOLOGY_OF Arg1:T63 Arg2:T32	
+R62	ALTERNATIVE_NAME Arg1:T44 Arg2:T26	
+T65	PHYS 928 938	возрастные
+R64	SUBCLASS_OF Arg1:T36 Arg2:T51	
+T66	PHYS 1062 1072	возрастные
+R63	ASSOCIATED_WITH Arg1:T35 Arg2:T65	
+R65	ASSOCIATED_WITH Arg1:T38 Arg2:T66	
+T67	PHYS 1172 1197	функционального состояния
+R66	PHYSIOLOGY_OF Arg1:T67 Arg2:T53	
+R67	ASSOCIATED_WITH Arg1:T45 Arg2:T41	
+R68	AFFECTS Arg1:T45 Arg2:T53	
+R69	ASSOCIATED_WITH Arg1:T11 Arg2:T40	
+R70	ASSOCIATED_WITH Arg1:T29 Arg2:T22	
+T68	FINDING 290 323	времени мукоцилиарного транспорта
+R71	FINDING_OF Arg1:T68 Arg2:T15	
+R72	PHYSIOLOGY_OF Arg1:T39 Arg2:T17	
+R73	PHYSIOLOGY_OF Arg1:T10 Arg2:T17	
+R74	PHYSIOLOGY_OF Arg1:T11 Arg2:T17	
+R75	AFFECTS Arg1:T54 Arg2:T30	

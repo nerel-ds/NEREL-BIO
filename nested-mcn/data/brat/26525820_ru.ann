@@ -1,0 +1,117 @@
+T1	CHEM 129 132	АДР
+T5	CHEM 1120 1123	АДР
+T6	CHEM 1262 1265	АДР
+T7	CHEM 44 78	противопаркинсонических препаратов
+T8	CHEM 95 127	агонистов дофаминовых рецепторов
+T10	PHYS 192 202	стимуляции
+T11	CHEM 216 238	дофаминовых рецепторов
+T14	CHEM 308 316	леводопы
+T16	PHYS 346 371	нейропротективных свойств
+T17	CHEM 372 375	АДР
+T20	DISO 464 482	болезни Паркинсона
+T21	PHYS 506 524	моторных симптомов
+T25	DISO 600 623	двигательных осложнений
+T28	CHEM 659 668	леводопой
+T29	PHYS 695 707	OFF-периодов
+T33	CHEM 770 778	леводопы
+T37	DISO 965 972	тремора
+T38	DISO 975 984	депрессии
+T39	PHYS 1034 1048	качества жизни
+T40	DISO 1053 1055	БП
+T42	CHEM 1068 1071	АДР
+T43	DISO 1073 1089	Побочные эффекты
+T46	CHEM 105 127	дофаминовых рецепторов
+T2	CHEM 450 453	АДР
+T9	DISO 484 486	БП
+T13	SCIPROC 730 741	шкале UPDRS
+T15	CHEM 814 845	леводопасодержащими препаратами
+T23	SCIPROC 850 901	двойных слепых плацебо-контролируемых исследованиях
+T24	CHEM 902 913	прамипексол
+T26	CHEM 1184 1187	АДР
+T30	CHEM 216 227	дофаминовых
+T19	PHYS 600 612	двигательных
+T3	PHYS 1043 1048	жизни
+R2	SUBCLASS_OF Arg1:T8 Arg2:T7	
+R3	USED_IN Arg1:T46 Arg2:T8	
+R4	ABBREVIATION Arg1:T8 Arg2:T1	
+R5	USED_IN Arg1:T30 Arg2:T11	
+R6	ASSOCIATED_WITH Arg1:T10 Arg2:T11	
+R7	ASSOCIATED_WITH Arg1:T16 Arg2:T17	
+R8	TREATED_USING Arg1:T20 Arg2:T2	
+R9	ABBREVIATION Arg1:T20 Arg2:T9	
+R10	HAS_CAUSE Arg1:T21 Arg2:T20	
+T4	FINDING 585 623	снижение риска двигательных осложнений
+R11	ASSOCIATED_WITH Arg1:T25 Arg2:T4	
+R12	ASSOCIATED_WITH Arg1:T19 Arg2:T25	
+R13	TREATED_USING Arg1:T20 Arg2:T28	
+T12	FINDING 670 708	уменьшение длительности 'OFF-периодов'
+R14	AFFECTS Arg1:T12 Arg2:T29	
+T18	FINDING 710 741	уменьшение балла по шкале UPDRS
+R15	ORIGINS_FROM Arg1:T18 Arg2:T13	
+R16	HAS_CAUSE Arg1:T4 Arg2:T2	
+R17	HAS_CAUSE Arg1:T12 Arg2:T2	
+R18	HAS_CAUSE Arg1:T18 Arg2:T2	
+R19	TREATED_USING Arg1:T20 Arg2:T33	
+T22	MEDPROC 788 811	комбинированной терапии
+R20	TREATED_USING Arg1:T20 Arg2:T22	
+R21	USED_IN Arg1:T15 Arg2:T22	
+T31	SCIPROC 858 901	слепых плацебо-контролируемых исследованиях
+T32	SCIPROC 865 901	плацебо-контролируемых исследованиях
+R22	SUBCLASS_OF Arg1:T23 Arg2:T31	
+R23	SUBCLASS_OF Arg1:T31 Arg2:T32	
+R24	TO_DETECT_OR_STUDY Arg1:T23 Arg2:T24	
+R25	TO_DETECT_OR_STUDY Arg1:T23 Arg2:T37	
+R26	TO_DETECT_OR_STUDY Arg1:T23 Arg2:T38	
+T34	FINDING 1000 1048	значительное улучшение показателя качества жизни
+R27	AFFECTS Arg1:T34 Arg2:T39	
+R28	AFFECTS Arg1:T39 Arg2:T3	
+R29	ASSOCIATED_WITH Arg1:T40 Arg2:T34	
+R30	TREATED_USING Arg1:T40 Arg2:T42	
+R31	HAS_CAUSE Arg1:T43 Arg2:T5	
+N1	Reference T7 UMLS:C0003405	противопаркинсонических препаратов
+N2	Reference T8 UMLS:C0178601	агонистов дофаминовых рецепторов
+N3	Reference T14 UMLS:C0023570	леводопы
+N4	Reference T20 UMLS:C0030567	болезни Паркинсона
+N5	Reference T25 UMLS:C0026650	двигательных осложнений
+N6	Reference T28 UMLS:C0023570	леводопой
+N7	Reference T37 UMLS:C0040822	тремора
+N8	Reference T38 UMLS:C0011570	депрессии
+N10	Reference T46 UMLS:C0034798	дофаминовых рецепторов
+N11	Reference T24 UMLS:C0074710	прамипексол
+N13	Reference T30 UMLS:C0013030	дофаминовых
+N14	Reference T15 UMLS:C0023570	леводопа
+N9	Reference T43 UMLS:C0879626	
+N15	Reference T2 UMLS:C0178601	агонистов дофаминовых рецепторов
+N16	Reference T17 UMLS:C0178601	агонистов дофаминовых рецепторов
+N17	Reference T26 UMLS:C0178601	агонистов дофаминовых рецепторов
+N18	Reference T5 UMLS:C0178601	агонистов дофаминовых рецепторов
+N19	Reference T6 UMLS:C0178601	агонистов дофаминовых рецепторов
+N20	Reference T42 UMLS:C0178601	агонистов дофаминовых рецепторов
+N21	Reference T1 UMLS:C0178601	агонистов дофаминовых рецепторов
+N22	Reference T33 UMLS:C0023570	леводопы
+N23	Reference T40 UMLS:C0030567	болезни Паркинсона
+N24	Reference T9 UMLS:C0030567	болезни Паркинсона
+N25	Reference T11 UMLS:C0034798	дофаминовых рецепторов
+T35	FINDING 927 984	эффективность в отношении устойчивого тремора и депрессии
+R32	ASSOCIATED_WITH Arg1:T37 Arg2:T35	
+R33	ASSOCIATED_WITH Arg1:T38 Arg2:T35	
+R34	TO_DETECT_OR_STUDY Arg1:T23 Arg2:T35	
+R35	HAS_CAUSE Arg1:T35 Arg2:T24	
+T36	CHEM 95 104	агонистов
+R36	SUBCLASS_OF Arg1:T8 Arg2:T36	
+N26	Reference T36 UMLS:C2987634	
+R37	USED_IN Arg1:T33 Arg2:T15	
+R38	HAS_CAUSE Arg1:T34 Arg2:T42	
+T41	MEDPROC 539 550	монотерапии
+T44	FINDING 489 524	хороший контроль моторных симптомов
+R39	HAS_CAUSE Arg1:T44 Arg2:T2	
+R40	ASSOCIATED_WITH Arg1:T20 Arg2:T44	
+R41	FINDING_OF Arg1:T44 Arg2:T21	
+R42	USED_IN Arg1:T2 Arg2:T41	
+R43	TREATED_USING Arg1:T20 Arg2:T41	
+T45	CHEM 105 116	дофаминовых
+N27	Reference T45 UMLS:C0013030	дофамин
+T47	CHEM 117 127	рецепторов
+R44	SUBCLASS_OF Arg1:T46 Arg2:T47	
+N28	Reference T47 UMLS:C0597357	
+R1	TREATED_USING Arg1:T20 Arg2:T7	

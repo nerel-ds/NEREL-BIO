@@ -1,0 +1,304 @@
+T1	AGE 38 44	30 лет
+T2	DISO 57 78	ишемическим инсультом
+T3	DISO 69 78	инсультом
+T4	DISO 101 143	диссекции правой внутренней сонной артерии
+T5	ANATOMY 145 148	ВСА
+T6	DISO 152 161	Диссекция
+T8	DISO 496 499	ИМГ
+T11	PERSON 29 37	пациента
+T16	LABPROC 227 230	МРТ
+T19	ANATOMY 286 291	крови
+T20	PERSON 292 300	пациента
+T21	CHEM 327 345	креатинфосфокиназы
+T25	PHYS 392 407	гиперкоагуляции
+T26	MEDPROC 427 461	патологоанатомическом исследовании
+T29	ANATOMY 510 513	ВСА
+T30	ANATOMY 562 580	оболочками артерии
+T31	ANATOMY 606 616	бифуркации
+T32	ANATOMY 623 637	сонной артерии
+T34	ANATOMY 686 696	правой ВСА
+T35	ANATOMY 729 751	интракраниальной части
+T36	ANATOMY 769 793	средней мозговой артерии
+T38	LABPROC 825 854	микроскопическом исследовании
+T40	ANATOMY 908 911	ВСА
+T41	FINDING 919 930	расщепления
+T42	FINDING 932 942	истончения
+T43	FINDING 944 956	фрагментации
+T45	ANATOMY 967 999	внутренней эластической мембраны
+T47	DISO 1018 1032	склероза медии
+T49	DISO 1042 1049	некроза
+T50	ANATOMY 1050 1058	миоцитов
+T51	DISO 1069 1078	диссекции
+T53	ANATOMY 1088 1094	сифона
+T54	DISO 1111 1138	лейкоцитарной инфильтрацией
+T58	ANATOMY 1316 1345	магистральных артериях головы
+T60	DISO 1411 1438	фиброзно-мышечной дисплазии
+T61	LABPROC 1464 1504	электронно-микроскопическое исследование
+T62	ANATOMY 1505 1519	скелетных мышц
+T63	PERSON 1520 1528	умершего
+T65	DISO 1610 1613	ФМД
+T10	PHYS 47 56	фатальным
+T67	ANATOMY 136 143	артерии
+T68	ANATOMY 129 143	сонной артерии
+T69	ANATOMY 118 143	внутренней сонной артерии
+T13	ANATOMY 111 143	правой внутренней сонной артерии
+T12	DISO 101 110	диссекции
+T14	ACTIVITY 182 202	повторными наклонами
+T15	LABPROC 233 266	патоморфологическим исследованием
+T7	NUMBER 347 357	5284 ЕД/мл
+T17	NUMBER 371 380	171 ЕД/мл
+T18	FINDING 311 345	высокий уровень креатинфосфокиназы
+T22	FINDING 383 421	признаки гиперкоагуляции отсутствовали
+T23	DISO 486 494	гематома
+T24	DISO 471 494	интрамуральная гематома
+T27	ANATOMY 503 513	правой ВСА
+T28	ANATOMY 573 580	артерии
+T70	ANATOMY 553 580	наружной оболочками артерии
+T71	ANATOMY 543 550	средней
+T9	NUMBER 596 600	3 см
+T72	ANATOMY 630 637	артерии
+T73	ANATOMY 617 637	общей сонной артерии
+T33	ANATOMY 670 676	черепа
+T74	ANATOMY 660 676	основания черепа
+T75	ANATOMY 606 637	бифуркации общей сонной артерии
+T76	ANATOMY 693 696	ВСА
+T77	ANATOMY 678 696	Просвет правой ВСА
+T78	DISO 719 722	ИМГ
+T79	ANATOMY 729 745	интракраниальной
+T80	ANATOMY 786 793	артерии
+T81	ANATOMY 777 793	мозговой артерии
+T82	ANATOMY 777 785	мозговой
+T83	ANATOMY 761 793	просвет средней мозговой артерии
+T37	DISO 812 819	тромбом
+T84	ANATOMY 901 911	стенки ВСА
+T39	FINDING 875 911	диспластические изменения стенки ВСА
+T85	ANATOMY 991 999	мембраны
+T86	ANATOMY 978 999	эластической мембраны
+T87	FINDING 958 999	разрывов внутренней эластической мембраны
+T46	DISO 1018 1026	склероза
+T88	ANATOMY 1027 1032	медии
+T48	DISO 1042 1058	некроза миоцитов
+T52	ANATOMY 1081 1094	стенке сифона
+T89	ANATOMY 1111 1124	лейкоцитарной
+T55	DISO 1148 1173	лимфоцитарные инфильтраты
+T90	ANATOMY 1148 1161	лимфоцитарные
+T91	ANATOMY 1186 1197	эозинофилов
+T92	ANATOMY 1200 1217	наружной оболочке
+T94	FINDING 1176 1217	скопления эозинофилов в наружной оболочке
+T95	DISO 1012 1032	очаги склероза медии
+T96	DISO 1034 1058	участки некроза миоцитов
+T56	DISO 1254 1268	очагов некроза
+T97	DISO 1261 1268	некроза
+T57	ANATOMY 1290 1345	интактных (нерасслоенных) магистральных артериях головы
+T98	ANATOMY 1339 1345	головы
+T99	ANATOMY 1330 1338	артериях
+T100	ANATOMY 1330 1345	артериях головы
+T59	ANATOMY 1364 1372	артериях
+T101	ANATOMY 1351 1363	церебральных
+T102	ANATOMY 1351 1372	церебральных артериях
+T103	DISO 1440 1443	ФМД
+T104	ANATOMY 1420 1428	мышечной
+T105	DISO 1429 1438	дисплазии
+T106	LABPROC 1446 1461	Гистохимическое
+T107	ANATOMY 1505 1514	скелетных
+T108	ANATOMY 1515 1519	мышц
+T64	ANATOMY 1546 1562	митохондриальной
+T109	DISO 1546 1572	митохондриальной цитопатии
+T110	DISO 1563 1572	цитопатии
+T111	LABPROC 1464 1491	электронно-микроскопическое
+T112	DISO 1598 1608	диссекцией
+T66	DISO 1616 1643	митохондриальной патологией
+T113	ANATOMY 1616 1632	митохондриальной
+R1	AGE_IS Arg1:T11 Arg2:T1	
+R2	MEDICAL_CONDITION Arg1:T11 Arg2:T2	
+R3	SUBCLASS_OF Arg1:T2 Arg2:T3	
+R4	HAS_CAUSE Arg1:T2 Arg2:T10	
+R5	HAS_CAUSE Arg1:T4 Arg2:T2	
+R6	SUBCLASS_OF Arg1:T4 Arg2:T12	
+R7	AFFECTS Arg1:T4 Arg2:T69	
+R8	SUBCLASS_OF Arg1:T69 Arg2:T68	
+R9	SUBCLASS_OF Arg1:T68 Arg2:T67	
+R10	ABBREVIATION Arg1:T69 Arg2:T5	
+R11	HAS_CAUSE Arg1:T6 Arg2:T14	
+R12	TO_DETECT_OR_STUDY Arg1:T16 Arg2:T6	
+R13	TO_DETECT_OR_STUDY Arg1:T15 Arg2:T6	
+T114	PHYS 319 345	уровень креатинфосфокиназы
+R14	ASSOCIATED_WITH Arg1:T114 Arg2:T21	
+R15	ORIGINS_FROM Arg1:T21 Arg2:T19	
+R16	PART_OF Arg1:T19 Arg2:T20	
+R17	FINDING_OF Arg1:T18 Arg2:T114	
+R18	VALUE_IS Arg1:T114 Arg2:T7	
+R19	VALUE_IS Arg1:T114 Arg2:T17	
+R20	FINDING_OF Arg1:T22 Arg2:T25	
+R21	TO_DETECT_OR_STUDY Arg1:T26 Arg2:T24	
+R22	SUBCLASS_OF Arg1:T24 Arg2:T23	
+R23	ABBREVIATION Arg1:T24 Arg2:T8	
+R24	LOCATED_IN Arg1:T24 Arg2:T27	
+R25	PART_OF Arg1:T27 Arg2:T29	
+R26	SUBCLASS_OF Arg1:T71 Arg2:T30	
+R27	SUBCLASS_OF Arg1:T70 Arg2:T30	
+R28	PART_OF Arg1:T30 Arg2:T28	
+R29	SUBCLASS_OF Arg1:T75 Arg2:T31	
+R30	PART_OF Arg1:T75 Arg2:T73	
+R31	SUBCLASS_OF Arg1:T73 Arg2:T32	
+R32	SUBCLASS_OF Arg1:T32 Arg2:T72	
+R33	PART_OF Arg1:T74 Arg2:T33	
+R34	PART_OF Arg1:T77 Arg2:T34	
+R35	PART_OF Arg1:T34 Arg2:T76	
+R36	LOCATED_IN Arg1:T78 Arg2:T77	
+R37	PART_OF Arg1:T35 Arg2:T34	
+R38	PART_OF Arg1:T83 Arg2:T36	
+R39	SUBCLASS_OF Arg1:T36 Arg2:T81	
+R40	PART_OF Arg1:T81 Arg2:T82	
+R41	SUBCLASS_OF Arg1:T81 Arg2:T80	
+R42	LOCATED_IN Arg1:T37 Arg2:T77	
+R43	LOCATED_IN Arg1:T37 Arg2:T83	
+R44	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T39	
+R45	AFFECTS Arg1:T39 Arg2:T84	
+R46	PART_OF Arg1:T84 Arg2:T40	
+R48	SUBCLASS_OF Arg1:T39 Arg2:T42	
+R49	SUBCLASS_OF Arg1:T43 Arg2:T39	
+R50	SUBCLASS_OF Arg1:T87 Arg2:T39	
+R52	AFFECTS Arg1:T87 Arg2:T45	
+R53	SUBCLASS_OF Arg1:T45 Arg2:T86	
+R54	SUBCLASS_OF Arg1:T86 Arg2:T85	
+R55	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T95	
+R56	SUBCLASS_OF Arg1:T47 Arg2:T46	
+R57	AFFECTS Arg1:T47 Arg2:T88	
+R58	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T96	
+R59	SUBCLASS_OF Arg1:T48 Arg2:T49	
+R60	AFFECTS Arg1:T48 Arg2:T50	
+R61	HAS_CAUSE Arg1:T96 Arg2:T51	
+R62	PART_OF Arg1:T52 Arg2:T53	
+T115	ANATOMY 1061 1078	области диссекции
+R63	LOCATED_IN Arg1:T96 Arg2:T115	
+R64	LOCATED_IN Arg1:T96 Arg2:T52	
+R65	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T55	
+R66	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T94	
+R69	SUBCLASS_OF Arg1:T57 Arg2:T58	
+R70	SUBCLASS_OF Arg1:T58 Arg2:T100	
+R71	SUBCLASS_OF Arg1:T100 Arg2:T99	
+R72	PART_OF Arg1:T100 Arg2:T98	
+R73	SUBCLASS_OF Arg1:T102 Arg2:T59	
+R74	PART_OF Arg1:T102 Arg2:T101	
+R75	SUBCLASS_OF Arg1:T60 Arg2:T105	
+R76	AFFECTS Arg1:T60 Arg2:T104	
+R77	ABBREVIATION Arg1:T60 Arg2:T103	
+R78	TO_DETECT_OR_STUDY Arg1:T106 Arg2:T62	
+R79	TO_DETECT_OR_STUDY Arg1:T61 Arg2:T62	
+R80	SUBCLASS_OF Arg1:T62 Arg2:T108	
+R81	PART_OF Arg1:T62 Arg2:T63	
+R82	SUBCLASS_OF Arg1:T109 Arg2:T110	
+R83	AFFECTS Arg1:T109 Arg2:T64	
+R84	AFFECTS Arg1:T66 Arg2:T113	
+R85	PART_OF Arg1:T13 Arg2:T11	
+R86	PART_OF Arg1:T62 Arg2:T63	
+R87	APPLIED_TO Arg1:T26 Arg2:T27	
+R88	PHYSIOLOGY_OF Arg1:T25 Arg2:T20	
+R89	FINDING_OF Arg1:T18 Arg2:T20	
+R90	FINDING_OF Arg1:T22 Arg2:T20	
+R91	TO_DETECT_OR_STUDY Arg1:T38 Arg2:T54	
+R92	TO_DETECT_OR_STUDY Arg1:T61 Arg2:T109	
+R93	TO_DETECT_OR_STUDY Arg1:T106 Arg2:T109	
+N2	Reference T3 UMLS:C1263853	инсультом
+N3	Reference T4 UMLS:C0751815	диссекции правой внутренней сонной артерии
+N5	Reference T21 UMLS:C0201973	креатинфосфокиназы
+N12	Reference T49 UMLS:C0027540	некроза
+N13	Reference T50 UMLS:C0596981	миоцитов
+N16	Reference T60 UMLS:C0016052	фиброзно-мышечной дисплазии
+N17	Reference T62 UMLS:C0242692	скелетных мышц
+N18	Reference T67 UMLS:C0003842	артерии
+N19	Reference T68 UMLS:C0007272	сонной артерии
+N23	Reference T23 UMLS:C0018944	гематома
+N24	Reference T24 UMLS:C3854565	интрамуральная гематома
+N27	Reference T33 UMLS:C0037303	черепа
+N28	Reference T74 UMLS:C0149543	основания черепа
+N35	Reference T85 UMLS:C0025255	мембраны
+N37	Reference T46 UMLS:C0036429	склероза
+N40	Reference T55 UMLS:C0333386	лимфоцитарные инфильтраты
+N41	Reference T90 UMLS:C0024264	лимфоцитарные
+N42	Reference T91 UMLS:C0014467	эозинофилов
+N44	Reference T56 UMLS:C1442837	очагов некроза
+N47	Reference T102 UMLS:C0007770	церебральных артериях
+N49	Reference T105 UMLS:C0334044	дисплазии
+N50	Reference T107 UMLS:C0816871	скелетных
+N51	Reference T108 UMLS:C0026845	мышц
+N52	Reference T64 UMLS:C0026237	митохондриальной
+N53	Reference T109 UMLS:C2931928	митохондриальной цитопатии
+N55	Reference T66 UMLS:C0751651	митохондриальной патологией
+N20	Reference T69 UMLS:C0007276	сонная артерия внутренняя
+N21	Reference T13 UMLS:C0226156	
+N4	Reference T19 UMLS:C0005767	кровь
+N57	Reference T27 UMLS:C0226156	
+N22	Reference T12 UMLS:C0002949	аневризма расслаивающая
+N26	Reference T73 UMLS: C0162859	
+N58	Reference T75 UMLS:C0149558	
+N59	Reference T31 UMLS:C3146289	
+N31	Reference T82 UMLS:C0006104	мозг головной
+N30	Reference T81 UMLS:C0007770	мозга головного артерии
+N7	Reference T36 UMLS:C0149566	церебральная артерия средняя
+N32	Reference T83 UMLS:C1180195	
+N60	Reference T77 UMLS:C2330206	
+N61	Reference T70 UMLS:C1532733	
+N25	Reference T71 UMLS:NULL	
+N33	Reference T37 UMLS:C0302148	тромб
+N29	Reference T79 UMLS:C0524466	
+N6	Reference T35 UMLS:NULL	
+N62	Reference T39 UMLS:C0334044	дисплазия
+N34	Reference T84 UMLS:C0933421	
+N63	Reference T45 UMLS:C1512870	
+N64	Reference T86 UMLS:C1512870	
+N36	Reference T87 UMLS:NULL	
+N38	Reference T88 UMLS:C0162867	кровеносных сосудов оболочка средняя
+N65	Reference T47 UMLS:C0856762	склероз (медиальный) менкеберга
+N66	Reference T95 UMLS:NULL	
+N67	Reference T96 UMLS:NULL	
+N8	Reference T41 UMLS:C0012737	рассечение
+N9	Reference T42 UMLS:C1710389	
+N10	Reference T43 UMLS:NULL	
+N68	Reference T48 UMLS:C0235957	некроз мышц
+N56	Reference T115 UMLS:NULL	
+N14	Reference T53 UMLS:C0226162	
+N39	Reference T89 UMLS:C0023516	лейкоциты
+N15	Reference T54 UMLS:C0302158	
+N69	Reference T92 UMLS:C0225342	адвентиция
+N70	Reference T94 UMLS:NULL	
+N46	Reference T101 UMLS:C0006104	мозг головной
+N45	Reference T98 UMLS:C0018670	голова
+N71	Reference T100 UMLS:C1267282	
+N72	Reference T57 UMLS:NULL	
+N73	Reference T58 UMLS:NULL	
+N48	Reference T104 UMLS:C0026845	мышцы
+N54	Reference T110 UMLS:C2931928	митохондриальная цитопатия
+N1	Reference T2 UMLS:C0948008	ишемический инсульт
+N74	Reference T97 UMLS:C0027540	некроза
+N75	Reference T65 UMLS:C0016052	фиброзно-мышечной дисплазии
+N76	Reference T103 UMLS:C0016052	фиброзно-мышечной дисплазии
+N77	Reference T80 UMLS:C0003842	артерии
+N78	Reference T59 UMLS:C0003842	артерии
+N79	Reference T99 UMLS:C0003842	артерии
+N80	Reference T28 UMLS:C0003842	артерии
+N81	Reference T72 UMLS:C0003842	артерии
+N82	Reference T32 UMLS:C0007272	сонной артерии
+N83	Reference T8 UMLS:C3854565	интрамуральная гематома
+N84	Reference T78 UMLS:C3854565	интрамуральная гематома
+N85	Reference T113 UMLS:C0026237	митохондриальной
+N86	Reference T40 UMLS:C0007276	сонная артерия внутренняя
+N87	Reference T29 UMLS:C0007276	сонная артерия внутренняя
+N88	Reference T76 UMLS:C0007276	сонная артерия внутренняя
+N89	Reference T5 UMLS:C0007276	сонная артерия внутренняя
+N90	Reference T34 UMLS:C0226156	
+N91	Reference T112 UMLS:C0002949	аневризма расслаивающая
+N92	Reference T6 UMLS:C0002949	аневризма расслаивающая
+N93	Reference T51 UMLS:C0002949	аневризма расслаивающая
+R94	AFFECTS Arg1:T55 Arg2:T90	
+R95	AFFECTS Arg1:T54 Arg2:T89	
+R96	AFFECTS Arg1:T51 Arg2:T115	
+R67	AFFECTS Arg1:T94 Arg2:T92	
+R47	SUBCLASS_OF Arg1:T39 Arg2:T41	
+T93	FINDING 875 900	диспластические изменения
+R68	SUBCLASS_OF Arg1:T39 Arg2:T93	
+T44	ACTIVITY 193 202	наклонами
+R51	SUBCLASS_OF Arg1:T14 Arg2:T44	
+T116	HEALTH_CARE_ACTIVITY 272 283	поступлении
+R97	PARTICIPANT_IN Arg1:T20 Arg2:T116	

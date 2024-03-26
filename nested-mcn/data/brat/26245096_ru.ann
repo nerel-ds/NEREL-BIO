@@ -1,0 +1,142 @@
+T1	NUMBER 102 104	45
+T2	NUMBER 121 123	20
+T3	NUMBER 168 170	25
+T4	DISO 175 209	острой коронарной недостаточностью
+T7	DISO 549 575	коронарной недостаточности
+T8	ANATOMY 20 37	блуждающего нерва
+T10	ANATOMY 85 99	кардиомиоцитах
+T11	PHYS 113 119	смерти
+T12	PERSON 124 136	пострадавших
+T13	ANATOMY 255 280	системы блуждающего нерва
+T14	ANATOMY 263 280	блуждающего нерва
+T15	DISO 290 320	повреждения в яремных ганглиях
+T16	ANATOMY 304 320	яремных ганглиях
+T17	DISO 336 356	повреждений ганглиев
+T18	ANATOMY 348 356	ганглиев
+T19	INJURY_POISONING 372 399	краниовертебральной травмой
+T20	INJURY_POISONING 405 431	краниовертебральной травме
+T22	ANATOMY 459 475	яремных ганглиях
+T23	ANATOMY 477 492	нервных стволах
+T24	ANATOMY 502 508	тканях
+T25	ANATOMY 509 526	яремных отверстий
+T26	PHYS 532 538	смерти
+T27	ANATOMY 578 586	ганглиях
+T28	ANATOMY 587 612	системы блуждающего нерва
+T29	DISO 632 654	атрофические изменения
+T30	DISO 697 708	гемосидероз
+T5	ANATOMY 32 37	нерва
+T32	ANATOMY 64 70	сердца
+T33	ANATOMY 39 63	атриовентрикулярный узел
+T34	ANATOMY 182 192	коронарной
+T35	ANATOMY 549 559	коронарной
+T36	ANATOMY 734 754	продолговатого мозга
+T37	ANATOMY 749 754	мозга
+T38	ANATOMY 495 508	мягких тканях
+T39	ANATOMY 12 37	систему блуждающего нерва
+T40	INJURY_POISONING 139 166	краниовертебральной травмой
+T41	ANATOMY 139 158	краниовертебральной
+T6	INJURY_POISONING 443 456	кровоизлияния
+T21	ANATOMY 467 475	ганглиях
+T42	ANATOMY 477 484	нервных
+T43	ANATOMY 709 733	мягких мозговых оболочек
+T44	ANATOMY 716 733	мозговых оболочек
+T45	ANATOMY 595 612	блуждающего нерва
+T46	ANATOMY 372 391	краниовертебральной
+T47	ANATOMY 405 424	краниовертебральной
+T48	DISO 182 209	коронарной недостаточностью
+T49	ANATOMY 234 280	периферическую части системы блуждающего нерва
+T50	ANATOMY 312 320	ганглиях
+T54	DISO 542 575	острой коронарной недостаточности
+T57	ANATOMY 275 280	нерва
+T58	ANATOMY 716 724	мозговых
+R1	SUBCLASS_OF Arg1:T38 Arg2:T24	
+R2	PART_OF Arg1:T43 Arg2:T36	
+R3	SUBCLASS_OF Arg1:T54 Arg2:T7	
+R4	AFFECTS Arg1:T54 Arg2:T35	
+R5	PART_OF Arg1:T23 Arg2:T42	
+R6	SUBCLASS_OF Arg1:T43 Arg2:T44	
+R7	PART_OF Arg1:T44 Arg2:T58	
+R8	AFFECTS Arg1:T30 Arg2:T43	
+R9	AFFECTS Arg1:T17 Arg2:T18	
+T31	ANATOMY 607 612	нерва
+R10	SUBCLASS_OF Arg1:T45 Arg2:T31	
+R11	SUBCLASS_OF Arg1:T8 Arg2:T5	
+R12	AFFECTS Arg1:T40 Arg2:T41	
+R13	AFFECTS Arg1:T19 Arg2:T46	
+R14	SUBCLASS_OF Arg1:T14 Arg2:T57	
+R15	SUBCLASS_OF Arg1:T16 Arg2:T50	
+R16	CAUSE_OF_DEATH Arg1:T12 Arg2:T40	
+R17	PHYSIOLOGY_OF Arg1:T11 Arg2:T12	
+R18	ABBREVIATION Arg1:T4 Arg2:T48	
+R19	AFFECTS Arg1:T4 Arg2:T34	
+R20	HAS_CAUSE Arg1:T17 Arg2:T19	
+T56	PHYS 73 99	изменения в кардиомиоцитах
+R21	HAS_CAUSE Arg1:T56 Arg2:T11	
+R22	PART_OF Arg1:T33 Arg2:T32	
+R23	PART_OF Arg1:T24 Arg2:T25	
+T9	INJURY_POISONING 159 166	травмой
+R24	SUBCLASS_OF Arg1:T40 Arg2:T9	
+T59	INJURY_POISONING 425 431	травме
+R25	SUBCLASS_OF Arg1:T20 Arg2:T59	
+R26	AFFECTS Arg1:T20 Arg2:T47	
+R27	AFFECTS Arg1:T6 Arg2:T22	
+R28	HAS_CAUSE Arg1:T6 Arg2:T20	
+R29	AFFECTS Arg1:T6 Arg2:T23	
+R30	AFFECTS Arg1:T6 Arg2:T38	
+R31	PHYSIOLOGY_OF Arg1:T56 Arg2:T10	
+R32	PART_OF Arg1:T39 Arg2:T8	
+R33	PART_OF Arg1:T49 Arg2:T13	
+R34	PART_OF Arg1:T13 Arg2:T14	
+R35	AFFECTS Arg1:T15 Arg2:T16	
+T51	INJURY_POISONING 392 399	травмой
+R36	SUBCLASS_OF Arg1:T19 Arg2:T51	
+R37	HAS_CAUSE Arg1:T15 Arg2:T19	
+R38	SUBCLASS_OF Arg1:T22 Arg2:T21	
+R39	HAS_CAUSE Arg1:T26 Arg2:T54	
+R40	PART_OF Arg1:T27 Arg2:T28	
+R41	PART_OF Arg1:T28 Arg2:T45	
+R42	AFFECTS Arg1:T29 Arg2:T27	
+R43	PART_OF Arg1:T36 Arg2:T37	
+R44	ALTERNATIVE_NAME Arg1:T37 Arg2:T58	
+N3	Reference T10 UMLS:C0225828	кардиомиоцитах
+N4	Reference T18 UMLS:C0017067	ганглиев
+N6	Reference T24 UMLS:C0040300	тканях
+N7	Reference T25 UMLS:C0222712	яремных отверстий
+N8	Reference T29 UMLS:C0333641	атрофические изменения
+N9	Reference T30 UMLS:C0019114	гемосидероз
+N12	Reference T33 UMLS:C0004247	атриовентрикулярный узел
+N17	Reference T41 UMLS:C0004168	краниовертебральной
+N19	Reference T43 UMLS:C0031869	мягких мозговых оболочек
+N20	Reference T44 UMLS:C0025285	мозговых оболочек
+N22	Reference T50 UMLS:C0017067	ганглиях
+N14	Reference T37 UMLS:C0006104	мозг головной
+N23	Reference T36 UMLS:C0025148	мозг продолговатый
+N10	Reference T5 UMLS:C0027740	
+N18	Reference T42 UMLS:C0027740	
+N11	Reference T32 UMLS:C0018787	сердце
+N13	Reference T34 UMLS:C0018787	сердце
+N24	Reference T17 UMLS:NULL	
+N25	Reference T15 UMLS:NULL	
+N1	Reference T4 UMLS:C0264693	
+N15	Reference T38 UMLS:C0225317	
+N5	Reference T23 UMLS:C0501408	
+N2	Reference T8 UMLS:C0042276	блуждающий нерв
+N16	Reference T39 UMLS:NULL	
+N21	Reference T49 UMLS:NULL	
+N26	Reference T16 UMLS:C0228768	
+N27	Reference T46 UMLS:C0004168	краниовертебральной
+N28	Reference T47 UMLS:C0004168	краниовертебральной
+N29	Reference T21 UMLS:C0017067	ганглиях
+N30	Reference T27 UMLS:C0017067	ганглиях
+N31	Reference T58 UMLS:C0006104	мозг головной
+N32	Reference T31 UMLS:C0027740	
+N33	Reference T57 UMLS:C0027740	
+N34	Reference T35 UMLS:C0018787	сердце
+N35	Reference T48 UMLS:C0264693	
+N36	Reference T54 UMLS:C0264693	
+N37	Reference T7 UMLS:C0264693	
+N38	Reference T14 UMLS:C0042276	блуждающий нерв
+N39	Reference T45 UMLS:C0042276	блуждающий нерв
+N40	Reference T13 UMLS:NULL	
+N41	Reference T28 UMLS:NULL	
+N42	Reference T22 UMLS:C0228768	

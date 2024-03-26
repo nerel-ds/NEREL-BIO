@@ -1,0 +1,260 @@
+T1	DATE 10 26	с 2007 по 2012 г
+T2	NUMBER 74 77	150
+T3	DISO 141 171	атеросклеротическим поражением
+T4	PERCENT 463 468	12,6%
+T5	DISO 805 822	ишемические атаки
+T7	DISO 827 868	острое нарушение мозгового кровообращения
+T8	DISO 870 874	ОНМК
+T9	ORDINAL 1024 1028	2-го
+T10	MEDPROC 28 54	каротидная эндартерэктомия
+T11	PERSON 78 85	больным
+T12	DISO 103 138	сосудистой мозговой недостаточности
+T14	ANATOMY 172 186	сонных артерий
+T15	SCIPROC 188 211	Динамическое наблюдение
+T16	LABPROC 247 281	цветового дуплексного сканирования
+T17	ANATOMY 282 304	брахицефальных артерий
+T18	LABPROC 306 358	транскраниального цветового дуплексного сканирования
+T19	LABPROC 360 400	мультиспиральной компьютерной томографии
+T20	LABPROC 403 420	контрастированием
+T21	ANATOMY 421 455	экстра- и интракраниальных артерий
+T23	PERSON 470 477	больных
+T24	DISO 497 549	прогрессирования сосудистой мозговой недостаточности
+T26	ANATOMY 588 605	сосудистой стенки
+T27	ANATOMY 620 645	внутренней сонной артерии
+T28	DISO 656 682	миоинтимальная гиперплазия
+T29	DISO 671 682	гиперплазия
+T30	DISO 684 692	рестеноз
+T31	DISO 703 712	осложнени
+T32	DISO 754 769	осложнений КЭАЭ
+T33	DISO 765 769	КЭАЭ
+T34	DISO 792 822	транзиторные ишемические атаки
+T36	DISO 834 868	нарушение мозгового кровообращения
+T38	DISO 877 909	острая сердечная недостаточность
+T39	DISO 989 1006	кризовым течением
+T40	DISO 1008 1033	сахарный диабет 2-го типа
+T41	PHYS 1045 1056	мужской пол
+T43	ACTIVITY 1088 1095	курение
+T44	DISO 1124 1139	осложнений КЭАЭ
+T45	DISO 1135 1139	КЭАЭ
+T47	DISO 1180 1207	утолщения сосудистой стенки
+T48	DISO 1212 1238	неоинтимальной гиперплазии
+T49	DISO 1252 1277	гиперперфузионный синдром
+T50	PHYS 1286 1301	гемодинамически
+T53	MEDPROC 56 60	КЭАЭ
+T54	ORDINAL 88 92	I-IV
+T55	NUMBER 459 461	19
+T56	MEDPROC 484 488	КЭАЭ
+T57	DISO 514 549	сосудистой мозговой недостаточности
+T25	PHYS 731 753	клиническими маркерами
+T6	DISO 946 970	артериальная гипертензия
+T35	DISO 1035 1043	ожирение
+T60	DISO 578 605	утолщение сосудистой стенки
+T61	ANATOMY 1190 1207	сосудистой стенки
+T62	DISO 1241 1250	рестенозе
+T63	DISO 1280 1284	ОНМК
+T64	PHYS 1344 1353	кровотока
+T51	FINDING 1321 1353	скоростных показателей кровотока
+T65	FINDING 1356 1406	индексов периферического сосудистого сопротивления
+T52	ANATOMY 114 122	мозговой
+T66	ANATOMY 297 304	артерий
+T22	DISO 1008 1023	сахарный диабет
+T37	DISO 1017 1023	диабет
+T46	ANATOMY 448 455	артерий
+T67	ANATOMY 844 853	мозгового
+T68	ANATOMY 946 958	артериальная
+T69	LABPROC 390 400	томографии
+T70	LABPROC 377 400	компьютерной томографии
+R1	ABBREVIATION Arg1:T10 Arg2:T53	
+T71	ANATOMY 103 113	сосудистой
+T72	ANATOMY 179 186	артерий
+T73	ANATOMY 525 533	мозговой
+T74	ANATOMY 588 598	сосудистой
+T75	ANATOMY 638 645	артерии
+T76	ANATOMY 884 893	сердечная
+T77	ANATOMY 1381 1392	сосудистого
+T78	MEDPROC 39 54	эндартерэктомия
+R2	ABBREVIATION Arg1:T7 Arg2:T8	
+T79	DISO 884 909	сердечная недостаточность
+T80	LABPROC 257 281	дуплексного сканирования
+T81	LABPROC 324 358	цветового дуплексного сканирования
+T82	ANATOMY 631 645	сонной артерии
+T83	DISO 959 970	гипертензия
+T84	LABPROC 1098 1123	Ультразвуковыми маркерами
+T59	DISO 1227 1238	гиперплазии
+R3	MEDICAL_CONDITION Arg1:T11 Arg2:T12	
+R4	SUBCLASS_OF Arg1:T16 Arg2:T80	
+R5	SUBCLASS_OF Arg1:T14 Arg2:T72	
+R6	SUBCLASS_OF Arg1:T34 Arg2:T5	
+R7	HAS_CAUSE Arg1:T32 Arg2:T33	
+R8	SUBCLASS_OF Arg1:T21 Arg2:T46	
+T85	LABPROC 334 358	дуплексного сканирования
+R9	SUBCLASS_OF Arg1:T81 Arg2:T85	
+R10	SUBCLASS_OF Arg1:T18 Arg2:T81	
+R11	SUBCLASS_OF Arg1:T17 Arg2:T66	
+R12	SUBCLASS_OF Arg1:T27 Arg2:T82	
+R13	SUBCLASS_OF Arg1:T82 Arg2:T75	
+R14	ALTERNATIVE_NAME Arg1:T6 Arg2:T83	
+R15	SUBCLASS_OF Arg1:T48 Arg2:T59	
+R16	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T44	
+R17	HAS_CAUSE Arg1:T44 Arg2:T45	
+R20	PART_OF Arg1:T26 Arg2:T74	
+R21	SUBCLASS_OF Arg1:T10 Arg2:T78	
+R22	TREATED_USING Arg1:T11 Arg2:T10	
+R23	TREATED_USING Arg1:T12 Arg2:T10	
+R25	PART_OF Arg1:T52 Arg2:T11	
+R26	PART_OF Arg1:T14 Arg2:T11	
+R27	AFFECTS Arg1:T3 Arg2:T14	
+R28	MEDICAL_CONDITION Arg1:T11 Arg2:T3	
+R29	TO_DETECT_OR_STUDY Arg1:T16 Arg2:T17	
+R30	SUBCLASS_OF Arg1:T70 Arg2:T69	
+R31	SUBCLASS_OF Arg1:T19 Arg2:T70	
+R32	TO_DETECT_OR_STUDY Arg1:T19 Arg2:T21	
+R33	USED_IN Arg1:T20 Arg2:T19	
+R34	TO_DETECT_OR_STUDY Arg1:T18 Arg2:T21	
+R35	TREATED_USING Arg1:T23 Arg2:T56	
+R36	SUBCLASS_OF Arg1:T28 Arg2:T29	
+R39	HAS_CAUSE Arg1:T39 Arg2:T6	
+R40	SUBCLASS_OF Arg1:T7 Arg2:T36	
+R41	AFFECTS Arg1:T7 Arg2:T67	
+R44	SUBCLASS_OF Arg1:T38 Arg2:T79	
+R45	AFFECTS Arg1:T38 Arg2:T76	
+R46	AFFECTS Arg1:T6 Arg2:T68	
+N3	Reference T7 UMLS:C0038454	острое нарушение мозгового кровообращения
+N5	Reference T14 UMLS:C0007272	сонных артерий
+N10	Reference T29 UMLS:C0020507	гиперплазия
+N11	Reference T30 UMLS:C0333186	рестеноз
+N13	Reference T34 UMLS:C0007787	транзиторные ишемические атаки
+N14	Reference T36 UMLS:C0007820	нарушение мозгового кровообращения
+N15	Reference T38 UMLS:C0264714	острая сердечная недостаточность
+N16	Reference T40 UMLS:C0011860	сахарный диабет 2-го типа
+N17	Reference T48 UMLS:C4049446	неоинтимальной гиперплазии
+N18	Reference T49 UMLS:C1611713	гиперперфузионный синдром
+N19	Reference T6 UMLS:C0020538	артериальная гипертензия
+N22	Reference T22 UMLS:C0011849	сахарный диабет
+N24	Reference T68 UMLS:C0003842	артериальная
+N26	Reference T72 UMLS:C0003842	артерий
+N28	Reference T79 UMLS:C0018801	сердечная недостаточность
+N29	Reference T83 UMLS:C0020538	гипертензия
+N4	Reference T12 UMLS:C0241832	недостаточность мозгового кровообращения
+N21	Reference T52 UMLS:C0006104	мозг головной
+N25	Reference T71 UMLS:C0005847	кровеносные сосуды
+N30	Reference T17 UMLS:C0006094	плечеголовной ствол
+N1	Reference T3 UMLS:C0004153	атеросклероз
+N31	Reference T21 UMLS:C0007770	мозга головного артерии
+N6	Reference T24 UMLS:NULL	
+N7	Reference T26 UMLS:C1180033	
+N20	Reference T60 UMLS:NULL	
+N8	Reference T27 UMLS:C0007276	сонная артерия внутренняя
+N12	Reference T31 UMLS:C0009566	
+N9	Reference T28 UMLS:NULL	
+N27	Reference T76 UMLS:C0018787	сердце
+N32	Reference T32 UMLS:NULL	
+N23	Reference T37 UMLS:C0011847	
+N33	Reference T33 UMLS:NULL	
+N2	Reference T5 UMLS:C0745413	
+N34	Reference T63 UMLS:C0038454	острое нарушение мозгового кровообращения
+N35	Reference T8 UMLS:C0038454	острое нарушение мозгового кровообращения
+N36	Reference T82 UMLS:C0007272	сонных артерий
+N37	Reference T59 UMLS:C0020507	гиперплазия
+N38	Reference T62 UMLS:C0333186	рестеноз
+N39	Reference T66 UMLS:C0003842	артерий
+N40	Reference T46 UMLS:C0003842	артерий
+N41	Reference T75 UMLS:C0003842	артерий
+N42	Reference T57 UMLS:C0241832	недостаточность мозгового кровообращения
+N43	Reference T67 UMLS:C0006104	мозг головной
+N44	Reference T73 UMLS:C0006104	мозг головной
+N45	Reference T74 UMLS:C0005847	кровеносные сосуды
+N46	Reference T77 UMLS:C0005847	кровеносные сосуды
+N47	Reference T61 UMLS:C1180033	
+N48	Reference T47 UMLS:NULL	
+N49	Reference T44 UMLS:NULL	
+N50	Reference T45 UMLS:NULL	
+R24	PART_OF Arg1:T71 Arg2:T11	
+T13	DISO 123 138	недостаточности
+R47	SUBCLASS_OF Arg1:T12 Arg2:T13	
+R48	AFFECTS Arg1:T12 Arg2:T71	
+R49	AFFECTS Arg1:T12 Arg2:T52	
+T86	ANATOMY 28 38	каротидная
+R50	PART_OF Arg1:T86 Arg2:T11	
+R51	APPLIED_TO Arg1:T10 Arg2:T86	
+R52	ALTERNATIVE_NAME Arg1:T86 Arg2:T14	
+R53	PART_OF Arg1:T14 Arg2:T11	
+R54	USED_IN Arg1:T16 Arg2:T15	
+R55	USED_IN Arg1:T19 Arg2:T15	
+T87	ANATOMY 431 455	интракраниальных артерий
+R56	SUBCLASS_OF Arg1:T87 Arg2:T46	
+R57	USED_IN Arg1:T18 Arg2:T15	
+T88	ANATOMY 514 524	сосудистой
+T89	DISO 534 549	недостаточности
+R58	SUBCLASS_OF Arg1:T57 Arg2:T89	
+R59	HAS_CAUSE Arg1:T24 Arg2:T57	
+R60	AFFECTS Arg1:T57 Arg2:T88	
+R61	AFFECTS Arg1:T57 Arg2:T73	
+R62	SUBCLASS_OF Arg1:T46 Arg2:T88	
+R63	MEDICAL_CONDITION Arg1:T23 Arg2:T24	
+R64	TREATED_USING Arg1:T24 Arg2:T56	
+R65	MEDICAL_CONDITION Arg1:T23 Arg2:T60	
+R66	AFFECTS Arg1:T60 Arg2:T26	
+T90	MEDPROC 606 619	оперированной
+R67	PART_OF Arg1:T26 Arg2:T27	
+R68	MEDICAL_CONDITION Arg1:T23 Arg2:T28	
+R69	PART_OF Arg1:T27 Arg2:T23	
+R70	APPLIED_TO Arg1:T90 Arg2:T27	
+R71	TREATED_USING Arg1:T23 Arg2:T90	
+R72	MEDICAL_CONDITION Arg1:T23 Arg2:T28	
+R73	MEDICAL_CONDITION Arg1:T23 Arg2:T30	
+R74	MEDICAL_CONDITION Arg1:T23 Arg2:T31	
+T91	DISO 754 764	осложнений
+R75	SUBCLASS_OF Arg1:T32 Arg2:T91	
+T58	PHYS 854 868	кровообращения
+T92	PHYS 844 868	мозгового кровообращения
+R42	SUBCLASS_OF Arg1:T92 Arg2:T58	
+R76	HAS_CAUSE Arg1:T36 Arg2:T92	
+R77	HAS_CAUSE Arg1:T32 Arg2:T34	
+R43	HAS_CAUSE Arg1:T32 Arg2:T7	
+R78	ASSOCIATED_WITH Arg1:T25 Arg2:T32	
+R79	ASSOCIATED_WITH Arg1:T25 Arg2:T34	
+R80	ASSOCIATED_WITH Arg1:T25 Arg2:T7	
+T93	DISO 894 909	недостаточность
+R81	SUBCLASS_OF Arg1:T79 Arg2:T93	
+R82	ASSOCIATED_WITH Arg1:T25 Arg2:T38	
+R83	HAS_CAUSE Arg1:T32 Arg2:T38	
+R84	HAS_CAUSE Arg1:T32 Arg2:T6	
+R85	HAS_CAUSE Arg1:T32 Arg2:T40	
+R86	HAS_CAUSE Arg1:T32 Arg2:T35	
+R87	ASSOCIATED_WITH Arg1:T25 Arg2:T6	
+R88	ASSOCIATED_WITH Arg1:T25 Arg2:T35	
+R37	ASSOCIATED_WITH Arg1:T25 Arg2:T40	
+R38	SUBCLASS_OF Arg1:T40 Arg2:T22	
+R89	SUBCLASS_OF Arg1:T22 Arg2:T37	
+T42	PHYS 1058 1065	пожилой
+T94	PHYS 1068 1086	старческий возраст
+R90	HAS_CAUSE Arg1:T32 Arg2:T41	
+R91	ASSOCIATED_WITH Arg1:T25 Arg2:T41	
+R92	ASSOCIATED_WITH Arg1:T25 Arg2:T42	
+R93	ASSOCIATED_WITH Arg1:T25 Arg2:T94	
+R94	HAS_CAUSE Arg1:T32 Arg2:T43	
+R95	HAS_CAUSE Arg1:T32 Arg2:T94	
+R96	HAS_CAUSE Arg1:T32 Arg2:T42	
+R97	HAS_CAUSE Arg1:T32 Arg2:T41	
+R98	AFFECTS Arg1:T47 Arg2:T61	
+T95	ANATOMY 1190 1200	сосудистой
+R99	PART_OF Arg1:T61 Arg2:T95	
+R100	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T61	
+R101	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T47	
+R102	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T48	
+R103	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T62	
+R104	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T49	
+R105	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T63	
+T96	FINDING 1286 1320	гемодинамически значимые изменения
+R106	FINDING_OF Arg1:T96 Arg2:T50	
+R107	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T96	
+R18	FINDING_OF Arg1:T51 Arg2:T64	
+R108	HAS_CAUSE Arg1:T96 Arg2:T51	
+R109	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T51	
+R110	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T64	
+T97	PHYS 1365 1406	периферического сосудистого сопротивления
+R19	PHYSIOLOGY_OF Arg1:T97 Arg2:T77	
+R111	FINDING_OF Arg1:T65 Arg2:T97	
+R112	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T97	
+R113	TO_DETECT_OR_STUDY Arg1:T84 Arg2:T65	

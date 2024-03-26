@@ -1,0 +1,203 @@
+T1	DISO 316 319	СГБ
+T2	NUMBER 476 478	65
+T4	PERCENT 914 917	52%
+T5	DISO 927 944	венозные тромбозы
+T6	PERCENT 948 951	15%
+T7	DISO 954 984	тромбоэмболия легочной артерии
+T8	ORDINAL 1077 1078	V
+T9	LOCATION 1089 1107	Североамериканской
+T11	AGE 1247 1260	старше 40 лет
+T14	DISO 112 150	венозных тромбоэмболических осложнений
+T16	DISO 169 196	венозного тромбообразования
+T18	CHEM 232 242	гепаринами
+T19	PERSON 245 252	больных
+T27	DISO 469 473	ВТЭО
+T28	PERSON 479 486	больных
+T30	DISO 527 530	СГБ
+T31	PERSON 537 544	больным
+T33	LABPROC 628 640	сканирование
+T34	ANATOMY 641 674	сосудов системы нижней полой вены
+T35	MEDPROC 724 752	профилактических мероприятий
+T36	CHEM 788 797	гепаринов
+T37	PERSON 805 812	больных
+T38	DISO 865 893	неврологической симптоматики
+T39	DISO 906 910	ВТЭО
+T43	MEDPROC 1072 1075	ИВЛ
+T44	SCIPROC 1089 1144	Североамериканской шкале нарушений двигательных функций
+T45	DISO 1114 1144	нарушений двигательных функций
+T46	PHYS 1124 1144	двигательных функций
+T47	ACTIVITY 1147 1163	постельный режим
+T48	DEVICE 1210 1218	катетера
+T49	ANATOMY 1221 1237	центральной вене
+T51	DISO 1262 1279	Тромбообразование
+T52	ANATOMY 1290 1307	нижней полой вены
+T53	PERSON 1310 1317	больных
+T55	MEDPROC 1503 1531	профилактических мероприятий
+T56	PERSON 1551 1558	больных
+T12	ANATOMY 112 120	венозных
+T13	DISO 121 150	тромбоэмболических осложнений
+T58	DISO 152 156	ВТЭО
+T15	ANATOMY 169 178	венозного
+T59	DISO 179 196	тромбообразования
+T60	CHEM 213 242	низкомолекулярными гепаринами
+T61	DISO 293 314	синдрома Гийена-Барре
+T20	FACILITY 336 378	отделении реанимации и интенсивной терапии
+T3	PHYS 591 615	неврологического статуса
+T21	LABPROC 617 640	дуплексное сканирование
+T22	ANATOMY 670 674	вены
+T23	ANATOMY 664 674	полой вены
+T24	ANATOMY 657 674	нижней полой вены
+T26	CHEM 770 797	низкомолекулярных гепаринов
+T29	NUMBER 801 804	1/2
+T32	DISO 815 818	СГБ
+T64	DISO 936 944	тромбозы
+T65	ANATOMY 977 984	артерии
+T66	ANATOMY 968 984	легочной артерии
+T40	DISO 954 967	тромбоэмболия
+T41	ANATOMY 1233 1237	вене
+T42	ANATOMY 1303 1307	вены
+T50	ANATOMY 1297 1307	полой вены
+T67	DISO 1320 1323	СГБ
+R1	SUBCLASS_OF Arg1:T14 Arg2:T13	
+R2	ABBREVIATION Arg1:T14 Arg2:T58	
+R3	SUBCLASS_OF Arg1:T16 Arg2:T59	
+R4	SUBCLASS_OF Arg1:T60 Arg2:T18	
+R7	ABBREVIATION Arg1:T61 Arg2:T1	
+R8	LOCATED_IN Arg1:T19 Arg2:T20	
+R9	PART_OF Arg1:T12 Arg2:T19	
+R10	PART_OF Arg1:T15 Arg2:T19	
+R11	MEDICAL_CONDITION Arg1:T19 Arg2:T14	
+R12	MEDICAL_CONDITION Arg1:T19 Arg2:T16	
+R13	MEDICAL_CONDITION Arg1:T28 Arg2:T27	
+R14	MEDICAL_CONDITION Arg1:T28 Arg2:T30	
+R15	PHYSIOLOGY_OF Arg1:T3 Arg2:T31	
+R16	SUBCLASS_OF Arg1:T23 Arg2:T22	
+R17	SUBCLASS_OF Arg1:T24 Arg2:T23	
+R18	SUBCLASS_OF Arg1:T24 Arg2:T34	
+R19	SUBCLASS_OF Arg1:T21 Arg2:T33	
+R22	PROCEDURE_PERFORMED Arg1:T31 Arg2:T21	
+R23	PART_OF Arg1:T34 Arg2:T31	
+R24	SUBCLASS_OF Arg1:T26 Arg2:T36	
+R25	MEDICAL_CONDITION Arg1:T37 Arg2:T32	
+R27	TREATED_USING Arg1:T37 Arg2:T35	
+R28	USED_IN Arg1:T26 Arg2:T35	
+R29	MEDICAL_CONDITION Arg1:T37 Arg2:T38	
+R31	SUBCLASS_OF Arg1:T5 Arg2:T64	
+R32	SUBCLASS_OF Arg1:T5 Arg2:T39	
+R33	SUBCLASS_OF Arg1:T66 Arg2:T65	
+R34	SUBCLASS_OF Arg1:T7 Arg2:T40	
+R35	AFFECTS Arg1:T7 Arg2:T66	
+R36	MEDICAL_CONDITION Arg1:T37 Arg2:T39	
+R37	MEDICAL_CONDITION Arg1:T37 Arg2:T5	
+R38	MEDICAL_CONDITION Arg1:T37 Arg2:T7	
+R39	SUBCLASS_OF Arg1:T49 Arg2:T41	
+R40	TREATED_USING Arg1:T37 Arg2:T43	
+R41	TO_DETECT_OR_STUDY Arg1:T44 Arg2:T46	
+R42	PHYSIOLOGY_OF Arg1:T46 Arg2:T37	
+R43	MEDICAL_CONDITION Arg1:T37 Arg2:T45	
+R44	HAS_CAUSE Arg1:T46 Arg2:T45	
+R45	PARTICIPANT_IN Arg1:T37 Arg2:T47	
+R46	AGE_IS Arg1:T37 Arg2:T11	
+R47	PART_OF Arg1:T49 Arg2:T37	
+R48	USED_IN Arg1:T48 Arg2:T49	
+R49	MEDICAL_CONDITION Arg1:T53 Arg2:T67	
+R50	SUBCLASS_OF Arg1:T50 Arg2:T42	
+R51	SUBCLASS_OF Arg1:T52 Arg2:T50	
+R56	TREATED_USING Arg1:T56 Arg2:T55	
+R57	AFFECTS Arg1:T14 Arg2:T12	
+R58	AFFECTS Arg1:T16 Arg2:T15	
+T25	ANATOMY 641 648	сосудов
+R20	SUBCLASS_OF Arg1:T34 Arg2:T25	
+R21	TREATED_USING Arg1:T37 Arg2:T26	
+T10	DATE 1164 1175	свыше 3 сут
+T57	DISO 1177 1200	инфекционные осложнения
+T62	DISO 1177 1189	инфекционные
+R59	SUBCLASS_OF Arg1:T57 Arg2:T62	
+N1	Reference T5 UMLS:C0042487	венозные тромбозы
+N2	Reference T7 UMLS:C0034065	тромбоэмболия легочной артерии
+N3	Reference T14 UMLS:C0199242	венозных тромбоэмболических осложнений
+N4	Reference T18 UMLS:C0019134	гепаринами
+N6	Reference T38 UMLS:C0235031	неврологической симптоматики
+N7	Reference T45 UMLS:C0521654	нарушений двигательных функций
+N8	Reference T47 UMLS:C0004910	постельный режим
+N12	Reference T60 UMLS:C0019139	низкомолекулярными гепаринами
+N13	Reference T61 UMLS:C0018378	синдрома Гийена-Барре
+N14	Reference T22 UMLS:C0042449	вены
+N15	Reference T23 UMLS:C0042460	полой вены
+N17	Reference T64 UMLS:C0040053	тромбозы
+N18	Reference T65 UMLS:C0003842	артерии
+N19	Reference T66 UMLS:C0034052	легочной артерии
+N20	Reference T40 UMLS:C0040038	тромбоэмболия
+N22	Reference T57 UMLS:C3160894	инфекционные осложнения
+N23	Reference T62 UMLS:C0009450	инфекционные
+N24	Reference T59 UMLS:C0040053	тромбоз
+N16	Reference T24 UMLS:C0042458	полая вена, нижняя
+N21	Reference T25 UMLS:C0005847	кровеносные сосуды
+N25	Reference T16 UMLS:C0042487	тромбоз венозный
+N11	Reference T13 UMLS:NULL	
+N5	Reference T34 UMLS:NULL	
+N26	Reference T49 UMLS:C0682606	
+N27	Reference T27 UMLS:C0199242	венозных тромбоэмболических осложнений
+N28	Reference T39 UMLS:C0199242	венозных тромбоэмболических осложнений
+N29	Reference T58 UMLS:C0199242	венозных тромбоэмболических осложнений
+N30	Reference T36 UMLS:C0019134	гепаринами
+N31	Reference T26 UMLS:C0019139	низкомолекулярными гепаринами
+N32	Reference T30 UMLS:C0018378	синдрома Гийена-Барре
+N33	Reference T32 UMLS:C0018378	синдрома Гийена-Барре
+N34	Reference T67 UMLS:C0018378	синдрома Гийена-Барре
+N35	Reference T1 UMLS:C0018378	синдрома Гийена-Барре
+N36	Reference T41 UMLS:C0042449	вены
+N37	Reference T42 UMLS:C0042449	вены
+N38	Reference T50 UMLS:C0042460	полой вены
+N39	Reference T51 UMLS:C0040053	тромбоз
+N40	Reference T52 UMLS:C0042458	полая вена, нижняя
+T63	DISO 140 150	осложнений
+R26	SUBCLASS_OF Arg1:T13 Arg2:T63	
+N42	Reference T63 UMLS:C0009566	
+R30	MEDICAL_CONDITION Arg1:T19 Arg2:T61	
+R5	TREATED_USING Arg1:T19 Arg2:T60	
+R6	APPLIED_TO Arg1:T21 Arg2:T34	
+T17	ANATOMY 968 976	легочной
+N43	Reference T17 UMLS:C0024109	легкие
+R60	PART_OF Arg1:T66 Arg2:T17	
+T68	ANATOMY 927 935	венозные
+N10	Reference T12 UMLS:C0042449	вены
+N41	Reference T15 UMLS:C0042449	вены
+N44	Reference T68 UMLS:C0042449	вены
+T69	DISO 1190 1200	осложнения
+N45	Reference T69 UMLS:C0009566	
+R62	SUBCLASS_OF Arg1:T57 Arg2:T69	
+T54	FINDING 1400 1448	универсальности данного патологического процесса
+T70	FINDING 987 1012	Значимыми факторами риска
+T71	DISO 1022 1049	тяжелое течение заболевания
+R55	HAS_CAUSE Arg1:T70 Arg2:T71	
+R63	TREATED_USING Arg1:T71 Arg2:T43	
+R64	TO_DETECT_OR_STUDY Arg1:T44 Arg2:T71	
+R65	HAS_CAUSE Arg1:T70 Arg2:T57	
+R66	HAS_CAUSE Arg1:T14 Arg2:T60	
+R67	HAS_CAUSE Arg1:T16 Arg2:T60	
+T72	FINDING 424 473	частота, факторы риска и особенности течения ВТЭО
+R68	ASSOCIATED_WITH Arg1:T27 Arg2:T72	
+R69	FINDING_OF Arg1:T72 Arg2:T28	
+R70	HAS_CAUSE Arg1:T72 Arg2:T30	
+R71	HAS_CAUSE Arg1:T27 Arg2:T30	
+T73	FINDING 52 150	частоты встречаемости, факторов риска, особенностей течения венозных тромбоэмболических осложнений
+R72	ASSOCIATED_WITH Arg1:T14 Arg2:T73	
+T74	FINDING 894 910	развивались ВТЭО
+R73	ASSOCIATED_WITH Arg1:T39 Arg2:T74	
+R74	FINDING_OF Arg1:T74 Arg2:T37	
+R75	ASSOCIATED_WITH Arg1:T32 Arg2:T74	
+T75	DISO 920 944	острые венозные тромбозы
+N9	Reference T75 UMLS:C2728549	
+R76	SUBCLASS_OF Arg1:T75 Arg2:T5	
+R61	AFFECTS Arg1:T75 Arg2:T68	
+R77	PART_OF Arg1:T68 Arg2:T37	
+R78	PART_OF Arg1:T66 Arg2:T37	
+T76	DISO 1262 1307	Тромбообразование в системе нижней полой вены
+N46	Reference T76 UMLS:C0549289	тромбоз нижней полой вены
+R52	SUBCLASS_OF Arg1:T76 Arg2:T51	
+R53	PART_OF Arg1:T52 Arg2:T53	
+R54	ASSOCIATED_WITH Arg1:T76 Arg2:T54	
+R79	FINDING_OF Arg1:T54 Arg2:T53	
+R80	HAS_CAUSE Arg1:T54 Arg2:T67	
+R81	HAS_CAUSE Arg1:T76 Arg2:T67	

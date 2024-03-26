@@ -1,0 +1,234 @@
+T1	NUMBER 911 915	двух
+T2	ORDINAL 937 943	первой
+T4	DISO 51 83	иммуноопосредованное заболевание
+T5	ANATOMY 109 129	поджелудочную железу
+T6	ANATOMY 131 137	печень
+T7	ANATOMY 139 163	забрюшинное пространство
+T8	ANATOMY 165 184	желчевыводящие пути
+T9	ANATOMY 186 193	слюнные
+T10	ANATOMY 196 210	слезные железы
+T11	ANATOMY 212 220	глазницу
+T13	PHYS 247 262	патоморфогенеза
+T14	DISO 267 298	фибровоспалительное заболевание
+T17	CHEM 368 372	IgG4
+T18	ANATOMY 375 390	сыворотке крови
+T19	DISO 393 419	морфологическим субстратом
+T20	DISO 448 455	фиброза
+T21	DISO 458 490	лимфоплазмоцитарного инфильтрата
+T22	ANATOMY 493 499	тканях
+T25	DISO 573 594	опухолеподобного узла
+T26	PERSON 625 633	пациенты
+T30	DISO 796 803	IgG4-СЗ
+T31	DISO 833 865	лимфопролиферативных заболеваний
+T35	DISO 965 977	MALT-лимфомы
+T36	ANATOMY 978 992	слезной железы
+T37	CHEM 994 1009	IgG4-позитивной
+T38	DISO 1012 1019	IgG4-СЗ
+T40	DISO 1045 1074	деструкции в шейных позвонках
+T41	ANATOMY 1058 1074	шейных позвонках
+T42	DISO 1076 1101	мультиорганным поражением
+T43	PHYS 1112 1136	В-клеточной клональности
+T44	ANATOMY 1139 1144	ткани
+T45	ANATOMY 1145 1159	слюнной железы
+T46	PHYS 1162 1177	секрецией PIgMκ
+T48	DISO 1224 1256	лимфопролиферативных заболеваний
+T50	CHEM 12 16	IgG4
+T52	DISO 0 28	Связанное с IgG4 заболевание
+T3	CHEM 30 34	IgG4
+T54	DISO 30 37	IgG4-СЗ
+T55	DISO 41 83	системное иммуноопосредованное заболевание
+T56	ANATOMY 123 129	железу
+T59	ANATOMY 139 150	забрюшинное
+T60	PHYS 165 179	желчевыводящие
+T61	ANATOMY 196 203	слезные
+T62	ANATOMY 204 210	железы
+T63	ANATOMY 222 228	легкие
+T12	ANATOMY 230 235	почки
+T15	DISO 330 348	поражением органов
+T64	DISO 314 348	опухолеподобным поражением органов
+T65	FINDING 350 390	повышением уровня IgG4 в сыворотке крови
+T66	PHYS 361 372	уровня IgG4
+T68	ANATOMY 385 390	крови
+T70	ANATOMY 458 478	лимфоплазмоцитарного
+T71	DISO 479 490	инфильтрата
+T73	PHYS 502 526	высоким содержанием IgG4
+T74	CHEM 522 526	IgG4
+T24	ANATOMY 553 559	клеток
+T76	ANATOMY 538 552	плазматических
+T77	ANATOMY 538 559	плазматических клеток
+T78	ANATOMY 522 559	IgG4-позитивных плазматических клеток
+T79	DISO 636 643	IgG4-СЗ
+T80	CHEM 636 640	IgG4
+T27	MEDPROC 679 688	операциям
+T83	DISO 714 740	онкологических заболеваний
+T86	CHEM 796 800	IgG4
+T89	DISO 816 830;854 865	онкологических заболеваний
+T32	COUNTRY 946 952	России
+T33	DISO 970 977	лимфомы
+T34	ANATOMY 978 985	слезной
+T90	ANATOMY 986 992	железы
+T91	DISO 965 992	MALT-лимфомы слезной железы
+T92	CHEM 994 998	IgG4
+T94	CHEM 1012 1016	IgG4
+T97	DISO 1045 1055	деструкции
+T100	ANATOMY 1058 1064	шейных
+T101	ANATOMY 1065 1074	позвонках
+T103	PHYS 1124 1136	клональности
+T104	ANATOMY 1114 1123	клеточной
+T105	ANATOMY 1112 1123	В-клеточной
+T106	ANATOMY 1145 1152	слюнной
+T107	ANATOMY 1153 1159	железы
+T108	ANATOMY 1139 1159	ткани слюнной железы
+T47	CHEM 1172 1177	PIgMκ
+T49	DISO 1265 1272	IgG4-СЗ
+T112	CHEM 1265 1269	IgG4
+R1	SUBCLASS_OF Arg1:T55 Arg2:T4	
+R2	SUBCLASS_OF Arg1:T5 Arg2:T56	
+R3	PHYSIOLOGY_OF Arg1:T60 Arg2:T8	
+T115	ANATOMY 186 193;204 210	слюнные железы
+R4	SUBCLASS_OF Arg1:T115 Arg2:T62	
+R5	SUBCLASS_OF Arg1:T10 Arg2:T62	
+R6	ABBREVIATION Arg1:T52 Arg2:T54	
+R7	SUBCLASS_OF Arg1:T52 Arg2:T55	
+R8	AFFECTS Arg1:T52 Arg2:T5	
+R9	AFFECTS Arg1:T52 Arg2:T6	
+R10	AFFECTS Arg1:T52 Arg2:T7	
+R11	AFFECTS Arg1:T52 Arg2:T8	
+R12	AFFECTS Arg1:T52 Arg2:T115	
+R13	AFFECTS Arg1:T52 Arg2:T10	
+R14	AFFECTS Arg1:T52 Arg2:T11	
+R15	AFFECTS Arg1:T52 Arg2:T63	
+R16	AFFECTS Arg1:T52 Arg2:T12	
+R17	SUBCLASS_OF Arg1:T64 Arg2:T15	
+R19	SUBCLASS_OF Arg1:T64 Arg2:T14	
+R20	PART_OF Arg1:T18 Arg2:T68	
+R21	PHYSIOLOGY_OF Arg1:T66 Arg2:T18	
+R22	ORIGINS_FROM Arg1:T17 Arg2:T18	
+R23	FINDING_OF Arg1:T65 Arg2:T66	
+R24	SUBCLASS_OF Arg1:T21 Arg2:T71	
+R25	AFFECTS Arg1:T21 Arg2:T70	
+R26	AFFECTS Arg1:T21 Arg2:T22	
+R27	SUBCLASS_OF Arg1:T78 Arg2:T77	
+R28	SUBCLASS_OF Arg1:T77 Arg2:T24	
+R29	PART_OF Arg1:T77 Arg2:T76	
+R30	PHYSIOLOGY_OF Arg1:T73 Arg2:T78	
+R32	MEDICAL_CONDITION Arg1:T26 Arg2:T79	
+R35	PROCEDURE_PERFORMED Arg1:T26 Arg2:T27	
+R36	SUBCLASS_OF Arg1:T36 Arg2:T90	
+R37	SUBCLASS_OF Arg1:T91 Arg2:T35	
+R38	AFFECTS Arg1:T91 Arg2:T36	
+R39	SUBCLASS_OF Arg1:T35 Arg2:T33	
+R40	PART_OF Arg1:T41 Arg2:T100	
+R41	SUBCLASS_OF Arg1:T41 Arg2:T101	
+R45	SUBCLASS_OF Arg1:T105 Arg2:T104	
+R46	PHYSIOLOGY_OF Arg1:T43 Arg2:T105	
+R47	SUBCLASS_OF Arg1:T43 Arg2:T103	
+R48	SUBCLASS_OF Arg1:T108 Arg2:T44	
+R49	PART_OF Arg1:T108 Arg2:T45	
+R50	SUBCLASS_OF Arg1:T45 Arg2:T107	
+R52	ASSOCIATED_WITH Arg1:T46 Arg2:T47	
+R53	ASSOCIATED_WITH Arg1:T13 Arg2:T14	
+T28	ANATOMY 375 384	сыворотке
+R54	ALTERNATIVE_NAME Arg1:T18 Arg2:T28	
+R55	HAS_CAUSE Arg1:T65 Arg2:T14	
+R33	TREATED_USING Arg1:T83 Arg2:T27	
+R34	HAS_CAUSE Arg1:T48 Arg2:T49	
+R57	HAS_CAUSE Arg1:T31 Arg2:T30	
+R58	HAS_CAUSE Arg1:T89 Arg2:T30	
+R51	PHYSIOLOGY_OF Arg1:T43 Arg2:T108	
+R31	MEDICAL_CONDITION Arg1:T26 Arg2:T25	
+N2	Reference T5 UMLS:C0030274	поджелудочную железу
+N3	Reference T6 UMLS:C0023884	печень
+N4	Reference T7 UMLS:C0035359	забрюшинное пространство
+N6	Reference T9 UMLS:C0036087	слюнные
+N7	Reference T10 UMLS:C0036098	слезные железы
+N8	Reference T11 UMLS:C0029180	глазницу
+N10	Reference T18 UMLS:C0229671	сыворотке крови
+N11	Reference T20 UMLS:C0016059	фиброза
+N12	Reference T21 UMLS:C0333386	лимфоплазмоцитарного инфильтрата
+N13	Reference T22 UMLS:C0040300	тканях
+N14	Reference T31 UMLS:C0024314	лимфопролиферативных заболеваний
+N15	Reference T35 UMLS:C0242647	MALT-лимфомы
+N17	Reference T41 UMLS:C3665420	шейных позвонках
+N19	Reference T52 UMLS:C4087124	Связанное с IgG4 заболевание
+N22	Reference T59 UMLS:C0035359	забрюшинное
+N23	Reference T61 UMLS:C0039409	слезные
+N25	Reference T63 UMLS:C0024109	легкие
+N26	Reference T12 UMLS:C0022646	почки
+N29	Reference T70 UMLS:C0024303	лимфоплазмоцитарного
+N30	Reference T71 UMLS:C0332448	инфильтрата
+N35	Reference T33 UMLS:C0024299	лимфомы
+N42	Reference T115 UMLS:C0036098	слюнные и слезные железы
+N21	Reference T56 UMLS:C1285092	
+N5	Reference T8 UMLS:C0005400	желчные протоки
+N28	Reference T68 UMLS:C0005767	кровь
+N31	Reference T24 UMLS:C0007634	клетки
+N33	Reference T77 UMLS:C0032112	плазматические клетки
+N32	Reference T76 UMLS:C0032105	плазма
+N39	Reference T101 UMLS:C5441567	
+N38	Reference T100 UMLS:C0205064	
+N24	Reference T62 UMLS:C1285092	
+N18	Reference T50 UMLS:C0020860	
+N20	Reference T55 UMLS:NULL	
+N1	Reference T4 UMLS:C0004364	аутоиммунные болезни
+N34	Reference T83 UMLS:C0006826	злокачественное новообразование
+N43	Reference T78 UMLS:NULL	
+N44	Reference T14 UMLS:C1817417	
+N45	Reference T42 UMLS:C0598906	
+N41	Reference T108 UMLS:C1519177	
+N46	Reference T47 UMLS:NULL	
+N40	Reference T104 UMLS:C0007634	клетки
+N47	Reference T105 UMLS:C0004561	b-лимфоциты
+N36	Reference T91 UMLS:NULL	
+N48	Reference T19 UMLS:NULL	
+N16	Reference T40 UMLS:NULL	
+N37	Reference T97 UMLS:NULL	
+N49	Reference T37 UMLS:NULL	
+N50	Reference T64 UMLS:NULL	
+N27	Reference T15 UMLS:NULL	
+N51	Reference T106 UMLS:C0036087	слюнные
+N52	Reference T36 UMLS:C0036098	слезные железы
+N53	Reference T28 UMLS:C0229671	сыворотке крови
+N54	Reference T44 UMLS:C0040300	тканях
+N55	Reference T48 UMLS:C0024314	лимфопролиферативных заболеваний
+N56	Reference T30 UMLS:C4087124	Связанное с IgG4 заболевание
+N57	Reference T54 UMLS:C4087124	Связанное с IgG4 заболевание
+N58	Reference T38 UMLS:C4087124	Связанное с IgG4 заболевание
+N59	Reference T79 UMLS:C4087124	Связанное с IgG4 заболевание
+N60	Reference T49 UMLS:C4087124	Связанное с IgG4 заболевание
+N61	Reference T34 UMLS:C0039409	слезные
+N62	Reference T45 UMLS:C0036098	слюнные и слезные железы
+N63	Reference T90 UMLS:C1285092	
+N64	Reference T107 UMLS:C1285092	
+N65	Reference T80 UMLS:C0020860	
+N66	Reference T17 UMLS:C0020860	
+N67	Reference T92 UMLS:C0020860	
+N68	Reference T74 UMLS:C0020860	
+N69	Reference T112 UMLS:C0020860	
+N70	Reference T86 UMLS:C0020860	
+N71	Reference T94 UMLS:C0020860	
+N72	Reference T3 UMLS:C0020860	
+N73	Reference T89 UMLS:C0006826	злокачественное новообразование
+T16	PHYS 1162 1171	секрецией
+R18	SUBCLASS_OF Arg1:T46 Arg2:T16	
+T23	SCIPROC 1188 1212	обзор мировой литературы
+R44	TO_DETECT_OR_STUDY Arg1:T23 Arg2:T48	
+R56	TO_DETECT_OR_STUDY Arg1:T23 Arg2:T49	
+T29	FINDING 561 594	Обнаружение опухолеподобного узла
+R59	ASSOCIATED_WITH Arg1:T25 Arg2:T29	
+T39	FINDING 657 688	обширным травматичным операциям
+R60	HAS_CAUSE Arg1:T39 Arg2:T27	
+R61	HAS_CAUSE Arg1:T39 Arg2:T29	
+R62	FINDING_OF Arg1:T29 Arg2:T26	
+R63	FINDING_OF Arg1:T39 Arg2:T26	
+R64	HAS_CAUSE Arg1:T25 Arg2:T79	
+R65	TREATED_USING Arg1:T25 Arg2:T27	
+R42	SUBCLASS_OF Arg1:T40 Arg2:T97	
+R43	AFFECTS Arg1:T40 Arg2:T100	
+R66	HAS_CAUSE Arg1:T40 Arg2:T91	
+R67	HAS_CAUSE Arg1:T40 Arg2:T38	
+R68	HAS_CAUSE Arg1:T40 Arg2:T91	
+R69	HAS_CAUSE Arg1:T42 Arg2:T38	
+R70	HAS_CAUSE Arg1:T42 Arg2:T91	
+R71	HAS_CAUSE Arg1:T20 Arg2:T14	
+R72	HAS_CAUSE Arg1:T21 Arg2:T14	

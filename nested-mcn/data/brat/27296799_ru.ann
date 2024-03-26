@@ -1,0 +1,202 @@
+T1	DISO 132 140	инсульта
+T2	NUMBER 194 197	253
+T4	NUMBER 538 541	три
+T5	ORDINAL 550 553	1-я
+T6	ORDINAL 596 599	2-я
+T8	ORDINAL 651 654	3-я
+T9	PERCENT 685 688	50%
+T10	PERCENT 812 824	> чем на 50%
+T11	ORDINAL 826 829	3-я
+T13	ORDINAL 940 943	1-я
+T14	ORDINAL 946 949	2-я
+T16	DISO 1168 1176	инсульта
+T17	DISO 35 74	стенозирующего поражения сонных артерий
+T18	ANATOMY 60 74	сонных артерий
+T19	DISO 93 114	афатических нарушений
+T20	DISO 117 140	остром периоде инсульта
+T23	PERSON 198 207	пациентов
+T26	DISO 321 329;348 354	моторной афазии
+T28	DISO 377 407	атеросклеротического поражения
+T29	ANATOMY 408 431	брахиоцефальных артерий
+T30	LABPROC 452 485	цветного дуплексного сканирования
+T31	PERSON 511 519	пациенты
+T32	DISO 560 568	стенозов
+T34	DISO 605 628	стенозом сонных артерий
+T35	ANATOMY 614 628	сонных артерий
+T38	DISO 660 683	стенозом сонных артерий
+T39	ANATOMY 669 683	сонных артерий
+T40	PERSON 713 722	пациентов
+T41	DISO 725 733	афазиями
+T42	DISO 734 758	стенозирующего поражения
+T43	ANATOMY 759 784	экстракраниальных артерий
+T45	ANATOMY 805 811	сосуда
+T48	MENTALPROC 893 908	речевой функции
+T49	DISO 925 932	стенозы
+T52	DISO 1049 1076	атеросклероз сонных артерий
+T53	ANATOMY 1062 1076	сонных артерий
+T55	MENTALPROC 1136 1140	речи
+T56	PERSON 1143 1150	больных
+T58	ANATOMY 67 74	артерий
+T3	AGE 228 243	58 [52; 63] лет
+T24	DISO 283 309	геморрагическим инсультами
+T59	DISO 299 309	инсультами
+T60	ANATOMY 254 268	левополушарным
+T25	DISO 269 280;299 309	ишемическим инсультами
+T61	DISO 247 309	острым левополушарным ишемическим и геморрагическим инсультами
+T27	DISO 334 354	сенсомоторной афазии
+T62	DISO 348 354	афазии
+T63	PHYS 321 329	моторной
+T64	PHYS 334 347	сенсомоторной
+T65	ANATOMY 424 431	артерий
+T33	ANATOMY 569 594	экстракраниальных артерий
+T66	ANATOMY 587 594	артерий
+T67	ANATOMY 569 586	экстракраниальных
+T68	ANATOMY 408 423	брахиоцефальных
+T69	ANATOMY 621 628	артерий
+T7	PERCENT 630 633	50%
+T37	ANATOMY 643 649	сосуда
+T36	PHYS 634 649	просвета сосуда
+T70	ANATOMY 676 683	артерий
+T71	ANATOMY 777 784	артерий
+T72	ANATOMY 759 776	экстракраниальных
+T44	ANATOMY 797 811	просвет сосуда
+T73	NUMBER 853 859	0,0001
+T12	PERCENT 933 938	< 50%
+T46	MENTALPROC 1004 1024	речевой реабилитации
+T15	ANATOMY 1069 1076	артерий
+T47	DISO 1153 1176	остром периоде инсульта
+R1	SUBCLASS_OF Arg1:T18 Arg2:T58	
+R2	AFFECTS Arg1:T17 Arg2:T18	
+R3	SUBCLASS_OF Arg1:T20 Arg2:T1	
+R4	HAS_CAUSE Arg1:T17 Arg2:T19	
+R5	HAS_CAUSE Arg1:T20 Arg2:T19	
+R6	MEDICAL_CONDITION Arg1:T23 Arg2:T17	
+R7	MEDICAL_CONDITION Arg1:T23 Arg2:T19	
+R8	MEDICAL_CONDITION Arg1:T23 Arg2:T20	
+R12	PART_OF Arg1:T60 Arg2:T23	
+R13	SUBCLASS_OF Arg1:T25 Arg2:T59	
+R14	SUBCLASS_OF Arg1:T24 Arg2:T59	
+R15	SUBCLASS_OF Arg1:T61 Arg2:T59	
+R16	MEDICAL_CONDITION Arg1:T23 Arg2:T61	
+R17	PHYSIOLOGY_OF Arg1:T63 Arg2:T23	
+R18	PHYSIOLOGY_OF Arg1:T64 Arg2:T23	
+R19	SUBCLASS_OF Arg1:T27 Arg2:T62	
+R20	SUBCLASS_OF Arg1:T26 Arg2:T62	
+R21	PROCEDURE_PERFORMED Arg1:T31 Arg2:T30	
+R22	SUBCLASS_OF Arg1:T29 Arg2:T65	
+R23	PART_OF Arg1:T29 Arg2:T31	
+R24	PART_OF Arg1:T68 Arg2:T31	
+R25	AFFECTS Arg1:T28 Arg2:T29	
+R26	MEDICAL_CONDITION Arg1:T31 Arg2:T28	
+R27	TO_DETECT_OR_STUDY Arg1:T30 Arg2:T28	
+R28	PART_OF Arg1:T67 Arg2:T31	
+R29	PART_OF Arg1:T33 Arg2:T31	
+R30	SUBCLASS_OF Arg1:T33 Arg2:T66	
+R31	MEDICAL_CONDITION Arg1:T31 Arg2:T32	
+R32	AFFECTS Arg1:T32 Arg2:T33	
+R33	SUBCLASS_OF Arg1:T35 Arg2:T69	
+R34	PART_OF Arg1:T35 Arg2:T31	
+R35	MEDICAL_CONDITION Arg1:T31 Arg2:T34	
+R36	AFFECTS Arg1:T34 Arg2:T35	
+R37	PART_OF Arg1:T37 Arg2:T31	
+R38	PHYSIOLOGY_OF Arg1:T36 Arg2:T37	
+R39	SUBCLASS_OF Arg1:T69 Arg2:T37	
+R40	MEDICAL_CONDITION Arg1:T31 Arg2:T38	
+R41	SUBCLASS_OF Arg1:T39 Arg2:T70	
+R42	AFFECTS Arg1:T38 Arg2:T39	
+R43	HAS_CAUSE Arg1:T42 Arg2:T41	
+R44	MEDICAL_CONDITION Arg1:T40 Arg2:T41	
+R45	MEDICAL_CONDITION Arg1:T40 Arg2:T42	
+R46	PART_OF Arg1:T43 Arg2:T40	
+R47	SUBCLASS_OF Arg1:T43 Arg2:T71	
+R48	PART_OF Arg1:T72 Arg2:T40	
+R49	PART_OF Arg1:T45 Arg2:T40	
+R50	PART_OF Arg1:T44 Arg2:T45	
+R51	AFFECTS Arg1:T41 Arg2:T45	
+R52	MENTAL_PROCESS_OF Arg1:T48 Arg2:T40	
+R53	MEDICAL_CONDITION Arg1:T40 Arg2:T49	
+R54	MENTAL_PROCESS_OF Arg1:T46 Arg2:T40	
+R55	AFFECTS Arg1:T49 Arg2:T46	
+R56	AFFECTS Arg1:T42 Arg2:T48	
+R57	ALTERNATIVE_NAME Arg1:T42 Arg2:T49	
+R58	SUBCLASS_OF Arg1:T53 Arg2:T15	
+R59	PART_OF Arg1:T53 Arg2:T56	
+R60	AFFECTS Arg1:T52 Arg2:T53	
+R61	MEDICAL_CONDITION Arg1:T56 Arg2:T52	
+R62	MENTAL_PROCESS_OF Arg1:T55 Arg2:T56	
+R63	AFFECTS Arg1:T52 Arg2:T55	
+R64	SUBCLASS_OF Arg1:T47 Arg2:T16	
+R65	MEDICAL_CONDITION Arg1:T56 Arg2:T47	
+T50	FINDING 1087 1140	отрицательное влияние на динамику восстановления речи
+R66	HAS_CAUSE Arg1:T50 Arg2:T52	
+R67	FINDING_OF Arg1:T50 Arg2:T56	
+T51	FINDING 861 908	ухудшало прогноз восстановления речевой функции
+R68	HAS_CAUSE Arg1:T51 Arg2:T42	
+T54	FINDING 958 1024	не оказывали существенного влияния на прогноз речевой реабилитации
+R69	HAS_CAUSE Arg1:T54 Arg2:T49	
+T57	PERSON 542 548	группы
+R70	MEMBER_OF Arg1:T31 Arg2:T57	
+T74	PERSON 826 836	3-я группа
+T75	PERSON 830 836	группа
+R71	AFFECTS Arg1:T42 Arg2:T72	
+R9	AGE_IS Arg1:T23 Arg2:T3	
+T21	LABPROC 461 485	дуплексного сканирования
+R10	SUBCLASS_OF Arg1:T30 Arg2:T21	
+T22	DISO 660 668	стенозом
+R11	SUBCLASS_OF Arg1:T38 Arg2:T22	
+T76	DISO 605 613	стенозом
+R72	SUBCLASS_OF Arg1:T34 Arg2:T76	
+T77	PERSON 950 956	группы
+R73	FINDING_OF Arg1:T54 Arg2:T77	
+T78	DISO 1049 1061	атеросклероз
+R74	SUBCLASS_OF Arg1:T52 Arg2:T78	
+R75	FINDING_OF Arg1:T51 Arg2:T74	
+T79	PHYS 878 908	восстановления речевой функции
+R76	FINDING_OF Arg1:T51 Arg2:T79	
+N2	Reference T18 UMLS:C0007272	сонных артерий
+N3	Reference T20 UMLS:C3203642	остром периоде инсульта
+N5	Reference T34 UMLS:C0007282	стенозом сонных артерий
+N6	Reference T52 UMLS:C0010054	атеросклероз сонных артерий
+N7	Reference T58 UMLS:C0003842	артерий
+N9	Reference T62 UMLS:C0003537	афазии
+N11	Reference T68 UMLS:C0006095	брахиоцефальных
+N13	Reference T78 UMLS:C0004153	атеросклероз
+N1	Reference T1 UMLS:C0038454	инсульт
+N15	Reference T19 UMLS:C0003537	афазия
+N16	Reference T44 UMLS:C0524424	
+N12	Reference T37 UMLS:C0005847	кровеносные сосуды
+N10	Reference T67 UMLS:C0580586	
+N17	Reference T33 UMLS:NULL	
+N4	Reference T28 UMLS:C0004153	атеросклероз
+N18	Reference T27 UMLS:C0003550	афазия брока
+N19	Reference T61 UMLS:C0948008	ишемический инсульт
+N8	Reference T24 UMLS:C5234922	геморрагический инсульт
+N20	Reference T25 UMLS:C0948008	ишемический инсульт
+N21	Reference T60 UMLS:C0228176	
+N22	Reference T39 UMLS:C0007272	сонных артерий
+N23	Reference T53 UMLS:C0007272	сонных артерий
+N24	Reference T35 UMLS:C0007272	сонных артерий
+N25	Reference T47 UMLS:C3203642	остром периоде инсульта
+N26	Reference T38 UMLS:C0007282	стенозом сонных артерий
+N27	Reference T69 UMLS:C0003842	артерий
+N28	Reference T71 UMLS:C0003842	артерий
+N29	Reference T65 UMLS:C0003842	артерий
+N30	Reference T15 UMLS:C0003842	артерий
+N31	Reference T66 UMLS:C0003842	артерий
+N32	Reference T70 UMLS:C0003842	артерий
+N33	Reference T41 UMLS:C0003537	афазии
+N34	Reference T32 UMLS:C1261287	сужение патологическое
+N35	Reference T49 UMLS:C1261287	сужение патологическое
+N36	Reference T76 UMLS:C1261287	сужение патологическое
+N37	Reference T22 UMLS:C1261287	сужение патологическое
+N38	Reference T42 UMLS:C1261287	сужение патологическое
+N39	Reference T16 UMLS:C0038454	инсульт
+N40	Reference T59 UMLS:C0038454	инсульт
+N41	Reference T45 UMLS:C0005847	кровеносные сосуды
+N42	Reference T72 UMLS:C0580586	
+N43	Reference T43 UMLS:NULL	
+R77	MEDICAL_CONDITION Arg1:T77 Arg2:T49	
+T80	DISO 35 59	стенозирующего поражения
+R78	SUBCLASS_OF Arg1:T17 Arg2:T80	
+N44	Reference T80 UMLS:C1261287	сужение патологическое
+N14	Reference T17 UMLS:C0007282	сонной артерии стеноз

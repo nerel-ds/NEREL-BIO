@@ -1,0 +1,216 @@
+T1	NUMBER 309 311	62
+T2	AGE 339 348	25-65 лет
+T6	DATE 1123 1139	в течение 1 года
+T7	PERCENT 1357 1360	30%
+T9	CHEM 76 82	магния
+T10	DISO 87 124	пограничных психических расстройствах
+T15	PERSON 312 321	пациентов
+T16	DISO 324 327	ППР
+T19	LABPROC 424 449	клинического обследования
+T20	CHEM 469 475	магния
+T21	CHEM 485 497	электролитов
+T23	CHEM 572 578	магния
+T24	ANATOMY 581 592	эритроцитах
+T25	PERSON 610 619	пациентов
+T26	DISO 622 625	ППР
+T28	DISO 665 668	ППР
+T29	CHEM 678 684	магния
+T30	CHEM 734 740	магния
+T31	ANATOMY 743 749	плазме
+T32	ANATOMY 752 763	эритроцитах
+T35	SCIPROC 840 843	F07
+T37	ACTIVITY 869 878	поведения
+T49	CHEM 1169 1175	магния
+T50	ANATOMY 1178 1184	плазме
+T51	ANATOMY 1187 1198	эритроцитах
+T52	DISO 1223 1232;1248 1260	тревожной симптоматики
+T53	DISO 1235 1260	депрессивной симптоматики
+T54	PHYS 1272 1275	сна
+T55	PERSON 1295 1304	пациентов
+T57	CHEM 1337 1353	антидепрессантах
+T59	CHEM 1409 1434	органических солей магния
+T60	DISO 1458 1461	ППР
+T61	PERSON 1498 1507	пациентов
+T8	DISO 68 82	дефицит магния
+T64	DISO 99 124	психических расстройствах
+T65	MENTALPROC 99 110	психических
+T66	DISO 126 129	ППР
+T11	FINDING 153 176	факторов риска развития
+T17	FACILITY 371 397	психиатрическом стационаре
+T67	FACILITY 387 397	стационаре
+T18	HEALTH_CARE_ACTIVITY 400 411	амбулаторно
+T69	PHYS 458 497	содержание магния и других электролитов
+T22	ANATOMY 500 505	крови
+T70	FINDING 532 578	высокая частота сверхнизкого содержания магния
+T72	FINDING 548 578	сверхнизкого содержания магния
+T73	PHYS 561 592	содержания магния в эритроцитах
+T74	NUMBER 594 606	<0,3 ммоль/л
+T75	PERSON 641 650	контролем
+T27	PERSON 652 660	пациенты
+T76	PHYS 670 684	уровень магния
+T77	NUMBER 685 702	1,62±0,48 ммоль/л
+T78	FINDING 719 763	низкий уровень магния в плазме и эритроцитах
+T79	PHYS 726 763	уровень магния в плазме и эритроцитах
+T80	FINDING 779 838	достоверным повышением риска развития следующих заболеваний
+T81	FINDING 802 838	риска развития следующих заболеваний
+T34	ANATOMY 911 916	мозга
+T36	ANATOMY 901 910	головного
+T38	ANATOMY 901 916	головного мозга
+T39	DISO 890 916	дисфункции головного мозга
+T82	DISO 845 878	Расстройства личности и поведения
+T40	NUMBER 920 927	<0,0016
+T83	SCIPROC 930 933	F21
+T41	DISO 935 962	Шизотипическое расстройство
+T85	NUMBER 966 973	<0,0005
+T86	SCIPROC 977 980	F34
+T42	MENTALPROC 994 1005	аффективные
+T88	DISO 994 1018	аффективные расстройства
+T89	DISO 982 1018	Хронические аффективные расстройства
+T90	NUMBER 1022 1029	<0,0001
+T43	CHEM 1054 1062	магне В6
+T92	CHEM 1054 1068	магне В6 форте
+T94	DATE 1089 1096	30 дней
+T95	FINDING 1151 1175	увеличить уровень магния
+T48	PHYS 1161 1175	уровень магния
+T97	FINDING 1211 1260	компенсации тревожной и депрессивной симптоматики
+T99	FINDING 1262 1294	улучшению сна и общего состояния
+T101	FINDING 1314 1353	снижению потребности в антидепрессантах
+T56	PHYS 1323 1353	потребности в антидепрессантах
+T58	CHEM 1422 1434	солей магния
+T102	CHEM 1428 1434	магния
+T103	CHEM 1388 1434	препаратов на основе органических солей магния
+T104	FINDING 1479 1507	улучшить состояние пациентов
+T106	FINDING 1510 1549	снизить их потребность в фармакотерапии
+T63	MEDPROC 1535 1549	фармакотерапии
+R1	ABBREVIATION Arg1:T10 Arg2:T66	
+R2	SUBCLASS_OF Arg1:T10 Arg2:T64	
+R3	AFFECTS Arg1:T10 Arg2:T65	
+R5	MEDICAL_CONDITION Arg1:T15 Arg2:T16	
+R8	AGE_IS Arg1:T15 Arg2:T2	
+R9	SUBCLASS_OF Arg1:T17 Arg2:T67	
+R10	PARTICIPANT_IN Arg1:T15 Arg2:T18	
+R11	LOCATED_IN Arg1:T15 Arg2:T17	
+R12	PROCEDURE_PERFORMED Arg1:T15 Arg2:T19	
+R13	ORIGINS_FROM Arg1:T21 Arg2:T22	
+R14	ORIGINS_FROM Arg1:T20 Arg2:T22	
+R15	PART_OF Arg1:T22 Arg2:T15	
+R16	TO_DETECT_OR_STUDY Arg1:T19 Arg2:T69	
+R17	ASSOCIATED_WITH Arg1:T69 Arg2:T20	
+R18	ASSOCIATED_WITH Arg1:T69 Arg2:T21	
+R19	MEDICAL_CONDITION Arg1:T25 Arg2:T26	
+R20	PART_OF Arg1:T24 Arg2:T25	
+R21	FINDING_OF Arg1:T70 Arg2:T25	
+R22	PHYSIOLOGY_OF Arg1:T73 Arg2:T25	
+R23	FINDING_OF Arg1:T72 Arg2:T25	
+R24	FINDING_OF Arg1:T72 Arg2:T73	
+R25	PHYSIOLOGY_OF Arg1:T73 Arg2:T24	
+R26	ORIGINS_FROM Arg1:T23 Arg2:T24	
+R27	ASSOCIATED_WITH Arg1:T73 Arg2:T23	
+R29	MEMBER_OF Arg1:T27 Arg2:T75	
+R30	ASSOCIATED_WITH Arg1:T76 Arg2:T29	
+R31	PHYSIOLOGY_OF Arg1:T79 Arg2:T31	
+R32	PHYSIOLOGY_OF Arg1:T79 Arg2:T32	
+R33	ORIGINS_FROM Arg1:T30 Arg2:T31	
+R34	ORIGINS_FROM Arg1:T30 Arg2:T32	
+R35	FINDING_OF Arg1:T78 Arg2:T79	
+R36	ASSOCIATED_WITH Arg1:T79 Arg2:T30	
+R42	ALTERNATIVE_NAME Arg1:T38 Arg2:T34	
+R43	PART_OF Arg1:T38 Arg2:T36	
+R44	AFFECTS Arg1:T39 Arg2:T38	
+R45	HAS_CAUSE Arg1:T82 Arg2:T39	
+R50	SUBCLASS_OF Arg1:T89 Arg2:T88	
+R51	AFFECTS Arg1:T89 Arg2:T42	
+R53	ASSOCIATED_WITH Arg1:T89 Arg2:T80	
+R54	ASSOCIATED_WITH Arg1:T89 Arg2:T78	
+R55	ASSOCIATED_WITH Arg1:T89 Arg2:T81	
+R58	DURATION_OF Arg1:T92 Arg2:T94	
+T12	NUMBER 1070 1088	4 таблетки в сутки
+R59	DOSE_IS Arg1:T92 Arg2:T12	
+T4	NUMBER 1104 1122	2 таблетки в сутки
+R60	DURATION_OF Arg1:T92 Arg2:T6	
+R61	DOSE_IS Arg1:T92 Arg2:T4	
+R62	PHYSIOLOGY_OF Arg1:T48 Arg2:T50	
+R63	PHYSIOLOGY_OF Arg1:T48 Arg2:T51	
+R64	ORIGINS_FROM Arg1:T49 Arg2:T50	
+R65	ORIGINS_FROM Arg1:T49 Arg2:T51	
+R66	FINDING_OF Arg1:T95 Arg2:T48	
+R67	ASSOCIATED_WITH Arg1:T48 Arg2:T49	
+R68	HAS_CAUSE Arg1:T95 Arg2:T92	
+R69	HAS_CAUSE Arg1:T97 Arg2:T92	
+T14	PHYS 1278 1294	общего состояния
+R70	PHYSIOLOGY_OF Arg1:T14 Arg2:T55	
+R71	PHYSIOLOGY_OF Arg1:T54 Arg2:T55	
+R72	FINDING_OF Arg1:T99 Arg2:T55	
+R73	HAS_CAUSE Arg1:T99 Arg2:T92	
+R74	FINDING_OF Arg1:T99 Arg2:T54	
+R75	FINDING_OF Arg1:T99 Arg2:T14	
+R76	VALUE_IS Arg1:T101 Arg2:T7	
+R77	FINDING_OF Arg1:T101 Arg2:T56	
+R78	ASSOCIATED_WITH Arg1:T56 Arg2:T57	
+R79	SUBCLASS_OF Arg1:T59 Arg2:T58	
+R80	USED_IN Arg1:T102 Arg2:T58	
+R81	USED_IN Arg1:T59 Arg2:T103	
+R82	HAS_CAUSE Arg1:T104 Arg2:T103	
+R83	HAS_CAUSE Arg1:T106 Arg2:T103	
+R88	FINDING_OF Arg1:T106 Arg2:T61	
+R91	MEDICAL_CONDITION Arg1:T61 Arg2:T60	
+R92	TREATED_USING Arg1:T60 Arg2:T103	
+R93	HAS_CAUSE Arg1:T8 Arg2:T10	
+R4	ASSOCIATED_WITH Arg1:T10 Arg2:T11	
+R94	HAS_CAUSE Arg1:T11 Arg2:T8	
+R6	PHYSIOLOGY_OF Arg1:T76 Arg2:T75	
+R7	VALUE_IS Arg1:T76 Arg2:T77	
+R95	HAS_CAUSE Arg1:T80 Arg2:T78	
+R37	ASSOCIATED_WITH Arg1:T82 Arg2:T80	
+R38	ASSOCIATED_WITH Arg1:T35 Arg2:T82	
+R39	HAS_CAUSE Arg1:T82 Arg2:T78	
+R40	ASSOCIATED_WITH Arg1:T41 Arg2:T80	
+R41	ASSOCIATED_WITH Arg1:T83 Arg2:T41	
+R46	ASSOCIATED_WITH Arg1:T86 Arg2:T89	
+R47	ASSOCIATED_WITH Arg1:T89 Arg2:T80	
+R48	SUBCLASS_OF Arg1:T92 Arg2:T43	
+N1	Reference T9 UMLS:C0024467	магния
+N2	Reference T10 UMLS:C0006012	пограничных психических расстройствах
+N3	Reference T21 UMLS:C0013832	электролитов
+N4	Reference T24 UMLS:C0014792	эритроцитах
+N5	Reference T31 UMLS:C0032105	плазме
+N7	Reference T53 UMLS:C0086132	депрессивной симптоматики
+N8	Reference T57 UMLS:C0003289	антидепрессантах
+N9	Reference T8 UMLS:C0024473	дефицит магния
+N10	Reference T64 UMLS:C0004936	психических расстройствах
+N14	Reference T82 UMLS:C0851574	Расстройства личности и поведения
+N16	Reference T88 UMLS:C0525045	аффективные расстройства
+N11	Reference T22 UMLS:C0005767	кровь
+N18	Reference T36 UMLS:C0018670	голова
+N12	Reference T38 UMLS:C0006104	мозг головной
+N13	Reference T39 UMLS:C0262405	мозговая дисфункция
+N15	Reference T41 UMLS:C1443045	
+N17	Reference T89 UMLS:NULL	
+N6	Reference T52 UMLS:C0860603	тревожные симптомы
+N19	Reference T43 UMLS:C3252126	
+N20	Reference T92 UMLS:NULL	
+N21	Reference T58 UMLS:C0302211	
+N22	Reference T59 UMLS:NULL	
+N23	Reference T103 UMLS:NULL	
+N24	Reference T30 UMLS:C0024467	магния
+N25	Reference T20 UMLS:C0024467	магния
+N26	Reference T29 UMLS:C0024467	магния
+N27	Reference T49 UMLS:C0024467	магния
+N28	Reference T23 UMLS:C0024467	магния
+N29	Reference T102 UMLS:C0024467	магния
+N30	Reference T60 UMLS:C0006012	пограничных психических расстройствах
+N31	Reference T16 UMLS:C0006012	пограничных психических расстройствах
+N32	Reference T26 UMLS:C0006012	пограничных психических расстройствах
+N33	Reference T66 UMLS:C0006012	пограничных психических расстройствах
+N34	Reference T28 UMLS:C0006012	пограничных психических расстройствах
+N35	Reference T32 UMLS:C0014792	эритроцитах
+N36	Reference T51 UMLS:C0014792	эритроцитах
+N37	Reference T50 UMLS:C0032105	плазме
+N38	Reference T34 UMLS:C0006104	мозг головной
+R49	VALUE_IS Arg1:T72 Arg2:T74	
+R52	HAS_CAUSE Arg1:T73 Arg2:T26	
+R28	HAS_CAUSE Arg1:T101 Arg2:T92	
+R56	FINDING_OF Arg1:T104 Arg2:T61	
+R57	ASSOCIATED_WITH Arg1:T60 Arg2:T104	
+R84	HAS_CAUSE Arg1:T106 Arg2:T63	
+R85	TREATED_USING Arg1:T61 Arg2:T63	
