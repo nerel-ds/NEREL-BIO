@@ -39,8 +39,8 @@ You can find the baseline solution in the [baseline_model](https://github.com/ne
 ## Submitting the results
 You need to register on the official [BioNNE Codalab page](https://codalab.lisn.upsaclay.fr/competitions/16464) in order to submit your results and see the leaderboard. Please note that your submission should only include the JSONL with your predictions archived in .zip format. 
 The span-level macro-averaged F1 will be used as an evaluation metric. 
-### Submition format
-According to Codalab rules, the submition format is .zip archive containing only one JSONL file. Make sure your archive doesn't have any hidden files, i.e. _.MACOS_).
+### Submission format
+According to Codalab rules, the submission format is .zip archive containing only one JSONL file. Make sure your archive doesn't have any hidden files, i.e. _.MACOS_).
 Each line in .jsonl file should consist of the predictions for one text from the dev/test set. The format of one JSON line containing the predictions is:
 ```
 {"entities":[[27,39,"CHEM"],[86,92,"DISO"],[109,131,"DISO"],[184,196,"CHEM"],[435,453,"PHYS"],...],
