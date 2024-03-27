@@ -6,9 +6,9 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 
 ## News
 
-`March 2024` Our paper about nested entity linking has been accepted to COLING 2024. For more information and new annotations, please visit https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn
+`March 2024` Our paper about **nested entity linking** has been accepted to COLING 2024. For more information and new annotations, please visit https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn
 
-`Ferbuary 2024` NEREL-BIO is being used as dataset for the BioNNE shared task, BioASQ workshop, CLEF 2024. For more information, please visit https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne
+`Ferbuary 2024` NEREL-BIO is being used as dataset for the BioNNE shared task on nested NER in English and Russian (BioASQ workshop, CLEF 2024). For more information, please visit https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne
 
 `November 2023` [![](https://img.shields.io/badge/AREkit--ss_Compatible-0.23.1-purple.svg)](https://github.com/nicolay-r/arekit-ss#usage) our collection is now available in [arekit-ss](https://github.com/nicolay-r/arekit-ss)
 > for a [quick sampling](https://github.com/nicolay-r/arekit-ss#usage) of contexts with most subject-object relation mentions with just single script into
