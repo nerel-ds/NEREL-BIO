@@ -35,11 +35,6 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 |12. | LABPROC | 25. | FACILITY |  | 
 |13. | LIVB | 26. | LOCATION |  | 
 
-[![](https://img.shields.io/badge/AREkit--ss_Compatible-0.23.1-purple.svg)](https://github.com/nicolay-r/arekit-ss#usage)
-
-> 📓 **Update 1 November 2023**: this collection **is now available in [arekit-ss](https://github.com/nicolay-r/arekit-ss)**
-> for a [quick sampling](https://github.com/nicolay-r/arekit-ss#usage) of contexts with most subject-object relation mentions with just **single script into
-> `JSONL/CSV/SqLite`** including (optional) language transfering 🔥 [[Learn more ...]](https://github.com/nicolay-r/arekit-ss#usage)
 
 ### Concept Normalization over Nested Entities
 
