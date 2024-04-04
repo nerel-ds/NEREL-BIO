@@ -1,0 +1,3 @@
+[submodule "nested-mcn/Fair-Evaluation-BERT"]
+	path = nested-mcn/Fair-Evaluation-BERT
+	url = https://github.com/alexeyev/Fair-Evaluation-BERT
