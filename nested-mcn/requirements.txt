@@ -1,0 +1,8 @@
+-e git+https://github.com/dmis-lab/BioSyn.git@6220acfae2467bef76addf634a0f45e4da9dd7fd#egg=biosyn
+nltk==3.8.1
+pandas==1.2.3
+scikit-learn
+scipy
+tokenizers==0.10.3
+torch==1.8.0
+transformers==4.11.3
