@@ -15,7 +15,7 @@ from nelbio.utils.nested_utils import check_query_label
 LOGGER = logging.getLogger(__name__)
 
 
-class NestedQueryDatasetV3(Dataset):
+class NestedQueryDataset(Dataset):
 
     def __init__(self, data_dir,
                  pad_nested=True,
@@ -265,13 +265,10 @@ class AbstractNestedDataset(ABC):
 
     def get_labels(self, query_idx, candidate_idx):
         nested_cuis = self.nested_entity_cuis[query_idx]
-        # print("candidate_idx", candidate_idx)
         (nested_depth, topk) = candidate_idx.shape
         assert topk == self.topk
         # <depth, topk>
         nested_candidate_cuis = self.dict_ids[candidate_idx.reshape((-1,))].reshape((nested_depth, topk))
-
-        # assert len(nested_cuis.shape) == 1
 
         assert len(nested_cuis) == nested_depth
 

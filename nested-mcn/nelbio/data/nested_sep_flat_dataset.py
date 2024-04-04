@@ -9,14 +9,14 @@ from torch.utils.data import Dataset, default_collate
 LOGGER = logging.getLogger(__name__)
 
 
-class NestedSepFlatCandidateDatasetV2(Dataset):
+class NestedSepFlatCandidateDataset(Dataset):
     """
     Candidate Dataset for:
         query_tokens, candidate_tokens, label
     """
 
     def __init__(self, sep_contexts, flat_queries, flat_cuis, n_m_list, dictionary, tokenizer, query_max_length,
-                 context_max_length, topk, d_ratio, s_score_matrix, s_candidate_idxs, add_nested_context_token):
+                 context_max_length, topk, d_ratio, s_score_matrix, s_candidate_idxs):
 
         """
         Retrieve top-k candidates based on sparse/dense embedding
@@ -38,9 +38,7 @@ class NestedSepFlatCandidateDatasetV2(Dataset):
         # assert nested_queries.shape == nested_entity_cuis.shape == entity_padding_masks.shape
         LOGGER.info(f"CandidateDataset! "
                     f"len(dicts)={len(dictionary)}, topk={topk}, d_ratio={d_ratio}")
-
-        self.add_nested_context_token = add_nested_context_token
-        self.context_sep_token = " [CXT] " if add_nested_context_token else " [SEP] "
+        self.context_sep_token = tokenizer.sep_token
 
         self.sep_contexts = sep_contexts
         self.flat_queries = flat_queries
@@ -93,7 +91,6 @@ class NestedSepFlatCandidateDatasetV2(Dataset):
                         max_query_length = max((len(ent) for ent in queries if ent != q))
                     query_nested_neighboring_mentions = [q, ] + [qq for qq in queries if
                                                                  q != qq and len(qq) >= max_query_length]
-                    # context_sep_token = " [CXT] " if add_nested_context_token else " [SEP] "
                     query_sep_mentions = context_sep_token.join(query_nested_neighboring_mentions)
 
                     flat_cuis.append(c)

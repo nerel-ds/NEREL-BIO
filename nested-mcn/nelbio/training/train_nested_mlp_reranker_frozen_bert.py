@@ -9,8 +9,8 @@ import numpy as np
 import torch
 from tqdm import tqdm
 
-from nelbio.data.nested_datasets import NestedQueryDatasetV3
-from nelbio.data.nested_sep_flat_dataset import NestedSepFlatCandidateDatasetV2
+from nelbio.data.nested_datasets import NestedQueryDataset
+from nelbio.data.nested_sep_flat_dataset import NestedSepFlatCandidateDataset
 from nelbio.models.nested_biosyn import NestedBioSyn
 from nelbio.models.nested_mlp_reranker import MLPReranker
 from nelbio.utils.io import load_dictionary_tuples, save_dict, load_biosyn_formated_sep_context_dataset
@@ -108,7 +108,7 @@ def load_queries(data_dir, filter_composite, filter_cuiless, pad_nested, drop_no
     filter_cuiless : bool
         filter samples with cuiless
     """
-    dataset = NestedQueryDatasetV3(
+    dataset = NestedQueryDataset(
         data_dir=data_dir,
         filter_composite=filter_composite,
         filter_cuiless=filter_cuiless,
@@ -226,7 +226,7 @@ def main(args):
                                                  cui_dictionary=train_vocab_cuis_set,
                                                  drop_duplicates=True,
                                                  drop_not_nested=True)
-
+    sep_token = biosyn.get_dense_tokenizer().sep_token
     if args.keep_longest_entity_only:
         new_sep_contexts = []
         new_n_m_list = []
@@ -236,15 +236,14 @@ def main(args):
                 new_n_m_list.append(nm)
             else:
                 longest_entity = max(nm, key=lambda t: len(t))
-                new_sp = f"{fq} [SEP] {longest_entity}"
+                new_sp = f"{fq} {sep_token} {longest_entity}"
                 new_nm = [fq, longest_entity]
                 new_sep_contexts.append(new_sp)
                 new_n_m_list.append(new_nm)
         sep_contexts = new_sep_contexts
         n_m_list = new_n_m_list
 
-
-    train_set = NestedSepFlatCandidateDatasetV2(
+    train_set = NestedSepFlatCandidateDataset(
         sep_contexts=sep_contexts,
         flat_cuis=flat_cuis,
         flat_queries=flat_queries,
@@ -253,10 +252,8 @@ def main(args):
         tokenizer=biosyn.get_dense_tokenizer(),
         query_max_length=args.query_max_length,
         context_max_length=args.context_max_length,
-        add_nested_context_token=False,
         topk=args.topk,
         d_ratio=args.dense_ratio,
-        keep_longest_entity_only=args.keep_longest_entity_only,
         s_score_matrix=None,
         s_candidate_idxs=None)
 

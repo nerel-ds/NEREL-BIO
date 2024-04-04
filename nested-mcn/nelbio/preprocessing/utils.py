@@ -97,13 +97,11 @@ def read_brat_annotation_file(input_path: str) -> Tuple[List[Entity], List[Relat
             elif entity_letter == "R":
                 # R79	FINDING_OF Arg1:T103 Arg2:T70
                 assert len(attrs) == 2
-                # print(line)
                 rel_type_and_arguments = attrs[1]
-                # print(rel_type_and_arguments)
                 rel_args_list = rel_type_and_arguments.split()
-                # print(rel_args_list)
+
                 assert len(rel_args_list) == 3
-                # print('--')
+
                 rel_type = rel_args_list[0]
                 rel_arg_1 = rel_args_list[1]
                 rel_arg_2 = rel_args_list[2]
