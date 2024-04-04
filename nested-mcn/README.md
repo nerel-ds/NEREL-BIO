@@ -26,9 +26,10 @@ To run non-nested evaluation on our dataset, you can run a evaluation script fro
 
 ```bash
 cd Fair-Evaluation-BERT/
-eval_bert_ranking.py --model_dir ${MODEL_NAME} \
-                     --data_folder ../data/biosyn_format/random_split/test/ \
-                     --vocab ../data/dictionary/vocab_umls_rus_biosyn.txt
+eval_bert_ranking.py \
+--model_dir ${MODEL_NAME} \
+--data_folder ../data/biosyn_format/random_split/test/ \
+--vocab ../data/dictionary/vocab_umls_rus_biosyn.txt
 
 ```
 
