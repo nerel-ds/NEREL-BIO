@@ -10,4 +10,20 @@ Normalization dictionary is available [here](https://github.com/nerel-ds/NEREL-B
 
 ## Nested normalization baselines
 
-Source code for nested entity normalization will be released shortly.
+Source code for our nested entity normalization is available at [nelbio/](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/nelbio) directory. 
+
+
+## Evaluation
+
+To run non-nested evaluation on our dataset, you can run a evaluation script from [Fair-Evaluation-BERT repository](https://github.com/alexeyev/Fair-Evaluation-BERT.git):
+
+```bash
+cd Fair-Evaluation-BERT/
+eval_bert_ranking.py --model_dir ${MODEL_NAME} \
+                         --data_folder ../data/biosyn_format/random_split/test/ \
+                         --vocab ../data/dictionary/vocab_umls_rus_biosyn.txt
+
+```
+
+
+
