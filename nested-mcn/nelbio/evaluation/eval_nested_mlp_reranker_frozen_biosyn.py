@@ -6,7 +6,7 @@ import os
 import torch
 from transformers import AutoModel, AutoTokenizer
 
-from nelbio.data.nested_sep_flat_dataset import NestedSepEvaluationQueryDatasetV2
+from nelbio.data.nested_sep_flat_dataset import NestedSepEvaluationQueryDataset
 from nelbio.models.nested_biosyn import NestedBioSyn
 from nelbio.models.nested_mlp_reranker import MLPReranker
 from nelbio.utils.io import load_dict, load_dictionary_tuples, load_biosyn_formated_sep_context_dataset
@@ -37,7 +37,6 @@ def parse_args():
     parser.add_argument('--eval_batch_size', type=int, default=8)
     parser.add_argument('--drop_not_nested', action="store_true", help="Drops all non-nested entities")
     parser.add_argument('--dense_encoder_score_type', type=str, choices=("matmul", "cosine"), required=False)
-    parser.add_argument('--add_nested_context_token', action="store_true")
     parser.add_argument('--drop_cuiless', action="store_true")
 
     parser.add_argument('--force_flat', action="store_true")
@@ -67,21 +66,10 @@ def main(args):
 
     experiment_cfg_dict = load_dict(args.model_config_path)
 
-    local_add_nested_context_token_flag = args.add_nested_context_token
-    exp_cfg_add_nested_cxt_token_flag = experiment_cfg_dict.get("add_nested_context_token", "False")
     keep_longest_entity_only = experiment_cfg_dict.get("keep_longest_entity_only", "False")
     keep_longest_entity_only = True if keep_longest_entity_only.strip() == "True" else False
     sep_pooling = experiment_cfg_dict.get("sep_pooling", "cls")
     force_flat_flag = args.force_flat
-
-    if local_add_nested_context_token_flag:
-        exp_cfg_add_nested_cxt_token_flag = exp_cfg_add_nested_cxt_token_flag.strip() == "True"
-        assert exp_cfg_add_nested_cxt_token_flag == local_add_nested_context_token_flag
-    else:
-        assert exp_cfg_add_nested_cxt_token_flag.strip() == "False"
-        exp_cfg_add_nested_cxt_token_flag = False
-    context_sep_token = " [CXT] " if exp_cfg_add_nested_cxt_token_flag else " [SEP] "
-    logging.info(f"Using context separator {context_sep_token}")
 
     # load dictionary and data
     eval_dictionary = load_dictionary_tuples(inp_path=args.dictionary_path)
@@ -97,6 +85,7 @@ def main(args):
 
     bert_encoder = AutoModel.from_pretrained(args.model_name_or_path)
     bert_tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
+    context_sep_token = bert_tokenizer.sep_token
 
     biosyn = NestedBioSyn(
         max_length=args.query_max_length,
@@ -120,14 +109,14 @@ def main(args):
                 new_n_m_list.append(nm)
             else:
                 longest_entity = max(nm, key=lambda t: len(t))
-                new_sp = f"{fq} [SEP] {longest_entity}"
+                new_sp = f"{fq} {context_sep_token} {longest_entity}"
                 new_nm = [fq, longest_entity]
                 new_sep_contexts.append(new_sp)
                 new_n_m_list.append(new_nm)
         sep_contexts = new_sep_contexts
         n_m_list = new_n_m_list
 
-    eval_query_dataset = NestedSepEvaluationQueryDatasetV2(
+    eval_query_dataset = NestedSepEvaluationQueryDataset(
         sep_contexts=sep_contexts,
         flat_queries=flat_queries,
         flat_cuis=flat_cuis,
@@ -151,7 +140,7 @@ def main(args):
                         sparse_weight=biosyn.get_sparse_weight(),
                         dense_encoder_score_type=args.dense_encoder_score_type,
                         sep_pooling=sep_pooling,
-                        ).to(device)
+                        mlp_lr=1e-3).to(device)
     model.load_model(args.model_name_or_path)
 
     result_evalset = evaluate_nested_flat_reranker(

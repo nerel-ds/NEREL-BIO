@@ -284,7 +284,7 @@ class NestedSepFlatCandidateDataset(Dataset):
         return len(self.flat_queries)
 
 
-class NestedSepEvaluationQueryDatasetV2(Dataset):
+class NestedSepEvaluationQueryDataset(Dataset):
     """
     Candidate Dataset for:
         query_tokens, candidate_tokens, label
