@@ -10,7 +10,8 @@ We release biomedical entity normalization annotation over Russian nested entiti
 
 * [BRAT format](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/data/brat);
 
-* [BioSyn](https://github.com/dmis-lab/BioSyn)-compatible format.
+* [BioSyn-compatible format](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/data/biosyn_format). For more details, see [BioSyn repository](https://github.com/dmis-lab/BioSyn)
+
 
 Entities are normalized to [UMLS metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html). In UMLS, a  biomedical concept is assigned a Concept Unique Identifier (CUI) and a list of concept names in multiple languages.
 Normalization dictionary (derived from the Russian UMLS subpart) is available [here](https://github.com/nerel-ds/NEREL-BIO/blob/master/nested-mcn/data/dictionary/vocab_umls_rus_biosyn.txt). Each line of the dictionary of <CUI, concept name> pairs separated with "||" string.
