@@ -10,3 +10,6 @@ Finally, run the script by simply using
 python score.py input output
 ```
 You will see the macro-f1 score in the output/scores.txt
+
+### brat2json conversion
+brat2json.ipynb will help you to convert BRAT files to .jsonl file suitable for the submission.

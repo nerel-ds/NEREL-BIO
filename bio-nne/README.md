@@ -52,6 +52,8 @@ Each line in .jsonl file should consist of the predictions for one text from the
  - "id" is the id (name) of the corresponding .txt and .ann files;
  - "text" is the medical abstract from the corresponding .txt file.
 
+Notebook evaluation/brat2json.ipynb will help you to convert BRAT files to .jsonl file suitable for the submission.
+
 You should submit your results [here](https://codalab.lisn.upsaclay.fr/competitions/16464#participate-submit_results) (available after registration). Make sure you choose the right competition phase (bilingual/English/Russian + development or test) for each of your submissions. 
 
 ## Timeline
