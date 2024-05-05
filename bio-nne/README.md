@@ -41,7 +41,7 @@ You need to register on the official [BioNNE Codalab page](https://codalab.lisn.
 The span-level macro-averaged F1 will be used as an evaluation metric. 
 ### Submission format
 According to Codalab rules, the submission format is .zip archive containing only one JSONL file. Make sure your archive doesn't have any hidden files, i.e. _.MACOS_).
-Each line in .jsonl file should consist of the predictions for one text from the dev/test set. The format of one JSON line containing the predictions is:
+Each line in .jsonl file should consist of the predictions for one text from the dev/test set. Please note that all of the texts from test set should be in your .jsonl file. The format of one JSON line containing the predictions is:
 ```
 {"entities":[[27,39,"CHEM"],[86,92,"DISO"],[109,131,"DISO"],[184,196,"CHEM"],[435,453,"PHYS"],...],
 "id":"25591652_en",
