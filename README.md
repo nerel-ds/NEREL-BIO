@@ -35,15 +35,13 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 |12. | LABPROC | 25. | FACILITY |  | 
 |13. | LIVB | 26. | LOCATION |  | 
 
-
-### Concept Normalization over Nested Entities
-
-We release entity normalization annotation over nested entities, [see](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/data).
-
 ### Baselines for nested entities
  - [Machine Reading Comprehension model](https://github.com/fulstock/mrc_nested_ner_ru)
  - [Second-best Sequence model](https://github.com/fulstock/second-best-learning-and-decoding-rubert)
 
+## Concept Normalization over Nested Entities
+
+We release entity normalization (entity linking) annotation over nested entities, [see](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/data).
 
 ### Citation
 Loukachevitch N., Manandhar S., Baral E., Rozhkov I., Braslavski P., Ivanov V., Batura T., Tutubalina E. NEREL-BIO: a dataset of biomedical abstracts annotated with nested named entities. Bioinformatics. 2023. Volume 39, Issue 4, btad161. https://doi.org/10.1093/bioinformatics/btad161
