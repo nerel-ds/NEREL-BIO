@@ -52,6 +52,7 @@ python biosyn/train.py \
 --max_length 25 \
 --dense_ratio 0.5
 ```
+For evaluation of a fine-tuned BioSyn model on the test, you can run:
 
 ```bash
 mkdir eval_results_biosyn/sapbert/checkpoint_20/
@@ -66,6 +67,8 @@ python biosyn/eval.py \
     --save_predictions \
     --score_mode hybrid
 ```
+
+### Nested normalization baselines
 
 Originally, BioSyn adopts two similarity scores to iteratively update candidates given a mention:
 
