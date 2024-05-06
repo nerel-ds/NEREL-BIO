@@ -51,7 +51,20 @@ python biosyn/train.py \
 --learning_rate 1e-5 \
 --max_length 25 \
 --dense_ratio 0.5
+```
 
+```bash
+mkdir eval_results_biosyn/sapbert/checkpoint_20/
+python biosyn/eval.py \
+    --model_name_or_path pretrained_biosyn/sapbert/checkpoint_20/ \
+    --dictionary_path nested-mcn/data/dictionary/vocab_umls_rus_biosyn.txt \
+    --data_dir nested-mcn/data/biosyn_format/random_split/test/ \
+    --output_dir eval_results_biosyn/sapbert/checkpoint_20/ \
+    --use_cuda \
+    --topk 20 \
+    --max_length 25 \
+    --save_predictions \
+    --score_mode hybrid
 ```
 
 Originally, BioSyn adopts two similarity scores to iteratively update candidates given a mention:
@@ -65,6 +78,8 @@ In our paper, we propose two simple baselines for nested entity normalization th
 1. Reranking baseline: a small fully-connected network is trained to rerank top candidates produced by frozen BioSyn;
 
 2. Addition of the third BERT-based similarity score to Biosyn that takes a concatenation of a mention $m$ and the longest mention $m'$ such that $m \in m'$.
+
+Please see [training](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/sh/train) and [evaluation](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/sh/eval) scripts for these baselines.
 
 
 
