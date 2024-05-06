@@ -4,5 +4,5 @@ pandas==1.2.3
 scikit-learn
 scipy
 tokenizers==0.10.3
-torch==1.8.0
+torch==1.11.0+cu113
 transformers==4.11.3
