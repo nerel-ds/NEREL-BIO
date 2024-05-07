@@ -59,7 +59,7 @@ You should submit your results [here](https://codalab.lisn.upsaclay.fr/competiti
 ## Timeline
 Phase |	Dates
 --- | --
-Registration opens |	~~13 Nov 2023 ~~
+Registration opens |	~~13 Nov 2023~~
 Training Data Release |	~~5 Feb 2024~~
 Test data release, evaluation phase starts | ~~25 April 2024~~
 Test set predictions due | ~~6 May 2024~~ 15 May 2024
