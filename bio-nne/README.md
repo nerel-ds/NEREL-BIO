@@ -23,6 +23,8 @@ The train/dev splits are based on an improved subset of NEREL-BIO dataset. In pa
 
 In order to download our train/dev splits with annotations in English and Russian for BioNNE 2024, please register at the [BioASQ](http://participants-area.bioasq.org/#) website.
 
+A novel test set for the shared task consists of 154 abstracts in English and Russian. To avoid manual annotation, 346 extra files will be added for each language during the prediction phrase, resulting in 500 abstracts for each of the target languages.
+
 We strongly encourage participants to apply cross-language (Russian to English) and cross-domain (existing bio NER corpora to the BioNNE set) techniques in the BioNNE Task.
 For example, you can use the following datasets:
 
