@@ -58,3 +58,33 @@ Loukachevitch N., Manandhar S., Baral E., Rozhkov I., Braslavski P., Ivanov V., 
     note = {btad161},
 }
 ```
+
+Our papers on entity linking annotations and BioNNE shared task:
+```
+@CONFERENCE{Loukachevitch20242383,
+	author = {Loukachevitch, Natalia and Sakhovskiy, Andrey and Tutubalina, Elena},
+	title = {Biomedical Concept Normalization over Nested Entities with Partial UMLS Terminology in Russian},
+	year = {2024},
+	journal = {2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024 - Main Conference Proceedings},
+	pages = {2383 – 2389},
+}
+
+@CONFERENCE{Davydova202428,
+    author = {Davydova, Vera and Loukachevitch, Natalia and Tutubalina, Elena},
+    title = {Overview of BioNNE Task on Biomedical Nested Named Entity Recognition at BioASQ 2024},
+    year = {2024},
+    journal = {CEUR Workshop Proceedings},
+    volume = {3740},
+    pages = {28 – 34}
+}
+
+@ARTICLE{Nentidis2024490,
+    author = {Nentidis, Anastasios and Krithara, Anastasia and Paliouras, Georgios and Krallinger, Martin and Sanchez, Luis Gasco and Lima, Salvador and Farre, Eulalia and Loukachevitch, Natalia and Davydova, Vera and Tutubalina, Elena},
+    title = {BioASQ at CLEF2024: The Twelfth Edition of the Large-Scale Biomedical Semantic Indexing and Question Answering Challenge},
+    year = {2024},
+    journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+    volume = {14612 LNCS},
+    pages = {490 – 497},
+    doi = {10.1007/978-3-031-56069-9_67}
+}
+```
