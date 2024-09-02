@@ -2,8 +2,9 @@
 
 This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abstracts in Russian and in English. NEREL-BIO extends the general domain dataset [NEREL](https://github.com/nerel-ds/NEREL). [NEREL-BIO annotation scheme](https://github.com/nerel-ds/NEREL-BIO/blob/master/nerel-bio-guidelines.pdf) covers both general and biomedical domains making it suitable for domain transfer experiments. 
 
+<p align="center">
 <img src="nerel-bio.png" width="450">
-
+</p>
 ## News
 
 `March 2024` Our paper about **nested entity linking** has been accepted to COLING 2024. For more information and new annotations, please visit https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn
