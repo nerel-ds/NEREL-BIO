@@ -65,9 +65,9 @@ Registration opens |	~~13 Nov 2023~~
 Training Data Release |	~~5 Feb 2024~~
 Test data release, evaluation phase starts | ~~25 April 2024~~
 Test set predictions due | ~~6 May 2024~~ 15 May 2024
-Submission of participant papers  | 31 May 2024
-Acceptance notification for participant papers | 24 June 2024
-Camera-ready working notes papers | 8 July 2024
+Submission of participant papers  | ~~31 May 2024~~
+Acceptance notification for participant papers | ~~24 June 2024~~
+Camera-ready working notes papers | ~~8 July 2024~~
 BioASQ Workshop at CLEF 2024, Grenoble, France | September 9-12, 2024
 
 See also important dates on the [CLEF 2024](https://clef2024.imag.fr/index.php?page=Pages/schedule.html) website.
