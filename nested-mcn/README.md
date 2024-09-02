@@ -84,6 +84,30 @@ In our paper, we propose two simple baselines for nested entity normalization th
 
 Please see [training](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/sh/train) and [evaluation](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn/sh/eval) scripts for these baselines.
 
+### Citation
+Loukachevitch, N., Sakhovskiy, A., & Tutubalina, E. (2024, May). Biomedical Concept Normalization over Nested Entities with Partial UMLS Terminology in Russian. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 2383-2389).
+https://aclanthology.org/2024.lrec-main.213.pdf
 
-
-
+```
+@CONFERENCE{Loukachevitch20242383,
+	author = {Loukachevitch, Natalia and Sakhovskiy, Andrey and Tutubalina, Elena},
+	title = {Biomedical Concept Normalization over Nested Entities with Partial UMLS Terminology in Russian},
+	year = {2024},
+	journal = {2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024 - Main Conference Proceedings},
+	pages = {2383 – 2389},
+}
+```
+See also
+```
+@article{NERELBIO,
+    author = {Loukachevitch, Natalia and Manandhar, Suresh and Baral, Elina and Rozhkov, Igor and Braslavski, Pavel and Ivanov, Vladimir and Batura, Tatiana and Tutubalina, Elena},
+    title = "{NEREL-BIO: A Dataset of Biomedical Abstracts Annotated with Nested Named Entities}",
+    journal = {Bioinformatics},
+    year = {2023},
+    month = {04},
+    issn = {1367-4811},
+    doi = {10.1093/bioinformatics/btad161},
+    url = {https://doi.org/10.1093/bioinformatics/btad161},
+    note = {btad161},
+}
+```
