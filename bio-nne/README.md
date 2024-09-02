@@ -78,3 +78,27 @@ Vera Davydova, Sber AI, email: veranchos@gmail.com
 Dr. Elena Tutubalina, Artificial Intelligence Research Institute (AIRI), email: tutubalinaev@gmail.com
 
 Dr. Natalia Loukachevitch, Research Computing Center of Lomonosov Moscow State University (MSU), email: louk_nat@mail.ru
+
+### Citation
+Davydova, Vera and Loukachevitch, Natalia and Tutubalina, Elena. Overview of BioNNE Task on Biomedical Nested Named Entity Recognition at BioASQ 2024. CLEF Working Notes. 2024 https://ceur-ws.org/Vol-3740/paper-03.pdf
+
+```
+@CONFERENCE{Davydova202428,
+    author = {Davydova, Vera and Loukachevitch, Natalia and Tutubalina, Elena},
+    title = {Overview of BioNNE Task on Biomedical Nested Named Entity Recognition at BioASQ 2024},
+    year = {2024},
+    journal = {CEUR Workshop Proceedings},
+    volume = {3740},
+    pages = {28 – 34}
+}
+
+@ARTICLE{Nentidis2024490,
+    author = {Nentidis, Anastasios and Krithara, Anastasia and Paliouras, Georgios and Krallinger, Martin and Sanchez, Luis Gasco and Lima, Salvador and Farre, Eulalia and Loukachevitch, Natalia and Davydova, Vera and Tutubalina, Elena},
+    title = {BioASQ at CLEF2024: The Twelfth Edition of the Large-Scale Biomedical Semantic Indexing and Question Answering Challenge},
+    year = {2024},
+    journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+    volume = {14612 LNCS},
+    pages = {490 – 497},
+    doi = {10.1007/978-3-031-56069-9_67}
+}
+```
