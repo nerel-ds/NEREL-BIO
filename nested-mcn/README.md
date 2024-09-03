@@ -2,6 +2,10 @@
 
 This folder is devoted to a novel dataset for nested entity linking in Russian that is described in "Biomedical Concept Normalization over Nested Entities with Partial UMLS Terminology in Russian" paper accepted to LREC-COLING 2024. Here, we release our data as well as source code for preprocessing and simple baselines.
 
+Here is our poster presented at COLING 2024 (see ![paper](https://aclanthology.org/2024.lrec-main.213.pdf)):
+<p align="center">
+<img src="https://github.com/nerel-ds/NEREL-BIO/blob/master/nested-mcn/COLING_NEREL_BIO_POSTER.png" width="800">
+</p>
 
 
 ## Data
