@@ -125,7 +125,7 @@ TBA
 
 ### Submission Format
 
-The prediction files is expected to be TSV-formatted file with 4 columns: (1) `document_id`, (2) `spans`, (3) `rank`, (4) `prediction`.
+A prediction file is expected to be as TSV with 4 columns: (1) `document_id`, (2) `spans`, (3) `rank`, (4) `prediction`.
 
 * `document_id` and `spans` values should match the ones given in the unlabeled data. The concatenation of these two fields serves as a **unique primary key** clearly defining an underlying entity. So, **make sure you do not modify the provided document identifiers and entity spans**.
 
