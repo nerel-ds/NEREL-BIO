@@ -2,9 +2,12 @@
 
 This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abstracts in Russian and in English. NEREL-BIO extends the general domain dataset [NEREL](https://github.com/nerel-ds/NEREL). [NEREL-BIO annotation scheme](https://github.com/nerel-ds/NEREL-BIO/blob/master/nerel-bio-guidelines.pdf) covers both general and biomedical domains making it suitable for domain transfer experiments. 
 
+<p align="center">
 <img src="nerel-bio.png" width="450">
-
+</p>
 ## News
+
+`September 2024` Our paper ["Overview of BioNNE Task on Biomedical Nested Named Entity Recognition at BioASQ 2024"](https://ceur-ws.org/Vol-3740/paper-03.pdf) has been published at CLEF 2024. 
 
 `March 2024` Our paper about **nested entity linking** has been accepted to COLING 2024. For more information and new annotations, please visit https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn
 
@@ -56,5 +59,35 @@ Loukachevitch N., Manandhar S., Baral E., Rozhkov I., Braslavski P., Ivanov V., 
     doi = {10.1093/bioinformatics/btad161},
     url = {https://doi.org/10.1093/bioinformatics/btad161},
     note = {btad161},
+}
+```
+
+Our papers on entity linking annotations and BioNNE shared task:
+```
+@CONFERENCE{Loukachevitch20242383,
+	author = {Loukachevitch, Natalia and Sakhovskiy, Andrey and Tutubalina, Elena},
+	title = {Biomedical Concept Normalization over Nested Entities with Partial UMLS Terminology in Russian},
+	year = {2024},
+	journal = {2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024 - Main Conference Proceedings},
+	pages = {2383 – 2389},
+}
+
+@CONFERENCE{Davydova202428,
+    author = {Davydova, Vera and Loukachevitch, Natalia and Tutubalina, Elena},
+    title = {Overview of BioNNE Task on Biomedical Nested Named Entity Recognition at BioASQ 2024},
+    year = {2024},
+    journal = {CEUR Workshop Proceedings},
+    volume = {3740},
+    pages = {28 – 34}
+}
+
+@ARTICLE{Nentidis2024490,
+    author = {Nentidis, Anastasios and Krithara, Anastasia and Paliouras, Georgios and Krallinger, Martin and Sanchez, Luis Gasco and Lima, Salvador and Farre, Eulalia and Loukachevitch, Natalia and Davydova, Vera and Tutubalina, Elena},
+    title = {BioASQ at CLEF2024: The Twelfth Edition of the Large-Scale Biomedical Semantic Indexing and Question Answering Challenge},
+    year = {2024},
+    journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+    volume = {14612 LNCS},
+    pages = {490 – 497},
+    doi = {10.1007/978-3-031-56069-9_67}
 }
 ```
