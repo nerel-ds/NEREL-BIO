@@ -1,0 +1,16 @@
+[Impact of bosentan therapy on stress-induced pulmonary hypertension in patients with systemic sclerosis]. 
+AIM To describe hemodynamic and clinical changes in patients with elevated mean pulmonary artery pressure (MPAP) > 30 mm Hg during exercise and the impact of bosentan therapy on stress-induced pulmonary hypertension (SIPH).  
+SUBJECTS AND METHODS The study included 19 patients with systemic sclerosis (SDS) in whom possible causes of pulmonary hypertension (PH) (lung and left heart injuries and thromboembolism) were excluded. 
+All the patients underwent pulmonary artery catheterization at rest and during exercise.  
+The hemodynamic (right atrial pressure (RAP), systolic and diastolic pressure, MPAP, pulmonary artery wedge pressure (PAWP), cardiac output (CO) by a thermodilution technique), clinical (demographic, immunological, and instrumental) parameters were analyzed and the risk of pulmonary arterial hypertension (PAH) was also calculated; 5 patients with SIPH received 16-week bosentan therapy according to the conventional regimen. 
+RESULTS Ten of the 19 patients were at increased risk for PAH in accordance with the DETECT scale, but no signs of PH at resting catheterization were found in anybody. 
+In 5 patients, MPAP, was in the range from 21 to 24 mm Hg; in 9 (47%) patients were found to have SIPH, a median MPAP of 35 (32; 41) mm Hg.  
+Seven patients had no diagnostic changes during exercise; 3 patients could not perform an exercise test. 
+There were correlations between MPAP and DETECT risk scores (p < 0.05). 
+The patients with SIPH had significantly higher levels of resting MPAP and exercise pulmonary vascular resistance (PVR) and PAWP. 
+The calculated DETECT risk was significantly higher in the SIPH group. 
+The level of uric acid was also higher in the SIPH group (p < 0.05). 
+There were no changes in NT-proBNP levels, telangiectasias and anti-centromere antibodies, and EchoCG and lung test results. 
+During 16-week bosentan therapy, there was a significant decrease in MPAP and transpulmonary gradient during exercise, but PVR, MPAP/CO ratio and NT-proBNP levels tended to decrease. 
+CONCLUSION In the patients with SDS, SIPH may be a stage of pulmonary vasculopathy that precedes the development of clinical PAH. 
+The use of current PAH-specific drugs used at the preclinical stage of the disease may substantially improve lifetime prognosis in patients with SDS-associated PAH. 
