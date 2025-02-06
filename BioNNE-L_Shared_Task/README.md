@@ -2,6 +2,10 @@
 
 The repository is devoted to the **BioNNE-L** (**Bio**medical **N**ested **N**amed **E**ntity **L**inking) Shared Task within the [BioASQ 2025 Workshop](https://www.bioasq.org/workshop2025) co-located with [CLEF 2025](https://clef2025.clef-initiative.eu).
 
+<p align="center">
+<img src="https://github.com/nerel-ds/NEREL-BIO/blob/master/bio-nne/annotation_example.png?raw=true" width="70%">
+</p>
+
 
 ## Shared Task Overview
 
