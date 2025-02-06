@@ -146,6 +146,20 @@ We address the BioNNE-L as a retrieval task: given a mention, a model must retri
 
 where $E$ is the set of entities, $|E|$ is the number of entities, $rank_{e}$ is the rank of the first correctly retrieved concept among top-k retrieved concepts.
 
+## Important Dates:
+
+
+| Phase                                      | Date             |
+|--------------------------------------------|------------------|
+| Training Data Release                       | 5 Feb 2025       |
+| Dev data release, Development phase start   | 19 Feb 2025      |
+| Test data release, Evaluation phase start | 25 April 2025    |
+| Test set predictions due                    | 6 May 2025       |
+| Submission of participant papers            | 31 May 2025      |
+| Acceptance notification for participant papers | 24 June 2025     |
+| Camera-ready working notes papers         | 8 July 2025      |
+| BioASQ Workshop at [CLEF 2025](https://clef2025.clef-initiative.eu)              | September 9-12, 2025 |
+
 
 
 
