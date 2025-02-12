@@ -7,6 +7,8 @@ This project presents NEREL-BIO -- an annotation scheme and corpus of PubMed abs
 </p>
 ## News
 
+`Ferbuary 2025` We are pleased to announce the BioNNE-L (Biomedical Nested Named Entity Linking) Shared Task which will take place during the BioASQ 2025 Workshop co-located with CLEF 2025 hosted at Madrid, Spain, 9-12 September 2025. For more information, please visit [https://github.com/nerel-ds/NEREL-BIO/tree/master/bio-nne](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-L_Shared_Task)
+
 `September 2024` Our paper ["Overview of BioNNE Task on Biomedical Nested Named Entity Recognition at BioASQ 2024"](https://ceur-ws.org/Vol-3740/paper-03.pdf) has been published at CLEF 2024. 
 
 `March 2024` Our paper about **nested entity linking** has been accepted to COLING 2024. For more information and new annotations, please visit https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn
