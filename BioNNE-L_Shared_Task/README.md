@@ -117,7 +117,7 @@ C5399736	CHEM	    Serotonin-4 Receptor Agonist
 
 ## Baseline Solution
 
-TBA
+As an example of BERT encoder-based baseline, you can address the [original work](https://github.com/nerel-ds/NEREL-BIO/tree/master/nested-mcn) on NEREL-BIO corpus.
 
 ## Evaluation
 
