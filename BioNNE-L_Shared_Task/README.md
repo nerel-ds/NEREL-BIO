@@ -92,6 +92,8 @@ In our work, we collect the bilingual concept vocabulary derived from English an
 
 `CUI` - UMLS CUI;
 
+`lang` - Concept name's source language: either ENG or RUS;
+
 `semantic_type` - Concept's semantic type (DISO/CHEM/ANATOMY);
 
 `concept_name` is a textual concept name derived from UMLS. Each concept can have multiple vocabular entries with different names but sharing the same CUI.
@@ -101,18 +103,18 @@ Here are some vocabular entity examples:
 
 
 ```
-CUI	    semantic_type   concept_name
+CUI	    lang    semantic_type  concept_name
 -------------------------------------------------
-C0018995	DISO	    Hematochromatosis
-C0018995	DISO	    Bronze diabetes (disorder)
-C0018995	DISO	    Cirrhosis, Pigmentary
-C0018995	DISO	    Гемохроматоз
-C0018995	DISO	    Цирроз пигментный
-C0018995	DISO	    Сидерофилия
-C0018995	DISO	    Диабет бронзовый
-C5399736	CHEM	    Serotonin-4 Receptor Agonist [EPC]
-C5399736	CHEM	    Serotonin 5-Hydroxytryptamine-4 Receptor Agonist
-C5399736	CHEM	    Serotonin-4 Receptor Agonist
+C0018995    ENG	        DISO	    Hematochromatosis
+C0018995    ENG    	DISO	    Bronze diabetes (disorder)
+C0018995    ENG    	DISO	    Cirrhosis, Pigmentary
+C0018995    RUS	        DISO	    Гемохроматоз
+C0018995    RUS	        DISO	    Цирроз пигментный
+C0018995    RUS	        DISO	    Сидерофилия
+C0018995    RUS    	DISO	    Диабет бронзовый
+C5399736    ENG    	CHEM	    Serotonin-4 Receptor Agonist [EPC]
+C5399736    ENG    	CHEM	    Serotonin 5-Hydroxytryptamine-4 Receptor Agonist
+C5399736    ENG    	CHEM	    Serotonin-4 Receptor Agonist
 ```
 
 ## Baseline Solution
