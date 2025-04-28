@@ -1,0 +1,10 @@
+[Value of the expression of Ki-67 and membrane protein glucose transporter GLUT1 in the diagnosis of neoplastic transformation of the oral mucosal epithelium].  AIM  to investigate the expression of GLUT1 protein in relation to the proliferative activity of cells and the degree of neoplastic transformation of the epithelium of the oral mucosa (OM).
+SUBJECTS AND METHODS
+OM biopsies from 44 patients were investigated.
+14 cases (31.9%) were diagnosed with focal epithelial hyperplasia of the OM; 13 (29.5%) cases had squamous intraepithelial neoplasia (SIN) and 17 (38.6%) had squamous cell carcinoma.
+Ten intact MO samples were used as a control group.
+Tissue antigens were determined using mouse monoclonal antibodies to Ki-67 and rabbit antibodies to GLUT1.
+RESULTS
+A direct correlation was found between the intensity of GLUT1 expression on the oral epithelial cell membranes and the proliferative activity of cells with an increase in the phenomena of cellular atypia.
+CONCLUSION
+GLUT1 may be used as a marker for the early diagnosis of neoplastic transformation of stratified squamous epithelial cells.

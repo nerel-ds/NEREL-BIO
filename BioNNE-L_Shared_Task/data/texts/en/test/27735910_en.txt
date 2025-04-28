@@ -1,0 +1,12 @@
+[Optimizing the prophylaxis of hospital-acquired deep vein thrombosis and pulmonary thromboembolism].
+AIM  To reduce the number of preventable hospital-acquired venous thromboembolic events (HA-VTE) and to improve the quality of VTE prophylaxis at multiprofile hospital.
+MATERIAL AND METHODS
+A comprehensive approach to preventing HA-VTE was developed, which involved the global trigger tool method to assess adverse events, as well as the computerized clinical decision support system (CDSS) to prevent HA-VTE on the basis of relevant clinical practice guidelines, and HA-VTE registry.
+RESULTS
+A total of 50 patients (15 men, 35 women; their median age was 70.5 years) with HA-VTE were included in the HA-VTE registry in January 2014 to June 2015.
+Assessment of a trend in the prevalence of HA-VTE when introducing CDSS to prevent VTE showed its statistically significant decline in the total number of HA-VTE cases (χ2=7.325, df=1; p=0.0068) and in that of HA-VTE in surgical patients (χ2=7.266, df=1; p=0.0070).
+The statistical significance of χ2 for linear trend was not achieved for medical patients, which is probably due to the small sample size (χ2=2.764, df=1; p=0.0964).
+While introducing CDSS, there was a statistically significant reduction in the incidence of postoperative VTE from 8.76 to 4.17 cases per 1000 interventions (χ2=5.347, df=1; p=0.0208; the absolute values of HA-VTE and surgical interventions were used for the calculation).
+CONCLUSION
+The proposed comprehensive approach can substantially increase the detection rate of HA-VTE and decrease its incidence rates.
+This requires a personified assessment of the risk of VTE and hemorrhage in all hospitalized patients on day 1 of their admission, timely initiation of recommended VTE prophylaxis, and dynamic assessment of the risk of VTE and hemorrhage for timely correction of the prophylaxis.

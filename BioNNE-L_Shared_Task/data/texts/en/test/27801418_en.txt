@@ -1,0 +1,16 @@
+[Latent autoimmune diabetes of adults (LADA): The informative value of autoantibodies].
+AIM  To investigate the prevalence of autoantibodies (autoAbs) associated with the development of type 1 diabetes mellitus (T1DM) in latent autoimmune diabetes of adults (LADA) in the Russian Federation.
+SUBJECTS AND METHODS
+A total of 96 patients (46 women and 50 men) with LADA were examined.
+All the patients underwent an immunological examination including the determination of autoAbs, such as glutamic acid decarboxylase autoAbs (GADA), islet antigen-2 auto-Abs (IA-2A), islet cell cytoplasmic auto-Abs (ICA), zinc transporter 8 auto-Abs (ZnT8A), and insulin auto-Abs (IAA).
+RESULTS
+GADAs were found in 61.5% of the examinees.
+ICAs were detected in 24%, IA-2As were observed in 57.3%.
+AutoAbs were more frequently observed in combination than alone.
+IAAs were least commonly seen in 8.3% and only in combinations.
+ZnT8As were found in 52.1% of the examinees and they were present alone in 5.2%.
+CONCLUSION
+The antibodies that are most frequently observed in LADA are GADAs, IA-2As and ZnT8As.
+It is insufficient to identify only GADAs, as the latter are found in only 61.5% of the patients.
+IA-2As and ZnT8As, which are present in 57.3% and 52.1% of the patients, respectively, should also be used in the diagnosis of LADA.
+ICAs are much less commonly seen and along with IAAs may be additional markers for LADA.

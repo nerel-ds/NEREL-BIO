@@ -1,0 +1,13 @@
+[Role of polymorphic markers for the genes of hemostasis and platelet receptors in liver fibrosis progression in patients with chronic hepatitis C].
+AIM  to estimate the clinical and prognostic value of the carriage of different allele variants of the gene polymorphisms of the coagulation system and platelet receptors in the progression of liver fibrosis (LF) in patient with chronic hepatitis C (CHC).
+SUBJECTS AND METHODS
+The investigation enrolled 177 patients with CHC and liver cirrhosis at its outcome who were divided into 2 groups according to the rate of LF progression: 1) 89 patients with rapid (rapid fibrosis) and 2) 88 patients with slow (slow fibrosis) progression.
+The polymorphism of the study genes was studied using a real-time polymerase chain reaction and a melting curve analysis.
+RESULTS
+In CHC patients, the FV 1691G/A genotype was more often in the rapid progressors than that in the slow progressors (10.11% vs 1.14%; p=0.011).
+The A allele of the 1691 G/A FV gene was more common in the rapid fibrosis group than that in the slow fibrosis group (1.7% vs 5.56%, odd ratio 9.787; p=0.139).
+In our investigation, the polymorphic marker GA in the FII 20210 G/A gene, as well as the 4G allele (5G4G + 4G4G genotypes) and the 4G allele of PAI-I -675 5G/4G were more often seen in the rapid fibrosis group than that in the slow fibrosis group; the detection rate was only at the trend level (p=0.118, p=0.112, and p=0.117 respectively).
+There were no significant differences between the groups in the spread of variant genotypes and alleles of other study genes.
+Integral model construction by coding «profibrogenic» genotypes (FV 1691 G/A, FII 20210 G/A, PAI-I -675 5G/4G) showed that the fibrosis progression rate expressed as fibrosis units annually also increased with higher total scores (p=0.039), indicating the combined effect of these genes.
+CONCLUSION
+The carriage of mutant genotypes of FV 1691 G/A, FII 20210 G/A, and PAI-I -675 5G/4G genes is a prognostic factor for rapid CHC progression.

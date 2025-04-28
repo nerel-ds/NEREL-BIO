@@ -1,0 +1,14 @@
+[Cardiac damage in liver cirrhosis in alcohol abusers].
+AIM  to estimate the contribution of liver cirrhosis (LC) to the development of heart diseases in alcohol abusers.
+SUBJECTS AND METHODS
+The investigation included 80 patients with alcoholic LC without a history of cardiovascular and respiratory diseases and, as a control group, 32 alcohol abusers without a history of chronic diseases of the liver and cardiovascular and respiratory systems; 45 patients with alcoholic cardiomyopathy (ACM) and congestive heart failure without a history of coronary heart disease and valvular diseases, among whom 11 patients were found to have LC.
+In addition to standard clinical examination, all the patients underwent electrocardiography, by estimating the corrected QT interval (QTc), standard echocardiography; and those without ACM underwent estimation of left ventricular (LV) kinetics using speckle-tracking echocardiography.
+RESULTS
+The patients with alcoholic LC were found to have a higher LV ejection fraction and a more obvious impairment of LV global longitudinal deformity, and more commonly LV diastolic dysfunction.
+16 of the 80 patients with LC were observed to have moderate pulmonary hypertension while the mean pulmonary artery pressure (MPAP) was within the normal range in all the patients without LC.
+A prolonged QTc interval was revealed in the patients with LC.
+The duration of QTc was directly correlated with the MELD severity of LC.
+The patients with chronic heart failure in the presence of ACM and CL showed a more obvious LV diastolic dysfunction, as estimated by E/E', a greater LV mass index, and a higher MPAP than those with ACM without LC.
+CONCLUSION
+The LC patients both with ACM and without a history of diseases of the heart were noted to have its more evident disorders as diastolic dysfunction and elevated MPAP.
+Those without ACM were observed to have impaired LV global deformity and a prolonged QTc interval.

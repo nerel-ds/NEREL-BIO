@@ -1,0 +1,14 @@
+[The application of high-frequency and iTBS transcranial magnetic stimulation for the treatment of spasticity in the patients presenting with secondary progressive multiple sclerosis].  Spasticity is considered to be a common manifestation of multiple sclerosis.
+Muscle relaxants are not sufficiently effective; more than that, some of them often cause a variety of adverse reactions.  Transcranial magnetic stimulation (TMS) can be a promising new tool for the treatment of spasticity.
+The objective of the present study was to compare the effectiveness of the two TMS protocols: rhythmic (high-frequency) TMS (rTMS) and stimulation with the theta bursts (iTBS) in terms of their ability to reduce spasticity in the patients presenting with multiple sclerosis.
+PATIENTS AND METHODS
+Twenty two patients with secondary-progressive multiple sclerosis were pseudo-randomized into two groups: those in the first (high-frequency) group received the treatment with the use of rTMS therapy at a frequency of 10 Hz; the patients of the second group, underwent stimulation with the theta bursts (iTBS).
+All the patients received 10 sessions of either stimulation applied to the primary motor area (M1) of both legs.
+The effectiveness of TMS protocols was evaluated before therapy and after 10 sessions of stimulation based on the Modified Ashworth scale (MAS), the expanded disability status scale (EDSS), and the Kurtzke functional scale (Kfs).
+In addition, the patients were interviewed before treatment, after 10 rTMS sessions, immediately after and within 2 and 12 weeks after the completion of the treatment using questionnaires for the evaluation of spasticity (SESS) , fatigue, and dysfunction of the pelvic organs (severity of defecation and urination disorders), fatigue.
+RESULTS
+The study has demonstrated a significant reduction in spasticity in the patients of both groups at the end of the TMS protocol based on the MAS scale.
+There was no significant difference between the outcomes of the two protocols.
+Both had positive effect on the concomitant «non-motor» symptoms (fatigue, dysfunction of the pelvic organs).  CONCLUSION
+High-frequency transcranial magnetic stimulation (10 sessions of rTMS therapy at a frequency of 10 Hz) and stimulation with the theta-bursts applied to the M1 area in both legs can be an effective alternative treatment of spasticity in the patients with secondary-progressive multiple sclerosis.
+Further research is needed to detect more accurately the differences between the outcomes of the two stimulation protocols and the development of indications for their application on an individual basis.

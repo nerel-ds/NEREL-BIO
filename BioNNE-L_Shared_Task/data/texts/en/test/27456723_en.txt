@@ -1,0 +1,12 @@
+[The assessment of neurocognitive functions in premature infants in the first year of life using Bayley Scales].
+AIM  To reveal the differences in neurocognitive development in premature infants and full-term infants in the first year of life.
+MATERIAL AND METHODS
+The participants were 17 premature infants and 16 sex- and age-matched healthy full-term infants.
+The gestational age of preterm infants was between 28 and 36 weeks.
+The Bayley Scales of Infant Development 3rd Edition were used to evaluate neurocognitive abilities in infants.
+ANCOVA with age as a covariate was used.
+RESULTS AND CONCLUSION
+Preterm infants performed significantly (p≤0.05) worse than the full-term infants on cognitive scale, receptive language, gross motor and fine motor scales.
+No significant differences were found between preterm and full-term infants on the expressive language scale.
+Two-way ANOVA revealed no significant (p≤0.05) differences between female premature infants and full-term female infants on the gross motor scale in comparison to male infants.
+It has been proposed that the prematurity has a specific, but not a global, negative effect on the neurocognitive development in the first year of life with the gender effect on the development of gross motor skills.

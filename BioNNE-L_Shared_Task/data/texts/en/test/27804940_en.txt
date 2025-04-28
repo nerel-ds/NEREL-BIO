@@ -1,0 +1,16 @@
+[Estimation of the diagnostic potential of APOD, PTOV1, and EPHA4 for prostatic neoplasms].  Prostate cancer is one of the most frequently detected malignancies in men.
+The gold standard for its diagnosis is morphological examination; at the same time the differential diagnosis of adenocarcinoma, high-grade prostatic intraepithelial neoplasia (HGPIN), and benign conditions that are able to mimic the malignancies is tremendously difficult in a number of cases, this being so, the hyperdiagnosis rate of HGPIN requiring mandatory repeat biopsy is as high as 24%.
+The currently available differential diagnostic panel of antibodies is imperfect, which necessitates a search for novel markers.  AIM
+to estimate the diagnostic and prognostic value of the expression of PTOV1, APOD, and EPHA4 in prostatic neoplasias.
+MATERIAL AND METHODS
+A total of 90 samples from prostate cancer patients who had undergone radical prostatectomy were examined.
+The presence of adenocarcinoma and HGPIN was verified by immunohistochemical tests using antibodies to AMACR (P504S) and high molecular weight cytokeratin 34βE12 in serial sections.
+The latter were also used to immunohistochemically analyze the expression of PTOV1, APOD, and EPHA4.
+RESULTS
+APOD expression was noted in 76% of cases of both adenocarcinomas and HGPIN, in 4% in only cancer, and in 7% in only HGPIN.
+All the study samples showed a considerable decrease in PTOV1 expression in cancer and HGPIN compared to morphologically normal glands.
+Three samples also exhibited no PTOV1 expression in a number of morphologically normal glands.
+No difference was found in the expression of EPHA4 in morphologically normal glands, HGPIN, or cancer.
+CONCLUSION
+The high rate of APOD expression in HGPIN and cancer, as well as the absence of its expression in the vast majority of morphologically normal glands allows the use of this protein as an additional marker in the differential diagnosis of prostatic neoplasms.
+The emerging trends in the difference of PTOV1 expression in morphologically normal prostate tissue, HGPIN, and cancer call for further investigations with a larger sample.

@@ -1,0 +1,12 @@
+[Biometric parameters of vitrectomized eyes].  AIM
+To analyze changes in various biometric parameters after vitrectomy.  MATERIAL AND METHODS
+A total of 50 patients (50 eyes) were followed up.  All of them underwent vitrectomy for idiopathic epiretinal fibrosis and macular hole.
+In addition to the standard ophthalmic examination, we performed a combined ultrasound study and ultrasound biomicroscopy before and after the surgery (at 2-3 weeks and 6 months).
+Variation statistics was applied to assess the results using the SPSS Statistica 20 software.
+RESULTS
+According to ultrasound biomicroscopy, the following parameters increased: anterior chamber depth, trabecular-ciliary process distance, posterior chamber maximal depth and volume, and fiber length within the zonule of Zinn.
+In the late postoperative period (6 months after the surgery), there was an increase in lens volume and anterior-posterior ocular axis by the average of 0.15±0.04 mm.
+Against this background, clinical refraction shifted toward myopia by the average of 0.68±0.05 diopters in the early postoperative period and 1.7±0.15 diopters at 6 months.
+CONCLUSION
+With the help of modern ultrasound examinations we have identified biometric changes in the anterior segment of vitrectomized eyes.
+We have also established a myopic shift of clinical refraction, which is most likely to be due to the increase in axial eye length and lenticular changes.

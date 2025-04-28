@@ -1,0 +1,17 @@
+[Possibility of evaluating the effectiveness of renal artery sympathetic denervation in resistant hypertension early after radiofrequency ablation].
+AIM  to investigate time course of changes in the adrenoreactivity (AR) of erythrocyte membranes (EM) after radiofrequency ablation of the synaptic nerves of the renal arteries (RA) in patients with resistant hypertension (RH) and to assess whether this indicator can be used for the early evaluation of the efficiency of an invasive intervention into the RA.
+SUBJECTS AND METHODS
+24 patients with RH, who received full-dose antihypertensive therapy with at least three drugs, including a diuretic, were examined.
+Renal sympathetic denervation (RSD) was carried out by endovascular radiofrequency ablation (RFA) of the RA.
+24-hour blood pressure (BP) monitoring and determination of the β-adrenoreactivity (β-AR) of EM were performed, by taking into account the change in erythrocyte osmoresistence at baseline and 1 and 24 weeks after RFA.
+The therapy was not changed during the observation.
+RESULTS
+The patients included in the study were divided into 2 groups.
+One week following RSD, 15 patients of Group 1 were noted to have a decrease in the β-AR of EM by 10 conditional units or more; average daily systolic BP (SBP) and diastolic BP (DBP) reduced by 8.3 and 2.8 mm Hg, respectively.  In 9 patients of Group 2, the β-AR of EM was unchanged in this observation period or increased compared with baseline.
+In this group, the decrease in average daily SBP and DBP was noted to be less pronounced than that in Group 1 (by 1.4 and 1.5 mm Hg, respectively).
+At 24 weeks after RSD, Group 1 was seen to have an effective daily decrease in average daily SBP and DBP by 25.6 and 14.3 mm Hg, respectively (p=0.01 and 0.05).
+The average value of the β-AR of EM significantly declined compared with baseline.
+In Group 2, no statistically significant changes were reported; SPB and DBP lowered by 7.0 and 3.0 mm Hg, respectively.
+There was a significant decrease in the β-AR of EM compared with that at week 1.
+CONCLUSION
+The decline in the β-AR of EM within the first week after RFA is suggestive of the decreased activity of the sympathoadrenal system and may be used as an early efficiency index of RSD after the procedure.

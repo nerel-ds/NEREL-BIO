@@ -1,0 +1,9 @@
+A retrospective analysis of oral cholera vaccine use, disease severity and deaths during an outbreak in South Sudan.
+OBJECTIVE
+To determine whether pre-emptive oral cholera vaccination reduces disease severity and mortality in people who develop cholera disease during an outbreak.
+METHODS  The study involved a retrospective analysis of demographic and clinical data from 41 cholera treatment facilities in South Sudan on patients who developed cholera disease between 23 April and 20 July 2014 during a large outbreak, a few months after a pre-emptive oral vaccination campaign.
+Patients who developed severe dehydration were regarded as having a severe cholera infection.  Vaccinated and unvaccinated patients were compared and multivariate logistic regression analysis was used to identify factors associated with developing severe disease or death.
+FINDINGS  In total, 4115 cholera patients were treated at the 41 facilities: 1946 (47.3%) had severe disease and 62 (1.5%) deaths occurred.
+Multivariate analysis showed that patients who received two doses of oral cholera vaccine were 4.5-fold less likely to develop severe disease than unvaccinated patients (adjusted odds ratio, aOR: 0.22; 95% confidence interval, CI: 0.11-0.44).  Moreover, those with severe cholera were significantly more likely to die than those without (aOR: 4.76; 95% CI: 2.33-9.77).
+CONCLUSION  Pre-emptive vaccination with two doses of oral cholera vaccine was associated with a significant reduction in the likelihood of developing severe cholera disease during an outbreak in South Sudan.
+Moreover, severe disease was the strongest predictor of death.  Two doses of oral cholera vaccine should be used in emergencies to reduce the disease burden.

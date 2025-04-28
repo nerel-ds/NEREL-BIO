@@ -1,0 +1,12 @@
+[Relationship between structural and functional changes in retina in Stargardt disease].  AIM  To assess the relationship between structural abnormalities of the junction of the internal and external segments of photoreceptors (IS/OS junction) and functional changes.
+MATERIAL AND METHODS
+The study enrolled 45 patients (90 eyes) with Stargardt disease, of them 22 women and 23 men.
+Ophthalmic examination included color vision test, static perimetry with a 60° field of view, electrophysiological studies, namely, ganzfeld and multifocal electroretinography (gERG and mfERG), autofluorescence, and optical coherence tomography (OCT).
+RESULTS
+For analysis, the patients were divided into 3 groups depending on whether or not the structure of the IS/OS junction was damaged at OCT.
+A strong correlation has been found between the level of IS/OS damage and the MD index.
+There were no differences in foveal, perifoveal, or parafoveal retinal thicknesses.  Retinal volumes within the 1-, 3- and 6-mm ring-shaped zones were also similar.
+All three groups showed a reduction in amplitudes of the major gERG waves and mfERG changes of different severity.
+The most frequent defect seen in all groups and the ring-shaped zones was a reduction in the amplitude and density of retinal biopotential (P1μv and P1 nv/deg2).
+CONCLUSION
+A direct correlation exists between the extent and severity of structural changes in the IS/OS junction at OCT, visual functions assessed with perimetry, and disturbance of electrogenesis detected by mfERG and gERG.

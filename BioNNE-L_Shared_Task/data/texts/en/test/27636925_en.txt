@@ -1,0 +1,12 @@
+[Primary percutaneous interventions into the coronary arteries in patients with diabetes mellitus].
+AIM  to investigate the specific features and results of percutaneous interventions (PCI) into the coronary arteries in patients with acute ST-segment elevation myocardial infarction (MI) and diabetes mellitus (DM) in clinical practice.
+SUBJECTS AND METHODS
+A study group consisted of 120 patients with a history of type 2 DM, who had undergone primary PCI in 2008 to 2013.
+A comparison group included 601 patients without a history of DM.
+RESULTS
+Assessment of the results of hospital interventions revealed no differences between the study and comparison groups in mortality rates (4.1 and 3.2%, respectively; p=0.376), stent thromboses (0.8 and 1.2%, respectively; p=0.601), and recurrent MI (0 and 1.5%, respectively; p=0.189).
+No differences were determined in the combined index including death, recurrent MI, and stent thrombosis (5 and 5%; p=0.985).
+At the same time, the no-reflow phenomenon developed statistically significantly more frequently in the patients with DM (7.4 and 2.8%; p=0.019).
+Binary logistic regression established independent associations between the presence of DM and patient age (odds ratio (OR) 1.04; 95% confidence interval (CI) 1.02 to 1.07; p<0.001), female sex (OR 0.36; 95% CI 0.23 to 0.56; p<0.001), and higher body mass index (OR 1.1; 95% CI 1.06 to 1.16; p<0.04).
+CONCLUSION
+Primary PCIs in patients with DM are an effective and safe method for revascularization in acute ST-segment elevation MI and these are not followed by increases in mortality and frequency of major poor cardiac complications at the hospital stage despite the more common development of the no-reflow phenomenon.

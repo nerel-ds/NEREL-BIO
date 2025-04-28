@@ -1,0 +1,9 @@
+[Impact of СD8/FoxP3 T lymphocyte ratio in the peritumoral area of primary cutaneous melanoma on the prognosis of the disease].  UNLABELLED
+Cutaneous melanoma (CM) is a malignant tumor characterized by typical histological features, one of which is tumor-infiltrating lymphocytes (TIL) that reflect the state of local immunity and determines the course of the disease.
+AIM
+to study a correlation of the ratio of CD8/Foxp3 T lymphocyte subpopulations infiltrating primary cutaneous melanoma (PCM) with the clinical and morphological factors and prognosis of the disease.
+MATERIAL AND METHODS
+The CD8+ and FoxP3+ T-lymphocyte subpopulations infiltrating PCM were investigated in 180 cases by immunohistochemical staining with anti-CD8 and anti-FoxP3 antibodies.  RESULTS
+The predominant type of TIL was CD8+ cytotoxic T lymphocytes (80.1 cells in the field of vision); FoxP3+ T lymphocytes averaged 34.9 cells in the field of vision.  There was a statistically significant correlation of a high ratio of CD8/FoxP3 T cells with disease stage, ulceration and regression segments in PCM, a low disease progression rate, and higher 5-year overall and relapse-free survival.
+CONCLUSION
+The findings may be used in researches and in the practical work of pathologists and clinicians.

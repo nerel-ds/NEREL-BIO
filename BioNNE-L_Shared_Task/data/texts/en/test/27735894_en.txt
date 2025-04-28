@@ -1,0 +1,13 @@
+[Mental disorders in patients with acromegaly].
+AIM  To study mental disorders in acromegaly due to somatotropinoma.
+MATERIAL AND METHODS
+The study included 115 consecutively recruited patients with acromegaly (95 female and 20 male, aged from 21 to 78 years).
+Acromegaly was diagnosed by endocrinologists according to current guidelines based on clinical, laboratory data and brain MRI.
+All patients underwent a clinical psychiatric interview based on ICD-10 criteria.  The Mini-Mental State Examination scale and Hypomania-Checklist (HCL-32) were used.
+RESULTS
+Mental disorders were diagnosed in 79.1% of patients.  Organic spectrum disorders were found in 46.1%, bipolar spectrum disorders in 35.7%, schizophrenia spectrum disorders in 4.3%.
+The patients with bipolar spectrum disorders had significantly lower serum insulin-like growth factor 1 (IGF-1) levels compared to patients with organic spectrum disorders (p=0.01).
+The presence of organic spectrum disorders was associated with older age and number of somatic comorbidities (р=0.0001 and 0.001).
+CONCLUSION
+The prevalence of bipolar, organic and schizophrenia spectrum disorders in patients with acromegaly exceeds that in the general population.
+Significantly lower IGF-1 levels in acromegalic patients with bipolar disorders, compared to those with organic disorders, can have some implications to their pathogenesis.

@@ -1,0 +1,18 @@
+[Diagnostic potential of optical coherence tomography for small choroidal melanomas].
+AIM
+To investigate the sequence of OCT manifestations in choroidal melanoma (CM) with account to its growth.
+MATERIAL AND METHODS  A total of 28 CM patients were examined.
+Of them, 18 patients with early CM, 10 - with medium-sized CM.
+The mean patient age at diagnosis was 60.54±5.31 years.
+Tumor location was macular (15 eyes) or perimacular (13 eyes), its prominence varied from 0.98 to 4.9 mm and basal diameter - from 5.08 to 18.9 mm.
+Additionally to OCT, tumor autofluorescence was studied in all cases.
+RESULTS
+The sequence of OCT manifestations in CM has been investigated with account to its growth.
+Our findings include an early change in choroidal profile with often uneven configuration and a plateau in the most prominent part of the lesion.
+Along with changes in the retinal pigment epithelium (RPE), one could see signs of an initially local small neuroepithelial detachment (NED) with alterations in the photoreceptor layer.  We have identified three types of photoreceptor damage.
+Destruction of all retinal layers (its morphofunctional disorder) indicates the transition of an early CM to a medium one.
+As to autofluorescence RESULTS: there were lipofuscin deposits in RPE cells detected in OCT scans that showed an evident hyperautofluorescence.
+The central part the tumor was notable for its hypoautofluorescence.  The periphery of the lesion was hyperautofluorescent due to NED.
+CONCLUSION  Qualitative changes in the retina overlying choroidal melanoma develop early in the course of the disease, practically in the moment of the first shift of choroidal profile.
+Destruction begins with the RPE and neuroepithelium (detachment and structural changes).  As the tumor grows, retinal architectonics gets irreversibly distorted: the tissue becomes thicker due to edema, cysts, and intraretinal deposits.
+This process is, of course, accompanied by changes in metric parameters of all retinal layers and the choroid within the area of interest.

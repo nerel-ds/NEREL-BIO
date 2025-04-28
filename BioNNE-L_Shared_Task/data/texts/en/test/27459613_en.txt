@@ -1,0 +1,13 @@
+[Therapy for primary mediastinal large B-cell lymphoma in accordance with the R-DA-EPOCH-21 program: The first results].  AIM
+to evaluate the efficiency of the R-DA-EPOCH-21 + R-DHAP protocol and autologous hematopoietic stem cell transplantation (a BEAM conditioning mode) in first-line therapy for primary mediastinal large B-cell lymphoma (PMBCL).
+SUBJECTS AND METHODS
+In 2013 to 2016, the investigation enrolled 57 patients with newly diagnosed PMBCL (according to the 2008 WHO criteria).
+The results were analyzed in 40 patients who had completed their treatment.
+RESULTS
+All the 40 patients (14 men and 26 women) (median age, 27 years (19 to 67 years)) received 6 cycles of polychemotherapy (PCT) in accordance with the R-DA-EPOCH-21 regimen.
+After induction PCT cycles, 32/40 (80%) patients achieved complete remission.
+Partial remission was stated in 8/40 (20%) patients who had further 2 cycles of chemotherapy using the R-DHAP program and autologous hematopoietic stem cell transplantation (a BEAM conditioning mode).
+Two-year overall and relapse-free survival rates were 100% and 96%, respectively; the median follow-up was 17 months.
+CONCLUSION
+The R-DA-EPOCH regimen allows complete remission in 80% of the cases and two-year survival in 100%.
+If there are unfavorable factors at onset and in partial remission, it is appropriate to intensify treatment at early stages, by using high-dose chemotherapy and autologous hematopoietic stem transplantation.

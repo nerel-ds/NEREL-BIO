@@ -1,0 +1,11 @@
+[A rare case of myeloproliferative disease with t(8;13)(p11;q12) associated with eosinophilia and lymphadenopathy].  Myeloproliferative disease associated with FGFR1 rearrangement (8p11), which is included in the 2008 WHO Classification of Myeloid Neoplasms, is a rare and extremely aggressive abnormality.
+The paper describes a clinical case of a 39-year-old female patient who was detected to have leukocytosis (as high as 47.2·109/l), absolute eosinophilia (as high as 3.1·109/l), and enlarged peripheral lymph nodes during her visit to a doctor.
+The bone marrow (BM) showed the changes typically encountered in myeloproliferative disease with eosinophilia.
+The patient was found to have t(8;13)(p11;q12) translocation associated with the rearrangement of the FGFR1 gene located at the 8p11 locus.
+Molecular and cytogenetic examinations failed to reveal BCR-ABL chimeric transcript, Jak2 V617F mutation, and deletions and translocations involving PDGFRA (4q12) and PDGFRB (5q32-33).
+The similar changes in the karyotype were also found in the lymph node cells.
+The undertaken treatment with hydroxyurea and the tyrosine kinase inhibitor dasatinib turned out to be ineffective.
+The patient underwent allogeneic BM transplantation from a HLA-identical sibling.
+Graft rejection occurred 6 months later.
+Allogeneic BM transplantation from the same donor (100% donor chimerism; FGFR1/8р11 translocation was not detected), which was complicated by the development of chronic graft-versus-host reaction, was performed again in March 2015.
+The patient is being followed up and continues to receive immunosuppressive therapy.

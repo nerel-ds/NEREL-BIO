@@ -1,0 +1,16 @@
+[The role of ATP-dependent potassium channels and nitric oxide system in the neuroprotective effect of preconditioning].
+AIM  To study a role of ATP-dependent potassium channels (K+ATP) in the neuroprotective effect of ischemic (IP) and pharmacological (PP) preconditioning and evaluate the dynamics of blood nitric oxide (NO) metabolites in cerebral ischemia.
+MATERIAL AND METHODS
+A model of ischemic stroke induced by the electrocoagulation of a middle cerebral artery (MCA) branch was used in male rats (n=86).
+Glibenclamide, a selective inhibitor of ATP-sensitive K+ channels, and diazoxide, a potassium channel activator, were used.
+IP and PP were performed 24 h before MCA occlusion.
+Blood concentrations of NO, NO3- and NO2-were measured 5, 24 and 72 h after occlusion.
+RESULTS
+IP decreased a lesion area by 37% (p<0/05) and the preliminary introduction ofglibenclamide levelled the effect of IP.
+A protective effect of PP was similar to that of IP.
+A decrease in oxygenated R-conformers of Hb-NO and a reverse increase in non-oxygenated T-conformers as well as NO3- и NO2-were noted 5h after MCA occlusion.  In the first 24 h after MCA occlusion, contents of NO3- and NO2- returned to normal values.
+There were changes in the concentrations of Hb-NO complexes as well, with the predominance of R-conformers and minimal contents of T-conformers.
+Moreover, the correlations between K+ATP channel blockade and the decrease in serum NO3- and NO2 were found (p<0/03).
+CONCLUSION
+The neuroprotective effect of preconditioning is caused by the activation of K+ATP channels.
+An analysis of NO metabolite concentrations in the blood of rats with IP suggests that Hb-NO complexes belonging to R-conformers deposit and carry NO in tissues releasing NO accumulated via R→T transfer in conditions of ischemia.

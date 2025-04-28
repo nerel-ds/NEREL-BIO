@@ -1,0 +1,14 @@
+[Aberrant methylation of the promoter regions of the SOX7 and p15INK4b genes and Wnt signaling pathway antagonists in patients with acute myeloid leukemias].  AIM
+to investigate the methylation status of the SOX7 and p15NK4b genes and Wnt signaling pathway antagonists in patients with acute myeloid leukemia (AML) in order to assess the association of the rate of aberrant methylation (AM) with the morphological variant and pattern of chromosomal aberrations, as well as the impact of the methylation status on survival.
+SUBJECTS AND METHODS
+The data of 57 AML patients aged 20 to 79 years were analyzed.
+The methylation status of the genes was studied by methylation-specific polymerase chain reaction.
+RESULTS
+The signs of the AM of ≥1 gene were detected in 52 (91.2%) of the 57 patients.
+The most common finding was AM of simultaneously 2 or 3 genes: in 29.8 and 21.1% of the patients, respectively.
+Concurrent methylation of 3-5 genes proved to be a more frequent finding in AML patients with myelodysplasia: in 7 (70%) of 10 patients.
+The proportion of patients with methylation of 5 genes was considerably higher in a group of patients with a complex karyotype: 50% versus 8.3% among other patients (odds ratio: 11.0; 95% confidence interval 2.0 to 61.6; p=0.01).
+There were no differences in the median overall and relapse-free survival rates in patients with a normal karyotype and without FLT3 and NPM mutations, who received induction therapy, in relation to the number of genes with AM.
+CONCLUSION
+AM of the p15NK4b and SOX7 genes and Wnt signaling pathway antagonists is detected in the majority of patients with AML, which allows hypomethylating agents to be recommended for the treatment of patients who cannot use intensive cytostatic therapy for different reasons.
+The detection of a large number of genes with the aberrant methylation status in most AML patients with myelodysplasia or a complex karyotype serves as the basis for initiating trials to evaluate the efficiency of a combination of 5-azacytidine and cytostatics.

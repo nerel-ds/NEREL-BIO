@@ -1,0 +1,13 @@
+[Macular choroidal blood flow in concurrent age-related macular degeneration and primary open-angle glaucoma].  UNLABELLED
+Ocular circulation disorders are an important factor in the development of primary open-angle glaucoma (POAG) and age-related macular degeneration (AMD).  To date, however, there have been no studies on choroidal blood flow peculiarities in case of concurrent AMD and POAG.
+AIM
+to determine distinctive features of choroidal blood flow characteristic of concurrent AMD and POAG and to assess their role in disease pathogenesis.  MATERIAL AND METHODS
+Macular choroidal blood flow, including blood supply, was assessed in 54 patients (102 eyes) by means of Doppler ultrasound.  Three groups were formed: group 1 - 38 eyes with both AMD and POAG; group 2 - 41 eyes with AMD and no signs of optic nerve pathology; and group 3 - 23 eyes with POAG and no signs of AMD.
+Groups 1 and 2 were subdivided into two subgroups each: А - atrophic AMD and B - macular drusen.
+The mean patient age was 78.7±8.4 years.
+The following parameters of choroidal blood flow were of interest: peak systolic velocity (Vps), end diastolic velocity (Ved), time-averaged maximum velocity (Vtamax), and resistance index (RI).
+RESULTS
+Groups 1, 3, and 2A had an evident choroidal hypoperfusion in the macular area (decreased Vtamax) with uncompensated perfusion deficit, despite autoregulation efforts (decreased Vps, Ved, decreased or normal RI).
+Group 2B demonstrated a significantly higher rate of choroidal hyperperfusion (increased Vps, Ved, Vtamax, and RI).
+CONCLUSION
+Concurrent AMD and POAG are notable for choroidal hypoperfusion in the macular area that leads to inadequate trophism of the neurosensory retina and can aggravate the course of AMD contributing to progression of its atrophic form.

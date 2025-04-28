@@ -1,0 +1,17 @@
+[PAD prevalence in Russian Federation].  BACKGROUND  Currently there is no data on peripheral arterial disease prevalence in Russia.  AIM
+To estimate prevalence of patients with symptomatic low limb ischemia (LLI) in Russian Federation on 2014.
+PATIENTS AND METHODS
+«League for patient' protection» had sent questionnaires for all regional health departments asking to name prevalence of ICD-10 codes I70.2 (atherosclerosis of arteries of extremities) and I73.1 (thromboangiitis obliterans (Buerger)) on 2014.
+The figures were listed separately for ischemia I-IIa and III-IV (critical limb ischemia, CLI) (Pokrovsky, 1976). Also were mentioned major amputations and mortality.
+RESULTS
+Total number of received questionnaires was 44, we've got information from all RF' federal regions with a population of appr.  71 million people.
+There were 174 125 cases of symptomatic LLI.
+Prevalence of symptomatic LLI among Russian population aged more than 40 years was 0.51%.  Prevalence of intermittent claudication was 0.36% and of critical limb ischemia - 0.13%.
+Rate of major amputations was 6.9%.
+CONCLUSION
+World PAD prevalence among people older than 25 years is 8.3%.
+The same figure in our study was only 0.5%.
+This is due to the fact that we considered only symptomatic LLI and only with codes I70.2 and I73.1. Prevalence of symptomatic patients among all PAD patients is 10-35%.
+So the real number of PAD patients in Russian might be 1.5-5%.
+We can conclude that PAD is still unrevealed in Russia.  Another conclusion could be that the treatment results are less than satisfactory.
+Finally there is urgent necessity for special PAD register in RF.

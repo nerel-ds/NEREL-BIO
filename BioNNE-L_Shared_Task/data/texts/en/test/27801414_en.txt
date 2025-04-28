@@ -1,0 +1,16 @@
+[Incretin secretion and glucose metabolism in morbidly obese patients in the early and late periods after biliopancreatic diversion].
+AIM  To estimate the parameters of glucose metabolism and to assess the secretion of incretins in patients after biliopancreatic diversion (BPD) for morbid obesity (MO) in the early and late postoperative periods.
+SUBJECTS AND METHODS
+The prospective part of the investigation included 22 patients with a body mass index of 35.8 to 68.4 kg/m2 and type 2 diabetes mellitus (T2DM).
+All the patients were examined before, 3 weeks and 3 months after BPD.
+The retrospective part covered 23 patients who were examined after BPD for MO; the postoperative period was 4.7 [2.3; 7.2] years.
+A control group consisted of 22 healthy, normal weight volunteers.
+A 75-g oral glucose tolerance test was carried out in all the groups to study the levels of glucose, immunoreactive insulin (IRI), glucagon-like peptide-1 (GLP-1), glucose-dependent insulinotropic polypeptide (GIP) and glucagon at 0, 30, 60, and 120 min.
+RESULTS
+T2DM patients showed improvement in glucose metabolism just 3 weeks after BPD; following 3 months, they had normalized fasting blood glucose levels (5.6 [5.0; 6.0] mmol/l).
+During 3 months, glycated hemoglobin decreased from 7.5 [6.6; 8.5] to 5.7 [5.3; 5.9]%.  In the early period following BPD, there was an increase in basal and postprandial GLP-1 levels associated with the peak IRI concentration.
+In the late period after BPD, the enhanced secretion of IRI and GLP-1 persisted, which was followed by a reduction in postprandial glucose levels in 4 of the 23 patients.
+CONCLUSION
+T2DM remission does not depend on weight loss in the early period after BPD.
+In this period, the significant improvement of glucose metabolic parameters in patients with obesity and T2DM is associated with elevated GLP-1 levels.
+The altered incretin response is a stable effect of BPD and remains in its late period.

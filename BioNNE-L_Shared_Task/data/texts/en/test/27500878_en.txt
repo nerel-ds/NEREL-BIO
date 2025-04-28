@@ -1,0 +1,12 @@
+[An effect of quetiapine on the immune system of patients with schizophrenia].
+AIM  To study an effect of the atypical antipsychotic quetiapine on the immune system of patients with schizophrenia with account for treatment efficacy.
+MATERIAL AND METHODS
+Quetiapine was administered to 27 patients diagnosed with residual schizophrenia (F20.5) for 6 weeks in dose 200-400 mg/day; dynamic of clinical symptoms was evaluated with PANSS и CGI scales before administration of quetiapine and by week 6 of the treatment.
+Along with clinical assessments, immune indices were determined.
+RESULTS
+At the end of week 6 of treatment, statistically significant changes of PANSS psychopathological symptoms were noted.
+According to CGI scale, patients were divided into group 1 with high treatment efficacy (n=17) and group 2 with the low efficacy (n=10).
+Significant between-group differences before treatment were as follows: the decreased number of lymphocytes of CD3+- CD16+-phenotypes, increased number of HLADR+-lymphocytes and IgA level in group 2.
+The quetiapine therapy led to the positive dynamic of phagocytosis indices, CD16+-lymphocytes, decrease in the level of IgA.
+CONCLUSION
+Possible predictors of treatment efficacy were found including the number of mature T (CD3+) lymphocytes, CD16+ natural killers, HLADR+ lymphocytes and IgA concentrations.

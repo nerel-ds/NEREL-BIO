@@ -1,0 +1,11 @@
+[Perfusion criteria of the EICMA efficacy in patients with symptomatic occlusion of the internal carotid artery].
+AIM
+To investigate changes in cerebral perfusion in patients with unilateral internal carotid artery occlusion before and after surgical revascularization of the brain, depending on the clinical efficacy of surgical treatment.  MATERIAL AND METHODS
+The study included 60 patients with unilateral ICA occlusions who underwent placement of an extra-intracranial microvascular anastomosis (EICMA).
+All patients underwent a CT perfusion study before and after cerebral revascularization.  In addition, the degree of neurological deficit was evaluated before surgery and during follow-up (3 and 8-10 months) using the NIHSS score.
+RESULTS
+All patients were divided into 3 groups, depending on the results of surgical treatment: objective improvement (43 patients), no changes (14 patients), and worsening of clinical symptoms (3 patients).
+In each group, the absolute and relative perfusion parameters (MTT, CBV, and CBF) were analyzed to identify the perfusion criteria for the EICMA efficacy.
+A significant relationship between the clinical efficacy of EICMA and a baseline perfusion deficit and its change after anastomosis placement was found.
+CONCLUSION
+Placement of EICMA is effective treatment for patients with symptomatic ICA occlusions and an increase in the blood transit time in the hemisphere ipsilateral to occlusion by more than 40% compared to that in the opposite side provided that perfusion is recovered in more than one area of the MCA territory (in accordance with the ASPECTS scale).

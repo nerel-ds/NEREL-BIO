@@ -1,0 +1,10 @@
+[Structural variations of the genome in autistic spectrum disorders with intellectual disability].
+AIM  To analyze structural variations in the genome in children with autism and intellectual disability.
+MATERIAL AND METHODS
+Using high-resolution karyotyping (AffymetrixCytoScan HD Array) and original bioinformatic technology, 200 children with autism and intellectual disability were studied.
+RESULTS AND CONCLUSION
+Data on structural variations in the genome in children with autism and intellectual disability are provided.
+Causative genomic pathology (chromosome abnormalities and copy number variations - CNV) was determined in 97 cases (48.5%).  Based on these
+RESULTS  24 candidate genes for autism with intellectual disability were selected.
+In 16 cases (8%), the chromosome mosaicism manifested as aneuploidy of whole autosomes and sex chromosomes (gonosomes) was identified.  In 87 children (43.5%), there were genomic variations, which are characteristic of the so-called «grey zone» of genetic pathology in mental illnesses.
+Bioinformatic analysis showed that these genomic variations had a pleiotropic effect on the phenotype.

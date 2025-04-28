@@ -1,0 +1,12 @@
+[A study of the effect of the genes of inflammatory proteins on basic personality dimensions].
+AIM  The present research examines the association between two basic dimensions of personality and genes of inflammatory cytokines and mediators reported to be elevated in schizophrenia and affective disorders.
+Genes of interleukin-1B (IL-1B), interleukin-6 (IL-6), tumor necrosis factor alpha (TNF-α), C-reactive protein (CRP) and alpha 1-antitrypsin (A1AT) were studied.
+MATERIAL AND METHODS
+A total of 639 healthy subjects, aged from 17 to 69 years, participated in the study.
+The following polymorphisms were genotyped: IL-1B С-511Т (rs16944) and С3954Т (rs1143634), IL-6 G-174C (rs1800795), TNF-α G-308A (rs1800629), CRP (rs279452), A1AT 374G/A (rs709932).
+Basic personality dimensions Extraversion and Neuroticism were assessed using the Eysenck Personality Inventory.
+RESULTS AND CONCLUSION
+The levels of Extraversion and Neuroticism were not associated with IL-1B, IL-6, TNF-α G and CRP polymorphisms.
+The association between the A1AT 374G/A polymorphism and Extraversion (р=0.036) was shown.
+There was a trend towards the association between the A1AT 374G/A polymorphism and Neuroticism (p=0,05) in women.
+Because this is the first study of the effect of IL-1B, IL-6, TNF-α and A1AT on personality dimensions, the results should be considered as preliminary and need to be replicated.
