@@ -160,7 +160,7 @@ where $E$ is the set of entities, $|E|$ is the number of entities, $rank_{e}$ is
 | Training Data Release                       | 5 Feb 2025       |
 | Dev data release, Development phase start   | 19 Feb 2025      |
 | Test data release, Evaluation phase start | 25 April 2025    |
-| Test set predictions due                    | 6 May 2025       |
+| Test set predictions due                    | ~~6 May 2025~~ 15 May 2025       |
 | Submission of participant papers            | 31 May 2025      |
 | Acceptance notification for participant papers | 24 June 2025     |
 | Camera-ready working notes papers         | 8 July 2025      |
