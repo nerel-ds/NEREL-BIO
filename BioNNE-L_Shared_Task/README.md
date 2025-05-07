@@ -1,3 +1,10 @@
+# IMPORTANT: Evaluation Phase's Deadline Extension
+
+Due to several requests and in order to allow more time for fine-tuning and finalizing submissions, we are happy to announce that **the evaluation phase submission deadline has been extended  from May 6th, 2025 to May 15th, 2025 (Anywhere on Earth time zone)**.
+
+
+Thank you again for your interest and participation. We look forward to receiving your new submissions! 
+
 # BioNNE-L Shared Task at BioASQ 2025
 
 The repository is devoted to the **BioNNE-L** (**Bio**medical **N**ested **N**amed **E**ntity **L**inking) Shared Task within the [BioASQ 2025 Workshop](https://www.bioasq.org/workshop2025) co-located with [CLEF 2025](https://clef2025.clef-initiative.eu).
@@ -5,6 +12,8 @@ The repository is devoted to the **BioNNE-L** (**Bio**medical **N**ested **N**am
 <p align="center">
 <img src="https://github.com/nerel-ds/NEREL-BIO/blob/master/bio-nne/annotation_example.png?raw=true" width="70%">
 </p>
+
+
 
 
 ## Shared Task Overview
