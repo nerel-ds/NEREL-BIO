@@ -1,0 +1,9 @@
+[Mild cognitive impairment in patients with coronary artery disease: clinical-demographyc and EEG-correlates]. 
+OBJECTIVE  The clinical and demographic factors associated with mild cognitive impairment (MCI) and the topographical features of electroencephalogram (EEG) spectral power in patients with coronary artery disease (CAD) depending on the presence or absence of MCI were studied. 
+MATERIAL AND METHODS Seventy-five male patients with CAD were assigned to the groups with (n=31) and without MCI (n=44).  
+The control group included 15 healthy people (the mean age 60.0 ± 4.39 years). 
+The MMSE, the Frontal Assessment battery, the Trail-Making Test, Khanin-Speilberger and Beck depression scales were used.  
+RESULTS A lower level of education, more severe coronary lesions and lower cardiac contractility, as well as higher spectral power (Θ-rhythm) of parietooccipital theta activity have been found in CAD patients with MCI compared to patients without MCI.  
+The latter parameter in MCI patients also differed from controls. CONCLUSION Education is an important factor to preserve cognitive abilities in patients with CAD. 
+In addition, the severity of coronary artery lesions and low cardiac contractility affect the degree of cerebral ischemia and neuronal dysfunction detected by spectral EEG power. 
+The efficacy of quantitative EEG analysis methods for early detection and prevention of cognitive disorders in CAD patients was confirmed. 
