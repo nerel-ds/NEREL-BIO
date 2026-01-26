@@ -30,7 +30,7 @@ Similar to the [BioNNE 2025 task](https://ceur-ws.org/Vol-4038/paper_3.pdf) [2],
 
 To participate in BioNNE-R, please register at the BioASQ website: [https://participants-area.bioasq.org/general_information/general_information_registration/](https://participants-area.bioasq.org/general_information/general_information_registration/). You can join anytime from Feb, 2026 onwards. 
 
-Competition can be found **here**.
+Task Competition is hosted at codabench **[here](https://www.codabench.org/competitions/13132/?secret_key=dccbcece-0cbd-4156-89a9-1dca9b133fbe)**.
 
 ## Data
 
@@ -121,7 +121,6 @@ Submission format perfectly aligns with relation data format. Fields `document_i
 We treat the shared task as multi-classification task. We choose F1-score for evaluation of submissions, macro-averaged over all relation types. 
 
 ## Important Dates:
-
 
 | Phase                                      | Date             |
 |--------------------------------------------|------------------|
