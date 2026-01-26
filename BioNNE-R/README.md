@@ -36,7 +36,11 @@ Competition can be found **here**.
 
 ### Data Overview
 
-TSV-formatted entity data, TSV-formatted relation data and raw texts.
+| | TSV-formatted entity data | TSV-formatted relation data | Raw Texts |
+| --- | --- | --- | --- |
+| English | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/train/eng-train-ent.tsv), dev **TBD**, test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/train/eng-train-rel.tsv), , dev **TBD**, test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/en/train/texts), dev **TBD**, test **TBD** |
+| Russian | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/train/rus-train-ent.tsv), dev **TBD**, test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/train/rus-train-rel.tsv), dev **TBD**, test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/ru/train/texts), dev **TBD**, test **TBD** | 
+
 
 ### Annotated Data Format
 
