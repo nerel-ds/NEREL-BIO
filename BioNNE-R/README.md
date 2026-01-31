@@ -124,13 +124,15 @@ We treat the shared task as multi-classification task. We choose F1-score for ev
 
 | Phase                                      | Date             |
 |--------------------------------------------|------------------|
-| Training Data Release                       | Feb 2026       |
-| Dev data release, Development phase start   | TBD      |
-| Test data release, Evaluation phase start | TBD    |
-| Test set predictions due                    | TBD       |
-| Submission of participant papers            | TBD      |
-| Acceptance notification for participant papers | TBD     |
-| Camera-ready working notes papers         | TBD      |
+| Lab registration opens [here](https://clef-labs-registration.dipintra.it/). | November 17, 2025 |
+| Training Data Release                       | January 29, 2026       |
+| Dev data release, Development phase start   | February 8, 2026      |
+| Lab registration closes | Apr 23 2026 |
+| Test data release, Evaluation phase start | April 23, 2026    |
+| Test set predictions due                    | May 7, 2026       |
+| Submission of participant papers            | May 28, 2026      |
+| Acceptance notification for participant papers | June 30, 2026     |
+| Camera-ready working notes papers         | July 6, 2026      |
 | **BioASQ Workshop** at [CLEF 2026](https://clef2026.clef-initiative.eu)              | September 21-24, 2026 |
 
 
