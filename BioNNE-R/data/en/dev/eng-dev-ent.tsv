@@ -1,0 +1,3479 @@
+document_id	entity_type	entity_text	entity_span
+25823274_en	ANATOMY	Lung	1-5
+25823274_en	LABPROC	ultrasonography	6-21
+25823274_en	FINDING	clinical improvements	1361-1382
+25823274_en	DISO	pneumonia	43-52
+25823274_en	PHYS	pregnant	56-64
+25823274_en	DISO	primary mediastinal large B-cell lymphoma	462-503
+25823274_en	ANATOMY	blood	76-81
+25823274_en	DISO	tumors	89-95
+25823274_en	DISO	blood system tumors	76-95
+25823274_en	ANATOMY	lavage fluid	1324-1336
+25823274_en	LABPROC	ultrasonography	141-156
+25823274_en	LABPROC	USG	158-161
+25823274_en	FINDING	normalization of the lung ultrasound pattern	1387-1431
+25823274_en	ANATOMY	lung	183-187
+25823274_en	DISO	lung injuries	183-196
+25823274_en	PHYS	pregnant	200-208
+25823274_en	ANATOMY	blood	220-225
+25823274_en	DISO	tumors	233-239
+25823274_en	DISO	blood system tumors	220-239
+25823274_en	ANATOMY	blood system	220-232
+25823274_en	ANATOMY	blood system	76-88
+25823274_en	ANATOMY	Lung	263-267
+25823274_en	LABPROC	ultrasound	268-278
+25823274_en	PHYS	pregnant	298-306
+25823274_en	ANATOMY	blood	321-326
+25823274_en	DISO	cancers	327-334
+25823274_en	DISO	blood cancers	321-334
+25823274_en	FINDING	gestational age	370-385
+25823274_en	PHYS	respiratory	733-744
+25823274_en	PHYS	gestational	370-381
+25823274_en	DISO	left-sided one pneumonia	1011-1004
+25823274_en	FINDING	no pathogens in lavage fluid	1308-1336
+25823274_en	DISO	leukemia	444-452
+25823274_en	DISO	infectious complications	1597-1621
+25823274_en	DISO	acute leukemia	438-452
+25823274_en	LABPROC	Lung sound	1654-1664
+25823274_en	ANATOMY	mediastinal	470-481
+25823274_en	ANATOMY	large B-cell	482-494
+25823274_en	ANATOMY	interstitial	947-959
+25823274_en	DISO	lymphoma	495-503
+25823274_en	DISO	B-cell lymphoma	488-503
+25823274_en	DISO	large B-cell lymphoma	482-503
+25823274_en	DISO	mediastinal large B-cell lymphoma	470-503
+25823274_en	ANATOMY	blood	546-551
+25823274_en	DISO	cancer	552-558
+25823274_en	DISO	blood cancer	546-558
+25823274_en	FINDING	lung ultrasound pattern	1408-1431
+25823274_en	ANATOMY	lung	586-590
+25823274_en	DISO	lung injury	586-597
+25823274_en	LABPROC	USG	599-602
+25823274_en	LABPROC	dynamic air bronchogram	846-869
+25823274_en	PHYS	delivered	1478-1487
+25823274_en	PHYS	healthy	1558-1565
+25823274_en	LABPROC	Lung ultrasound	263-278
+25823274_en	FINDING	USG data	1165-1173
+25823274_en	DISO	respiratory failure	733-752
+25823274_en	DISO	acute respiratory failure	727-752
+25823274_en	LABPROC	air bronchogram	854-869
+25823274_en	ANATOMY	pleural	874-881
+25823274_en	DISO	effusion	882-890
+25823274_en	DISO	pleural effusion	874-890
+25823274_en	PHYS	died	1587-1591
+25823274_en	DISO	pneumonia	924-933
+25823274_en	DISO	bilateral pneumonia	914-933
+25823274_en	PHYS	birth	1549-1554
+25823274_en	DISO	complications	1608-1621
+25823274_en	ANATOMY	alveolar	938-946
+25823274_en	DISO	alveolar-interstitial syndrome	938-968
+25823274_en	DISO	pneumonia	995-1004
+25823274_en	DISO	right-sided pneumonia	983-1004
+25823274_en	ANATOMY	pulmonary	1056-1065
+25823274_en	DISO	edema	1066-1071
+25823274_en	DISO	pulmonary edema	1056-1071
+25823274_en	DISO	transfusion-related pulmonary edema	1036-1071
+25823274_en	ANATOMY	Lung	1079-1083
+25823274_en	LABPROC	ultrasound	1084-1094
+25823274_en	LABPROC	Lung ultrasound	1079-1094
+25823274_en	LABPROC	Lung ultrasonography	1-21
+25823274_en	DISO	pneumonia	1127-1136
+25823274_en	LABPROC	USG	1165-1168
+25823274_en	DISO	Pneumocystis	1256-1268
+25823274_en	DISO	pneumonia	1269-1278
+25823274_en	DISO	Pneumocystis pneumonia	1256-1278
+25823274_en	ANATOMY	lung	1408-1412
+25823274_en	LABPROC	ultrasound	1413-1423
+25823274_en	LABPROC	lung ultrasound	1408-1423
+25823274_en	PHYS	pregnant	1443-1451
+25823274_en	PHYS	gestation	1530-1539
+25823274_en	DISO	infectious	1597-1607
+25823274_en	ANATOMY	Lung	1654-1658
+25823274_en	ANATOMY	lung	1689-1693
+25823274_en	DISO	lung injury	1689-1700
+25823274_en	PHYS	pregnant	1704-1712
+25823274_en	ANATOMY	blood	1724-1729
+25823274_en	DISO	cancers	1730-1737
+25823274_en	DISO	blood cancers	1724-1737
+25864346_en	FINDING	long-term efficiency of medical therapy	1846-1885
+25864346_en	DISO	severe attack	173-186
+25864346_en	DISO	ulcerative colitis	76-94
+25864346_en	DISO	UC	255-257
+25864346_en	DISO	SA	188-190
+25864346_en	DISO	SA	435-437
+25864346_en	DISO	SA	386-388
+25864346_en	DISO	UC	392-394
+25864346_en	DISO	SA	1731-1733
+25864346_en	DISO	UC	441-443
+25864346_en	DISO	SA	1892-1894
+25864346_en	CHEM	glucocorticosteroids	526-546
+25864346_en	CHEM	GCS	548-551
+25864346_en	CHEM	prednisolone	554-566
+25864346_en	DISO	severe attack	59-72
+25864346_en	CHEM	mesalasine	616-626
+25864346_en	CHEM	azathioprine	638-650
+25864346_en	CHEM	AZA	652-655
+25864346_en	DISO	attacks	1018-1025
+25864346_en	CHEM	AZA	810-813
+25864346_en	CHEM	INF	819-822
+25864346_en	FINDING	declines with advancing age	1901-1928
+25864346_en	CHEM	GCS	1048-1051
+25864346_en	PHYS	clinical remission	965-983
+25864346_en	CHEM	INF	1082-1085
+25864346_en	CHEM	GCS	1217-1220
+25864346_en	CHEM	GCS	1286-1289
+25864346_en	CHEM	AZA	1340-1343
+25864346_en	CHEM	anti-recurrence agent	1951-1972
+25864346_en	FINDING	long-term clinical response	2034-2061
+25864346_en	CHEM	AZA	1507-1510
+25864346_en	PHYS	GCS-resistant	671-684
+25864346_en	DISO	SA of UC	1731-1739
+25864346_en	CHEM	GCS	1780-1783
+25864346_en	DISO	UC	1898-1900
+25864346_en	FINDING	stopped without using GCS, immunosuppressive agents, or INF	1026-1085
+25864346_en	CHEM	AZA	1941-1944
+25864346_en	CHEM	immunosuppressive agents	1053-1077
+25864346_en	CHEM	GCS	1994-1997
+25864346_en	PHYS	age	1925-1928
+25864346_en	DISO	colitis	87-94
+25864346_en	DISO	recurrent UC	1176-1188
+25864346_en	FINDING	decreasing the dose of GCS	1194-1220
+25864346_en	FINDING	treatment outcome	1582-1599
+25864346_en	DISO	ulcerative colitis	195-213
+25864346_en	DISO	colitis	206-213
+25864346_en	DISO	UC	215-217
+25864346_en	CHEM	anti-recurrent drug	1517-1536
+25864346_en	DISO	ulcerative	76-86
+25864346_en	DISO	severe attack of ulcerative colitis	59-94
+25864346_en	DISO	attack	66-72
+25864346_en	DISO	severe attack (SA) of ulcerative colitis	173-213
+25864346_en	CHEM	5-ASA	628-633
+25864346_en	CHEM	GCS	671-674
+25864346_en	DISO	ulcerative	195-205
+25864346_en	CHEM	infliximab	705-715
+25864346_en	CHEM	INF	717-720
+25864346_en	PHYS	age	1645-1648
+25864346_en	DISO	attack	180-186
+25864346_en	CHEM	5-ASA	803-808
+25864346_en	FINDING	increases the probability of long-term clinical response	2005-2061
+25864346_en	FINDING	poor treatment outcome	1577-1599
+25864346_en	DISO	SA of UC	386-394
+25864346_en	DISO	UC	1186-1188
+25864346_en	FINDING	long-term result of medical treatmen	116-152
+25864346_en	FINDING	Long-term results of medical treatment	1-39
+25864346_en	FINDING	long-term result of medical therapy	1448-1483
+25864346_en	CHEM	5-ASA	1412-1417
+25864346_en	FINDING	satisfactory treatment outcome	1560-1599
+25864346_en	DISO	SA of UC	435-443
+25864346_en	DISO	UC	1737-1739
+25864346_en	DISO	SA of UC	1892-1900
+25868364_en	DISO	dissection	146-156
+25868364_en	ANATOMY	aortic wall	42-53
+25868364_en	DISO	aneurysm]	68-77
+25868364_en	ANATOMY	aorta	133-138
+25868364_en	ANATOMY	biopsy specimens	648-664
+25868364_en	ANATOMY	specimens	655-664
+25868364_en	ANATOMY	fragments of the wall	313-334
+25868364_en	ANATOMY	ascending aorta	342-357
+25868364_en	CHEM	formalin solution	376-393
+25868364_en	DISO	deficiency of collagen	943-965
+25868364_en	DISO	dissection	1061-1071
+25868364_en	CHEM	paraffin	491-499
+25868364_en	PHYS	physiological or premature aging	855-887
+25868364_en	CHEM	orsein	547-553
+25868364_en	DISO	aortic aneurysm	632-647
+25868364_en	LABPROC	light microscopy	790-819
+25868364_en	ANATOMY	aortic wall	719-730
+25868364_en	LABPROC	microscopy	809-819
+25868364_en	CHEM	hemotoxyllin	527-539
+25868364_en	CHEM	eosin	540-545
+25868364_en	LABPROC	electron microscopy	800-819
+25868364_en	ANATOMY	skeleton	913-921
+25868364_en	PHYS	aging	882-887
+25868364_en	PHYS	aging	1029-1034
+25868364_en	PHYS	elastic skeleton changes	905-929
+25868364_en	CHEM	collagen	957-965
+25868364_en	PHYS	maturation	983-993
+25868364_en	PHYS	vascular aging	1020-1034
+25868364_en	DISO	substitutive sclerosis	1343-1365
+25868364_en	DISO	aortic dissection	1054-1071
+25868364_en	ANATOMY	smooth muscle cells	1128-1147
+25868364_en	DISO	hypertension	1193-1205
+25868364_en	PHYS	Age	1-4
+25868364_en	DISO	aortic dissection	1226-1243
+25868364_en	DISO	genetically determined disorder	1276-1307
+25868364_en	ANATOMY	elastic skeleton	1315-1331
+25868364_en	PHYS	age	743-746
+25868364_en	DISO	dissecting aneurysm	57-76
+25868364_en	PHYS	age	181-184
+25868364_en	ANATOMY	aorta	270-275
+25868364_en	ANATOMY	aortic	1054-1060
+25868364_en	DISO	dissection	284-294
+25868364_en	ANATOMY	aorta	352-357
+25868364_en	CHEM	formalin	376-384
+25868364_en	PHYS	young	1210-1215
+25868364_en	LABPROC	Van-Gieson	561-571
+25868364_en	LABPROC	MSB	573-576
+25868364_en	LABPROC	Leigh methods	582-595
+25868364_en	DISO	aneurysm	639-647
+25868364_en	LABPROC	biopsy	648-654
+25868364_en	ANATOMY	muscle	1135-1141
+25868364_en	ANATOMY	cells	1142-1147
+25868364_en	ANATOMY	skeleton	1323-1331
+25868364_en	DISO	sclerosis	1356-1365
+25868364_en	PHYS	age	1173-1176
+25868364_en	PHYS	morphological changes	13-34
+25868364_en	ANATOMY	aortic	42-48
+25868364_en	DISO	dissecting aortic aneurysm	621-647
+25868364_en	PHYS	structural features	692-711
+25868364_en	PHYS	age-related changes	743-762
+25868364_en	LABPROC	stained	514-521
+25868364_en	LABPROC	special stains	826-840
+25868364_en	PHYS	morphological features	103-125
+25868364_en	ANATOMY	elastic skeleton	905-921
+25868364_en	DISO	impaired maturation	974-993
+25868364_en	ANATOMY	operative material	219-237
+25868364_en	PHYS	Quantitative and qualitative changes in the smooth muscle cells	1084-1147
+25868364_en	ANATOMY	vascular	1020-1028
+25868364_en	ANATOMY	aortic	719-725
+25868364_en	ANATOMY	wall	330-334
+25868364_en	CHEM	solution	385-393
+25868364_en	ANATOMY	aortic	1226-1232
+25868364_en	LABPROC	fixed in 10% formalin solution	363-393
+25868364_en	ANATOMY	aortic	632-638
+25868364_en	ANATOMY	sections	500-508
+25868364_en	PHYS	Age-related morphological changes	1-34
+25868364_en	ANATOMY	smooth muscle	1128-1141
+25868366_en	DISO	vocal fold polyps	19-36
+25868366_en	ANATOMY	mucosa	41-47
+25868366_en	CHEM	costimulatory molecule CD80	785-812
+25868366_en	DISO	edema	60-65
+25868366_en	CHEM	MMP	920-923
+25868366_en	DISO	vocal fold polyps	114-131
+25868366_en	DISO	Reinke's edema	136-150
+25868366_en	DISO	Polyps of the vocal folds	384-409
+25868366_en	LABPROC	immunohistochemical	227-246
+25868366_en	ANATOMY	microcirculatory bed	290-310
+25868366_en	PHYS	interaction of structures of innate and adaptive immunity	1604-1661
+25868366_en	ANATOMY	vocal folds	398-409
+25868366_en	PHYS	differentiation markers	712-735
+25868366_en	CHEM	vascular cell adhesion molecule	943-974
+25868366_en	CHEM	VCAM	978-982
+25868366_en	ANATOMY	B cell	705-711
+25868366_en	CHEM	monoclonal antibodies	635-671
+25868366_en	CHEM	polyclonal antibodies	650-671
+25868366_en	PHYS	markers	728-735
+25868366_en	ANATOMY	T cell	699-711
+25868366_en	CHEM	Toll-like receptors	737-756
+25868366_en	CHEM	TLR2	758-762
+25868366_en	CHEM	TLR4	764-768
+25868366_en	CHEM	TLR9	774-778
+25868366_en	DISO	polypoid hyperplasia	1022-1042
+25868366_en	CHEM	costimulatory molecule CD80	1466-1493
+25868366_en	PHYS	activity	1534-1542
+25868366_en	ANATOMY	microcirculatory vessels	1120-1144
+25868366_en	ANATOMY	membranous vocal fold portion	1152-1181
+25868366_en	ANATOMY	Reinke's space	1189-1203
+25868366_en	ANATOMY	endothelial	1318-1329
+25868366_en	CHEM	CD34	1242-1246
+25868366_en	CHEM	VCAM-1	1248-1254
+25868366_en	CHEM	MMP-1	1256-1261
+25868366_en	CHEM	MMP-9	1266-1271
+25868366_en	CHEM	TLR4	1284-1288
+25868366_en	CHEM	TLR9	1293-1297
+25868366_en	PHYS	permeability	337-349
+25868366_en	PHYS	microcirculatory	1339-1355
+25868366_en	ANATOMY	vessels	1356-1363
+25868366_en	ANATOMY	epithelial	1369-1379
+25868366_en	CHEM	receptors	1448-1457
+25868366_en	CHEM	Toll-like receptors	1438-1457
+25868366_en	CHEM	CD80	1489-1493
+25868366_en	ANATOMY	T cell lymphocyte	1516-1533
+25868366_en	CHEM	MMP	930-933
+25868366_en	CHEM	CD28	1552-1556
+25868366_en	DISO	hyperplasia	1704-1715
+25868366_en	CHEM	CTLA-4	1582-1588
+25868366_en	PHYS	innate immunity	1633-1661
+25868366_en	PHYS	adaptive immunity	1644-1661
+25868366_en	DISO	Polyps	384-390
+25868366_en	ANATOMY	mucosal tissue samples	420-442
+25868366_en	ANATOMY	vocal folds	1723-1734
+25868366_en	ANATOMY	stromal	1764-1771
+25868366_en	DISO	viral infections	1870-1886
+25868366_en	INJURY_POISONING	exogenic intoxications	1842-1864
+25868366_en	ANATOMY	integumentary	1892-1905
+25868366_en	CHEM	Toll-like receptors	1928-1947
+25868366_en	ANATOMY	matrix	893-899
+25868366_en	ANATOMY	vocal fold	19-29
+25868366_en	DISO	polyps	30-36
+25868366_en	DISO	Reinke's edema	51-65
+25868366_en	PHYS	morphology	5-15
+25868366_en	ANATOMY	cell	707-711
+25868366_en	ANATOMY	vocal fold	114-124
+25868366_en	DISO	polypoid	1022-1030
+25868366_en	PHYS	morphogenesis	97-110
+25868366_en	PHYS	markers	826-833
+25868366_en	PHYS	permeability	1092-1104
+25868366_en	DISO	edema	145-150
+25868366_en	DISO	polyps	125-131
+25868366_en	ANATOMY	cells	1330-1335
+25868366_en	DISO	edema	455-460
+25868366_en	ANATOMY	membranous	1152-1162
+25868366_en	ANATOMY	vocal fold	1163-1173
+25868366_en	ANATOMY	tissue	428-434
+25868366_en	ANATOMY	mucosal tissue	420-434
+25868366_en	DISO	Reinke's edema	446-460
+25868366_en	ANATOMY	vessels	1137-1144
+25868366_en	CHEM	receptors	747-756
+25868366_en	PHYS	state of the local microcirculatory bed	271-310
+25868366_en	PHYS	attenuation	1561-1572
+25868366_en	DISO	permeability impairment	337-360
+25868366_en	CHEM	MMP	1256-1259
+25868366_en	CHEM	DAB	673-676
+25868366_en	CHEM	chromogen	677-686
+25868366_en	PHYS	vocal	19-24
+25868366_en	CHEM	costimulatory molecule	785-807
+25868366_en	CHEM	CD80	808-812
+25868366_en	CHEM	B7- 1	814-819
+25868366_en	PHYS	angiogenesis	838-850
+25868366_en	CHEM	CD34	852-856
+25868366_en	ANATOMY	vascular	859-867
+25868366_en	ANATOMY	tissue	872-878
+25868366_en	CHEM	metalloproteinases	900-918
+25868366_en	CHEM	matrix metalloproteinases	893-918
+25868366_en	CHEM	MMP-1	920-925
+25868366_en	CHEM	MMP-9	930-935
+25868366_en	ANATOMY	vascular	943-951
+25868366_en	ANATOMY	cell	952-956
+25868366_en	ANATOMY	vascular cell	943-956
+25868366_en	CHEM	vascular cell adhesion molecule-1	943-976
+25868366_en	CHEM	VCAM-1	978-984
+25868366_en	FINDING	poor etiological factors	1790-1814
+25868366_en	DISO	hyperplasia	1031-1042
+25868366_en	ANATOMY	endothelial cells	1318-1335
+25868366_en	DISO	impaired permeability	1083-1104
+25868366_en	ANATOMY	wall of microcirculatory vessels	1112-1144
+25868366_en	PHYS	microcirculatory	1120-1136
+25868366_en	PHYS	vocal	114-119
+25868366_en	PHYS	vocal	398-403
+25868366_en	PHYS	vocal	1163-1168
+25868366_en	ANATOMY	microcirculatory vessels	1339-1363
+25868366_en	ANATOMY	endothelial cells of microcirculatory vessels	1318-1363
+25868366_en	ANATOMY	cells	1387-1392
+25868366_en	ANATOMY	epithelial lining cells	1369-1392
+25868366_en	CHEM	MMP	1266-1269
+25868366_en	CHEM	B7-1	1495-1499
+25868366_en	CHEM	costimulatory molecule	1466-1488
+25868366_en	ANATOMY	T cell	1516-1522
+25868366_en	ANATOMY	cell	1518-1522
+25868366_en	ANATOMY	lymphocyte	1523-1533
+25868366_en	DISO	polypoid hyperplasia of the vocal folds	1695-1734
+25868366_en	ANATOMY	epithelial	1753-1763
+25868366_en	PHYS	epithelial stromal interaction	1753-1783
+25868366_en	ANATOMY	mucosa	461-467
+25868366_en	PHYS	permeability	879-891
+25868366_en	PHYS	expression of molecules	1209-1232
+25868366_en	PHYS	vocal	1723-1728
+25868366_en	ANATOMY	cells	1913-1918
+25868366_en	PHYS	vocal	1829-1834
+25868366_en	CHEM	receptors	1938-1947
+25868366_en	DISO	polypoid hyperplasia	1695-1715
+25868366_en	ANATOMY	Reinke's space	1981-1995
+25868366_en	ANATOMY	integumentary lining cells	1892-1918
+25868366_en	DISO	polypoid	1695-1703
+25868366_en	LABPROC	histological	210-222
+25868366_en	ANATOMY	local microcirculatory bed	284-310
+25868366_en	PHYS	microcirculatory	290-306
+25868366_en	CHEM	VCAM	1248-1252
+25868366_en	PHYS	markers for angiogenesis	826-850
+25868366_en	PHYS	expressed	1408-1417
+25868366_en	CHEM	peroxidase	616-626
+25868366_en	CHEM	antibodies	661-671
+25868366_en	PHYS	modulated	1506-1515
+25868366_en	PHYS	reactive alterations	1957-1977
+25868366_en	INJURY_POISONING	intoxications	1851-1864
+25868366_en	PHYS	immunity.	1653-1662
+25868366_en	DISO	infections	1876-1886
+25868366_en	CHEM	CTLA	1582-1586
+25868366_en	CHEM	B7	814-816
+25868366_en	CHEM	B7	1495-1497
+25909557_en	DISO	Metastasis of colorectal cancer	0-31
+25909557_en	ANATOMY	adrenal gland	44-57
+25909557_en	DISO	liver metastatic lesion	134-157
+25909557_en	DISO	metastasis	1045-1055
+25909557_en	DISO	metastasis	260-270
+25909557_en	DISO	Metastasis	0-10
+25909557_en	ANATOMY	adrenal gland	277-290
+25909557_en	DISO	tumor thrombosis	296-312
+25909557_en	ANATOMY	inferior vena cava	316-334
+25909557_en	DISO	CRC pT3N2M1	464-475
+25909557_en	DISO	CRC	464-467
+25909557_en	ANATOMY	liver right lobe	498-514
+25909557_en	ANATOMY	colorectal	249-259
+25909557_en	LABPROC	multi-layer spiral CT	691-712
+25909557_en	ANATOMY	abdominal cavity	716-732
+25909557_en	DISO	mass lesion	742-753
+25909557_en	ANATOMY	right adrenal gland	761-780
+25909557_en	DISO	metastatic lesion	802-819
+25909557_en	FINDING	respectability	1056-1070
+25909557_en	ANATOMY	inferior vena cava	840-858
+25909557_en	DISO	thrombosis	863-873
+25909557_en	ANATOMY	lumen	881-886
+25909557_en	ANATOMY	vascular	1005-1013
+25909557_en	FINDING	small extent of a tumor thrombus	1095-1127
+25909557_en	ANATOMY	IVC	959-962
+25909557_en	ANATOMY	colorectal	14-24
+25909557_en	ANATOMY	adrenal gland	1077-1090
+25909557_en	DISO	tumor thrombus	1113-1127
+25909557_en	DISO	cancer	25-31
+25909557_en	DISO	CRC	33-36
+25909557_en	DISO	colorectal cancer	14-31
+25909557_en	ANATOMY	gland	52-57
+25909557_en	ANATOMY	retroliver segment level	890-914
+25909557_en	ANATOMY	liver	134-139
+25909557_en	DISO	lesion	151-157
+25909557_en	PHYS	long-term survival	199-217
+25909557_en	DISO	metastatic lesion	140-157
+25909557_en	PHYS	survival	209-217
+25909557_en	ANATOMY	gland	285-290
+25909557_en	DISO	tumor	296-301
+25909557_en	DISO	thrombosis	302-312
+25909557_en	ANATOMY	IVC	336-339
+25909557_en	FINDING	aggravates for certain prognosis for long-term survival	162-217
+25909557_en	ANATOMY	vena cava	325-334
+25909557_en	DISO	colorectal metastasis	249-270
+25909557_en	DISO	lesion	488-494
+25909557_en	ANATOMY	liver	498-503
+25909557_en	DISO	metastatic lesion	477-494
+25909557_en	LABPROC	spiral CT	703-712
+25909557_en	LABPROC	CT	710-712
+25909557_en	ANATOMY	abdominal	716-725
+25909557_en	DISO	lesion	747-753
+25909557_en	ANATOMY	adrenal gland	767-780
+25909557_en	ANATOMY	gland	775-780
+25909557_en	DISO	lesion	813-819
+25909557_en	ANATOMY	vena cava	849-858
+25909557_en	ANATOMY	gland	1085-1090
+25909557_en	DISO	tumor	1113-1118
+25909557_en	DISO	thrombus	1119-1127
+25909608_en	LABPROC	electric pulp sensitivity testing	88-121
+25909608_en	CHEM	analgin	51-58
+25909608_en	CHEM	paracetamol	60-71
+25909608_en	CHEM	dexalgin	76-84
+25909608_en	LABPROC	Pain threshold was measured	368-395
+25909608_en	DISO	Pain	368-372
+25909608_en	FINDING	analgesic activity	165-183
+25909608_en	CHEM	paracetamol	187-198
+25909608_en	CHEM	analgin	200-207
+25909608_en	CHEM	dexalgin	209-217
+25909608_en	CHEM	placebo	222-229
+25909608_en	LABPROC	electrical pulp sensitivity testing	236-271
+25909608_en	ANATOMY	pulp	97-101
+25909608_en	DEVICE	EOM-3	472-477
+25909608_en	ANATOMY	pulp	247-251
+25909608_en	CHEM	analgin	593-600
+25909608_en	CHEM	dexalgin	614-622
+25909608_en	CHEM	paracetamol	636-647
+25909608_en	CHEM	placebo	664-671
+25909608_en	CHEM	Paracetamol	674-685
+25909608_en	CHEM	placebo	723-730
+25909608_en	PHYS	Pain threshold	368-382
+25909608_en	FINDING	Height effect	543-556
+25909608_en	CHEM	Placebo	1-8
+25909608_en	PHYS	pulp sensitivity	97-113
+25909608_en	FINDING	analgesic activity	29-47
+25909608_en	PHYS	pulp sensitivity	247-263
+25909608_en	FINDING	analgesic efficiency	693-713
+25909608_en	FINDING	placebo effect	723-737
+25909675_en	ANATOMY	nasal cavity	58-70
+25909675_en	ANATOMY	nasal cavity mucosa	58-77
+25909675_en	ANATOMY	intranasal mucous	494-511
+25909675_en	DISO	acute rhinosinusitis	134-154
+25909675_en	PHYS	pain sensitivity threshold	900-926
+25909675_en	ANATOMY	nasal cavity mucosa	248-267
+25909675_en	DISO	rhinosinusitis	351-365
+25909675_en	DISO	acute rhinosinusitis	345-365
+25909675_en	PHYS	body temperature	442-458
+25909675_en	PHYS	pain sensitivity	460-476
+25909675_en	ANATOMY	mucous membrane	505-520
+25909675_en	PHYS	mucociliary transport	522-543
+25909675_en	PHYS	MCT	545-548
+25909675_en	LABPROC	joulemetry	569-579
+25909675_en	DISO	inflammation	1608-1620
+25909675_en	DISO	acute rhinosinusitis	633-653
+25909675_en	PHYS	pH	438-440
+25909675_en	ANATOMY	nasal cavity mucosa	733-752
+25909675_en	PHYS	functional characteristics	28-54
+25909675_en	FINDING	long duration of the recovery of ciliary epithelium activity	932-992
+25909675_en	DISO	rhinosinusitis	639-653
+25909675_en	FINDING	changes in the functional properties	208-244
+25909675_en	FINDING	elevated pain sensitivity threshold	891-926
+25909675_en	PHYS	pain sensitivity	900-916
+25909675_en	PHYS	age	1060-1063
+25909675_en	ANATOMY	epithelium	973-983
+25909675_en	FINDING	lowered mucosal temperature	837-864
+25909675_en	PHYS	pain sensitivity threshold	460-486
+25909675_en	FINDING	mucociliary transport (MCT) time	522-554
+25909675_en	PHYS	functional conditions	708-729
+25909675_en	PHYS	age	1350-1353
+25909675_en	ANATOMY	nasal cavity mucosa	1191-1210
+25909675_en	DISO	acute rhinosinusitis	1294-1314
+25909675_en	PHYS	age	1219-1222
+25909675_en	PHYS	elderly	798-805
+25909675_en	PHYS	aged	789-793
+25909675_en	PHYS	age	107-110
+25909675_en	ANATOMY	nasal	1534-1539
+25909675_en	ANATOMY	mucosa	1547-1553
+25909675_en	ANATOMY	nasal cavity mucosa	1534-1553
+25909675_en	FINDING	severity of inflammation	1596-1620
+25909675_en	PHYS	functional properties	223-244
+25909675_en	PHYS	age	318-321
+25909675_en	ANATOMY	mucosa	71-77
+25909675_en	ANATOMY	nasal	58-63
+25909675_en	DISO	rhinosinusitis	140-154
+25909675_en	FINDING	marked differences in the functional conditions	682-729
+25909675_en	ANATOMY	nasal cavity	248-260
+25909675_en	ANATOMY	mucosa	261-267
+25909675_en	ANATOMY	nasal	248-253
+25909675_en	PHYS	functional state	1514-1530
+25909675_en	PHYS	clinical characteristics	15-54
+25909675_en	PHYS	non-responsiveness inherent	1008-1035
+25909675_en	DISO	pain	460-464
+25909675_en	DISO	clinical manifestations	1267-1290
+25909675_en	LABPROC	measurement	423-434
+25909675_en	ANATOMY	intranasal	494-504
+25909675_en	ANATOMY	body	442-446
+25909675_en	ANATOMY	mucous	505-511
+25909675_en	ANATOMY	membrane	512-520
+25909675_en	ANATOMY	intranasal mucous membrane	494-520
+25909675_en	ANATOMY	nasal	733-738
+25909675_en	ANATOMY	mucosa	746-752
+25909675_en	ANATOMY	nasal cavity	733-745
+25909675_en	ANATOMY	mucosal	845-852
+25909675_en	PHYS	mucosal temperature	845-864
+25909675_en	DISO	pain	900-904
+25909675_en	PHYS	age-specific features	1219-1240
+25909675_en	ANATOMY	ciliary epithelium	965-983
+25909675_en	PHYS	ciliary epithelium activity	965-992
+25909675_en	PHYS	age-specific features	1350-1371
+25909675_en	LABPROC	joulemetry	1082-1092
+25909675_en	LABPROC	direct joulemetry	1075-1092
+25909675_en	ANATOMY	nasal	1191-1196
+25909675_en	ANATOMY	mucosa	1204-1210
+25909675_en	ANATOMY	nasal cavity	1191-1203
+25909675_en	DISO	pathological changes	1167-1187
+25909675_en	DISO	rhinosinusitis	1300-1314
+25909675_en	ANATOMY	nasal cavity	1534-1546
+26027241_en	DISO	Pulmonary paecilomycosis	1-25
+26027241_en	CHEM	lymphocyte antigen	580-598
+26027241_en	PHYS	morphology	719-729
+26027241_en	DISO	infection	1176-1185
+26027241_en	DISO	pain	1976-1980
+26027241_en	DISO	pulmonary paecilomycosis	228-252
+26027241_en	DISO	bronchopulmonary infection	344-370
+26027241_en	PHYS	healthy	426-433
+26027241_en	DISO	complication	881-893
+26027241_en	ANATOMY	Bronchopulmonary	1107-1123
+26027241_en	LABPROC	mycological	523-534
+26027241_en	LABPROC	laboratory diagnostic	500-521
+26027241_en	DISO	Paecilomycosis	1497-1511
+26027241_en	LABPROC	lymphocyte antigen-binding test	580-611
+26027241_en	DISO	chronic obstructive bronchitis	1252-1282
+26027241_en	DISO	Paecilomyces infection	649-671
+26027241_en	FINDING	irradiated	1877-1887
+26027241_en	LABPROC	microscopically examining	689-714
+26027241_en	ANATOMY	blood	773-778
+26027241_en	LABPROC	isolating the cultured fungi in the media	795-836
+26027241_en	DISO	myocarditis	937-948
+26027241_en	PHYS	mycelial form	1616-1629
+26027241_en	DISO	PP	897-899
+26027241_en	DISO	atypical paecilomycosis-associated myocarditis	902-948
+26027241_en	DISO	APAM	950-954
+26027241_en	LABPROC	immunological studies	540-561
+26027241_en	DISO	complicated	1005-1016
+26027241_en	LABPROC	echocardiography	1081-1097
+26027241_en	DISO	Bronchopulmonary paecilomycosis	1107-1138
+26027241_en	DISO	complication	1662-1674
+26027241_en	DISO	recurrent pneumonia	1292-1311
+26027241_en	DISO	allergic alveolitis	1331-1350
+26027241_en	DISO	asthma	1362-1368
+26027241_en	DISO	helminthiasis	1390-1403
+26027241_en	DISO	Iodine deficiency	1411-1428
+26027241_en	DISO	paecilomycosis	1456-1470
+26027241_en	DISO	echinococcosis	1475-1489
+26027241_en	DISO	Paecilomycosis infection	1497-1521
+26027241_en	DISO	severe intermittent pain	1808-1832
+26027241_en	DISO	APAM	1645-1649
+26027241_en	CHEM	analgesics	2080-2090
+26027241_en	DISO	PP	1678-1680
+26027241_en	DISO	PP	1714-1716
+26027241_en	DISO	carditis	1732-1740
+26027241_en	DISO	APAM	1760-1764
+26027241_en	DISO	intermittent pain	1815-1832
+26027241_en	ANATOMY	chest	1867-1872
+26027241_en	DISO	paecilomycosis	1017-1031
+26027241_en	ANATOMY	axilla	1895-1901
+26027241_en	ANATOMY	left hand	1903-1912
+26027241_en	ANATOMY	arm	1949-1952
+26027241_en	CHEM	antigen	591-598
+26027241_en	ANATOMY	arms	2007-2011
+26027241_en	DISO	allergic	1331-1339
+26027241_en	DISO	faints	2064-2070
+26027241_en	DISO	complicated	1375-1386
+26027241_en	CHEM	meloxicam	2092-2101
+26027241_en	CHEM	tizanidine	2103-2113
+26027241_en	CHEM	nimesulide	2115-2125
+26027241_en	CHEM	morphine	2127-2135
+26027241_en	CHEM	promedole	2137-2146
+26027241_en	CHEM	fluconazole	2168-2179
+26027241_en	ANATOMY	bronchopulmonary	344-360
+26027241_en	FINDING	pain relief	2340-2351
+26027241_en	DISO	APAM	2365-2369
+26027241_en	DISO	PP	2387-2389
+26027241_en	ANATOMY	Pulmonary	1-10
+26027241_en	DISO	paecilomycosis	11-25
+26027241_en	DISO	paecilomycosis	136-150
+26027241_en	ANATOMY	pulmonary	228-237
+26027241_en	DISO	paecilomycosis	238-252
+26027241_en	DISO	PP	254-256
+26027241_en	FINDING	abdominal irradiation	2017-2038
+26027241_en	DISO	infection	361-370
+26027241_en	ANATOMY	lymphocyte	580-590
+26027241_en	DISO	infection	662-671
+26027241_en	ANATOMY	sputum	780-786
+26027241_en	DISO	paecilomycosis	911-925
+26027241_en	DISO	paecilomycosis-associated myocarditis	911-948
+26027241_en	DISO	helminthiasis	991-1004
+26027241_en	DISO	paecilomycosis	1124-1138
+26027241_en	DISO	bronchitis	1272-1282
+26027241_en	DISO	obstructive bronchitis	1260-1282
+26027241_en	DISO	pneumonia	1302-1311
+26027241_en	DISO	alveolitis	1340-1350
+26027241_en	DISO	exogenous allergic alveolitis	1321-1350
+26027241_en	CHEM	Iodine	1411-1417
+26027241_en	DISO	infection	1512-1521
+26027241_en	DISO	pain	1828-1832
+26027241_en	ANATOMY	hand	1908-1912
+26027241_en	ANATOMY	fingertips	1922-1932
+26027241_en	DISO	paralyzing the arm	1934-1952
+26027241_en	ANATOMY	abdominal	2017-2026
+26027241_en	FINDING	positive effect	2201-2216
+26027241_en	FINDING	temporary positive effect	2191-2216
+26027241_en	DISO	pain	2340-2344
+26027241_en	ANATOMY	pathological material	750-771
+26027241_en	LABPROC	Czapek's	854-862
+26027241_en	LABPROC	Sabouraud's	838-849
+26031946_en	DISO	bronchial carcinoid	53-72
+26031946_en	ANATOMY	bronchus	84-92
+26031946_en	DISO	complications	506-519
+26031946_en	FINDING	10-year survival	616-632
+26031946_en	DISO	exophytic tumor	199-214
+26031946_en	ANATOMY	mediastinal	463-474
+26031946_en	DISO	Postoperative complications	492-519
+26031946_en	DISO	carcinoid	352-361
+26031946_en	ANATOMY	bronchus	526-534
+26031946_en	LABPROC	morphological study	324-343
+26031946_en	FINDING	no deaths	590-599
+26031946_en	DISO	typical carcinoid	344-361
+26031946_en	ANATOMY	bronchus	761-769
+26031946_en	ANATOMY	pulmonary parenchyma	794-814
+26031946_en	DISO	atypical	398-406
+26031946_en	ANATOMY	Lung	1-5
+26031946_en	PHYS	deaths	593-599
+26031946_en	FINDING	5- year survival	609-632
+26031946_en	DISO	central cancer	107-121
+26031946_en	ANATOMY	bronchial	53-62
+26031946_en	DISO	carcinoid	63-72
+26031946_en	DISO	cancer	115-121
+26031946_en	DISO	Cancer	293-299
+26031946_en	DISO	exophytic	199-208
+26031946_en	DISO	tumor	209-214
+26031946_en	ANATOMY	thoracic	243-251
+26031946_en	FINDING	preserves all pulmonary parenchyma	780-814
+26031946_en	FINDING	survival	624-632
+26031946_en	ANATOMY	pulmonary	794-803
+26031946_en	ANATOMY	parenchyma	804-814
+26036067_en	INJURY_POISONING	bruises	1654-1661
+26036067_en	INJURY_POISONING	injuries to the extremities	147-174
+26036067_en	INJURY_POISONING	injuries	305-313
+26036067_en	INJURY_POISONING	fractures	1572-1581
+26036067_en	ANATOMY	corpses	647-654
+26036067_en	INJURY_POISONING	skin scratches	1713-1727
+26036067_en	ANATOMY	posterior left elbow region	1096-1123
+26036067_en	ANATOMY	upper and lower extremities	321-348
+26036067_en	ANATOMY	palm surface of the right wrist	1157-1188
+26036067_en	INJURY_POISONING	scratches	1140-1149
+26036067_en	ANATOMY	postrerior region of the left lower leg	1218-1257
+26036067_en	ANATOMY	dorsal surface of the left wrist	1283-1315
+26036067_en	ANATOMY	anterior surface of the left knee	1342-1375
+26036067_en	INJURY_POISONING	injuries in the traffic accidents	690-723
+26036067_en	INJURY_POISONING	bone fractures	1468-1482
+26036067_en	INJURY_POISONING	tension of ligaments	1494-1514
+26036067_en	INJURY_POISONING	fractures	1473-1482
+26036067_en	ANATOMY	right talocrural joint	1538-1560
+26036067_en	INJURY_POISONING	scratches	1718-1727
+26036067_en	ANATOMY	left tibial epiphysis	1606-1627
+26036067_en	INJURY_POISONING	hemorrhage	1639-1649
+26036067_en	ANATOMY	anterior right knee region	1669-1695
+26036067_en	INJURY_POISONING	injuries	690-698
+26036067_en	ANATOMY	right posterior carpal region	1735-1764
+26036067_en	FINDING	lethal outcome	1024-1038
+26036067_en	FINDING	outcome	1031-1038
+26036067_en	ANATOMY	extremities	163-174
+26036067_en	ANATOMY	upper extremities	321-348
+26036067_en	FINDING	expert conclusions	2117-2135
+26036067_en	FINDING	circumstance of traffic accidents	2189-2222
+26036067_en	ANATOMY	palm	1157-1161
+26036067_en	INJURY_POISONING	injuries	1061-1069
+26036067_en	ANATOMY	leg	1254-1257
+26036067_en	ANATOMY	dorsal surface	1283-1297
+26036067_en	ANATOMY	postrerior region	1218-1235
+26036067_en	ANATOMY	anterior surface	1342-1358
+26036067_en	ANATOMY	left tibial	1606-1617
+26036067_en	INJURY_POISONING	injuries	147-155
+26036067_en	ANATOMY	elbow	1111-1116
+26036067_en	ANATOMY	left elbow	1106-1116
+26036067_en	ANATOMY	posterior left elbow	1096-1116
+26036067_en	INJURY_POISONING	bleeding	1078-1086
+26036067_en	ANATOMY	skin	1135-1139
+26036067_en	ANATOMY	extremities	337-348
+26036067_en	ANATOMY	palm surface	1157-1169
+26036067_en	ANATOMY	wrist	1183-1188
+26036067_en	ANATOMY	right wrist	1177-1188
+26036067_en	INJURY_POISONING	skin scratches	1135-1149
+26036067_en	ANATOMY	lower leg	1248-1257
+26036067_en	ANATOMY	left lower leg	1243-1257
+26036067_en	INJURY_POISONING	bleeding	1200-1208
+26036067_en	ANATOMY	wrist	1310-1315
+26036067_en	ANATOMY	left wrist	1305-1315
+26036067_en	ANATOMY	dorsal	1283-1289
+26036067_en	INJURY_POISONING	wounds	1269-1275
+26036067_en	ANATOMY	knee	1371-1375
+26036067_en	ANATOMY	left knee	1366-1375
+26036067_en	INJURY_POISONING	bruises	1327-1334
+26036067_en	FINDING	improvement of the quality of expert conclusions and the results of forensic medical expertise	2087-2181
+26036067_en	ANATOMY	bone	1468-1472
+26036067_en	ANATOMY	ligaments	1505-1514
+26036067_en	ANATOMY	talocrural joint	1544-1560
+26036067_en	INJURY_POISONING	dislocation	1519-1530
+26036067_en	ANATOMY	kneecap	1594-1601
+26036067_en	ANATOMY	left kneecap	1589-1601
+26036067_en	ANATOMY	epiphysis	1618-1627
+26036067_en	ANATOMY	tibial	1611-1617
+26036067_en	ANATOMY	knee	1684-1688
+26036067_en	ANATOMY	right knee	1678-1688
+26036067_en	ANATOMY	skin	1713-1717
+26036067_en	ANATOMY	carpal	1751-1757
+26036067_en	ANATOMY	posterior carpal	1741-1757
+26036067_en	ANATOMY	right posterior carpal	1735-1757
+26036067_en	ANATOMY	lower extremities	331-348
+26081321_en	ANATOMY	coronary	64-72
+26081321_en	CHEM	valdoxan	14-22
+26081321_en	PHYS	hemostasis	30-40
+26081321_en	DISO	acute coronary syndrome	58-81
+26081321_en	DISO	anxiety	106-113
+26081321_en	DISO	anxiety and depressive disorders	106-138
+26081321_en	DISO	anxiety and depressive disorders	261-293
+26081321_en	PHYS	hemostasis	179-189
+26081321_en	DISO	acute coronary syndrome	207-230
+26081321_en	DISO	anxiety	261-268
+26081321_en	DISO	depressive disorders	273-293
+26081321_en	CHEM	valdoxan	320-328
+26081321_en	CHEM	agomelatine	330-341
+26081321_en	DISO	ACS	460-463
+26081321_en	DISO	ACS	525-528
+26081321_en	DISO	ADD	537-540
+26081321_en	DISO	ACS	563-566
+26081321_en	DISO	ADD	571-574
+26081321_en	CHEM	valdoxan	583-591
+26081321_en	PHYS	levels of fibrinogen	847-867
+26081321_en	DISO	ACS	625-628
+26081321_en	DISO	ADD	633-636
+26081321_en	CHEM	valdoxan	650-658
+26081321_en	PHYS	Coagulation	667-678
+26081321_en	PHYS	hemostasis	701-711
+26081321_en	FINDING	significant reduction of these parameters	1555-1596
+26081321_en	DISO	ACS	829-832
+26081321_en	CHEM	fibrinogen	857-867
+26081321_en	CHEM	fibrin-monomer complexes	877-901
+26081321_en	CHEM	D-dimer	903-910
+26081321_en	DISO	ADD	957-960
+26081321_en	ANATOMY	hemostatic system	1732-1749
+26081321_en	DISO	ADD	1034-1037
+26081321_en	CHEM	D-dimer	1053-1060
+26081321_en	DISO	ADD	1107-1110
+26081321_en	CHEM	valdoxan	1124-1132
+26081321_en	DISO	ACS	1154-1157
+26081321_en	DISO	ADD	1166-1169
+26081321_en	FINDING	high levels of fibrinogen, soluble fibrin-monomer complexes, D-dimer	842-910
+26081321_en	DISO	ADD	1203-1206
+26081321_en	FINDING	high values of platelet aggregation	1412-1447
+26081321_en	FINDING	effect of valdoxan on the hemostasis	4-40
+26081321_en	PHYS	levels	847-853
+26081321_en	DISO	ACS	1369-1372
+26081321_en	DISO	ADD	1381-1384
+26081321_en	DISO	ACS	1404-1407
+26081321_en	PHYS	platelet aggregation	1427-1447
+26081321_en	CHEM	adenosine diphosphate	1462-1483
+26081321_en	DISO	ACS	1518-1521
+26081321_en	DISO	ADD	1526-1529
+26081321_en	CHEM	valdoxan	1543-1551
+26081321_en	PHYS	levels of D-dimer	1043-1060
+26081321_en	PHYS	levels of spontaneous aggregation	1212-1245
+26081321_en	ANATOMY	coronary	213-221
+26081321_en	PHYS	procoagulant activity	1703-1724
+26081321_en	DISO	ACS	232-235
+26081321_en	FINDING	these parameters were significantly higher	962-1004
+26081321_en	DISO	ADD	295-298
+26081321_en	FINDING	dynamics of hemostasis	167-189
+26081321_en	PHYS	male	382-386
+26081321_en	PHYS	female	391-397
+26081321_en	FINDING	high procoagulant activity	1698-1724
+26081321_en	PHYS	spontaneous aggregation	1222-1245
+26081321_en	FINDING	similar in patients with ADD	1082-1110
+26081321_en	FINDING	not significantly higher	1297-1321
+26081321_en	ANATOMY	platelet	692-700
+26081321_en	ANATOMY	vascular	683-691
+26081321_en	DISO	depressive disorders	118-138
+26081321_en	CHEM	fibrin	877-883
+26081321_en	CHEM	monomer	884-891
+26081321_en	CHEM	soluble fibrin-monomer	869-891
+26081321_en	CHEM	soluble fibrin-monomer complexes	869-901
+26081321_en	DISO	coronary syndrome	64-81
+26081321_en	ANATOMY	platelet	1427-1435
+26081321_en	CHEM	adenosine	1462-1471
+26081321_en	CHEM	diphosphate	1472-1483
+26081321_en	DISO	coronary syndrome	213-230
+26081321_en	PHYS	hemostatic	1732-1742
+26081321_en	DISO	ACS	1815-1818
+26081321_en	DISO	ADD	1823-1826
+26081321_en	CHEM	valdoxan	1882-1890
+26081328_en	DISO	autonomic syndrome	24-42
+26081328_en	DISO	tension-type headache	60-81
+26081328_en	DISO	psycho-vegetative violations	150-178
+26081328_en	CHEM	anxiolitikami	179-192
+26081328_en	DISO	headache	227-235
+26081328_en	FINDING	level of anxiety	767-783
+26081328_en	DISO	episodic headache	349-366
+26081328_en	DISO	anxiety	776-783
+26081328_en	CHEM	ibuprofen	443-452
+26081328_en	DISO	headaches	475-484
+26081328_en	CHEM	tizanidine	505-515
+26081328_en	CHEM	anvifen	533-540
+26081328_en	CHEM	ibuprofen	609-618
+26081328_en	CHEM	tizanidine	623-633
+26081328_en	CHEM	anvifen	669-676
+26081328_en	DISO	headaches	727-736
+26081328_en	FINDING	frequency and intensity of headache	200-235
+26081328_en	DISO	depression	800-810
+26081328_en	DISO	vegetative disorders	825-845
+26081328_en	PHYS	General state	995-1008
+26081328_en	FINDING	severity of headaches	715-736
+26081328_en	CHEM	anvifen	1074-1081
+26081328_en	DISO	headache	73-81
+26081328_en	PHYS	quality of sleep	877-893
+26081328_en	ANATOMY	vegetative	157-167
+26081328_en	DISO	abuses	398-404
+26081328_en	ANATOMY	vegetative	825-835
+26081328_en	FINDING	expediency of inclusion of, anvifen	1046-1081
+26081328_en	DISO	headache	358-366
+26081328_en	DISO	frequent episodic headache	340-366
+26081328_en	DISO	chronic headache	371-387
+26081328_en	DISO	headache	379-387
+26081328_en	PHYS	sleep	888-893
+26081340_en	DISO	compressed	461-471
+26081340_en	ANATOMY	microvascular	197-210
+26081340_en	DISO	trigeminal neuralgia	23-43
+26081340_en	DISO	multiple sclerosis	61-79
+26081340_en	DISO	Trigeminal neuralgia	93-113
+26081340_en	DISO	multiple sclerosis	143-161
+26081340_en	DISO	MS	163-165
+26081340_en	ANATOMY	nerve	243-248
+26081340_en	FINDING	efficacy of microvascular decompression	185-224
+26081340_en	ANATOMY	trigeminal nerve	232-248
+26081340_en	DISO	MS	252-254
+26081340_en	DISO	MS	297-299
+26081340_en	DISO	trigeminal neuralgia	314-334
+26081340_en	ANATOMY	trigeminal	23-33
+26081340_en	ANATOMY	trigeminal nerve	384-400
+26081340_en	ANATOMY	artery	450-456
+26081340_en	ANATOMY	superior cerebellar artery	430-456
+26081340_en	ANATOMY	vein	491-495
+26081340_en	FINDING	no complications of surgical treatment	628-666
+26081340_en	FINDING	no relapses of trigeminal pain syndrome were observed	533-586
+26081340_en	DISO	trigeminal pain syndrome	548-572
+26081340_en	ANATOMY	cerebellar	439-449
+26081340_en	DISO	relapses	536-544
+26081340_en	ANATOMY	Trigeminal	93-103
+26081340_en	LABPROC	MRI	729-732
+26081340_en	DISO	neuralgia	34-43
+26081340_en	DISO	sclerosis	70-79
+26081340_en	DISO	neuralgia	104-113
+26081340_en	DISO	sclerosis	152-161
+26081340_en	ANATOMY	microvascular	349-362
+26081340_en	DISO	neuralgia	325-334
+26081340_en	ANATOMY	nerve	395-400
+26081340_en	ANATOMY	cerebellar artery	439-456
+26081340_en	ANATOMY	trigeminal	314-324
+26081340_en	DISO	pain	559-563
+26081340_en	DISO	pain syndrome	559-572
+26081340_en	ANATOMY	trigeminal	548-558
+26081340_en	DISO	complications	631-644
+26087637_en	DISO	knee osteoarthritis	15-34
+26087637_en	DISO	oxalate nephropathy	52-71
+26087637_en	CHEM	cyclooxygenase inhibitors	471-496
+26087637_en	CHEM	Alflutop	143-151
+26087637_en	CHEM	diacerein	156-165
+26087637_en	DISO	knee osteoarthrosis	218-237
+26087637_en	DISO	oxalate nephropathy	260-279
+26087637_en	DISO	chronic kidney disease	296-318
+26087637_en	DISO	urinary syndrome	368-384
+26087637_en	PHYS	renal function	389-403
+26087637_en	PHYS	female	589-595
+26087637_en	DISO	oxalate nephropathy	679-698
+26087637_en	CHEM	diclofenac sodium	784-801
+26087637_en	DISO	Kellgren-Lawrence Stages II-III knee osteoarthrosis	186-237
+26087637_en	CHEM	glycozaminoglycans Alflutop	870-897
+26087637_en	CHEM	diacerein	1007-1016
+26087637_en	ANATOMY	urinary	368-375
+26087637_en	PHYS	C(ua)	1355-1360
+26087637_en	DISO	pain	1197-1201
+26087637_en	DISO	joint pain	1191-1201
+26087637_en	DISO	morning stiffness	1206-1223
+26087637_en	PHYS	Renal function	1252-1266
+26087637_en	PHYS	uric acid clearance	1334-1353
+26087637_en	PHYS	urinary sediment	1367-1383
+26087637_en	PHYS	C(ua)	1499-1504
+26087637_en	CHEM	diclofenac	1437-1447
+26087637_en	PHYS	GFR	1494-1497
+26087637_en	DISO	secondary hyperuricemia	1515-1538
+26087637_en	DISO	proteinuria	1552-1563
+26087637_en	DISO	hyperuricemia	1525-1538
+26087637_en	CHEM	lipid hydroperoxides	1623-1643
+26087637_en	DISO	calcium oxalate crystalluria	1658-1686
+26087637_en	CHEM	Alflutop	1690-1698
+26087637_en	CHEM	diacerein	1703-1712
+26087637_en	FINDING	reduction in the WOMAC pain score	1820-1853
+26087637_en	PHYS	renal function	1744-1758
+26087637_en	DISO	pain	1843-1847
+26087637_en	CHEM	diclofenac	1859-1869
+26087637_en	FINDING	decrease in the pain score	1900-1926
+26087637_en	FINDING	changes in the joint pain and morning stiffness	1176-1223
+26087637_en	ANATOMY	urinary	1367-1374
+26087637_en	FINDING	pain scores were reduced	2032-2056
+26087637_en	CHEM	diclofenac	2120-2130
+26087637_en	DISO	stiffness	2196-2205
+26087637_en	CHEM	Alflutop	2294-2302
+26087637_en	CHEM	diacerein	2307-2316
+26087637_en	CHEM	diclofenac	2338-2348
+26087637_en	CHEM	Diclofenac	2569-2579
+26087637_en	FINDING	oxalate nephropathy progress	2610-2638
+26087637_en	CHEM	oxalate	2610-2617
+26087637_en	DISO	nephropathy	2618-2629
+26087637_en	ANATOMY	knee	15-19
+26087637_en	DISO	osteoarthritis	20-34
+26087637_en	CHEM	oxalate	52-59
+26087637_en	DISO	nephropathy	60-71
+26087637_en	ANATOMY	knee	218-222
+26087637_en	DISO	osteoarthrosis	223-237
+26087637_en	DISO	OA	239-241
+26087637_en	CHEM	oxalate	260-267
+26087637_en	DISO	nephropathy	268-279
+26087637_en	ANATOMY	kidney	304-310
+26087637_en	DISO	kidney disease	304-318
+26087637_en	DISO	CKD	320-323
+26087637_en	ANATOMY	urinary	1599-1606
+26087637_en	PHYS	glomerular filtration	1300-1321
+26087637_en	ANATOMY	renal	389-394
+26087637_en	CHEM	cyclooxygenase	471-485
+26087637_en	CHEM	diclofenac	498-508
+26087637_en	DISO	gonarthritis	650-662
+26087637_en	FINDING	symptom-modifying effect	115-139
+26087637_en	FINDING	effect of these drugs	343-364
+26087637_en	DISO	primary gonarthritis	642-662
+26087637_en	CHEM	oxalate	679-686
+26087637_en	DISO	nephropathy	687-698
+26087637_en	DISO	CKD	715-718
+26087637_en	CHEM	diclofenac	784-794
+26087637_en	CHEM	sodium	795-801
+26087637_en	DISO	Stages I-II chronic kidney disease	284-318
+26087637_en	CHEM	glycozaminoglycans	870-888
+26087637_en	CHEM	Alflutop	889-897
+26087637_en	FINDING	lower GFR, C(ua	1488-1503
+26087637_en	PHYS	urinary levels	1599-1613
+26087637_en	CHEM	diaflex	1018-1025
+26087637_en	CHEM	nonsteroidal anti-inflammatory drugs	433-469
+26087637_en	FINDING	symptom- modifying effect	1131-1156
+26087637_en	ANATOMY	joint	1191-1196
+26087637_en	ANATOMY	Renal	1252-1257
+26087637_en	ANATOMY	glomerular	1300-1310
+26087637_en	PHYS	GFR	1328-1331
+26087637_en	PHYS	glomerular filtration rate	1300-1326
+26087637_en	CHEM	uric acid	1334-1343
+26087637_en	FINDING	enhanced calcium oxalate crystalluria	1649-1686
+26087637_en	DISO	nephrotoxic effects	1467-1486
+26087637_en	CHEM	anti-inflammatory drugs	446-469
+26087637_en	FINDING	reducing pain and stiffness scores	2533-2567
+26087637_en	DISO	Kellgren-Lawrence Stages II-III primary gonarthritis	610-662
+26087637_en	DISO	Stages I-II CKD	703-718
+26087637_en	CHEM	lipid	1623-1628
+26087637_en	CHEM	hydroperoxides	1629-1643
+26087637_en	CHEM	calcium	1658-1665
+26087637_en	CHEM	oxalate	1666-1673
+26087637_en	DISO	crystalluria	1674-1686
+26087637_en	DISO	progressive proteinuria	1540-1563
+26087637_en	FINDING	no negative effects	1721-1740
+26087637_en	ANATOMY	renal	1744-1749
+26087637_en	FINDING	evolving secondary hyperuricemia	1506-1538
+26087637_en	DISO	microhematuria	1574-1588
+26087637_en	FINDING	elevated urinary levels of total lipid hydroperoxides	1590-1643
+26087637_en	DISO	pain	1916-1920
+26087637_en	PHYS	inflammatory	451-463
+26087637_en	FINDING	lower values	2274-2286
+26087637_en	DISO	pain	2032-2036
+26087637_en	FINDING	do not produce nephrotoxic effects	2421-2455
+26087637_en	CHEM	diacerein	2381-2390
+26087637_en	FINDING	stiffness score	2196-2211
+26087637_en	CHEM	Alflutop	2368-2376
+26087637_en	ANATOMY	knee	2413-2417
+26087637_en	DISO	OA	2418-2420
+26087637_en	DISO	knee OA	2413-2420
+26087637_en	DISO	nephrotoxic effects	2436-2455
+26087637_en	CHEM	acid	1339-1343
+26087637_en	CHEM	diclofenac	2494-2504
+26087637_en	CHEM	Alflutop	2004-2012
+26087637_en	FINDING	symptom-modifying effect	2505-2529
+26087637_en	DISO	pain	2542-2546
+26087637_en	DISO	stiffness	2551-2560
+26087637_en	DISO	oxalate nephropathy	2610-2629
+26087637_en	CHEM	diacerein	2017-2026
+26087637_en	DISO	stiffness	1214-1223
+26087637_en	CHEM	inhibitors	486-496
+26087638_en	DISO	colitis	35-42
+26087638_en	ANATOMY	intraepithelial lymphocyte	1140-1166
+26087638_en	DISO	microscopic colitis	167-186
+26087638_en	DISO	MC	214-216
+26087638_en	DISO	inflammatory bowel disease	223-249
+26087638_en	DISO	diarrhea	312-320
+26087638_en	PHYS	remission	1380-1389
+26087638_en	DISO	chronic watery diarrhea	297-320
+26087638_en	ANATOMY	subepithelial collagen lining	1055-1084
+26087638_en	ANATOMY	large bowel	346-357
+26087638_en	DISO	MC	455-457
+26087638_en	DISO	colitis	559-566
+26087638_en	DISO	collagenous colitis	547-566
+26087638_en	DISO	lymphocytic colitis	576-595
+26087638_en	DISO	MC	632-634
+26087638_en	DISO	inflammatory bowel diseases	714-741
+26087638_en	DISO	ulcerative colitis	751-769
+26087638_en	DISO	Crohn's disease	774-789
+26087638_en	DISO	MC	791-793
+26087638_en	DISO	watery diarrhea	305-320
+26087638_en	DISO	MC	876-878
+26087638_en	DISO	Watery diarrhea	908-923
+26087638_en	FINDING	no macroscopic signs of large bowel involvement	322-369
+26087638_en	DISO	MC	991-993
+26087638_en	DISO	ulcerative	751-761
+26087638_en	DISO	CC	1049-1051
+26087638_en	PHYS	intraepithelial lymphocyte counts	1140-1173
+26087638_en	DISO	LC	1127-1129
+26087638_en	FINDING	prevalence of MC	618-634
+26087638_en	ANATOMY	lymphocytes	1204-1215
+26087638_en	ANATOMY	epitheliocytes	1220-1234
+26087638_en	CHEM	topical glucocorticosteroid	1241-1268
+26087638_en	CHEM	budesonide	1269-1279
+26087638_en	DISO	pathogenesis	860-872
+26087638_en	DISO	pathogenesis	125-137
+26087638_en	FINDING	efficacy	1313-1321
+26087638_en	DISO	MC	1407-1409
+26087638_en	FINDING	inducing and maintaining remission	1355-1389
+26087638_en	DISO	microscopic colitis	23-42
+26087638_en	DISO	colitis	179-186
+26087638_en	DISO	MC	188-190
+26087638_en	ANATOMY	bowel	236-241
+26087638_en	DISO	bowel disease	236-249
+26087638_en	DISO	pathomorphological changes	398-424
+26087638_en	LABPROC	histological	1005-1017
+26087638_en	LABPROC	histological	524-536
+26087638_en	ANATOMY	bowel	352-357
+26087638_en	DISO	CC	568-570
+26087638_en	DISO	colitis	588-595
+26087638_en	ANATOMY	lymphocytic	576-587
+26087638_en	DISO	LC	597-599
+26087638_en	ANATOMY	bowel	727-732
+26087638_en	DISO	bowel diseases	727-741
+26087638_en	DISO	colitis	762-769
+26087638_en	DISO	diarrhea	915-923
+26087638_en	ANATOMY	subepithelial	1055-1068
+26087638_en	CHEM	collagen	1069-1077
+26087638_en	FINDING	subepithelial collagen lining thickening	1055-1095
+26087638_en	ANATOMY	lymphocyte	1156-1166
+26087638_en	ANATOMY	intraepithelial	1140-1155
+26087638_en	FINDING	higher intraepithelial lymphocyte counts	1133-1173
+26087638_en	ANATOMY	intraepithelial	1188-1203
+26087638_en	ANATOMY	intraepithelial lymphocytes	1188-1215
+26087638_en	CHEM	glucocorticosteroid	1249-1268
+26087638_en	CHEM	topical glucocorticosteroid budesonide	1241-1279
+26120981_en	CHEM	succinic acid	19-32
+26120981_en	FINDING	dynamics of neurological and emotional disturbances	52-103
+26120981_en	DISO	dorsopathy	121-131
+26120981_en	PHYS	sensitivity	895-906
+26120981_en	FINDING	dynamics of neurological and emotional disturbances	157-208
+26120981_en	DISO	dorsopathy	226-236
+26120981_en	CHEM	cytoflavin	250-260
+26120981_en	CHEM	cytoflavin	489-499
+26120981_en	CHEM	nonsteroid anti-inflammatory drugs	379-413
+26120981_en	CHEM	sodium chloride	584-599
+26120981_en	CHEM	cytoflavin	813-823
+26120981_en	DISO	pain	857-861
+26120981_en	DISO	pain syndrome	857-870
+26120981_en	DISO	disturbed sensitivity	885-906
+26120981_en	CHEM	myorelaxants	415-427
+26120981_en	FINDING	earlier arresting of the pain syndrome	832-870
+26120981_en	FINDING	effect of the succinic acid preparation	5-44
+26120981_en	DISO	emotional disturbances	81-103
+26120981_en	CHEM	vitamins	429-437
+26120981_en	DISO	neurological disturbances	64-103
+26120981_en	DISO	neurological disturbances	169-208
+26120981_en	DISO	emotional disturbances	186-208
+26120981_en	CHEM	isotonic solution of sodium chloride	563-599
+26120981_en	CHEM	sodium	584-590
+26120981_en	CHEM	chloride	591-599
+26120981_en	CHEM	succinic acid preparation	19-44
+26120981_en	DISO	inflammatory	395-407
+26120981_en	CHEM	acid	28-32
+26120981_en	CHEM	solution	513-521
+26120981_en	CHEM	anti-inflammatory drugs	390-413
+26120981_en	CHEM	solution	572-580
+26120981_en	FINDING	improved emotional status	908-933
+26120981_en	DISO	pain	978-982
+26120981_en	DISO	neuropathic pain component	966-992
+26120981_en	FINDING	decreased the severity of a neuropathic pain component	938-992
+26120981_en	FINDING	restored the disturbed sensitivity	872-906
+26120981_en	CHEM	isotonic solution	563-580
+26145744_en	ANATOMY	bone tissue	34-45
+26145744_en	ANATOMY	middle facial region	55-75
+26145744_en	ANATOMY	upper walls of the sinus	945-979
+26145744_en	ANATOMY	maxillary sinus cavity walls	170-198
+26145744_en	PHYS	mechanical structure of the bone tissue	504-543
+26145744_en	ANATOMY	maxillary sinus cavity walls	367-395
+26145744_en	ANATOMY	bone	532-536
+26145744_en	PHYS	age-specific peculiarities	470-496
+26145744_en	ANATOMY	bone tissue	532-543
+26145744_en	ANATOMY	maxillary sinus cavity	565-587
+26145744_en	LABPROC	spiral computed tomography	625-651
+26145744_en	ANATOMY	canine	845-851
+26145744_en	ANATOMY	canine fossa	845-857
+26145744_en	ANATOMY	alveolar process	902-918
+26145744_en	ANATOMY	sinus	974-979
+26145744_en	ANATOMY	canine fossa region	845-864
+26145744_en	ANATOMY	upper portion of the alveolar process	881-918
+26145744_en	ANATOMY	sinus	575-580
+26145744_en	ANATOMY	nasal	1032-1037
+26145744_en	ANATOMY	lower walls of the sinus	955-979
+26145744_en	ANATOMY	inferior nasal passage	1023-1045
+26145744_en	PHYS	age	1212-1215
+26145744_en	ANATOMY	maxillary sinus	1100-1115
+26145744_en	PHYS	age-related physical and mechanical properties of the bone tissue	1212-1277
+26145744_en	ANATOMY	bone tissue	1266-1277
+26145744_en	ANATOMY	maxillary sinus	1376-1391
+26145744_en	ANATOMY	endonasal	1416-1425
+26145744_en	ANATOMY	bone tissue	1551-1562
+26145744_en	ANATOMY	bone wall of the maxillary sinus	1083-1115
+26145744_en	ANATOMY	canine	1648-1654
+26145744_en	ANATOMY	canine fossa	1648-1660
+26145744_en	ANATOMY	bone	1672-1676
+26145744_en	ANATOMY	floor of the maxillary sinus	1738-1766
+26145744_en	ANATOMY	bone	34-38
+26145744_en	ANATOMY	tissue	39-45
+26145744_en	ANATOMY	facial	62-68
+26145744_en	PHYS	age	126-129
+26145744_en	PHYS	age-related features	126-146
+26145744_en	FINDING	minimally injurious	1519-1538
+26145744_en	ANATOMY	sinus	180-185
+26145744_en	ANATOMY	sinus cavity	180-192
+26145744_en	ANATOMY	sinus cavity walls	180-198
+26145744_en	ANATOMY	maxillary	170-179
+26145744_en	ANATOMY	maxillary sinus	170-185
+26145744_en	PHYS	fragile	1690-1697
+26145744_en	PHYS	mechanical properties	5-26
+26145744_en	ANATOMY	bone wall	1083-1092
+26145744_en	FINDING	bone wall of the maxillary sinus differently responds to the impacts of similar magnitude	1083-1172
+26145744_en	ANATOMY	maxillary	367-376
+26145744_en	ANATOMY	sinus	377-382
+26145744_en	ANATOMY	sinus cavity	377-389
+26145744_en	ANATOMY	sinus cavity walls	377-395
+26145744_en	ANATOMY	maxillary sinus	367-382
+26145744_en	ANATOMY	tissue	537-543
+26145744_en	ANATOMY	maxillary	565-574
+26145744_en	ANATOMY	sinus	1761-1766
+26145744_en	ANATOMY	sinus cavity	575-587
+26145744_en	ANATOMY	maxillary sinus	565-580
+26145744_en	LABPROC	tomography	641-651
+26145744_en	LABPROC	computed tomography	632-651
+26145744_en	ANATOMY	sinus	377-382
+26145744_en	ANATOMY	nasal passage	1032-1045
+26145744_en	ANATOMY	anterior part of the inferior nasal passage	1002-1045
+26145744_en	ANATOMY	bone	1083-1087
+26145744_en	ANATOMY	maxillary	1100-1109
+26145744_en	ANATOMY	sinus	1110-1115
+26145744_en	PHYS	age	470-473
+26145744_en	ANATOMY	bone	1266-1270
+26145744_en	ANATOMY	tissue	1271-1277
+26145744_en	ANATOMY	sinus	180-185
+26145744_en	ANATOMY	maxillary	1376-1385
+26145744_en	ANATOMY	sinus	1386-1391
+26145744_en	ANATOMY	alveolar	902-910
+26145744_en	ANATOMY	bone	1551-1555
+26145744_en	ANATOMY	tissue	1556-1562
+26145744_en	FINDING	risk of injury	1706-1720
+26145744_en	ANATOMY	maxillary	1751-1760
+26145744_en	ANATOMY	maxillary sinus	1751-1766
+26145744_en	DEVICE	Solid Works 2012	672-688
+26245101_en	INJURY_POISONING	injuries to the extremities	108-135
+26245101_en	ANATOMY	extremities	124-135
+26245101_en	ANATOMY	upper and lower extremities	307-334
+26245101_en	ANATOMY	upper extremities	307-334
+26245101_en	INJURY_POISONING	injuries	291-299
+26245101_en	ANATOMY	lower extremities	317-334
+26245101_en	FINDING	lethal outcome	1068-1082
+26245101_en	FINDING	outcome	1075-1082
+26245101_en	ANATOMY	anterior surface	1262-1278
+26245101_en	ANATOMY	corpses	650-657
+26245101_en	PHYS	live	666-670
+26245101_en	ANATOMY	soft tissues	1180-1192
+26245101_en	FINDING	risk of injuries	972-988
+26245101_en	FINDING	improve the quality of expert conclusions and the results of forensic medical examination	2370-2459
+26245101_en	INJURY_POISONING	bruises	1280-1287
+26245101_en	FINDING	expert conclusions	2393-2411
+26245101_en	INJURY_POISONING	fractures	1106-1115
+26245101_en	ANATOMY	femur	1129-1134
+26245101_en	ANATOMY	right femur	1123-1134
+26245101_en	INJURY_POISONING	bleeding	1146-1154
+26245101_en	INJURY_POISONING	wounds	1166-1172
+26245101_en	ANATOMY	tissues	1185-1192
+26245101_en	ANATOMY	extremities	323-334
+26245101_en	ANATOMY	thigh	1206-1211
+26245101_en	ANATOMY	right thigh	1200-1211
+26245101_en	INJURY_POISONING	injuries	980-988
+26245101_en	INJURY_POISONING	injuries	2467-2475
+26245101_en	ANATOMY	posterior surface of the right shoulder	1295-1334
+26245101_en	ANATOMY	shoulder	1326-1334
+26245101_en	ANATOMY	deltoid	1356-1363
+26245101_en	ANATOMY	deltoid region	1356-1370
+26245101_en	ANATOMY	right deltoid region	1350-1370
+26245101_en	ANATOMY	forearm	1421-1428
+26245101_en	ANATOMY	right forearm	1415-1428
+26245101_en	ANATOMY	right shoulder	1320-1334
+26245101_en	ANATOMY	posterior surface of the right forearm	1390-1428
+26245101_en	INJURY_POISONING	fractures	1440-1449
+26245101_en	ANATOMY	humerus	1463-1470
+26245101_en	ANATOMY	right humerus	1457-1470
+26245101_en	PHYS	survive	1527-1534
+26245101_en	INJURY_POISONING	bleeding	1581-1589
+26245101_en	INJURY_POISONING	scratches	1594-1603
+26245101_en	ANATOMY	tissues	1649-1656
+26245101_en	ANATOMY	shoulder	1695-1703
+26245101_en	ANATOMY	right shoulder	1689-1703
+26245101_en	ANATOMY	posterior surface of the right shoulder	1664-1703
+26245101_en	ANATOMY	soft tissues	1644-1656
+26245101_en	INJURY_POISONING	fractures	1705-1714
+26245101_en	ANATOMY	humerus	1728-1735
+26245101_en	ANATOMY	right humerus	1722-1735
+26245101_en	INJURY_POISONING	bruises	1748-1755
+26245101_en	ANATOMY	thigh	1793-1798
+26245101_en	ANATOMY	right thigh	1787-1798
+26245101_en	ANATOMY	anterior surface of the right thigh	1763-1798
+26245101_en	ANATOMY	forearm	1846-1853
+26245101_en	ANATOMY	right forearm	1840-1853
+26245101_en	ANATOMY	posterior surface of the right forearm	1815-1853
+26245101_en	ANATOMY	leg	1906-1909
+26245101_en	ANATOMY	lower leg	1900-1909
+26245101_en	ANATOMY	right lower leg	1894-1909
+26245101_en	ANATOMY	fontal region of the right lower leg	1873-1909
+26245101_en	INJURY_POISONING	bleeding	1922-1930
+26245101_en	ANATOMY	forearm	1968-1975
+26245101_en	ANATOMY	right forearm	1962-1975
+26245101_en	ANATOMY	posterior region of the right forearm	1938-1975
+26245101_en	ANATOMY	thigh	2022-2027
+26245101_en	ANATOMY	left thigh	2017-2027
+26245101_en	ANATOMY	anterior region of the left thigh	1994-2027
+26245101_en	INJURY_POISONING	fractures	2039-2048
+26245101_en	ANATOMY	femur	2062-2067
+26245101_en	ANATOMY	right femur	2056-2067
+26281190_en	CHEM	Cystatin C	1-11
+26281190_en	DISO	hypertrophy	49-60
+26281190_en	DISO	left ventricular hypertrophy	32-60
+26281190_en	DISO	chronic kidney disease	78-100
+26281190_en	CHEM	cystatin C	150-160
+26281190_en	DISO	CKD	388-391
+26281190_en	PHYS	glomerular filtration rate	423-449
+26281190_en	PHYS	GFR	451-454
+26281190_en	PHYS	GFR	528-531
+26281190_en	PHYS	GFR	562-565
+26281190_en	FINDING	association	1117-1128
+26281190_en	PHYS	GFR	615-618
+26281190_en	PHYS	GFR	682-685
+26281190_en	LABPROC	transthoracic echocardiography	748-778
+26281190_en	PHYS	cystatin C levels	804-821
+26281190_en	DISO	LVH	868-871
+26281190_en	PHYS	cystatin C levels	995-1012
+26281190_en	CHEM	cystatin C	1147-1157
+26281190_en	DISO	LVH	1162-1165
+26281190_en	CHEM	cystatin C	1201-1211
+26281190_en	DISO	LVH	1252-1255
+26281190_en	DISO	CKD	1323-1326
+26281190_en	PHYS	left ventricular mass index	1362-1389
+26281190_en	DISO	hypertension	1438-1450
+26281190_en	PHYS	cystatin C levels	1467-1484
+26281190_en	PHYS	LVMI	1520-1524
+26281190_en	PHYS	cystatin C levels	1586-1603
+26281190_en	DISO	LVH	1632-1635
+26281190_en	DISO	CKD	1694-1697
+26281190_en	ANATOMY	left ventricular	32-48
+26281190_en	ANATOMY	ventricular	37-48
+26281190_en	ANATOMY	kidney	86-92
+26281190_en	DISO	kidney disease	86-100
+26281190_en	ANATOMY	serum	144-149
+26281190_en	CHEM	cystatin	150-158
+26281190_en	ANATOMY	ventricular	188-199
+26281190_en	DISO	hypertrophy	200-211
+26281190_en	DISO	ventricular hypertrophy	37-60
+26281190_en	DISO	ventricular hypertrophy	188-211
+26281190_en	ANATOMY	left ventricular	183-199
+26281190_en	DISO	left ventricular hypertrophy	183-211
+26281190_en	DISO	LVH	213-216
+26281190_en	DISO	chronic kidney disease	235-257
+26281190_en	DISO	CKD	259-262
+26281190_en	LABPROC	echocardiography	762-778
+26281190_en	ANATOMY	kidney	243-249
+26281190_en	DISO	kidney disease	243-257
+26281190_en	PHYS	early LVH marker	1626-1642
+26281190_en	DISO	nondiabetic CKD	376-391
+26281190_en	CHEM	cystatin	1147-1155
+26281190_en	CHEM	cystatin	1201-1209
+26281190_en	FINDING	magnitude of glomerular filtration rate (GFR) decrease	410-464
+26281190_en	PHYS	marker	21-27
+26281190_en	ANATOMY	serum	798-803
+26281190_en	CHEM	cystatin	804-812
+26281190_en	CHEM	cystatin C	804-814
+26281190_en	ANATOMY	serum	989-994
+26281190_en	CHEM	cystatin	995-1003
+26281190_en	CHEM	cystatin C	995-1005
+26281190_en	PHYS	level of cystatin C	1192-1211
+26281190_en	FINDING	predict the development of LVH	1225-1255
+26281190_en	ANATOMY	glomerular	423-433
+26281190_en	CHEM	cystatin	1467-1475
+26281190_en	DISO	predialysis CKD	1311-1326
+26281190_en	PHYS	LVMI	1391-1395
+26281190_en	ANATOMY	ventricular	1367-1378
+26281190_en	ANATOMY	left ventricular	1362-1378
+26281190_en	PHYS	E-velocity/A-velocity	1398-1419
+26281190_en	CHEM	cystatin C	1467-1477
+26281190_en	ANATOMY	Serum	1580-1585
+26281190_en	CHEM	cystatin	1586-1594
+26281190_en	CHEM	cystatin C	1586-1596
+26281190_en	PHYS	marker	1636-1642
+26281190_en	FINDING	sensitivity	1263-1274
+26281190_en	PHYS	glomerular filtration	423-444
+26281190_en	FINDING	specificity	1288-1299
+26281190_en	FINDING	independently correlated	1490-1514
+26281190_en	PHYS	E/A	1422-1425
+26281190_en	CHEM	Cystatin	1-9
+26281191_en	CHEM	Endogenous erythropoietin	1-26
+26281191_en	DISO	acute kidney injury	28-47
+26281191_en	ANATOMY	coronary	86-94
+26281191_en	DISO	acute coronary syndrome	80-103
+26281191_en	DISO	ACS	390-393
+26281191_en	CHEM	endogenous erythropoietin	156-181
+26281191_en	DISO	myocardial infarction	485-506
+26281191_en	LABPROC	ECG	454-457
+26281191_en	DISO	ST-segment elevation acute myocardial infarction	458-506
+26281191_en	LABPROC	ECG	531-534
+26281191_en	DISO	non-STSEAMI	535-546
+26281191_en	DISO	unstable angina	565-580
+26281191_en	DISO	STSEAMI	643-650
+26281191_en	LABPROC	coronarography	688-702
+26281191_en	CHEM	X-ray contrast agents	775-796
+26281191_en	DISO	AKI	806-809
+26281191_en	DISO	acute myocardial infarction	849-876
+26281191_en	DISO	unstable angina	905-920
+26281191_en	CHEM	EPO	974-977
+26281191_en	DISO	AKI	1029-1032
+26281191_en	DISO	ACS	1040-1043
+26281191_en	PHYS	EPO level	974-983
+26281191_en	DISO	ACS	1168-1171
+26281191_en	ANATOMY	serum	1264-1269
+26281191_en	FINDING	associated with hospital death	1130-1160
+26281191_en	DISO	ACS	1287-1290
+26281191_en	FINDING	high risk for AKI	1354-1371
+26281191_en	DISO	AKI	1368-1371
+26281191_en	CHEM	erythropoietin	12-26
+26281191_en	ANATOMY	kidney	34-40
+26281191_en	DISO	kidney injury	34-47
+26281191_en	DISO	coronary syndrome	86-103
+26281191_en	FINDING	high death rates	1376-1392
+26281191_en	ANATOMY	serum	150-155
+26281191_en	CHEM	erythropoietin	167-181
+26281191_en	FINDING	death rates	1381-1392
+26281191_en	CHEM	EPO	183-186
+26281191_en	DISO	acute coronary syndrome	205-228
+26281191_en	ANATOMY	coronary	211-219
+26281191_en	DISO	coronary syndrome	211-228
+26281191_en	DISO	ACS	230-233
+26281191_en	DISO	acute kidney injury	273-292
+26281191_en	ANATOMY	kidney	279-285
+26281191_en	DISO	kidney injury	279-292
+26281191_en	DISO	AKI	294-297
+26281191_en	DISO	acute myocardial infarction	479-506
+26281191_en	DISO	STSEAMI	508-515
+26281191_en	DISO	angina	574-580
+26281191_en	DISO	myocardial infarction	855-876
+26281191_en	DISO	angina	914-920
+26281191_en	CHEM	EPO	1270-1273
+26281191_en	FINDING	High serum EPO levels	1259-1280
+26281191_en	PHYS	died	941-945
+26281191_en	FINDING	predicted the development of AKI	1000-1032
+26281191_en	PHYS	death	1155-1160
+26281191_en	PHYS	EPO levels	1270-1280
+26281191_en	PHYS	death	1381-1386
+26281191_en	PHYS	biomarker	1338-1347
+26281191_en	ANATOMY	myocardial	485-495
+26281191_en	ANATOMY	myocardial	855-865
+26281191_en	DISO	infarction	496-506
+26281191_en	DISO	infarction	866-876
+26281191_en	FINDING	specificity	1085-1096
+26281191_en	FINDING	sensitivity	1188-1199
+26281191_en	FINDING	sensitivity	1060-1071
+26281191_en	FINDING	nephrotoxic effect	753-771
+26281191_en	FINDING	specificity	1214-1225
+26281196_en	DISO	acute kidney injury	18-37
+26281196_en	DISO	CIAKI	490-495
+26281196_en	FINDING	higher 30-day mortality	1542-1565
+26281196_en	DISO	STSEACS	621-628
+26281196_en	DISO	hypertension	630-642
+26281196_en	DISO	myocardial infarction	657-678
+26281196_en	DISO	chronic kidney disease	687-709
+26281196_en	DISO	type 2 diabetes mellitus	717-741
+26281196_en	DISO	CIAKI	829-834
+26281196_en	FINDING	poor outcomes	1519-1532
+26281196_en	DEVICE	phone	887-892
+26281196_en	DISO	CIAKI	977-982
+26281196_en	DISO	CIAKI	1002-1007
+26281196_en	PHYS	older	1013-1018
+26281196_en	PHYS	creatinine levels	1051-1068
+26281196_en	CHEM	loop diuretics	1380-1394
+26281196_en	PHYS	glomerular filtration rate	1149-1175
+26281196_en	PHYS	left ventricular ejection fraction	1187-1221
+26281196_en	DISO	CIAKI	1258-1263
+26281196_en	DISO	chronic kidney disease	1292-1314
+26281196_en	FINDING	mortality	1556-1565
+26281196_en	ANATOMY	coronary bed	1344-1356
+26281196_en	CHEM	mineralocorticoid receptor	1424-1450
+26281196_en	DISO	CIAKI	1494-1499
+26281196_en	DISO	cardiovascular disease	1584-1606
+26281196_en	ANATOMY	kidney	24-30
+26281196_en	DISO	kidney injury	24-37
+26281196_en	DISO	Contrast-induced acute kidney injury	1-37
+26281196_en	ANATOMY	coronary	65-73
+26281196_en	DISO	contrast-induced acute kidney injury	219-255
+26281196_en	ANATOMY	kidney	242-248
+26281196_en	DISO	kidney injury	242-255
+26281196_en	DISO	acute kidney injury	236-255
+26281196_en	DISO	CIAKI	257-262
+26281196_en	ANATOMY	coronary	308-316
+26281196_en	DISO	ST-segment elevation acute coronary syndrome	281-325
+26281196_en	DISO	acute coronary syndrome	302-325
+26281196_en	DISO	STSEACS	327-334
+26281196_en	ANATOMY	coronary	377-385
+26281196_en	FINDING	higher baseline serum creatinine levels	1029-1068
+26281196_en	ANATOMY	myocardial	657-667
+26281196_en	ANATOMY	kidney	695-701
+26281196_en	DISO	kidney disease	695-709
+26281196_en	DISO	diabetes	724-732
+26281196_en	DISO	diabetes mellitus	724-741
+26281196_en	PHYS	volume of contrast agent	1079-1103
+26281196_en	ANATOMY	serum	1045-1050
+26281196_en	PHYS	ratio of contrast medium volume to glomerular filtration rate	1114-1175
+26281196_en	CHEM	creatinine	1051-1061
+26281196_en	ANATOMY	glomerular	1149-1159
+26281196_en	ANATOMY	left ventricular	1187-1203
+26281196_en	ANATOMY	ventricular	1192-1203
+26281196_en	ANATOMY	kidney	1300-1306
+26281196_en	DISO	kidney disease	1300-1314
+26281196_en	FINDING	outcomes	1524-1532
+26281196_en	DISO	multivascular injury	1316-1336
+26281196_en	ANATOMY	cardiovascular	1584-1598
+26281196_en	FINDING	higher ratio of contrast medium volume to glomerular filtration rate	1107-1175
+26281196_en	FINDING	lower left ventricular ejection fraction	1181-1221
+26281196_en	FINDING	higher volume of contrast agent	1072-1103
+26281196_en	FINDING	prognosis was assessed	861-883
+26281196_en	FINDING	30-day mortality	1549-1565
+26281196_en	DISO	coronary syndrome	308-325
+26281196_en	FINDING	incidence of CIAKI	477-495
+26281196_en	CHEM	diuretics	1385-1394
+26281196_en	FINDING	predictive factors for CIAKI	806-834
+26281196_en	ANATOMY	coronary	1344-1352
+26281196_en	CHEM	contrast agent	1089-1103
+26281196_en	PHYS	contrast medium volume	1123-1145
+26281196_en	CHEM	contrast medium	1123-1138
+26281196_en	FINDING	predictive factors for CIAKI	1235-1263
+26281196_en	CHEM	antibiotics	1408-1419
+26281196_en	CHEM	nephrotoxic antibiotics	1396-1419
+26281196_en	CHEM	mineralocorticoid receptor antagonists	1424-1462
+26281196_en	FINDING	frequent cardiovascular disease readmissions	1575-1619
+26281196_en	FINDING	development of CIAKI	1479-1499
+26281196_en	DISO	infarction	668-678
+26281196_en	PHYS	glomerular filtration	1149-1170
+26288207_en	PHYS	breathing	76-85
+26288207_en	ANATOMY	pharynx	18-25
+26288207_en	DISO	compromised nasal breathing	58-85
+26288207_en	PHYS	nasal breathing	70-85
+26288207_en	DISO	inflammatory	89-101
+26288207_en	DISO	gastroesophageal reflux disease	148-179
+26288207_en	ANATOMY	gastroesophageal	250-266
+26288207_en	DISO	gastroesophageal reflux disease	250-281
+26288207_en	DISO	GERD	283-287
+26288207_en	ANATOMY	pharynx	313-320
+26288207_en	ANATOMY	nose	325-329
+26288207_en	DISO	gastroesophageal reflux disease	533-564
+26288207_en	DISO	chronic rhinosinusitis	569-591
+26288207_en	DISO	CRS	637-640
+26288207_en	DISO	GERD	659-663
+26288207_en	DISO	nasal septum deformations	699-724
+26288207_en	DISO	GERD	735-739
+26288207_en	DISO	NSD	775-778
+26288207_en	DISO	motor rhinitis	783-797
+26288207_en	DISO	GERD	806-810
+26288207_en	PHYS	pH	1-3
+26288207_en	ANATOMY	Gastroesophageal	940-956
+26288207_en	DISO	Gastroesophageal reflux disease	940-971
+26288207_en	ANATOMY	pharynx	1079-1086
+26288207_en	PHYS	nasal breathing	1120-1135
+26288207_en	DISO	compromised nasal breathing	1108-1135
+26288207_en	DISO	GERD	1170-1174
+26288207_en	DISO	GERD	1209-1213
+26288207_en	ANATOMY	pharyngo	1319-1327
+26288207_en	DISO	pharyngo-laryngeal reflux	1319-1344
+26288207_en	DISO	gastroesophageal reflux disease	1377-1408
+26288207_en	ANATOMY	nasal	70-75
+26288207_en	PHYS	pH values	1-10
+26288207_en	DEVICE	ofEkokhim indicator paper	913-938
+26288207_en	ANATOMY	gastroesophageal	148-164
+26288207_en	PHYS	pH	296-298
+26288207_en	ANATOMY	gastroesophageal	533-549
+26288207_en	DISO	rhinosinusitis	577-591
+26288207_en	DISO	CRS	593-596
+26288207_en	ANATOMY	nasal	699-704
+26288207_en	ANATOMY	nasal septum	699-711
+26288207_en	DISO	NSD	726-729
+26288207_en	DISO	rhinitis	789-797
+26288207_en	ANATOMY	nasal	1120-1125
+26288207_en	PHYS	breathing	1126-1135
+26288207_en	PHYS	pH values	1062-1071
+26288207_en	ANATOMY	laryngeal	1328-1337
+26288207_en	ANATOMY	pharyngo-laryngeal	1319-1337
+26288207_en	ANATOMY	gastroesophageal	1377-1393
+26288207_en	LABPROC	pH measurements	1269-1284
+26288207_en	PHYS	healthy	1225-1232
+26288207_en	PHYS	pH values	296-305
+26288207_en	LABPROC	contact method	885-899
+26288207_en	PHYS	pH	862-864
+26288207_en	FINDING	lower	1180-1185
+26288207_en	PHYS	pH	1062-1064
+26288207_en	PHYS	pH	1269-1271
+26288285_en	ANATOMY	low back	41-49
+26288285_en	CHEM	melatonin	11-20
+26288285_en	DISO	low back pain	41-54
+26288285_en	ANATOMY	low back	128-136
+26288285_en	CHEM	melatonin	98-107
+26288285_en	DISO	low back pain	128-141
+26288285_en	DISO	low back pain	227-240
+26288285_en	DISO	pain	50-54
+26288285_en	CHEM	APTPA	417-422
+26288285_en	CHEM	glucosamine hydrochloride	451-476
+26288285_en	CHEM	chondroitin sulfate	491-510
+26288285_en	CHEM	melaxen	597-604
+26288285_en	CHEM	melatonin	614-623
+26288285_en	PHYS	sleep	641-646
+26288285_en	DISO	pain	137-141
+26288285_en	CHEM	APTPA	702-707
+26288285_en	CHEM	APTPA	780-785
+26288285_en	CHEM	diclofenac	821-831
+26288285_en	CHEM	melaxen	923-930
+26288285_en	CHEM	melatonin	940-949
+26288285_en	PHYS	sleep	967-972
+26288285_en	FINDING	reduction in pain intensity	1381-1408
+26288285_en	CHEM	APTPA	1039-1044
+26288285_en	CHEM	diclofenac	1077-1087
+26288285_en	CHEM	melaxen	1124-1131
+26288285_en	CHEM	melatonin	1141-1150
+26288285_en	PHYS	sleep	1168-1173
+26288285_en	CHEM	melaxen	1234-1241
+26288285_en	FINDING	pain intensity	1394-1408
+26288285_en	ANATOMY	low back	1591-1599
+26288285_en	CHEM	melatonin	1549-1558
+26288285_en	DISO	low back pain	1591-1604
+26288285_en	ANATOMY	low back	227-235
+26288285_en	CHEM	glucosamine	451-462
+26288285_en	CHEM	hydrochloride	463-476
+26288285_en	CHEM	sulfate	503-510
+26288285_en	DISO	chronic low back pain	1583-1604
+26288285_en	DISO	pain	1394-1398
+26288285_en	DISO	back pain	132-141
+26288285_en	DISO	back pain	45-54
+26288285_en	CHEM	chondroitin	491-502
+26288285_en	DISO	back pain	231-240
+26288285_en	DISO	pain	1600-1604
+26288285_en	FINDING	analgesic role	80-94
+26288285_en	FINDING	analgesic properties	1525-1545
+26288285_en	ANATOMY	back	45-49
+26288285_en	ANATOMY	back	132-136
+26288285_en	ANATOMY	back	231-235
+26288285_en	ANATOMY	back	1595-1599
+26288285_en	DISO	pain	236-240
+26288285_en	DISO	back pain	1595-1604
+26288285_en	FINDING	VAS score	274-283
+26355933_en	DEVICE	homografts	31-41
+26355933_en	ANATOMY	aortofemoral	50-62
+26355933_en	DISO	infection of vascular prostheses	75-107
+26355933_en	DEVICE	vascular prostheses	88-107
+26355933_en	FINDING	clinical data	332-345
+26355933_en	DISO	infection of the implant	216-240
+26355933_en	DEVICE	implant	233-240
+26355933_en	PHYS	male	268-272
+26355933_en	DISO	Infection	283-292
+26355933_en	DISO	Infection of the prosthesis	283-310
+26355933_en	DEVICE	prosthesis	300-310
+26355933_en	LABPROC	MSCT angiography	359-375
+26355933_en	DEVICE	MSCT	359-363
+26355933_en	LABPROC	angiography	364-375
+26355933_en	ANATOMY	limbs	457-462
+26355933_en	ANATOMY	infrarenal portion	403-421
+26355933_en	ANATOMY	aorta	429-434
+26355933_en	ANATOMY	arteries	439-447
+26355933_en	ANATOMY	lower limbs	451-462
+26355933_en	DISO	Pseudoaneurysms	464-479
+26355933_en	ANATOMY	distal anastomoses	483-501
+26355933_en	ANATOMY	anastomoses	490-501
+26355933_en	ANATOMY	bifurcation	614-625
+26355933_en	DEVICE	homograft	626-635
+26355933_en	DISO	infected implant	693-709
+26355933_en	DEVICE	implant	702-709
+26355933_en	LABPROC	inoculation	726-737
+26355933_en	DEVICE	implants	755-763
+26355933_en	DISO	reinfection	1006-1017
+26355933_en	DISO	steno-occlusive lesion	1021-1043
+26355933_en	FINDING	no findings suggesting reinfection or steno-occlusive lesion of the aortofemoral segment have been revealed	983-1090
+26355933_en	ANATOMY	aortofemoral segment	1051-1071
+26355933_en	LABPROC	cryopreserved	17-30
+26355933_en	ANATOMY	vascular	88-96
+26355933_en	DEVICE	prostheses	97-107
+26355933_en	ANATOMY	aortofemoral segment	192-212
+26355933_en	ANATOMY	arteries of lower limbs	439-462
+26355933_en	LABPROC	duplex scanning	380-395
+26355933_en	DEVICE	bifurcation homograft	614-635
+26355933_en	ANATOMY	aortic	607-613
+26355933_en	LABPROC	cryopreserved	593-606
+26355933_en	DEVICE	aortic bifurcation homograft	607-635
+26355933_en	DISO	infection	75-84
+26355933_en	DISO	infection	216-225
+26355933_en	PHYS	died	863-867
+26355933_en	DISO	infected	693-701
+26355936_en	ANATOMY	artery	59-65
+26355936_en	DISO	infiltration	526-538
+26355936_en	ANATOMY	upper mesenteric artery	42-65
+26355936_en	ANATOMY	upper superior mesenteric artery	175-207
+26355936_en	LABPROC	multispiral computed tomography	246-277
+26355936_en	LABPROC	contrast-enhanced multispiral computed tomography	228-277
+26355936_en	FINDING	satisfactory condition	825-847
+26355936_en	ANATOMY	superior mesenteric artery	339-365
+26355936_en	DISO	aneurysm	415-423
+26355936_en	LABPROC	morphological examination	862-887
+26355936_en	ANATOMY	pancreas	475-483
+26355936_en	DISO	residual stenosis	714-731
+26355936_en	DISO	aneurysm	609-617
+26355936_en	DISO	aneurysm	623-631
+26355936_en	DISO	stenosis	723-731
+26355936_en	DEVICE	synthetic patch	753-768
+26355936_en	DISO	dysplasia	960-969
+26355936_en	ANATOMY	micropreparation	895-911
+26355936_en	ANATOMY	mesenteric artery	996-1013
+26355936_en	DISO	fibromuscular dysplasia	946-969
+26355936_en	ANATOMY	superior mesenteric artery	987-1013
+26355936_en	ANATOMY	mesenteric artery	48-65
+26355936_en	DISO	aneurysm	26-34
+26355936_en	ANATOMY	artery	201-207
+26355936_en	ANATOMY	mesenteric artery	190-207
+26355936_en	ANATOMY	superior mesenteric artery	181-207
+26355936_en	DISO	aneurysm	159-167
+26355936_en	LABPROC	computed tomography	258-277
+26355936_en	ANATOMY	mesenteric artery	348-365
+26355936_en	ANATOMY	artery	359-365
+26355936_en	DISO	aneurysm	323-331
+26355936_en	ANATOMY	body of the pancreas	463-483
+26355936_en	ANATOMY	artery	1007-1013
+26355936_en	DISO	aneurysm	971-979
+26356163_en	CHEM	taurine	16-23
+26356163_en	PHYS	oxidative processes	27-46
+26356163_en	DISO	brain edema	50-61
+26356163_en	PHYS	free radical oxidation	88-110
+26356163_en	PHYS	oxidation	101-110
+26356163_en	CHEM	lipids	114-120
+26356163_en	PHYS	protein activity	148-164
+26356163_en	CHEM	glutathione peroxidase	168-190
+26356163_en	CHEM	glutathione reductase	195-216
+26356163_en	CHEM	nitric oxide	247-259
+26356163_en	ANATOMY	brain	277-282
+26356163_en	ANATOMY	mitochondrial	283-296
+26356163_en	DISO	cerebral edema	345-359
+26356163_en	DISO	Toxic brain edema	413-430
+26356163_en	CHEM	taurine	382-389
+26356163_en	DISO	brain edema	419-430
+26356163_en	CHEM	tetra-ethyl lead	485-501
+26356163_en	FINDING	decrease in the activity of enzymes containing glutathione	862-920
+26356163_en	PHYS	peroxidation	553-565
+26356163_en	ANATOMY	brain	714-719
+26356163_en	CHEM	hydroperoxide	583-596
+26356163_en	CHEM	malonic aldehyde	601-617
+26356163_en	DISO	edema	720-725
+26356163_en	PHYS	oxidative	122-131
+26356163_en	PHYS	oxidative	665-674
+26356163_en	DISO	brain edema	714-725
+26356163_en	CHEM	nitrogen	814-822
+26356163_en	CHEM	oxide	254-259
+26356163_en	CHEM	proteins	793-801
+26356163_en	CHEM	lipids	806-812
+26356163_en	CHEM	nitrogen oxide	814-828
+26356163_en	CHEM	glutathione	838-849
+26356163_en	PHYS	activity of enzymes	878-897
+26356163_en	CHEM	enzymes	890-897
+26356163_en	CHEM	glutathione	909-920
+26356163_en	FINDING	activating enzymes containing glutathione	1059-1100
+26356163_en	CHEM	glutathione reductase	949-970
+26356163_en	CHEM	glutathione	1035-1046
+26356163_en	PHYS	oxidative	1286-1295
+26356163_en	CHEM	enzymes	1070-1077
+26356163_en	CHEM	glutathione	1089-1100
+26356163_en	CHEM	taurine	1114-1121
+26356163_en	CHEM	taurine	1174-1181
+26356163_en	PHYS	lipid peroxidation	1240-1258
+26356163_en	PHYS	oxidative modification	1286-1308
+26356163_en	CHEM	nitric	247-253
+26356163_en	CHEM	proteins	1312-1320
+26356163_en	ANATOMY	mitochondrial	1328-1341
+26356163_en	DISO	cerebral edema	1381-1395
+26356163_en	DISO	edema	56-61
+26356163_en	ANATOMY	brain	50-55
+26356163_en	ANATOMY	cerebral	345-353
+26356163_en	DISO	edema	354-359
+26356163_en	ANATOMY	brain mitochondrial fraction	277-305
+26356163_en	CHEM	nitrite	262-269
+26356163_en	ANATOMY	brain	419-424
+26356163_en	DISO	edema	425-430
+26356163_en	CHEM	lead	497-501
+26356163_en	FINDING	reduced glutathione content	830-857
+26356163_en	PHYS	weight	526-532
+26356163_en	CHEM	glutathione peroxidase	922-944
+26356163_en	CHEM	reductase	207-216
+26356163_en	CHEM	lipid	1240-1245
+26356163_en	CHEM	aldehyde	609-617
+26356163_en	CHEM	glutathione	168-179
+26356163_en	CHEM	glutathione	922-933
+26356163_en	CHEM	reductase	961-970
+26356163_en	CHEM	protein	148-155
+26356163_en	FINDING	normalization of oxidative modification	1269-1308
+26356163_en	ANATOMY	cerebral	1381-1389
+26356163_en	DISO	edema	1390-1395
+26356163_en	CHEM	glutathione	195-206
+26356163_en	CHEM	glutathione	949-960
+26356163_en	ANATOMY	mitochondrial fraction	1328-1350
+26356163_en	FINDING	reduction of lipid peroxidation products	1227-1267
+26356163_en	PHYS	oxidative modification	122-144
+26356163_en	PHYS	malonic aldehyde contents	601-626
+26356163_en	PHYS	contents	618-626
+26356163_en	PHYS	intensity of peroxidation	540-565
+26356163_en	CHEM	proteins	691-699
+26356163_en	CHEM	oxide	823-828
+26356163_en	PHYS	oxidative modification	767-789
+26356163_en	FINDING	increased levels of oxidative modification	747-789
+26356163_en	PHYS	glutathione content	838-857
+26356163_en	FINDING	increasing glutathione content	1024-1054
+26356163_en	PHYS	glutathione content	1035-1054
+26356163_en	ANATOMY	mitochondrial fraction	283-305
+26356163_en	CHEM	peroxidase	180-190
+26356163_en	CHEM	peroxidase	934-944
+26356163_en	PHYS	peroxidation	1246-1258
+26356163_en	PHYS	oxidative modification	665-687
+26356398_en	CHEM	baclofen	68-76
+26356398_en	CHEM	Baclosan	78-86
+26356398_en	DISO	alcohol dependence	93-111
+26356398_en	CHEM	baclofen	150-158
+26356398_en	DISO	alcohol dependence	176-194
+26356398_en	DISO	alcohol dependence	235-253
+26356398_en	CHEM	baclofen	374-382
+26356398_en	CHEM	placebo	467-474
+26356398_en	DISO	craving for alcohol	705-724
+26356398_en	CHEM	riboflavin	625-635
+26356398_en	DISO	psychiatric evaluations	668-691
+26356398_en	DISO	carving for alcohol	1016-1035
+26356398_en	DISO	anxiety	726-733
+26356398_en	DISO	depression	738-748
+26356398_en	CHEM	gamma-glutamiltranspeptidase	818-846
+26356398_en	PHYS	gamma-glutamiltranspeptidase activity	818-855
+26356398_en	ANATOMY	blood	859-864
+26356398_en	DISO	anxiety	876-883
+26356398_en	DISO	Depression	949-959
+26356398_en	FINDING	retention in treatment and drinking were slightly better	1419-1475
+26356398_en	FINDING	Overall treatment effect	1142-1166
+26356398_en	CHEM	Baclofen	1277-1285
+26356398_en	CHEM	placebo	1319-1326
+26356398_en	CHEM	baclofen	1483-1491
+26356398_en	CHEM	placebo	1510-1517
+26356398_en	ANATOMY	liver	1675-1680
+26356398_en	PHYS	enzymes activity	1681-1697
+26356398_en	CHEM	baclofen	1754-1762
+26356398_en	DISO	alcohol dependent	1766-1783
+26356398_en	CHEM	baclofen	1814-1822
+26356398_en	DISO	alcohol dependence	1827-1845
+26356398_en	DISO	Obsessive-Compulsive	1041-1061
+26356398_en	ANATOMY	urine	646-651
+26356398_en	FINDING	did no differ significantly	1286-1313
+26356398_en	FINDING	differences were close to the level of statistical significance	1529-1592
+26356398_en	PHYS	liver enzymes activity	1675-1697
+26356398_en	CHEM	liver enzymes	1675-1688
+26356398_en	FINDING	rate of adverse events	1649-1671
+26356398_en	FINDING	safety and good tolerability	1722-1750
+26356398_en	CHEM	enzymes	1681-1688
+26356398_en	CHEM	placebo	14-21
+26356398_en	FINDING	efficacy and safety of baclofen	127-158
+26356526_en	DISO	severe headache	77-92
+26356526_en	DISO	migraine	20-28
+26356526_en	DISO	Migraine	31-39
+26356526_en	DISO	nausea	98-104
+26356526_en	DISO	vomiting	106-114
+26356526_en	DISO	headache	84-92
+26356526_en	DISO	hypersensitivity to sounds	119-145
+26356526_en	DISO	hypersensitivity to sounds, light, smell	119-159
+26356526_en	DISO	hypersensitivity	119-135
+26356526_en	ANATOMY	serotonin system	372-388
+26356526_en	DISO	Neurological symptoms	162-183
+26356526_en	DISO	hemiplegic migraine	323-342
+26356526_en	DISO	migraine	253-261
+26356526_en	PHYS	mutations	301-310
+26356526_en	DISO	familial hemiplegic migraine	314-342
+26356526_en	PHYS	metabolism	526-536
+26356526_en	DISO	migraine	413-421
+26356526_en	DISO	pathogenesis	422-434
+26356526_en	CHEM	serotonin	516-525
+26356526_en	DISO	migraine-like headache	470-492
+26356526_en	PHYS	serotonin metabolism	516-536
+26356526_en	DISO	celiac disease	554-568
+26356526_en	DISO	Celiac disease	570-584
+26356526_en	FINDING	Genes responsible for migraine	231-261
+26356526_en	DISO	enteropathy	620-631
+26356526_en	DISO	Arteriopathies associated with migraine	634-673
+26356526_en	DISO	migraine	665-673
+26356526_en	DISO	cerebral autosomal dominant arteriopathy	678-718
+26356526_en	DISO	subcortical infarcts	724-744
+26356526_en	DISO	leukoencephalopathy	749-768
+26356526_en	DISO	CADASIL	779-786
+26356526_en	DISO	retinal vasculopathy	789-809
+26356526_en	DISO	cerebral leukodystrophy	815-838
+26356526_en	DISO	hereditary systemic angiopathy	847-877
+26356526_en	DISO	mitochondrial encephalomyopathy	885-916
+26356526_en	DISO	lactic acidosis	922-937
+26356526_en	DISO	stroke-like episodes	942-962
+26356526_en	DISO	aura period	191-202
+26356526_en	DISO	migraine	334-342
+26356526_en	CHEM	serotonin	372-381
+26356526_en	DISO	impaired serotonin metabolism	507-536
+26356526_en	DISO	headache	484-492
+26356526_en	DISO	migraine	470-478
+26356526_en	ANATOMY	cerebral	678-686
+26356526_en	DISO	arteriopathy	706-718
+26356526_en	ANATOMY	subcortical	724-735
+26356526_en	DISO	infarcts	736-744
+26356526_en	DISO	cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	678-768
+26356526_en	ANATOMY	retinal	789-796
+26356526_en	DISO	leukodystrophy	824-838
+26356526_en	ANATOMY	cerebral	815-823
+26356526_en	DISO	vasculopathy	797-809
+26356526_en	DISO	retinal vasculopathy with cerebral leukodystrophy	789-838
+26356526_en	DISO	RVCL	840-844
+26356526_en	DISO	angiopathy	867-877
+26356526_en	DISO	HSA	879-882
+26356526_en	ANATOMY	mitochondrial	885-898
+26356526_en	DISO	encephalomyopathy	899-916
+26356526_en	DISO	acidosis	929-937
+26356526_en	CHEM	lactic	922-928
+26356526_en	DISO	stroke	942-948
+26356526_en	DISO	MELAS	964-969
+26356526_en	DISO	mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes	885-962
+26356526_en	DISO	chronic polysyndrome disease	590-618
+26356617_en	ANATOMY	venous	52-58
+26356617_en	DISO	venous dysfunction	52-70
+26356617_en	ANATOMY	brain	78-83
+26356617_en	ANATOMY	extremities	88-99
+26356617_en	ANATOMY	venous	194-200
+26356617_en	PHYS	venous circulation	194-212
+26356617_en	ANATOMY	brain	220-225
+26356617_en	ANATOMY	limbs	230-235
+26356617_en	LABPROC	teletermography	622-637
+26356617_en	ANATOMY	venous	789-795
+26356617_en	LABPROC	dynamic teletermography	614-637
+26356617_en	LABPROC	triplex study	642-655
+26356617_en	ANATOMY	head	659-663
+26356617_en	ANATOMY	neck	665-669
+26356617_en	ANATOMY	extremity vessels	674-691
+26356617_en	DISO	venous dysfunction	789-807
+26356617_en	ANATOMY	brain	815-820
+26356617_en	PHYS	healthy	319-326
+26356617_en	DISO	venous insufficiency	881-901
+26356617_en	PHYS	venous circulation	939-957
+26356617_en	ANATOMY	brain	965-970
+26356617_en	ANATOMY	extremities	975-986
+26356617_en	ANATOMY	venous	389-395
+26356617_en	ANATOMY	extra-intracerebral venous	369-395
+26356617_en	ANATOMY	extra-intracerebral	369-388
+26356617_en	DISO	extra-intracerebral venous insufficiency	369-409
+26356617_en	ANATOMY	venous	463-469
+26356617_en	DISO	encephalopathy	470-484
+26356617_en	DISO	venous encephalopathy	463-484
+26356617_en	ANATOMY	extremity	674-683
+26356617_en	DISO	systemic pathology	907-925
+26356617_en	DISO	varicose disease	503-519
+26356617_en	ANATOMY	venous	881-887
+26356617_en	ANATOMY	venous	939-945
+26356617_en	ANATOMY	vessels	684-691
+26356617_en	DISO	dysfunction	59-70
+26356617_en	DISO	dysfunction	796-807
+26485774_en	DISO	thrombophilia	23-36
+26485774_en	DISO	connective tissue dysplasia syndrome	58-94
+26485774_en	DISO	pathogenesis	102-114
+26485774_en	PHYS	endometrial receptivity	487-510
+26485774_en	ANATOMY	endometrial	196-207
+26485774_en	DISO	Impaired endometrial receptivity	187-219
+26485774_en	PHYS	endometrial receptivity	196-219
+26485774_en	FINDING	reproductive losses	240-259
+26485774_en	ANATOMY	embryo	314-320
+26485774_en	DISO	thrombophilia	392-405
+26485774_en	DISO	inherited thrombophilia	382-405
+26485774_en	DISO	undifferentiated connective tissue dysplasia syndrome	415-468
+26485774_en	ANATOMY	endometrial	487-498
+26485774_en	PHYS	female	118-124
+26485774_en	DISO	IT	407-409
+26485774_en	LABPROC	immunohistochemical	583-602
+26485774_en	PHYS	endometrial receptivity	626-649
+26485774_en	DISO	uCTDS	664-669
+26485774_en	DISO	IT	671-673
+26485774_en	ANATOMY	specimens	858-867
+26485774_en	ANATOMY	endometrial	839-850
+26485774_en	PHYS	ER	738-740
+26485774_en	CHEM	PgR	742-745
+26485774_en	CHEM	LIF	747-750
+26485774_en	CHEM	VEGF	752-756
+26485774_en	CHEM	PAI-1	762-767
+26485774_en	LABPROC	immunohistochemically	801-822
+26485774_en	FINDING	unsuccessful	1232-1244
+26485774_en	PHYS	implantation window	896-915
+26485774_en	PHYS	ovulation	935-944
+26485774_en	DISO	uCTDS	1053-1058
+26485774_en	PHYS	expression	1783-1793
+26485774_en	DISO	miscarriage	1301-1312
+26485774_en	PHYS	gestation	1344-1353
+26485774_en	ANATOMY	endometrium	1395-1406
+26485774_en	PHYS	secretion	1489-1498
+26485774_en	ANATOMY	mature pinopodes	1552-1568
+26485774_en	ANATOMY	pinopodes	1559-1568
+26485774_en	ANATOMY	endometrial	1600-1611
+26485774_en	PHYS	endometrial receptivity	1600-1623
+26485774_en	FINDING	endometrial receptivity was very low	1600-1636
+26485774_en	LABPROC	Immunohistochemical examination	1638-1669
+26485774_en	PHYS	receptivity	1707-1718
+26485774_en	DISO	infertility	125-136
+26485774_en	CHEM	LIF	1726-1729
+26485774_en	PHYS	expression	1689-1699
+26485774_en	ANATOMY	epithelium	1757-1767
+26485774_en	FINDING	higher expression	1776-1793
+26485774_en	ANATOMY	stroma	1801-1807
+26485774_en	DISO	uCTDS	1846-1851
+26485774_en	DISO	uCTDS	1856-1861
+26485774_en	ANATOMY	substrates	603-613
+26485774_en	CHEM	PAI-1	1902-1907
+26485774_en	CHEM	VEGF	1912-1916
+26485774_en	ANATOMY	epithelium	1924-1934
+26485774_en	ANATOMY	stroma	1936-1942
+26485774_en	ANATOMY	endothelium	1948-1959
+26485774_en	DISO	pathogenesis	2201-2213
+26485774_en	PHYS	fibrinolysis	2085-2097
+26485774_en	ANATOMY	endometrial	2170-2181
+26485774_en	PHYS	endometrial receptivity	2170-2193
+26485774_en	ANATOMY	endometrial	2261-2272
+26485774_en	DISO	infertility	2217-2228
+26485774_en	PHYS	endometrial receptivity	2261-2284
+26485774_en	ANATOMY	pinopodes	2323-2332
+26485774_en	ANATOMY	surface epithelium	2340-2358
+26485774_en	DISO	focal stromal sclerosis	2360-2383
+26485774_en	PHYS	receptivity marker	2411-2429
+26485774_en	ANATOMY	epithelium	2451-2461
+26485774_en	CHEM	LIF	2430-2433
+26485774_en	ANATOMY	surface epithelium	2443-2461
+26485774_en	ANATOMY	stroma	2469-2475
+26485774_en	PHYS	reproductive	240-252
+26485774_en	FINDING	decrease in mature pinopodes	2304-2332
+26485774_en	DISO	inherited thrombophilia	13-36
+26485774_en	DISO	connective tissue dysplasia	58-85
+26485774_en	ANATOMY	connective tissue	58-75
+26485774_en	ANATOMY	tissue	69-75
+26485774_en	DISO	undifferentiated connective tissue dysplasia syndrome	41-94
+26485774_en	DISO	undifferentiated connective tissue dysplasia	41-85
+26485774_en	LABPROC	morphological	565-578
+26485774_en	DISO	uCTDS	470-475
+26485774_en	DISO	connective tissue dysplasia syndrome	432-468
+26485774_en	DISO	connective tissue dysplasia	432-459
+26485774_en	DISO	dysplasia	76-85
+26485774_en	DISO	dysplasia	450-459
+26485774_en	ANATOMY	connective tissue	432-449
+26485774_en	ANATOMY	tissue	443-449
+26485774_en	PHYS	receptivity	499-510
+26485774_en	ANATOMY	endometrial	626-637
+26485774_en	DISO	impaired endometrial receptivity	617-649
+26485774_en	LABPROC	endometrial biopsy	839-857
+26485774_en	ANATOMY	endometrial biopsy specimens	839-867
+26485774_en	LABPROC	pipelle endometrial biopsy	831-857
+26485774_en	DISO	IT	1097-1099
+26485774_en	DISO	IT	1072-1074
+26485774_en	PHYS	proliferation	1466-1479
+26485774_en	PHYS	late proliferation	1461-1479
+26485774_en	PHYS	early secretion phases	1483-1505
+26485774_en	FINDING	lower expression of the receptivity marker LIF	1683-1729
+26485774_en	ANATOMY	endometrial	1737-1748
+26485774_en	ANATOMY	endometrial surface epithelium	1737-1767
+26485774_en	DISO	IT	1862-1864
+26485774_en	PHYS	neoangiogenetic processes	2046-2071
+26485774_en	FINDING	higher expression of PAI-1 and VEGF	1881-1916
+26485774_en	ANATOMY	biopsy specimens	851-867
+26485774_en	DISO	impaired fibrinolysis	2076-2097
+26485774_en	FINDING	intensity of neoangiogenetic processes	2033-2071
+26485774_en	DISO	uCTDS	2128-2133
+26485774_en	DISO	IT	2138-2140
+26485774_en	DISO	impaired endometrial receptivity	2161-2193
+26485774_en	DISO	impaired endometrial receptivity	2252-2284
+26485774_en	ANATOMY	mature pinopodes	2316-2332
+26485774_en	ANATOMY	epithelium	2348-2358
+26485774_en	PHYS	receptivity	208-219
+26485774_en	DISO	concurrence	685-696
+26485774_en	DISO	stromal sclerosis	2366-2383
+26485774_en	DISO	sclerosis	2374-2383
+26485774_en	LABPROC	biopsy	851-857
+26485774_en	PHYS	receptivity	2411-2422
+26485774_en	PHYS	receptivity marker	1707-1725
+26485774_en	LABPROC	morphologically	781-796
+26485774_en	FINDING	no mature pinopodes	1549-1568
+26485774_en	PHYS	mature	1552-1558
+26485774_en	DISO	uCTDS	1087-1092
+26485774_en	PHYS	expression of the receptivity marker LIF	1689-1729
+26485774_en	PHYS	implantation window	1370-1389
+26485774_en	ANATOMY	stromal	2366-2373
+26485774_en	FINDING	redistribution of the receptivity marker LIF	2389-2433
+26485774_en	DISO	female infertility	118-136
+26485774_en	CHEM	Antibodies against ER	719-740
+26485774_en	CHEM	Antibodies	719-729
+26485774_en	PHYS	expression	1888-1898
+26485774_en	PHYS	immature	1411-1419
+26485774_en	ANATOMY	surface epithelium	1749-1767
+26485774_en	PHYS	receptivity	2273-2284
+26485774_en	PHYS	receptivity	2182-2193
+26485774_en	PHYS	receptivity	1612-1623
+26485774_en	PHYS	receptivity	638-649
+26485774_en	PHYS	healthy	1106-1113
+26485774_en	CHEM	PAI	1902-1905
+26485774_en	CHEM	PAI	762-765
+26485774_en	PHYS	mature	2316-2322
+26489117_en	DISO	hemodynamic disturbances	17-41
+26489117_en	PHYS	hemodynamic	17-28
+26489117_en	ANATOMY	magistral vessels	45-62
+26489117_en	DISO	optic neuropathy	66-82
+26489117_en	ANATOMY	ocular	99-105
+26489117_en	PHYS	ocular tension	99-113
+26489117_en	DISO	endocrine ophthalmopathy	125-149
+26489117_en	DISO	hemodynamic disturbances	200-224
+26489117_en	PHYS	hemodynamic	200-211
+26489117_en	ANATOMY	magistral vessels	228-245
+26489117_en	DISO	optic neuropathy	249-265
+26489117_en	DISO	ON	267-269
+26489117_en	ANATOMY	ocular	287-293
+26489117_en	PHYS	ocular tension	287-301
+26489117_en	DISO	endocrine ophthalmopathy	313-337
+26489117_en	ANATOMY	eyes	394-398
+26489117_en	DISO	Graves' disease	472-487
+26489117_en	ANATOMY	eyes	500-504
+26489117_en	DISO	autoimmune thyroiditis	509-531
+26489117_en	ANATOMY	eyes	543-547
+26489117_en	LABPROC	echography	570-580
+26489117_en	LABPROC	Orbit echography	564-580
+26489117_en	PHYS	Blood flow	612-622
+26489117_en	DEVICE	Voluson 730 PRO	643-658
+26489117_en	LABPROC	ultrasound	659-669
+26489117_en	DEVICE	Voluson 730 PRO ultrasound diagnostic system	643-687
+26489117_en	DEVICE	ultrasound diagnostic system	659-687
+26489117_en	LABPROC	triplex mode	710-722
+26489117_en	LABPROC	B-scan	724-730
+26489117_en	LABPROC	pulse-wave Doppler	779-797
+26489117_en	PHYS	hemodynamic	814-825
+26489117_en	ANATOMY	ophthalmic artery	840-857
+26489117_en	ANATOMY	central retinal artery	859-881
+26489117_en	ANATOMY	central retinal vein	889-909
+26489117_en	ANATOMY	short posterior ciliary arteries	917-949
+26489117_en	ANATOMY	long posterior ciliary arteries	962-993
+26489117_en	PHYS	hemodynamic	1038-1049
+26489117_en	ANATOMY	vessels	1086-1093
+26489117_en	DISO	ON	1097-1099
+26489117_en	PHYS	eye pressure	1116-1128
+26489117_en	ANATOMY	eyes	1194-1198
+26489117_en	PHYS	diastolic blood flow	1278-1298
+26489117_en	ANATOMY	Intraocular	1364-1375
+26489117_en	PHYS	Intraocular pressure	1364-1384
+26489117_en	DISO	neuropathy	1450-1460
+26489117_en	ANATOMY	optic	1444-1449
+26489117_en	DISO	optic neuropathy	1444-1460
+26489117_en	DISO	perfusion disturbances	1635-1657
+26489117_en	DISO	ischemia	1688-1696
+26489117_en	PHYS	perfusion	1635-1644
+26489117_en	DISO	chronic ocular ischemia	1673-1696
+26489117_en	PHYS	IOP	1718-1721
+26489117_en	ANATOMY	CRA	1784-1787
+26489117_en	ANATOMY	SPCA	1789-1793
+26489117_en	ANATOMY	LPCA	1799-1803
+26489117_en	PHYS	blood flow	1818-1828
+26489117_en	ANATOMY	eyes	1908-1912
+26489117_en	DISO	EOP	1918-1921
+26489117_en	DISO	EOP-associated ON	1918-1935
+26489117_en	PHYS	IOP	1998-2001
+26489117_en	ANATOMY	blood	2068-2073
+26489117_en	PHYS	blood supply	2068-2080
+26489117_en	ANATOMY	eyeball	2088-2095
+26489117_en	FINDING	reduction in ocular tension	2105-2132
+26489117_en	PHYS	ocular tension	2118-2132
+26489117_en	DISO	neuropathy	2158-2168
+26489117_en	DISO	optic neuropathy	2152-2168
+26489117_en	PHYS	perfusion	2179-2188
+26489117_en	ANATOMY	CRA	2205-2208
+26489117_en	ANATOMY	LPCA	2213-2217
+26489117_en	ANATOMY	CRA	2232-2235
+26489117_en	ANATOMY	LPCA	2237-2241
+26489117_en	ANATOMY	SPCA	2247-2251
+26489117_en	ANATOMY	SPCA	2296-2300
+26489117_en	ANATOMY	LPCA	2308-2312
+26489117_en	ANATOMY	vessels	55-62
+26489117_en	DISO	neuropathy	72-82
+26489117_en	FINDING	optic neuropathy (ON) progression	249-282
+26489117_en	ANATOMY	endocrine	125-134
+26489117_en	DISO	ophthalmopathy	135-149
+26489117_en	ANATOMY	vessels	238-245
+26489117_en	DISO	neuropathy	255-265
+26489117_en	ANATOMY	ciliary	933-940
+26489117_en	FINDING	ocular tension changes	287-309
+26489117_en	DISO	ophthalmopathy	323-337
+26489117_en	DISO	EOP	339-342
+26489117_en	ANATOMY	endocrine	313-322
+26489117_en	DISO	EOP	417-420
+26489117_en	PHYS	pressure	1120-1128
+26489117_en	DISO	thyroiditis	520-531
+26489117_en	ANATOMY	Blood	612-617
+26489117_en	LABPROC	color Doppler flow mapping	732-758
+26489117_en	FINDING	baseline IOP values	1989-2008
+26489117_en	PHYS	pressure	1376-1384
+26489117_en	ANATOMY	artery	851-857
+26489117_en	ANATOMY	retinal artery	867-881
+26489117_en	ANATOMY	artery	875-881
+26489117_en	ANATOMY	retinal	867-874
+26489117_en	ANATOMY	CRA	883-886
+26489117_en	ANATOMY	retinal vein	897-909
+26489117_en	ANATOMY	retinal	897-904
+26489117_en	ANATOMY	vein	905-909
+26489117_en	ANATOMY	CRV	911-914
+26489117_en	ANATOMY	ciliary arteries	933-949
+26489117_en	ANATOMY	SPCA	951-955
+26489117_en	ANATOMY	ciliary arteries	977-993
+26489117_en	ANATOMY	LPCA	995-999
+26489117_en	DISO	hemodynamic disturbances	1038-1062
+26489117_en	ANATOMY	eye	1116-1119
+26489117_en	PHYS	blood flow	1288-1298
+26489117_en	ANATOMY	blood	1288-1293
+26489117_en	ANATOMY	ocular	1681-1687
+26489117_en	ANATOMY	blood	1818-1823
+26489117_en	DISO	blood flow disturbance	1818-1840
+26489117_en	DISO	ON	1933-1935
+26489117_en	DISO	ON	1949-1951
+26489117_en	DISO	impairment of blood supply	2054-2080
+26489117_en	FINDING	progression of optic neuropathy	2137-2168
+26489117_en	ANATOMY	ocular	2118-2124
+26489117_en	FINDING	high-risk factor	2272-2288
+26489117_en	DISO	Combined perfusion disturbances	2170-2201
+26489117_en	FINDING	decrease in IOP	1706-1721
+26489117_en	ANATOMY	Orbit	564-569
+26489117_en	ANATOMY	ciliary	977-984
+26489117_en	ANATOMY	posterior	967-976
+26489117_en	ANATOMY	arteries	941-949
+26489117_en	ANATOMY	arteries	985-993
+26489117_en	PHYS	hemodynamic parameters	814-836
+26489117_en	DISO	scotomas	1531-1539
+26489117_en	FINDING	moderate-risk	2328-2341
+26489117_en	FINDING	depth (dB) and number of scotomas	1506-1539
+26489117_en	DISO	ocular ischemia	1681-1696
+26489117_en	FINDING	qualitative and quantitative changes in eyes with EOP-associated ON	1868-1935
+26489117_en	FINDING	directly correlates	1964-1983
+26489117_en	DISO	perfusion disturbances	2179-2201
+26489117_en	FINDING	ON progression	1097-1111
+26489117_en	FINDING	peripheral indices were increased	1206-1239
+26489117_en	FINDING	diastolic blood flow decreased	1278-1308
+26489117_en	FINDING	optic neuropathy progression	1444-1472
+26489117_en	FINDING	rate of ON progression	1941-1963
+26489117_en	DISO	chronic impairment of blood supply	2046-2080
+26525473_en	ANATOMY	nasal cavity	78-90
+26525473_en	ANATOMY	nasopharynx	92-103
+26525473_en	ANATOMY	larynx	109-115
+26525473_en	CHEM	topical anesthetics	121-140
+26525473_en	FINDING	effectiveness of various anesthetic techniques	241-287
+26525473_en	LABPROC	fibroendoscopy	306-320
+26525473_en	ANATOMY	nose	328-332
+26525473_en	ANATOMY	nasopharynx	334-345
+26525473_en	ANATOMY	larynx	351-357
+26525473_en	CHEM	physiological solution	629-651
+26525473_en	PHYS	age	532-535
+26525473_en	PHYS	sex	540-543
+26525473_en	LABPROC	fibroendoscopy	613-627
+26525473_en	CHEM	xylometazoline	671-685
+26525473_en	CHEM	lidocaine solution	712-730
+26525473_en	CHEM	xylometazoline	765-779
+26525473_en	CHEM	lidocaine solutions	788-807
+26525473_en	ANATOMY	nasal	878-883
+26525473_en	ANATOMY	nasal cavity	878-890
+26525473_en	CHEM	lidocaine	896-905
+26525473_en	CHEM	lidocaine	910-919
+26525473_en	CHEM	xylometazoline	925-939
+26525473_en	LABPROC	fibroendoscopy	1057-1071
+26525473_en	FINDING	tolerance to fibroendoscopy	1044-1071
+26525473_en	LABPROC	fibroendoscopy	1207-1221
+26525473_en	CHEM	physiological solution	1270-1292
+26525473_en	FINDING	tolerance to fibroendoscopy	1490-1517
+26525473_en	CHEM	lidocaine	1353-1362
+26525473_en	CHEM	xylometazoline	1367-1381
+26525473_en	LABPROC	fibroendoscopy	1503-1517
+26525473_en	ANATOMY	nasal	1573-1578
+26525473_en	ANATOMY	nasal cavity	1573-1585
+26525473_en	CHEM	lidocaine solution	1613-1631
+26525473_en	LABPROC	fibroendoscopy	1639-1653
+26525473_en	CHEM	xylometazoline	1706-1720
+26525473_en	CHEM	lidocaine	1764-1773
+26525473_en	CHEM	xylometazoline	1872-1886
+26525473_en	LABPROC	fibroendoscopic study	49-70
+26525473_en	CHEM	xylometazoline solution	671-694
+26525473_en	CHEM	lidocaine	712-721
+26525473_en	CHEM	lidocaine	788-797
+26525473_en	FINDING	tolerance of fibroendoscopy	1194-1221
+26525473_en	CHEM	lidocaine	1613-1622
+26525473_en	CHEM	xylometazoline solution	1706-1729
+26525473_en	ANATOMY	nasal	78-83
+26525473_en	FINDING	tolerance to the pretreatment of the nasal cavity	841-890
+26525473_en	CHEM	anesthetics	129-140
+26525473_en	CHEM	solution	643-651
+26525473_en	CHEM	solution	686-694
+26525473_en	CHEM	solution	722-730
+26525473_en	CHEM	solutions	798-807
+26525473_en	FINDING	significantly (p<0.05) worse	976-1004
+26525473_en	FINDING	on the average similar	1104-1126
+26525473_en	FINDING	worst	1232-1237
+26525473_en	FINDING	best	1311-1315
+26525473_en	CHEM	solution	1284-1292
+26525473_en	FINDING	not significantly different	1446-1473
+26525473_en	CHEM	solution	1623-1631
+26525473_en	CHEM	solution	1721-1729
+26525473_en	CHEM	anesthetic	1780-1790
+26525473_en	FINDING	nduces more pronounced negative emotions	1792-1832
+26525473_en	FINDING	before fibroendoscopy has no advantage	1632-1670
+26525480_en	DISO	acute cough	42-53
+26525480_en	DISO	cough	48-53
+26525480_en	DISO	Acute cough	57-68
+26525480_en	DISO	influenza	85-94
+26525480_en	DISO	acute respiratory viral infection	99-132
+26525480_en	DISO	cough	297-302
+26525480_en	DISO	Acute cough	291-302
+26525480_en	DISO	ARVI	310-314
+26525480_en	DISO	cough	466-471
+26525480_en	DISO	ARVI	479-483
+26525480_en	ANATOMY	sputum	551-557
+26525480_en	PHYS	elderly	585-592
+26525480_en	PHYS	aged	576-580
+26525480_en	ANATOMY	chest	651-656
+26525480_en	INJURY_POISONING	chest injuries	651-665
+26525480_en	DISO	dry pleuritis	667-680
+26525480_en	DISO	cough	794-799
+26525480_en	CHEM	mucokinetic	845-856
+26525480_en	DISO	subacute cough	785-799
+26525480_en	CHEM	ambroxol	857-865
+26525480_en	PHYS	MCC	907-910
+26525480_en	PHYS	mucociliary clearance	884-905
+26525480_en	PHYS	sputum expectoration	953-973
+26525480_en	ANATOMY	bronchial	1146-1155
+26525480_en	ANATOMY	sputum	953-959
+26525480_en	ANATOMY	mucus	1156-1161
+26525480_en	CHEM	ambroxol	1025-1033
+26525480_en	ANATOMY	oral	1428-1432
+26525480_en	ANATOMY	circulatory system	1472-1490
+26525480_en	ANATOMY	blood	1536-1541
+26525480_en	ANATOMY	plasma	1542-1548
+26525480_en	ANATOMY	bronchial mucus	1146-1161
+26525480_en	CHEM	ambroxol	1258-1266
+26525480_en	CHEM	neo-bronchol	1268-1280
+26525480_en	ANATOMY	mucous	1835-1841
+26525480_en	ANATOMY	membrane	1842-1850
+26525480_en	ANATOMY	oral cavity	1428-1439
+26525480_en	ANATOMY	blood plasma	1536-1548
+26525480_en	ANATOMY	bronchial	2248-2257
+26525480_en	CHEM	ambroxol	1578-1586
+26525480_en	ANATOMY	mucus	2258-2263
+26525480_en	DISO	bronchitis	2291-2301
+26525480_en	CHEM	ambroxol	1643-1651
+26525480_en	CHEM	menthol	1660-1667
+26525480_en	CHEM	cineol	1673-1679
+26525480_en	DISO	pulmonary disease	2334-2351
+26525480_en	FINDING	antibacterial actions	1718-1739
+26525480_en	ANATOMY	trachea	1762-1769
+26525480_en	ANATOMY	bronchi	1774-1781
+26525480_en	ANATOMY	nasal	1879-1884
+26525480_en	ANATOMY	mucous membrane	1835-1850
+26525480_en	ANATOMY	larynx	1858-1864
+26525480_en	ANATOMY	pharynx	1866-1873
+26525480_en	ANATOMY	nasal cavity	1879-1891
+26525480_en	FINDING	cough-suppressive effect	1946-1970
+26525480_en	ANATOMY	pulmonary	2334-2343
+26525480_en	CHEM	neo-bronchol	2014-2026
+26525480_en	DISO	asthma	2363-2369
+26525480_en	ANATOMY	bronchial	2353-2362
+26525480_en	DISO	difficulty in sputum discharge	2375-2405
+26525480_en	ANATOMY	sputum	2389-2395
+26525480_en	FINDING	recommended for the inclusion in the combined treatment	2066-2121
+26525480_en	PHYS	excretion	2200-2209
+26525480_en	ANATOMY	bronchial mucus	2248-2263
+26525480_en	DISO	chronic bronchitis	2283-2301
+26525480_en	CHEM	receptors	1801-1810
+26525480_en	DISO	pneumonia	2303-2312
+26525480_en	DISO	obstructive pulmonary disease	2322-2351
+26525480_en	DISO	bronchial asthma	2353-2369
+26525480_en	PHYS	sputum discharge	2389-2405
+26525480_en	DISO	bronchoectatic disease	2411-2433
+26525480_en	DISO	cough	63-68
+26525480_en	DISO	respiratory viral infection	105-132
+26525480_en	FINDING	prevent the development of subacute cough	758-799
+26525480_en	DISO	ARVI	134-138
+26525480_en	PHYS	young	603-608
+26525480_en	DISO	pleuritis	671-680
+26525480_en	CHEM	mucokinetic ambroxol	845-865
+26525480_en	DISO	inflamed	1826-1834
+26525480_en	DISO	viscous and difficult-of-discharge bronchial mucus	2213-2263
+26525480_en	PHYS	discharge bronchial mucus	2238-2263
+26525480_en	PHYS	expectoration of sputum	534-557
+26525480_en	DISO	abnormal expectoration of sputum	525-557
+26525480_en	PHYS	rheological properties	1120-1142
+26525480_en	FINDING	mucolytic	1691-1700
+26525480_en	FINDING	antiseptic	1702-1712
+26525480_en	DISO	cough	1946-1951
+26525480_en	DISO	acute bronchitis	2273-2301
+26525480_en	DISO	infection	123-132
+26525480_en	DISO	chronic obstructive pulmonary disease	2314-2351
+26525480_en	PHYS	respiratory	105-116
+26525480_en	FINDING	improves the mucociliary clearance	871-905
+26525480_en	FINDING	improvement of rheological properties	1105-1142
+26525480_en	PHYS	clearance	896-905
+26525480_en	CHEM	surfactant	1056-1066
+26525480_en	FINDING	antiviral effects	1184-1201
+26525480_en	FINDING	ant-inflammatory	1163-1179
+26525480_en	PHYS	healthy	334-341
+26525480_en	INJURY_POISONING	injuries	657-665
+26525480_en	CHEM	mucoactive preparations	730-753
+26525480_en	FINDING	antioxidation effect	1079-1099
+26525480_en	PHYS	surfactant production	1056-1077
+26525480_en	FINDING	stimulation of surfactant production	1041-1077
+26525480_en	FINDING	rapid penetration into the circulatory system	1445-1490
+26525480_en	FINDING	high concentration in blood plasma	1514-1548
+26525480_en	PHYS	concentration in blood plasma	1519-1548
+26525480_en	FINDING	absorption of this medication	1391-1420
+26525480_en	CHEM	volatile metabolites	1554-1574
+26525480_en	CHEM	metabolites	1563-1574
+26525480_en	FINDING	Irrigation of the receptors	1783-1810
+26525480_en	DISO	acute diseases	2154-2180
+26525480_en	DISO	chronic diseases	2164-2180
+26525616_en	DISO	Myofascial pain syndrome	1-25
+26525616_en	DISO	pain syndrome	12-25
+26525616_en	DISO	pain syndrome	77-90
+26525616_en	DISO	dorsalgia	108-117
+26525616_en	DISO	back pain	248-257
+26525616_en	LABPROC	MRI	305-308
+26525616_en	LABPROC	CT	316-318
+26525616_en	ANATOMY	spine	326-331
+26525616_en	DISO	anxiety	348-355
+26525616_en	DISO	depression	360-370
+26525616_en	DISO	myofascial pain syndrome	519-543
+26525616_en	DISO	anxiety-depressive disorders	582-610
+26525616_en	ANATOMY	cervical	634-642
+26525616_en	DISO	pain	665-669
+26525616_en	DISO	fibromyalgia	671-683
+26525616_en	FINDING	frequently associated	555-576
+26525616_en	DISO	neurological symptoms	697-718
+26525616_en	ANATOMY	neural structure	735-751
+26525616_en	DISO	Anxiety	389-396
+26525616_en	LABPROC	MRI	777-780
+26525616_en	LABPROC	CT	785-787
+26525616_en	DISO	pain	12-16
+26525616_en	DISO	MFPS	825-829
+26525616_en	DISO	pain	77-81
+26525616_en	DISO	Depression	401-411
+26525616_en	DISO	MFPS	900-904
+26525616_en	CHEM	amelotex	927-935
+26525616_en	CHEM	compligam B	960-971
+26525616_en	DISO	dorsopathy	989-999
+26525616_en	DISO	MFPS	1004-1008
+26525616_en	DISO	emotional disorders	1050-1069
+26525616_en	DISO	Chronic myofascial pain syndrome	511-543
+26525616_en	LABPROC	neurological examination	279-303
+26525616_en	FINDING	no signs	723-731
+26525616_en	DISO	neural structure compression	735-763
+26525616_en	ANATOMY	back	248-252
+26525616_en	DISO	chronic MFPS	817-829
+26525616_en	DISO	pain syndrome	530-543
+26525616_en	DISO	MFPS	545-549
+26525616_en	DISO	anxiety	582-589
+26525616_en	DISO	depressive	590-600
+26525616_en	FINDING	effective together with correction	1012-1046
+26525616_en	ANATOMY	cervical/pectoral	647-664
+26525616_en	ANATOMY	pectoral	656-664
+26525616_en	ANATOMY	cervical	647-655
+26525616_en	CHEM	chondroprotectors	1089-1106
+26525616_en	DISO	pain	253-257
+26525616_en	DISO	pain	530-534
+26525616_en	DISO	Pain	436-440
+26525616_en	DISO	Pain	472-476
+26525616_en	ANATOMY	Myofascial	1-11
+26525616_en	DISO	chronic back pain	240-257
+26525616_en	DISO	subacute chronic back pain	231-257
+26525616_en	DISO	acute chronic back pain	221-257
+26525616_en	ANATOMY	myofascial	519-529
+26525809_en	CHEM	ipidacrine	60-70
+26525809_en	DISO	mononeuropathies	88-104
+26525809_en	CHEM	axamon	162-168
+26525809_en	CHEM	ipidacrine	170-180
+26525809_en	DISO	focal neuropathies	207-225
+26525809_en	DISO	neuropathies	213-225
+26525809_en	DISO	focal neuropathies	322-340
+26525809_en	DISO	tunnel syndromes	342-358
+26525809_en	DISO	radiculopathies	360-375
+26525809_en	CHEM	axamon	404-410
+26525809_en	CHEM	group B vitamins	484-500
+26525809_en	CHEM	lipoic acid	502-513
+26525809_en	FINDING	positive clinical changes	642-667
+26525809_en	LABPROC	ENMG	742-746
+26525809_en	LABPROC	electroneuromyographic	718-740
+26525809_en	FINDING	more significant positive electroneuromyographic	692-740
+26525809_en	ANATOMY	muscles	836-843
+26525809_en	ANATOMY	nerves	920-926
+26525809_en	PHYS	M-response	818-828
+26525809_en	FINDING	increased nerve conduction velocity	866-901
+26525809_en	ANATOMY	hand	851-855
+26525809_en	ANATOMY	feet	860-864
+26525809_en	PHYS	nerve conduction velocity	876-901
+26525809_en	ANATOMY	peripheral nerves	909-926
+26525809_en	PHYS	remyelination activity	949-971
+26525809_en	CHEM	axamon	1048-1054
+26525809_en	CHEM	ipidacrine	1056-1066
+26525809_en	CHEM	cholinesterase inhibitor with conduction action	1080-1127
+26525809_en	ANATOMY	nerves	1193-1199
+26525809_en	ANATOMY	peripheral nerves	1182-1199
+26525809_en	PHYS	amplitude of M-response	805-828
+26525809_en	DISO	mononeuropathies	227-243
+26525809_en	DISO	neuropathies	328-340
+26525809_en	CHEM	ipidacrine	412-422
+26525809_en	ANATOMY	fibers	1168-1174
+26525809_en	LABPROC	ENMG	1024-1028
+26525809_en	ANATOMY	efferent (motor) fibers	1151-1174
+26525809_en	LABPROC	clinical-electroneuromyographic study	3-40
+26525809_en	ANATOMY	nerve	876-881
+26525809_en	CHEM	vitamins	492-500
+26525809_en	FINDING	efficacy of ipidacrine	48-70
+26525809_en	PHYS	efferent	1151-1159
+26525809_en	PHYS	conduction	882-892
+26525809_en	PHYS	motor	1161-1166
+26525809_en	FINDING	efficacy and tolerability of axamon	133-168
+26525809_en	FINDING	increased amplitude of M-response	795-828
+26525809_en	CHEM	inhibitor	1095-1104
+26525809_en	CHEM	cholinesterase	1080-1094
+26525809_en	CHEM	cholinesterase inhibito	1080-1103
+26529536_en	DISO	Growing teratoma syndrome	1-26
+26529536_en	DISO	intracranial germ cell tumor	45-73
+26529536_en	DISO	non-germinomatous germ cell tumors	1273-1307
+26529536_en	ANATOMY	chiasmatic-sellar area	146-168
+26529536_en	DISO	polyuria	179-187
+26529536_en	DISO	polydipsia	192-202
+26529536_en	DISO	precocious puberty	266-284
+26529536_en	DISO	hydrocephalus	374-387
+26529536_en	PHYS	puberty	277-284
+26529536_en	DISO	vision impairment	289-306
+26529536_en	LABPROC	MRI	309-312
+26529536_en	DISO	tumor	354-359
+26529536_en	DISO	shiasmatic sellar tumor	336-359
+26529536_en	DISO	occlusive hydrocephalus	364-387
+26529536_en	ANATOMY	blood	412-417
+26529536_en	ANATOMY	blood serum	412-423
+26529536_en	CHEM	alpha-fetoprotein	444-461
+26529536_en	CHEM	human chorionic gonadotropin	490-518
+26529536_en	CHEM	Ifosfamide	625-635
+26529536_en	CHEM	Cisplatin	648-657
+26529536_en	CHEM	Etoposide	670-679
+26529536_en	CHEM	Cisplatin	759-768
+26529536_en	CHEM	Endoxan	795-802
+26529536_en	DISO	tumor	853-858
+26529536_en	FINDING	vision still deteriorated	905-930
+26529536_en	PHYS	vision	905-911
+26529536_en	LABPROC	MRI	932-935
+26529536_en	DISO	tumor	962-967
+26529536_en	PHYS	vision	1039-1045
+26529536_en	ANATOMY	intracranial	1076-1088
+26529536_en	DISO	intracranial hypertension	1076-1101
+26529536_en	DISO	tumor	1128-1133
+26529536_en	ANATOMY	tumor tissue	1128-1140
+26529536_en	DISO	teratoma	1164-1172
+26529536_en	DISO	teratoma	1208-1216
+26529536_en	DISO	growing teratoma syndrome	1200-1225
+26529536_en	ANATOMY	intracranial	1260-1272
+26529536_en	DISO	teratoma	9-17
+26529536_en	DISO	tumor	68-73
+26529536_en	ANATOMY	cell	63-67
+26529536_en	ANATOMY	germ cell	58-67
+26529536_en	ANATOMY	intracranial	45-57
+26529536_en	DISO	germ cell tumor	58-73
+26529536_en	FINDING	decrease in tumor marker levels to normal values	841-889
+26529536_en	DISO	tumor	133-138
+26529536_en	ANATOMY	cell	128-132
+26529536_en	ANATOMY	germ cell	123-132
+26529536_en	PHYS	Tumor marker levels	389-408
+26529536_en	FINDING	levels increased over time	534-560
+26529536_en	DISO	non-germinomatous germ cell tumor	105-138
+26529536_en	ANATOMY	shiasmatic sellar	336-353
+26529536_en	ANATOMY	serum	418-423
+26529536_en	FINDING	tumor size increased and its structure changed	962-1008
+26529536_en	PHYS	alpha-fetoprotein level	444-467
+26529536_en	CHEM	gonadotropin	506-518
+26529536_en	PHYS	tumor marker levels	853-872
+26529536_en	DISO	tumor	1016-1021
+26529536_en	FINDING	vision improvement	1039-1057
+26529536_en	DISO	hypertension	1089-1101
+26529536_en	ANATOMY	tissue	1134-1140
+26529536_en	DISO	mature teratoma	1157-1172
+26529536_en	DISO	tumors	1301-1307
+26529536_en	ANATOMY	cell	1296-1300
+26529536_en	ANATOMY	germ cell	1291-1300
+26529536_en	DISO	intracranial non-germinomatous germ cell tumors	1260-1307
+26529536_en	PHYS	vision	289-295
+26529536_en	LABPROC	Histological analysis	1103-1124
+26529536_en	CHEM	Tumor marker	389-401
+26529536_en	CHEM	tumor marker	853-865
+26529536_en	DISO	Tumor	389-394
+26529536_en	FINDING	elevated	429-437
+26529536_en	FINDING	increased	472-481
+26529536_en	DISO	germ cell tumor	123-138
+26529536_en	CHEM	chorionic gonadotropin	496-518
+26529621_en	ANATOMY	medial temporal region	84-106
+26529621_en	FINDING	operative risks of STA increase	1404-1435
+26529621_en	ANATOMY	medial temporal region	228-250
+26529621_en	ANATOMY	brain tissue	475-487
+26529621_en	ANATOMY	MTR	651-654
+26529621_en	DISO	tumors	750-756
+26529621_en	DISO	Benign tumors	743-756
+26529621_en	ANATOMY	MTRs	842-846
+26529621_en	ANATOMY	MTR	888-891
+26529621_en	DISO	Cerebellar edema	1002-1018
+26529621_en	DISO	hemiparesis	1048-1059
+26529621_en	DISO	drug resistant epilepsy	1136-1159
+26529621_en	ANATOMY	MTR	1325-1328
+26529621_en	ANATOMY	MTR	1361-1364
+26529621_en	ANATOMY	MTR	1491-1494
+26529621_en	ANATOMY	anterior MTR portions	1482-1503
+26529621_en	ANATOMY	MTR	1514-1517
+26529621_en	ANATOMY	infraoccipital	1591-1605
+26529621_en	ANATOMY	temporal region	91-106
+26529621_en	ANATOMY	posterior portions of the medial temporal region	58-106
+26529621_en	DISO	tumors	44-50
+26529621_en	ANATOMY	temporal region	235-250
+26529621_en	ANATOMY	MTR	252-255
+26529621_en	ANATOMY	posterior part of the medial temporal region	206-250
+26529621_en	ANATOMY	brain	475-480
+26529621_en	ANATOMY	tissue	481-487
+26529621_en	ANATOMY	glial	614-619
+26529621_en	DISO	tumors	620-626
+26529621_en	ANATOMY	posterior MTR	641-654
+26529621_en	DISO	glial tumors	614-626
+26529621_en	ANATOMY	posterior	821-830
+26529621_en	ANATOMY	middle MTRs	835-846
+26529621_en	ANATOMY	anterior MTR	879-891
+26529621_en	ANATOMY	Cerebellar	1002-1012
+26529621_en	DISO	edema	1013-1018
+26529621_en	DISO	epilepsy	1151-1159
+26529621_en	ANATOMY	posterior MTR portions	1304-1337
+26529621_en	ANATOMY	middle MTR portions	1318-1337
+26529621_en	ANATOMY	anterior MTR portions	1352-1373
+26529621_en	ANATOMY	Anterior MTR structures	1505-1528
+26549907_en	DISO	Tuberculosis	0-12
+26549907_en	DISO	tuberculosis	172-184
+26549907_en	DISO	tuberculosis	335-347
+26549907_en	DISO	drug-resistant tuberculosis	409-436
+26549907_en	FINDING	reductions in the incidence of multidrug-resistant tuberculosis	1112-1175
+26549907_en	DISO	tuberculosis	424-436
+26549907_en	DISO	tuberculosis	530-542
+26549907_en	DISO	tuberculosis	618-630
+26549907_en	DISO	tuberculosis	953-965
+26549907_en	DISO	tuberculosis	848-860
+26549907_en	DISO	tuberculosis	1015-1027
+26549907_en	DISO	tuberculosis	1163-1175
+26549907_en	DISO	drug-susceptible tuberculosis	936-965
+26549907_en	DISO	multidrug-resistant tuberculosis	995-1027
+26549907_en	DISO	tuberculosis	1061-1073
+26549907_en	DISO	multidrug-resistant tuberculosis	1143-1175
+26549907_en	DISO	tuberculosis	1238-1250
+26549907_en	DISO	tuberculosis	1460-1472
+26549907_en	FINDING	mortality	237-246
+26549907_en	DISO	epidemic	397-405
+26549907_en	DISO	tuberculosis	1319-1331
+26549907_en	FINDING	reduction in mortality	224-246
+26549907_en	FINDING	reduction in incidence	191-213
+26569010_en	FINDING	effect of symptomatic slow-acting drugs for osteoarthriti	390-447
+26569010_en	CHEM	chondroprotectors	30-47
+26569010_en	DISO	inflammatory	830-842
+26569010_en	CHEM	chondroprotectors	123-140
+26569010_en	CHEM	synthase	1450-1458
+26569010_en	DISO	chronic pain syndromes	161-183
+26569010_en	FINDING	antinociceptive effect	252-274
+26569010_en	CHEM	placebo	203-210
+26569010_en	FINDING	definite antinociceptive and anti-inflammatory effect	796-849
+26569010_en	CHEM	symptomatic slow-acting drugs	400-429
+26569010_en	CHEM	symptomatic slow-acting drugs for osteoarthritis	400-448
+26569010_en	CHEM	SYSADOA	450-457
+26569010_en	PHYS	life	721-725
+26569010_en	ANATOMY	low back	506-514
+26569010_en	DISO	osteoarthritis	434-448
+26569010_en	DISO	pain syndrome	470-483
+26569010_en	DISO	osteoarthritis	487-501
+26569010_en	DISO	low back pain	506-519
+26569010_en	CHEM	NSAIDs	562-568
+26569010_en	CHEM	celecoxib	570-579
+26569010_en	CHEM	placebo	584-591
+26569010_en	DISO	pain	169-173
+26569010_en	FINDING	long-term retention of the result	1029-1062
+26569010_en	CHEM	SYSADOA	853-860
+26569010_en	CHEM	NSAIDs	877-883
+26569010_en	DISO	osteoarthritis	913-927
+26569010_en	DISO	chronic back pain	941-958
+26569010_en	CHEM	inflammatory cytokines	1165-1187
+26569010_en	PHYS	level of inflammatory cytokines	1156-1187
+26569010_en	DISO	pain	1728-1732
+26569010_en	CHEM	SYSADOA	1125-1132
+26569010_en	CHEM	cytokines	1178-1187
+26569010_en	ANATOMY	blood	1195-1200
+26569010_en	CHEM	IL-6	1202-1206
+26569010_en	CHEM	cytokine	1280-1288
+26569010_en	ANATOMY	membrane	1311-1319
+26569010_en	CHEM	anti-inflammatory cytokine	1262-1288
+26569010_en	CHEM	IL-10	1289-1294
+26569010_en	ANATOMY	synovial membrane	1302-1319
+26569010_en	CHEM	interleukin 1-beta	1366-1384
+26569010_en	CHEM	inflammatory enzymes	1411-1431
+26569010_en	CHEM	enzymes	1424-1431
+26569010_en	CHEM	nitric oxide synthase	1437-1458
+26569010_en	CHEM	cyclooxygenase-2	1463-1479
+26569010_en	CHEM	glucosamine	1504-1515
+26569010_en	ANATOMY	chondrocytes	1516-1528
+26569010_en	CHEM	cytokines	1643-1652
+26569010_en	CHEM	SYSADOA	1608-1615
+26569010_en	ANATOMY	joint	1722-1727
+26569010_en	CHEM	proinflammatory cytokines	1627-1652
+26569010_en	CHEM	IL	1202-1204
+26569010_en	DISO	joint pain	1722-1732
+26569010_en	DISO	chronic pain syndromes	1748-1770
+26569010_en	FINDING	antinociceptive effect	4-26
+26569010_en	ANATOMY	back	510-514
+26569010_en	ANATOMY	back	949-953
+26569010_en	CHEM	C-reactive protein	1208-1226
+26569010_en	ANATOMY	synovial	1302-1310
+26569010_en	CHEM	interleukin	1366-1377
+26569010_en	CHEM	interleukin 1	1366-1379
+26569010_en	CHEM	nitric oxide	1437-1449
+26569010_en	FINDING	blocking of the effects of interleukin 1-beta	1339-1384
+26569010_en	DISO	pain	470-474
+26569010_en	DISO	back pain	510-519
+26569010_en	DISO	pain	515-519
+26569010_en	DISO	pain	607-611
+26569010_en	DISO	pain	954-958
+26569010_en	DISO	pain	1756-1760
+26569010_en	FINDING	efficacy of chondroprotectors	111-140
+26569010_en	DISO	pain syndromes	169-183
+26569010_en	CHEM	cyclooxygenase	1463-1477
+26569010_en	CHEM	analgesics	221-231
+26569010_en	CHEM	IL	1289-1291
+26569010_en	DISO	chronic pain syndrome	462-483
+26569010_en	DISO	inflammatory	1165-1177
+26569010_en	DISO	inflammatory	1411-1423
+26569010_en	PHYS	functional status	616-633
+26569010_en	FINDING	reduce the level of inflammatory cytokines	1145-1187
+26569010_en	CHEM	protein	1219-1226
+26569010_en	DISO	back pain	949-958
+26569010_en	DISO	pain syndromes	1756-1770
+26569010_en	FINDING	activate the production of anti-inflammatory cytokine	1235-1288
+26569010_en	PHYS	inhibition	1397-1407
+26569010_en	CHEM	oxide	1444-1449
+26569010_en	CHEM	nitric	1437-1443
+26569010_en	PHYS	inhibit	1619-1626
+26824818_en	DISO	hepatitides	114-125
+26824818_en	DISO	viral hepatitides	108-125
+26824818_en	CHEM	remaxol	44-51
+26824818_en	CHEM	hepatotropic drug	26-43
+26824818_en	FINDING	relative values of a decrease in the levels of these biochemical parameters	1306-1381
+26824818_en	DISO	chronic viral hepatitides	100-125
+26824818_en	CHEM	hepatoprotector	188-203
+26824818_en	ANATOMY	liver	215-220
+26824818_en	CHEM	remaxol	204-211
+26824818_en	PHYS	liver function	215-229
+26824818_en	DISO	cirrhosis	233-242
+26824818_en	DISO	chronic viral hepatitides	261-286
+26824818_en	DISO	HCV	294-297
+26824818_en	DISO	HBV	299-302
+26824818_en	DISO	HCV+HBV,	304-312
+26824818_en	DISO	HBV+HDV	317-324
+26824818_en	ANATOMY	liver	421-426
+26824818_en	DISO	liver cirrhosis	421-436
+26824818_en	DISO	LC	438-440
+26824818_en	DISO	CVH	460-463
+26824818_en	DISO	HCV	465-468
+26824818_en	DISO	HBV	470-473
+26824818_en	DISO	HCV+HBV	475-482
+26824818_en	CHEM	solution	903-911
+26824818_en	CHEM	infusion hepatoprotector	179-203
+26824818_en	DISO	cirrhotic	549-558
+26824818_en	DISO	CVH B	586-591
+26824818_en	DISO	CVH C	586-596
+26824818_en	CHEM	remaxol	618-625
+26824818_en	CHEM	ademetionine	765-777
+26824818_en	CHEM	crystalloids	835-847
+26824818_en	CHEM	isotonic sodium chloride solution	859-892
+26824818_en	CHEM	Ringer's solution	894-911
+26824818_en	DISO	cytolytic	1041-1050
+26824818_en	DISO	cholestatic	1055-1066
+26824818_en	CHEM	alanine	1198-1205
+26824818_en	FINDING	hepatotropic effect	1094-1113
+26824818_en	CHEM	aspartate	1224-1233
+26824818_en	CHEM	alanine aminotransferase	1198-1222
+26824818_en	CHEM	aspartate aminotransferase	1224-1250
+26824818_en	CHEM	total bilirubin	1256-1271
+26824818_en	CHEM	remaxol	1483-1490
+26824818_en	DISO	LC	1547-1549
+26824818_en	DISO	viral LC	1541-1549
+26824818_en	PHYS	liver function	1568-1582
+26824818_en	DISO	cytolysis	1606-1615
+26824818_en	DISO	cholestasis	1617-1628
+26824818_en	ANATOMY	peripheral blood cells	1674-1696
+26824818_en	ANATOMY	lymphocytes	1710-1721
+26824818_en	ANATOMY	platelets	1723-1732
+26824818_en	DISO	viral hepatitides	269-286
+26824818_en	DISO	hepatitides	275-286
+26824818_en	DISO	CVH	288-291
+26824818_en	CHEM	aminotransferase	1206-1222
+26824818_en	DISO	cirrhosis	427-436
+26824818_en	FINDING	reduces the degree of cytolysis, cholestasis	1584-1628
+26824818_en	ANATOMY	liver	1568-1573
+26824818_en	ANATOMY	blood cells	1685-1696
+26824818_en	ANATOMY	blood	1685-1690
+26824818_en	ANATOMY	cells	1691-1696
+26824818_en	ANATOMY	leukocytes	1698-1708
+26824818_en	FINDING	improves liver function	1559-1582
+26824818_en	CHEM	solution	884-892
+26824818_en	PHYS	average concentrations of alanine aminotransferase	1172-1222
+26824818_en	PHYS	average concentrations	1172-1194
+26824818_en	DISO	HBV+HDV	488-495
+26824818_en	FINDING	cytoprotective effect	1649-1670
+26824818_en	CHEM	sodium chloride	868-883
+26824818_en	CHEM	chloride	875-883
+26824818_en	CHEM	sodium	868-874
+26824818_en	DISO	CVH	586-589
+26824818_en	DISO	cirrhotic	84-93
+26824818_en	FINDING	more significantly reduced cytolytic and cholestatic parameters	1014-1077
+26824818_en	DISO	cirrhotic stage chronic viral hepatitides	84-125
+26824818_en	FINDING	Efficacy of the infusion hepatotropic drug remaxol	1-51
+26824818_en	CHEM	bilirubin	1262-1271
+26824818_en	FINDING	rate of a decline in the average concentrations of alanine aminotransferase, aspartate aminotransferase, and total bilirubin	1147-1271
+26824818_en	CHEM	aminotransferase	1234-1250
+26824818_en	PHYS	biochemical parameters	1359-1381
+26824818_en	ANATOMY	peripheral blood	1674-1690
+26845866_en	ANATOMY	eyes	324-328
+26845866_en	ANATOMY	eyes	357-361
+26845866_en	DISO	wet AMD	368-375
+26845866_en	DISO	AMD	372-375
+26845866_en	ANATOMY	eyes	395-399
+26845866_en	FINDING	no signs of neovascularization	406-436
+26845866_en	DISO	neovascularization	418-436
+26845866_en	LABPROC	spectral-domain OCT	461-480
+26845866_en	LABPROC	OCT angiography	482-497
+26845866_en	LABPROC	fluorescein angiography	503-526
+26845866_en	LABPROC	OCT	533-536
+26845866_en	LABPROC	angiography	537-548
+26845866_en	DISO	neovascular	570-581
+26845866_en	DISO	CNV	745-748
+26845866_en	FINDING	effect of intravitreal ranibizumab therapy	912-954
+26845866_en	ANATOMY	eyes	749-753
+26845866_en	ANATOMY	eyes	774-778
+26845866_en	LABPROC	OCT angiography	878-893
+26845866_en	LABPROC	FA	801-803
+26845866_en	LABPROC	OCT	878-881
+26845866_en	LABPROC	angiography	882-893
+26845866_en	CHEM	ranibizumab	935-946
+26845866_en	ANATOMY	eyes	970-974
+26845866_en	ANATOMY	eyes	1167-1171
+26845866_en	DISO	CNV	1184-1187
+26845866_en	ANATOMY	eyes	1204-1208
+26845866_en	DISO	CNV	1222-1225
+26845866_en	ANATOMY	Neovascular loops	1227-1244
+26845866_en	ANATOMY	retinal pigment epithelium	1260-1286
+26845866_en	DISO	occult CNV	1311-1321
+26845866_en	DISO	CNV	1318-1321
+26845866_en	DISO	CNV	1355-1358
+26845866_en	ANATOMY	neovasculature	1364-1378
+26845866_en	ANATOMY	eyes	1412-1416
+26845866_en	ANATOMY	tree-like networks	1432-1450
+26845866_en	LABPROC	OCT	1518-1521
+26845866_en	LABPROC	angiography	1522-1533
+26845866_en	CHEM	ranibizumab	1574-1585
+26845866_en	ANATOMY	blood vessels	1729-1742
+26845866_en	LABPROC	OCT	1775-1778
+26845866_en	LABPROC	angiography	1779-1790
+26845866_en	LABPROC	OCT	1853-1856
+26845866_en	LABPROC	angiography	1857-1868
+26845866_en	DISO	occult choroidal neovascularization	1907-1942
+26845866_en	DISO	neovascularization	1924-1942
+26845866_en	DISO	choroidal neovascularization	1914-1942
+26845866_en	DISO	AMD	1960-1963
+26845866_en	DISO	neovascular	2013-2024
+26845866_en	ANATOMY	neovascular complex	2013-2032
+26845866_en	CHEM	VEGF	2045-2049
+26845866_en	LABPROC	optical coherence tomography (OCT) angiography	18-64
+26845866_en	LABPROC	tomography	36-46
+26845866_en	LABPROC	OCT	48-51
+26845866_en	LABPROC	angiography	53-64
+26845866_en	DISO	choroidal neovascularization	93-121
+26845866_en	ANATOMY	choroidal	93-102
+26845866_en	DISO	CNV	123-126
+26845866_en	DISO	neovascularization	103-121
+26845866_en	DISO	occult choroidal neovascularization	86-121
+26845866_en	DISO	age-related macular degeneration	145-177
+26845866_en	DISO	macular degeneration	157-177
+26845866_en	DISO	AMD	179-182
+26845866_en	CHEM	VEGF	254-258
+26845866_en	LABPROC	OCT	477-480
+26845866_en	LABPROC	OCT	482-485
+26845866_en	LABPROC	angiography	515-526
+26845866_en	LABPROC	FA	528-530
+26845866_en	LABPROC	OCT angiography	533-548
+26845866_en	ANATOMY	neovascular networks	570-590
+26845866_en	FINDING	information value of OCT angiography	857-893
+26845866_en	DISO	occult CNV	1177-1187
+26845866_en	DISO	classic CNV	1214-1225
+26845866_en	DISO	Neovascular	1227-1238
+26845866_en	ANATOMY	epithelium	1276-1286
+26845866_en	ANATOMY	retinal	1260-1267
+26845866_en	LABPROC	optical coherence tomography	18-46
+26845866_en	DISO	classic CNV	1347-1358
+26845866_en	ANATOMY	loop-like	1418-1427
+26845866_en	LABPROC	OCT angiography	1518-1533
+26845866_en	FINDING	information value	203-220
+26845866_en	DISO	neovascularization	1638-1656
+26845866_en	PHYS	size of neovascularization	1630-1656
+26845866_en	ANATOMY	blood	1729-1734
+26845866_en	ANATOMY	vessels	1735-1742
+26845866_en	ANATOMY	newly formed blood vessels	1716-1742
+26845866_en	LABPROC	OCT angiography	1775-1790
+26845866_en	LABPROC	OCT angiography	1853-1868
+26845866_en	DISO	classic choroidal neovascularization	1895-1942
+26845866_en	DISO	classic choroidal neovascularization	74-121
+26845866_en	LABPROC	angiography	486-497
+26845866_en	ANATOMY	macular	157-164
+26845866_en	ANATOMY	choroidal	1914-1923
+26845866_en	PHYS	location	609-617
+26845866_en	PHYS	shape	619-624
+26845866_en	PHYS	size	626-630
+26845866_en	FINDING	diagnosis of both classic and occult choroidal neovascularization	1877-1942
+26845866_en	PHYS	age	145-148
+26845866_en	PHYS	extent of visualization	636-659
+26845866_en	FINDING	Sensitivity	661-672
+26845866_en	FINDING	specificity of the method	677-702
+26845866_en	CHEM	pigment	1268-1275
+26845866_en	ANATOMY	pigment epithelium	1268-1286
+26845866_en	PHYS	density	1671-1678
+26845866_en	PHYS	thickness	1680-1689
+26845866_en	PHYS	branching pattern	1695-1712
+26845866_en	FINDING	Sensitivity	1744-1755
+26845866_en	FINDING	specificity	1760-1771
+26845866_en	FINDING	dynamic assessment of the size of the neovascular complex	1975-2032
+26845866_en	PHYS	size of the neovascular complex	2001-2032
+26845866_en	FINDING	high sensitivity	2076-2092
+26845866_en	FINDING	specificity	2097-2108
+26977615_en	ANATOMY	pancreatic	44-54
+26977615_en	DISO	necrosis	55-63
+26977615_en	INJURY_POISONING	post-traumatic pancreatic necrosis	29-63
+26977615_en	INJURY_POISONING	blunt abdominal trauma	81-103
+26977615_en	DISO	necrotic complications	138-176
+26977615_en	DISO	suppurative complications	151-176
+26977615_en	INJURY_POISONING	acute post-traumatic pancreatitis	191-224
+26977615_en	INJURY_POISONING	trauma of the pancreas	234-256
+26977615_en	ANATOMY	pancreas	248-256
+26977615_en	DISO	post-traumatic pancreatitis	261-288
+26977615_en	DISO	depressurization of ductal system	297-330
+26977615_en	ANATOMY	ductal system	317-330
+26977615_en	ANATOMY	retroperitoneal fat	383-402
+26977615_en	CHEM	roncoleukin	567-578
+26977615_en	CHEM	octreotide	584-594
+26977615_en	DISO	pancreatitis	633-645
+26977615_en	INJURY_POISONING	pancreatic injury	795-812
+26977615_en	ANATOMY	pancreatic	795-805
+26977615_en	DISO	pancreatitis	940-952
+26977615_en	DISO	severe destructive pancreatitis	921-952
+26977615_en	DISO	postnecrotic suppurative complications	954-992
+26977615_en	ANATOMY	pancreatic	1073-1083
+26977615_en	INJURY_POISONING	pancreatic trauma	1073-1090
+26977615_en	INJURY_POISONING	trauma	97-103
+26977615_en	PHYS	hemostasis	1173-1183
+26977615_en	DISO	severe post-traumatic pancreatitis	1274-1308
+26977615_en	DISO	suppurative complications	1310-1335
+26977615_en	INJURY_POISONING	pancreatic trauma	1381-1398
+26977615_en	DISO	pancreatic necrosis	44-63
+26977615_en	INJURY_POISONING	abdominal trauma	87-103
+26977615_en	ANATOMY	abdominal	87-96
+26977615_en	DISO	pancreatitis	212-224
+26977615_en	DISO	pancreatitis	276-288
+26977615_en	FINDING	overall mortality	813-830
+26977615_en	DISO	pancreatitis	1296-1308
+26977615_en	INJURY_POISONING	blunt pancreatic trauma	1067-1090
+26977615_en	INJURY_POISONING	blunt pancreatic trauma	1375-1398
+26977615_en	ANATOMY	pancreatic	1381-1391
+26977615_en	FINDING	High incidence	120-134
+26977615_en	FINDING	efficacy of treatment	669-690
+26977615_en	FINDING	reduces the risk	1254-1270
+26977615_en	DISO	complications	163-176
+26977615_en	FINDING	improves outcomes	1340-1357
+26977615_en	FINDING	mortality	821-830
+26977615_en	DISO	necrotic	138-146
+26977615_en	DISO	suppurative	151-162
+26977615_en	FINDING	adverse outcomes	900-916
+26977615_en	INJURY_POISONING	post-traumatic pancreatitis	197-224
+26977615_en	INJURY_POISONING	injury	806-812
+26977615_en	DISO	complications	979-992
+26977615_en	DISO	suppurative	967-978
+26977615_en	FINDING	outcomes	908-916
+26977615_en	DISO	destructive pancreatitis	928-952
+26977615_en	INJURY_POISONING	trauma	1084-1090
+26977615_en	DISO	post-traumatic pancreatitis	1281-1308
+26977615_en	DISO	suppurative	1310-1321
+26977615_en	DISO	complications	1322-1335
+26977615_en	INJURY_POISONING	trauma	1392-1398
+26977625_en	FINDING	increase of spectral power	942-968
+26977625_en	CHEM	venlafaxine	376-387
+26977625_en	CHEM	cerebrolysin	476-488
+26977625_en	PHYS	frequency alpha band	990-1010
+26977625_en	CHEM	NaCl	558-562
+26977625_en	FINDING	normalization of frequency alpha band	973-1010
+26977625_en	CHEM	venlafaxine	811-822
+26977625_en	CHEM	cerebrolysin	827-839
+26977625_en	ANATOMY	brain	907-912
+26977625_en	LABPROC	EEG	1033-1036
+26977625_en	DISO	depressive	185-195
+26977625_en	PHYS	functional state	43-59
+26977625_en	ANATOMY	brain	37-42
+26977625_en	CHEM	venlafaxine	98-109
+26977625_en	CHEM	cerebrolysin	115-127
+26977625_en	PHYS	elderly	177-184
+26977625_en	LABPROC	EEG	224-227
+26977625_en	LABPROC	quantitative EEG	211-227
+26977625_en	CHEM	isotonic NaCl solution	549-571
+26977625_en	PHYS	functional state	913-929
+26977625_en	FINDING	improvement of their brain functional state	886-929
+26977625_en	PHYS	alpha band	1000-1010
+26977625_en	CHEM	solution	563-571
+26977625_en	PHYS	spectral power	954-968
+26977625_en	FINDING	significant improvement of clinical conditions	601-647
+26977625_en	ANATOMY	parietal	1014-1022
+26977625_en	ANATOMY	occipital	1023-1032
+26977625_en	ANATOMY	parietal-occipital	1014-1032
+26977790_en	ANATOMY	brain	214-219
+26977790_en	ANATOMY	brain regions	214-227
+26977790_en	DISO	gliomas	184-191
+26977790_en	ANATOMY	eloquent brain regions	205-227
+26977790_en	DISO	severe neurological deficit	583-610
+26977790_en	DISO	neurological complications	139-165
+26977790_en	INJURY_POISONING	anatomic injury	663-690
+26977790_en	DISO	ischemic injury	675-690
+26977790_en	ANATOMY	subcortical pathways	694-714
+26977790_en	ANATOMY	internal capsule	719-735
+26977790_en	DISO	neurological deterioration	833-859
+26977790_en	DISO	neurological complications	869-895
+26977790_en	ANATOMY	blood vessel	994-1006
+26977790_en	INJURY_POISONING	blood vessel injury	994-1013
+26977790_en	FINDING	decrease the frequency of neurological complications	113-165
+26977790_en	ANATOMY	subcortical	694-705
+26977790_en	ANATOMY	blood	994-999
+26977790_en	ANATOMY	brain	792-797
+26977790_en	DISO	ischemic	675-683
+26977790_en	DISO	neurological deficit	590-610
+26977790_en	FINDING	frequency of neurological complications	126-165
+26977790_en	FINDING	good neurological outcome canot be ensured	244-286
+26977790_en	FINDING	neurological outcome	249-269
+26977790_en	FINDING	good outcome	541-553
+26977790_en	FINDING	prevention of neurological deterioration	819-859
+26977790_en	DISO	complications	389-402
+26977790_en	PHYS	language	798-806
+26977790_en	FINDING	neurosurgical risks	950-969
+26977790_en	FINDING	underestimate neurosurgical risks	936-969
+26977790_en	DISO	complications	1073-1086
+26977790_en	DISO	complications	882-895
+26977790_en	FINDING	prevention of such complications	1054-1086
+26977790_en	DISO	complications	152-165
+26978051_en	DISO	endogenous depressions	112-134
+26978051_en	DISO	endogenous depressions	236-258
+26978051_en	CHEM	agomelatine	42-53
+26978051_en	CHEM	valdoxan	55-63
+26978051_en	DISO	anhedonia	85-94
+26978051_en	DISO	depressions	123-134
+26978051_en	CHEM	valdoxan	185-193
+26978051_en	DISO	anhedonia	209-218
+26978051_en	DISO	depressions	247-258
+26978051_en	DISO	depression	383-393
+26978051_en	DISO	anhedonic depression	373-393
+26978051_en	CHEM	Valdoxan	434-442
+26978051_en	FINDING	tolerability	1478-1490
+26978051_en	FINDING	good tolerability	1473-1490
+26978051_en	DISO	psychopathological characteristics	1545-1579
+26978051_en	PHYS	Patient's status	519-535
+26978051_en	CHEM	valdoxan	810-818
+26978051_en	FINDING	anxiolytic effects	863-881
+26978051_en	DISO	depression of moderate severity	1032-1063
+26978051_en	DISO	depression	1032-1042
+26978051_en	DISO	autonomic side-effects	1072-1094
+26978051_en	DISO	depressions	1172-1183
+26978051_en	DISO	anhedonic depressions	1162-1183
+26978051_en	CHEM	valdoxan	1189-1197
+26978051_en	FINDING	antianhedonic effect	1288-1308
+26978051_en	CHEM	valdoxan	1522-1530
+26978051_en	DISO	gedonic disorders	1583-1600
+26978051_en	FINDING	Antianhedonic effect	786-806
+26978051_en	FINDING	thymoleptic	847-858
+26978051_en	FINDING	therapeutic effect	704-722
+26978051_en	FINDING	therapeutic perspectives of agomelatine	14-53
+26978051_en	FINDING	therapeutic effect of valdoxan	163-193
+26978051_en	FINDING	superior to thymoleptic and anxiolytic effects	835-881
+26978051_en	FINDING	marked effect	929-942
+26978051_en	FINDING	best effect	1008-1019
+26978051_en	PHYS	autonomic	1072-1081
+26978051_en	DISO	side-effects	1082-1094
+26978051_en	FINDING	Good and marked effects	1367-1390
+26978051_en	FINDING	preferable and highly effective method	1222-1260
+26978051_en	FINDING	antidepressive properties	1328-1353
+26978635_en	DISO	carotid artery dissection	10-35
+26978635_en	DISO	severe ischemic stroke	50-72
+26978635_en	PHYS	male	142-146
+26978635_en	DISO	ischemic stroke	166-181
+26978635_en	ANATOMY	right internal carotid artery	202-231
+26978635_en	DISO	dissection	238-248
+26978635_en	LABPROC	magnetic resonance imaging	297-323
+26978635_en	LABPROC	pathomorphological examination	328-358
+26978635_en	FINDING	high level of creatine phosphokinase	378-414
+26978635_en	CHEM	creatine phosphokinase	392-414
+26978635_en	ANATOMY	blood	453-458
+26978635_en	PHYS	coagulation	474-485
+26978635_en	DISO	hematoma	538-546
+26978635_en	LABPROC	Autopsy	510-517
+26978635_en	DISO	intramural hematoma	527-546
+26978635_en	DISO	IMH	548-551
+26978635_en	ANATOMY	adventitia of the arterial wall,	594-626
+26978635_en	ANATOMY	arterial wall	612-625
+26978635_en	ANATOMY	common carotid artery bifurcation	651-684
+26978635_en	ANATOMY	skull	717-722
+26978635_en	ANATOMY	lumen of the ICA	729-745
+26978635_en	ANATOMY	ICA	742-745
+26978635_en	ANATOMY	intracranial	774-786
+26978635_en	ANATOMY	intracranial parts	774-792
+26978635_en	ANATOMY	middle cerebral artery	811-833
+26978635_en	DISO	thrombus	854-862
+26978635_en	ANATOMY	right ICA	900-909
+26978635_en	ANATOMY	right ICA wall	900-914
+26978635_en	ANATOMY	internal elastic membrane	971-996
+26978635_en	DISO	media fibrosis	1005-1019
+26978635_en	DISO	myocyte necrosis	1021-1037
+26978635_en	DISO	dissection	1057-1067
+26978635_en	ANATOMY	leukocyte	1089-1098
+26978635_en	DISO	leukocyte infiltration	1089-1111
+26978635_en	DISO	lymphocytic infiltrates	1124-1147
+26978635_en	ANATOMY	eosinophils	1161-1172
+26978635_en	ANATOMY	adventitia	1176-1186
+26978635_en	ANATOMY	myocyte	1212-1219
+26978635_en	DISO	necrosis	1220-1228
+26978635_en	ANATOMY	brain supplying arteries	1272-1296
+26978635_en	ANATOMY	brain	1272-1277
+26978635_en	ANATOMY	arteries	1288-1296
+26978635_en	DISO	fibromuscular dysplasia	1340-1363
+26978635_en	LABPROC	electron microscopic studies	1389-1417
+26978635_en	ANATOMY	skeletal muscles	1421-1437
+26978635_en	DISO	cytopathy	1468-1477
+26978635_en	DISO	mitochondrial cytopathy	1454-1477
+26978635_en	DISO	mitochondrial pathology	1548-1571
+26978635_en	DISO	dissection	1528-1538
+26978635_en	DISO	FMD	1540-1543
+26978635_en	ANATOMY	mitochondrial	1548-1561
+26978635_en	DISO	stroke	66-72
+26978635_en	ANATOMY	carotid artery	10-24
+26978635_en	ANATOMY	common carotid artery	651-672
+26978635_en	ANATOMY	artery	18-24
+26978635_en	DISO	Internal carotid artery dissection	1-35
+26978635_en	LABPROC	histological examination	868-892
+26978635_en	DISO	stroke	175-181
+26978635_en	ANATOMY	internal carotid artery	208-231
+26978635_en	ANATOMY	Internal carotid artery	1-24
+26978635_en	ANATOMY	ICA	233-236
+26978635_en	ANATOMY	carotid artery	217-231
+26978635_en	ANATOMY	carotid	217-224
+26978635_en	ANATOMY	artery	225-231
+26978635_en	ANATOMY	head	270-274
+26978635_en	ANATOMY	media of the arterial wall,	584-626
+26978635_en	ANATOMY	carotid artery	658-672
+26978635_en	DISO	IMG	766-769
+26978635_en	ANATOMY	artery	666-672
+26978635_en	ANATOMY	base of the skull	705-722
+26978635_en	ANATOMY	cerebral artery	818-833
+26978635_en	ANATOMY	artery	827-833
+26978635_en	ANATOMY	ICA	906-909
+26978635_en	DISO	splitting	921-930
+26978635_en	DISO	thinning	932-940
+26978635_en	DISO	fragmentation	942-955
+26978635_en	DISO	disrupters of internal elastic membrane	957-996
+26978635_en	ANATOMY	elastic membrane	980-996
+26978635_en	ANATOMY	media	1005-1010
+26978635_en	DISO	fibrosis	1011-1019
+26978635_en	DISO	necrosis	1029-1037
+26978635_en	ANATOMY	myocyte	1021-1028
+26978635_en	ANATOMY	lymphocytic	1124-1135
+26978635_en	FINDING	clusters of eosinophils in adventitia	1149-1186
+26978635_en	DISO	myocyte necrosis	1212-1228
+26978635_en	DISO	dysplasia	1354-1363
+26978635_en	DISO	FMD	1365-1368
+26978635_en	ANATOMY	muscles	1430-1437
+26978635_en	ANATOMY	mitochondrial	1454-1467
+26978635_en	PHYS	fatal	160-165
+26978635_en	PHYS	level of creatine phosphokinase	383-414
+26978635_en	ANATOMY	membrane	988-996
+26978635_en	ANATOMY	arterial	612-620
+26978635_en	DISO	ischemic	57-65
+26978635_en	DISO	ischemic	166-174
+26978635_en	DISO	dissection	25-35
+26978635_en	ANATOMY	skeletal	1421-1429
+26978635_en	FINDING	lethal outcome	78-92
+26978635_en	PHYS	lethal	78-84
+26978635_en	LABPROC	Histochemical	1371-1384
+26978635_en	FINDING	coagulation parameters were normal	474-508
+26978635_en	DISO	ischemic stroke	57-72
+26978635_en	DISO	severe media fibrosis	998-1019
+26978635_en	ANATOMY	bifurcation	673-684
+27029443_en	DISO	atherosclerotic lesions	46-69
+27029443_en	DISO	complications	313-326
+27029443_en	ANATOMY	arteries brachiocephalic	102-88
+27029443_en	ANATOMY	coronary arteries	93-110
+27029443_en	DISO	heart disease	195-208
+27029443_en	ANATOMY	heart	195-200
+27029443_en	ANATOMY	coronary	186-194
+27029443_en	DISO	coronary heart disease	186-208
+27029443_en	ANATOMY	cerebral vessels	240-256
+27029443_en	ANATOMY	brain	307-312
+27029443_en	ANATOMY	heart	297-302
+27029443_en	ANATOMY	blood	372-377
+27029443_en	ANATOMY	Cerebral	350-358
+27029443_en	ANATOMY	coronary	363-371
+27029443_en	PHYS	blood flow	372-382
+27029443_en	ANATOMY	brain	411-416
+27029443_en	ANATOMY	heart	421-426
+27029443_en	ANATOMY	brachiocephalic	584-599
+27029443_en	ANATOMY	arteries	600-608
+27029443_en	ANATOMY	brachiocephalic	662-677
+27029443_en	ANATOMY	coronary	571-579
+27029443_en	ANATOMY	brachiocephalic arteries	584-608
+27029443_en	ANATOMY	arteries	678-686
+27029443_en	ANATOMY	brachiocephalic arteries	662-686
+27029443_en	ANATOMY	coronary	788-796
+27029443_en	ANATOMY	brachiocephalic arteries	801-825
+27029443_en	ANATOMY	myocardium	851-861
+27029443_en	ANATOMY	brain	866-871
+27029443_en	ANATOMY	brachiocephalic	1026-1041
+27029443_en	ANATOMY	arteries	1042-1050
+27029443_en	ANATOMY	coronary arteries	1013-1050
+27029443_en	ANATOMY	brachiocephalic arteries	1026-1050
+27029443_en	ANATOMY	arteries	102-110
+27029443_en	ANATOMY	coronary	93-101
+27029443_en	DISO	atherosclerotic lesions	213-236
+27029443_en	ANATOMY	cerebral	240-248
+27029443_en	PHYS	functional state	387-403
+27029443_en	ANATOMY	graft	715-720
+27029443_en	ANATOMY	brachiocephalic	801-816
+27029443_en	ANATOMY	arteries	817-825
+27029443_en	PHYS	functional state	827-843
+27029443_en	ANATOMY	vessels	249-256
+27029443_en	FINDING	algorithm for choosing the order of priority of surgical interventions	939-1009
+27029443_en	FINDING	postoperative risk	879-897
+27029443_en	ANATOMY	brachiocephalic	73-88
+27029443_en	ANATOMY	coronary arteries	571-608
+27029443_en	ANATOMY	coronary arteries	788-825
+27029443_en	ANATOMY	coronary	1013-1021
+27030091_en	INJURY_POISONING	fractures	23-32
+27030091_en	ANATOMY	cervical vertebrae	40-79
+27030091_en	ANATOMY	thoracic vertebrae	50-79
+27030091_en	ANATOMY	lumbar vertebrae	63-79
+27030091_en	ANATOMY	cervical vertebrae	1111-1129
+27030091_en	ANATOMY	cervical vertebrae	916-934
+27030091_en	INJURY_POISONING	injuries	476-484
+27030091_en	INJURY_POISONING	injuries	252-260
+27030091_en	ANATOMY	spinal regions	270-284
+27030091_en	ANATOMY	vertebrae	70-79
+27030091_en	ANATOMY	vertebrae	559-568
+27030091_en	ANATOMY	cervical	40-48
+27030091_en	INJURY_POISONING	fractures	511-520
+27030091_en	ANATOMY	cervical vertebrae	528-568
+27030091_en	ANATOMY	lumbar vertebrae	552-568
+27030091_en	ANATOMY	thoracic	50-58
+27030091_en	INJURY_POISONING	fractures	718-727
+27030091_en	INJURY_POISONING	fatal injuries	470-484
+27030091_en	ANATOMY	thoracic vertebrae	538-568
+27030091_en	ANATOMY	vertebrae	925-934
+27030091_en	ANATOMY	vertebrae	1120-1129
+27030091_en	INJURY_POISONING	fractures	893-902
+27030091_en	ANATOMY	lower cervical vertebrae	910-934
+27030091_en	INJURY_POISONING	injuries	1196-1204
+27030091_en	ANATOMY	vertebrae	1278-1287
+27030091_en	INJURY_POISONING	fractures	1088-1097
+27030091_en	ANATOMY	upper cervical vertebrae	1105-1129
+27030091_en	ANATOMY	cervical	1258-1266
+27030091_en	ANATOMY	vertebrae	1485-1494
+27030091_en	ANATOMY	thoracic spine	1212-1226
+27030091_en	INJURY_POISONING	fractures	1241-1250
+27030091_en	ANATOMY	cervical vertebrae	1258-1287
+27030091_en	ANATOMY	lumbar vertebrae	1271-1287
+27030091_en	ANATOMY	cervical	528-536
+27030091_en	INJURY_POISONING	fractures	1357-1366
+27030091_en	ANATOMY	thoracic part	1374-1387
+27030091_en	ANATOMY	vertebral column	1395-1411
+27030091_en	ANATOMY	thoracic	538-546
+27030091_en	INJURY_POISONING	fractures	1461-1470
+27030091_en	ANATOMY	lumbar vertebrae	1478-1494
+27030091_en	INJURY_POISONING	injuries	576-584
+27030091_en	ANATOMY	vertebral	1395-1404
+27030091_en	ANATOMY	thoracic	1212-1220
+27030091_en	INJURY_POISONING	injuries	866-874
+27030091_en	INJURY_POISONING	injuries	991-999
+27030091_en	ANATOMY	spine	822-827
+27030091_en	ANATOMY	spine	1221-1226
+27030091_en	ANATOMY	cervical	916-924
+27030091_en	ANATOMY	cervical	1111-1119
+27030091_en	ANATOMY	spinal column	754-767
+27030091_en	PHYS	spine flexion	822-835
+27030091_en	FINDING	injuries are much less frequent	576-607
+27030091_en	ANATOMY	spinal	270-276
+27030091_en	ANATOMY	spinal	754-760
+27030091_en	ANATOMY	lumbar	63-69
+27030091_en	ANATOMY	lumbar	552-558
+27030091_en	ANATOMY	lumbar	1271-1277
+27030091_en	ANATOMY	lumbar	1478-1484
+27030091_en	PHYS	fatal	470-475
+27030091_en	FINDING	less frequently suffer from injuries	1168-1204
+27030091_en	FINDING	most frequently experience fractures	1330-1366
+27030091_en	FINDING	occur more frequently than injuries	964-999
+27030091_en	FINDING	most frequently experience fractures	1061-1097
+27030091_en	FINDING	most frequent fatal injuries	456-484
+27030325_en	CHEM	budesonide	11-21
+27030325_en	DISO	exacerbations	42-55
+27030325_en	DISO	chronic obstructive pulmonary disease	59-96
+27030325_en	PHYS	levels of soluble differentiation molecules	141-184
+27030325_en	ANATOMY	serum	135-140
+27030325_en	DISO	COPD	379-383
+27030325_en	CHEM	soluble leukocyte differentiation antigens	433-475
+27030325_en	CHEM	budesonide	243-253
+27030325_en	CHEM	systemic glucocorticosteroids	258-287
+27030325_en	CHEM	glucocorticosteroids	267-287
+27030325_en	CHEM	GCS	289-292
+27030325_en	CHEM	SGCS	295-299
+27030325_en	DISO	exacerbation	324-336
+27030325_en	DISO	chronic obstructive pulmonary disease	340-377
+27030325_en	PHYS	leukocyte differentiation	441-466
+27030325_en	CHEM	leukocyte differentiation antigens	441-475
+27030325_en	DISO	acute exacerbation	544-562
+27030325_en	DISO	COPD	566-570
+27030325_en	CHEM	budesonide	634-644
+27030325_en	CHEM	prednisolone	691-703
+27030325_en	FINDING	significant resolution of the symptoms of COPD, FEV1, and SpO2	1099-1161
+27030325_en	DISO	COPD	722-726
+27030325_en	PHYS	forced expiratory volume in one second	728-766
+27030325_en	PHYS	(FEV1	767-772
+27030325_en	PHYS	peripheral blood oxygen saturation	808-842
+27030325_en	PHYS	SpO2	844-848
+27030325_en	FINDING	incidence of hyperglycemia episodes was lower	1198-1243
+27030325_en	PHYS	levels of the soluble adhesion molecules CD50 (sCD50) and CD54	894-956
+27030325_en	CHEM	adhesion molecules	916-934
+27030325_en	CHEM	CD50	935-939
+27030325_en	CHEM	CD54	952-956
+27030325_en	CHEM	lymphocyte activation molecules	973-1004
+27030325_en	CHEM	CD38	1005-1009
+27030325_en	CHEM	CD25	1022-1026
+27030325_en	ANATOMY	serum	888-893
+27030325_en	DISO	COPD	1141-1145
+27030325_en	PHYS	FEV1	1147-1151
+27030325_en	PHYS	SpO2	1157-1161
+27030325_en	CHEM	soluble adhesion molecules	908-934
+27030325_en	DISO	hyperglycemia	1211-1224
+27030325_en	CHEM	budesonide	1251-1261
+27030325_en	CHEM	sGCS	1280-1284
+27030325_en	CHEM	GCSs	1292-1296
+27030325_en	ANATOMY	serum	1322-1327
+27030325_en	CHEM	soluble interleukin-2 receptor	1337-1367
+27030325_en	CHEM	sCD25	1369-1374
+27030325_en	CHEM	prednisolone	1394-1406
+27030325_en	CHEM	budesonide	1423-1433
+27030325_en	CHEM	sCD54	1481-1486
+27030325_en	CHEM	sCD50	1488-1493
+27030325_en	CHEM	sCD38	1499-1504
+27030325_en	CHEM	budesonide	1527-1537
+27030325_en	CHEM	SGCS	1578-1582
+27030325_en	DISO	exacerbation	1598-1610
+27030325_en	DISO	COPD	1614-1618
+27030325_en	CHEM	GCSs	1628-1632
+27030325_en	CHEM	SGCSs	1641-1646
+27030325_en	FINDING	immunosuppressive activity	1697-1723
+27030325_en	FINDING	exert no immunosuppressive activity	1688-1723
+27030325_en	DISO	pulmonary disease	79-96
+27030325_en	DISO	obstructive pulmonary disease	67-96
+27030325_en	DISO	exacerbation	550-562
+27030325_en	CHEM	molecules	925-934
+27030325_en	CHEM	sCD50	941-946
+27030325_en	CHEM	sCD54	958-963
+27030325_en	CHEM	soluble adhesion molecules CD50	908-939
+27030325_en	CHEM	lymphocyte activation molecules CD38	973-1009
+27030325_en	CHEM	sCD38	1011-1016
+27030325_en	CHEM	CD25 lymphocyte activation molecules	1022-1004
+27030325_en	CHEM	sCD25	1028-1033
+27030325_en	FINDING	decrease in the serum level of soluble interleukin-2 receptor	1306-1367
+27030325_en	FINDING	reduce the concentrations of sCD54, sCD50, and sCD38	1452-1504
+27030325_en	PHYS	concentrations of sCD54, sCD50, and sCD38	1463-1504
+27030325_en	FINDING	effective and safe alternative to SGCS	1544-1582
+27030325_en	FINDING	exhibit anti-inflammatory activity	1648-1682
+27030325_en	ANATOMY	pulmonary	79-88
+27030325_en	ANATOMY	pulmonary	360-369
+27030325_en	ANATOMY	leukocyte	441-450
+27030325_en	ANATOMY	blood	819-824
+27030325_en	ANATOMY	lymphocyte	973-983
+27030325_en	ANATOMY	serum	410-415
+27030325_en	CHEM	oxygen	825-831
+27030325_en	CHEM	interleukin	1345-1356
+27030325_en	DISO	pulmonary disease	360-377
+27030325_en	DISO	obstructive pulmonary disease	348-377
+27030325_en	PHYS	level of soluble interleukin-2 receptor	1328-1367
+27030325_en	CHEM	soluble differentiation molecules	151-184
+27030325_en	PHYS	spirometric indicators	784-806
+27030325_en	PHYS	concentration of soluble leukocyte differentiation antigens	416-475
+27030325_en	DISO	symptoms of COPD	710-726
+27030325_en	DISO	symptoms of COPD	1129-1145
+27030325_en	FINDING	Efficacy, safety, and effects on the serum levels of soluble differentiation molecules	98-184
+27030325_en	CHEM	molecules	175-184
+27030325_en	FINDING	efficacy and safety of nebulized budesonide and systemic glucocorticosteroids	210-287
+27030325_en	CHEM	antigens	467-475
+27030325_en	ANATOMY	peripheral blood	808-824
+27030325_en	PHYS	oxygen saturation	825-842
+27030325_en	DISO	adverse events	855-869
+27030325_en	CHEM	soluble adhesion molecules CD54	908-956
+27030325_en	CHEM	enzyme	1059-1065
+27030325_en	PHYS	levels	894-900
+27030325_en	PHYS	lymphocyte activation	973-994
+27030325_en	CHEM	interleukin-2 receptor	1345-1367
+27030325_en	CHEM	receptor	1359-1367
+27030325_en	CHEM	interleukin-2	1345-1358
+27030431_en	CHEM	APPs	198-202
+27030431_en	ANATOMY	tears	220-225
+27030431_en	ANATOMY	oral fluid	227-237
+27030431_en	ANATOMY	blood plasma	243-255
+27030431_en	ANATOMY	Oral	1157-1161
+27030431_en	LABPROC	non-invasive diagnostics	1205-1229
+27030431_en	ANATOMY	plasma	34-40
+27030431_en	ANATOMY	plasma	249-255
+27030431_en	ANATOMY	saliva	22-28
+27030431_en	ANATOMY	tear	16-20
+27030431_en	CHEM	C-reactive protein	435-453
+27030431_en	CHEM	orosomucoid	458-469
+27030431_en	ANATOMY	ophthalmic	292-302
+27030431_en	CHEM	transferrin	520-531
+27030431_en	ANATOMY	tears	535-540
+27030431_en	DISO	herpes	560-566
+27030431_en	ANATOMY	ophthalmic	1233-1243
+27030431_en	ANATOMY	blood	243-248
+27030431_en	ANATOMY	tear	597-601
+27030431_en	ANATOMY	saliva	603-609
+27030431_en	ANATOMY	plasma	615-621
+27030431_en	ANATOMY	corneal	697-704
+27030431_en	ANATOMY	corneal	897-904
+27030431_en	CHEM	protein	446-453
+27030431_en	DISO	corneal inflammation	697-717
+27030431_en	CHEM	APPs	622-626
+27030431_en	CHEM	APPs	797-801
+27030431_en	ANATOMY	tear	827-831
+27030431_en	CHEM	proteins	63-71
+27030431_en	DISO	herpes keratitis	851-867
+27030431_en	DISO	corneal lesions	897-912
+27030431_en	FINDING	recurrence rate	914-929
+27030431_en	CHEM	proteins	995-1003
+27030431_en	CHEM	acute phase proteins	51-71
+27030431_en	CHEM	acute phase proteins	983-1003
+27030431_en	ANATOMY	tear	1007-1011
+27030431_en	ANATOMY	oral fluid	1016-1026
+27030431_en	ANATOMY	oral	1016-1020
+27030431_en	LABPROC	non-invasive monitoring	1096-1119
+27030431_en	DISO	keratitis	119-128
+27030431_en	ANATOMY	Oral fluid	1157-1167
+27030431_en	DISO	keratitis	567-576
+27030431_en	DISO	ophthalmic herpes	1233-1250
+27030431_en	DISO	keratitis	858-867
+27030431_en	DISO	ophthalmic herpes	292-309
+27030431_en	DISO	herpes keratitis	112-128
+27030431_en	DISO	herpes keratitis	560-576
+27030431_en	DISO	herpes	112-118
+27030431_en	DISO	herpes	303-309
+27030431_en	DISO	herpes	851-857
+27030431_en	DISO	recurrence	914-924
+27030431_en	PHYS	APPs concentration	797-815
+27030431_en	DISO	inflammation	82-94
+27030431_en	DISO	inflammation	705-717
+27030431_en	DISO	inflammation	1053-1065
+27030431_en	PHYS	APPs levels	622-633
+27030431_en	FINDING	APPs concentration changes	797-823
+27030431_en	FINDING	poor prognostic signs	651-672
+27030431_en	PHYS	levels of acute phase proteins	41-71
+27030431_en	CHEM	APPs	73-77
+27030431_en	LABPROC	spectrophotometric methods of detection	371-410
+27030431_en	LABPROC	immunoturbidimetric methods of detection	347-410
+27030431_en	CHEM	ceruloplasmin	485-498
+27030431_en	PHYS	healthy	324-331
+27030431_en	FINDING	low levels of ceruloplasmin, α1-antitrypsin, and transferrin	471-531
+27030431_en	CHEM	α1-antitrypsin	500-514
+27030431_en	ANATOMY	oral	227-231
+27030431_en	FINDING	abnormal tear, saliva, and plasma APPs levels	588-633
+27030431_en	DISO	herpes	1244-1250
+27030431_en	FINDING	High levels of C-reactive protein and orosomucoid	420-469
+27030431_en	FINDING	disease dynamics	935-951
+27030431_en	LABPROC	Quantitative determination of acute phase proteins	953-1003
+27030431_en	FINDING	correlates with the depth of corneal lesions	868-912
