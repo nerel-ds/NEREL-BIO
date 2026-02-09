@@ -102,7 +102,15 @@ document_id   relation           head_text             head_span   head_type   t
 
 ## Baseline Solution
 
-TBD
+An OpenNRE-based baseline using `bert-base-multilingual-cased` with entity markers is provided in the [`baseline/`](baseline/) directory. Pretrained checkpoints are available for all three tracks:
+
+| Track | Dev Macro F1 |
+|-------|--------------|
+| English | 0.6944 |
+| Russian | 0.7166 |
+| Bilingual | — |
+
+The baseline handles negative sampling (`no_relation` class), blind prediction from entity TSV, and outputs CodaBench-compatible prediction files. See [`baseline/README.md`](baseline/README.md) for full setup, training, and prediction instructions.
 
 ## Evaluation
 
