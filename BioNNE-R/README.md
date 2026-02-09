@@ -108,9 +108,9 @@ An OpenNRE-based baseline using `bert-base-multilingual-cased` with entity marke
 |-------|--------------|
 | English | 0.6944 |
 | Russian | 0.7166 |
-| Bilingual | — |
+| Bilingual | 0.7211 |
 
-The baseline handles negative sampling (`no_relation` class), blind prediction from entity TSV, and outputs CodaBench-compatible prediction files. See [`baseline/README.md`](baseline/README.md) for full setup, training, and prediction instructions.
+Pretrained checkpoints are available on [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R). The baseline handles negative sampling (`no_relation` class), blind prediction from entity TSV, and outputs CodaBench-compatible prediction files. See [`baseline/README.md`](baseline/README.md) for full setup, training, and prediction instructions.
 
 ## Evaluation
 
