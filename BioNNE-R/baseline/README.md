@@ -10,7 +10,7 @@ Pretrained checkpoints for all three tracks (688 MB each, `bert-base-multilingua
 |-------|-----------|--------------|
 | English | `eng_model.pth.tar` | 0.6944 |
 | Russian | `rus_model.pth.tar` | 0.7166 |
-| Bilingual | `bil_model.pth.tar` | — |
+| Bilingual | `bil_model.pth.tar` | 0.7211 |
 
 Download from [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R) and place in `outputs/`.
 
