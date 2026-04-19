@@ -4,6 +4,8 @@ The repository is devoted to the **BioNNE-R** (**Bio**medical **N**ested **N**am
 
 ![Alt Text](bionne-r-demo.png)
 
+## IMPORTANT NOTICE: DEADLINES FOR ALL PHASES WERE EXTENDED FOR 7 DAYS; DEVELOPMENT PHASE END / EVALUATION PHASE START: **APR 30TH**; EVALUATION PHASE END: **MAY 14TH**.
+
 ## Shared Task Overview
 
 The **BioNNE-R Shared Task** addresses the NLP challenge of relation extraction involving nested named entities, i.e. entities that contain other entities within their boundaries. Participants in this task must develop models for nested relation extraction, which can be either language-oriented or bilingual, depending on the track of the task. 
@@ -135,9 +137,9 @@ We treat the shared task as multi-classification task. We choose F1-score for ev
 | Lab registration opens [here](https://clef-labs-registration.dipintra.it/). | November 17, 2025 |
 | Training Data Release                       | January 29, 2026       |
 | Dev data release, Development phase start   | February 8, 2026      |
-| Lab registration closes | Apr 23 2026 |
-| Test data release, Evaluation phase start | April 23, 2026    |
-| Test set predictions due                    | May 7, 2026       |
+| Lab registration closes | ~~April 23, 2026~~ April 30, 2026 |
+| Test data release, Evaluation phase start | ~~April 23, 2026~~   April 30, 2026 |
+| Test set predictions due                    | ~~May 7, 2026~~    May 14, 2026 |
 | Submission of participant papers            | May 28, 2026      |
 | Acceptance notification for participant papers | June 30, 2026     |
 | Camera-ready working notes papers         | July 6, 2026      |
