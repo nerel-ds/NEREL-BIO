@@ -1,0 +1,8 @@
+Zika: the origin and spread of a mosquito-borne virus.
+OBJECTIVE  To describe the temporal and geographical distribution of Zika virus infection and associated neurological disorders, from 1947 to 1 February 2016, when Zika became a Public Health Emergency of International Concern (PHEIC).
+METHODS
+We did a literature search using the terms "Zika" and "ZIKV" in PubMed, cross-checked the findings for completeness against other published reviews and added formal notifications to WHO submitted under the International Health Regulations.
+FINDINGS
+From the discovery of Zika virus in Uganda in 1947 to the declaration of a PHEIC by the World Health Organization (WHO) on 1 February 2016, a total of 74 countries and territories had reported human Zika virus infections.
+The timeline in this paper charts the discovery of the virus (1947), its isolation from mosquitos (1948), the first human infection (1952), the initial spread of infection from Asia to a Pacific island (2007), the first known instance of sexual transmission (2008), reports of Guillain-Barré syndrome (2014) and microcephaly (2015) linked to Zika infections and the first appearance of Zika in the Americas (from 2015).  CONCLUSION
+Zika virus infection in humans appears to have changed in character as its geographical range has expanded from equatorial Africa and Asia.  The change is from an endemic, mosquito-borne infection causing mild illness to one that can cause large outbreaks linked with neurological sequelae and congenital abnormalities.

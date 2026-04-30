@@ -1,0 +1,9 @@
+[A comparative analysis of multiple linear models of medical service satisfaction among inpatients with borderline disorders at first-time admission and rehospitalization].
+AIM
+To find out the factors of satisfaction with psychiatric help in inpatients with neurotic and depressive disorders depending on the moment of satisfaction evaluation and patients' treatment experience.  MATERIAL AND METHODS
+The sample included 266 first-time admission inpatients (satisfaction was evaluated at the moment of discharge) and 134 rehospitalized inpatients (satisfaction with previous treatment was evaluated at the moment of discharge; satisfaction with current treatment was evaluated at the moment of rehospitalization).  The survey was performed using a questionnaire designed for this study.
+Statistical analysis was performed using multiple regression.
+RESULTS AND CONCLUSION  Satisfaction with nursing care was the key factor of satisfaction at the moment of discharge among both groups of inpatients (first-time admission and rehospitalization).
+Psychiatrist's empathy was the 2nd factor by importance.  The structure of factors of medical service satisfaction of these 2 groups was different.
+General satisfaction with psychiatrist's work was the key factor of satisfaction with medical service during previous hospitalization while nursing care was twice less important.  In whole, there were major differences in the structure of factors of medical service satisfaction during previous and current hospitalizations.
+The shift of importance from nursing care to psychiatrist's work and other differences in the structure of factors of satisfaction of rehospitalized patients with medical services can be explained by belonging of medical services to credible goods - patient is able to evaluate results of treatment only some period after discharge.

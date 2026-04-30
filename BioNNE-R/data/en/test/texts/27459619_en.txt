@@ -1,0 +1,13 @@
+[Molecular serological characteristics of weak D antigen types of the Rhesus system].  AIM
+to estimate the spread of weak D antigen types of the Rhesus system in the citizens of the Russian Federation and a possibility of serologically identifying these types.
+SUBJECTS AND METHODS
+The red blood cells and DNA of people with weakened expression of D antigen were investigated using erythrocyte agglutination reaction in salt medium (2 methods); agglutination reaction in the gel columns containing IgM + IgG anti-D antibodies, indirect antiglobulin test with IgG anti-D antibodies (2 methods); polymerase chain reaction to establish the type of weak D.  RESULTS
+A rhesus phenotype was determined in 5100 people in 2014-2015.
+The weakened agglutinable properties of red blood cells were detected in 102 (2%) examinees.
+63 examinees underwent genotyping to identify the variants of the weak D antigen, which identified 6 weak D types.  There were the most common weak D types 3 (n=31 (49.2%)) and weak D type 1 (n=18 (28.6%)), including weak D type 1.1 in one (1.6%) case.
+The other 4 weak D antigen types were as follows: weak D type 2 (14.3% (n=9)), weak D type 15 (4.8% (n=3)), weak D type 4.2 (DAR) (1.6% (n=1)) and weak D type 6 (1.6% (n=1)).
+The antiglobulin test in the gel column containing antiglobulin serum was the most sensitive serological assay to identify the weak D antigen.
+Only a molecular test could establish weak D type 15 in 2 samples of red blood cells with Ccdee and ccdEe phenotypes.
+CONCLUSION
+The weak D antigen could be serologically identified in 96.8% of cases.
+When testing for weak D, particular attention should be given to people with the D-negative phenotype who had the C or E antigens.  Our investigations conducted for the first time in Russia will be able to improve the immunological safety of red blood cell-containing medium transfusions for patients.

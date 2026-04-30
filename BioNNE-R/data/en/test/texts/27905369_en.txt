@@ -1,0 +1,14 @@
+AIM  To study the effectiveness of sulodexide for systemic disorders correction in patients with acute pancreatic necrosis.
+MATERIAL AND METHODS
+The study included 60 patients with acute pancreatic necrosis who were divided into main and control groups by 30  patients.  Their age varied from 27 to 79.
+Standard combined therapy with prevention of disseminated intravascular coagulation and thrombotic complications was recommended in all patients.
+In the control group enoxaparin therapy in prophylactic doses (4,000 IU (40 mg) per day) was used.
+Mean duration of treatment was 6±0.9 days.
+Sulodexide was used in the main group.
+Sulodexide was administered since the 1st hospital day 600 LE per day intravenously for 5-10 days.  The duration of treatment was determined according to clinical course and «capillary leak» that was measured by serum proteins loss.  Mean duration was 8.8±0.3 days.
+RESULTS
+Hospital-stay was significantly lower in study group than in control group for about 5±2.2 days (p<0.03).  Overall mortality was lower by 10%.
+In both groups unfavorable outcomes were caused by severe multiple organ failure.  There were no deaths in case of SOFA score less than 6.
+In the main group mortality of patients with severe multiple organ failure was 2.4 times lower than in the control group (14% vs. 33%).
+CONCLUSION
+Correction of microcirculation and tissue perfusion improves the severity of systemic manifestations of acute destructive pancreatitis.  Mortality and hospital-stay were decreased due to reduced incidence, severity and duration of multiple organ failure and frequency of complications.

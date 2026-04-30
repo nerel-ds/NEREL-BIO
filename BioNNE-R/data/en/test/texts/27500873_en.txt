@@ -1,0 +1,14 @@
+[A randomized single blind study of the efficacy of pregabalin in the treatment of opioid withdrawal syndrome].
+AIM
+To study the efficacy and safety of pregabalin (lyrica) in the complex treatment of opioid withdrawal syndrome (OWS).  MATERIAL AND METHODS
+STUDY DESIGN  single-blind randomized symptom-triggered protocol with an active control.
+Thirty-four patients were randomly assigned to two groups.  The first group (n=19) received up to 600 mg a day of pregabalin for six days along with symptomatic therapy (basic and symptom-triggered).
+The second group (n=15) received up to 600 micrograms of clonidine a day as the main treatment along with the same basic and symptomatic regimen.
+Opiate withdrawal severity, craving, sleep disturbance, anxiety and depression, as well as general clinical impressions and side-effects were assessed daily using internationally validated quantitative psychometric instruments.
+RESULTS
+In the pregabalin group, 15 out of 19 (79%) patients completed treatment compared to 7 out of 15 (47%) patients in the clonidine group (p=0.05; Fisher exact test).
+There were no statistically significant differences between groups on any assessments of the severity of OWS (reduction of the severity of opiate withdrawal), perhaps because of the small sample size.
+In the pregabalin group, there were lower indicators of the severity of craving for opiates (p=0.05), anxiety (p=0.05) and depression (p<0.05), while patient-rated self-assessment of their general health condition was significantly better compared to the second group (p<0.05).
+There were no significant differences in the frequency of adverse events between the groups, though the better tolerability of treatment was noted in the pregabalin group.
+CONCLUSION
+Treatment regimen of OWS with pregabalin is effective and safe and patients tolerate it better that leads to a higher detoxification completion rate (retention).

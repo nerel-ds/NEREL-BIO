@@ -1,0 +1,12 @@
+[Precise diagnosis of choroidal hemangioma].  AIM
+to determine potential benefits of optical coherence tomography (OCT) for precise diagnosis of choroidal hemangioma (CH).
+MATERIAL AND METHODS  A total of 27 patients (22 women, 5 men) with unilateral CH were examined.
+The age at diagnosis ranged from 30 to 76 years and averaged 53.7±5.29 years.  Tumor thickness varied from 0.9 to 5.3 mm (2.17±0.41 mm; median of 1.9 mm), basal diameter - from 2.64 to 13.86 mm (median of 7.7 mm).
+RESULTS
+Having analyzed OCT findings in CH patients, we came to the conclusion that retinal architectonics does not get distorted (like in cystic dystrophy, for example) before the tumor prominence reaches 1.8 mm.  As to retinal edema, it is associated with even greater tumor thicknesses.
+It should be also noted that any of the CH-related morphofunctional changes in the retina take a really long time to progress.
+At autofluorescence assessment, choroidal hemangioma had the appearance of a large hypoautofluorescent spot.
+Areas of fibrosis as well as hyperplasia or atrophy of the retinal pigment epithelium (RPE) also exhibited hypoautofluorescence.  Sites of hyperautofluorescence corresponded to lipofuscin deposits.
+In two cases, there were wide zones of moderate hyperautofluorescence around the tumor due to recent subretinal effusion and photoreceptor damage.
+Hypoautofluorescent spots within these hyperautofluorescent areas corresponded to RPE atrophy by OCT.  CONCLUSION
+Ophthalmoscopic presentation of choroidal hemangioma may be not comprehensive enough; therefore modern diagnostic methods, such as widely accepted fluorescence angiography and also spectral OCT (especially, in the «deeper penetration mode» for examination of the choroid) and autofluorescence assessment in the MultiColor mode may be used to ensure a more precise diagnosis.

@@ -1,0 +1,12 @@
+[The possibility of using standardized self-report anxiety and depression scales in elderly patients: anxiety scales/questionnaires].
+AIM  To describe the specifics of using self-report anxiety scales in elderly patients, determine the parameters of their reliability and validity and develop recommendations on the use of these scales.
+MATERIAL AND METHODS
+The study included 234 patients, aged over 50 years, with non-psychotic anxiety disorders.
+The following scales/questionnaires BAI, GAI, STAI, ZAS, HADS were used at baseline and 12 weeks after treatment.
+Conditions of testing, form and content of instructions were similar.
+Data analysis included the estimation of reliability and validity of these scales.
+Assessment made by the physician on the Hamilton anxiety scale (HAМ-А) was used as «validity standard».
+RESULTS AND CONCLUSION
+All scales (BAI, GAI, STAI, ZAS, HADS-А) can be used for screening diagnosis of anxiety in elderly people.
+The diagnostic sensitivity and specificity of the scales for subjective assessment of anxiety slightly decrease in advanced age and is sufficient for screening purposes.
+Based on the analysis, the authors have developed recommendations (common and specific for each scale) on the optimization of using self-report anxiety scales in advanced age.

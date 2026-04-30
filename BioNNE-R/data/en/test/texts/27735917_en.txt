@@ -1,0 +1,11 @@
+[Gender characteristics of the structural organization of sleep in obstructive sleep apnea syndrome].  AIM
+To reveal gender characteristics of the sleep structure in obstructive sleep apnea syndrome (OSAS) during polysomnographic monitoring (PSGM).  SUBJECTS AND METHODS
+According to the results of a pre-survey using an apnea screening questionnaire, the investigation included 58 women (body mass index (BMI), 38.2±2.1 kg/m2) and 75 men (BMI, 34.2±1.8 kg/m2), aged 50-55 years, who complained about snoring, sleep apnea, and daytime hypersomnia.
+Copy-pair groups were formed and compared after objectively confirming the diagnosis by PSGM made at a specialized sleep laboratory, by applying the GRASS-TELEFACTOR Twin PSG system (Comet) with an integrated SPM-1 sleep module (USA) in accordance with the standard procedure.
+The International Sleep Disorder Classification (2005) was used to diagnose apnea and to estimate its severity.
+RESULTS
+According to the results of PSGM, the men and women were divided into 3 groups, by using the generally accepted OSAS severity scale.
+Comparative analysis revealed differences in sleep structure parameters with the equal severity of OSAS in the men and women.  These differences were characterized by a more marked fragmentariness, impaired cyclicity, and the appearance of the basic specific phenomenon of impaired integrated activity of somnogenic structures - an alpha-delta sleep phenomenon in the men versus the women.
+There were increases in the time of rapid eye movement (REM) sleep, in that of awakening at night after falling asleep, and in sleep latency in the women with a simultaneous decrease in the total effectiveness of sleep compared to that in the men with the equal-severity OSAS.
+CONCLUSION
+The found gender differences in the sleep structure may be ascribed to the compensatory mechanisms in the function of brain somnogenic structures in the women and the preponderance of REM sleep is a compensatory adaptive response of the sleep homeostatic system, which necessitates further investigations in this area.

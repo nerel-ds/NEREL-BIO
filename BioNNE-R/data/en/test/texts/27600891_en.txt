@@ -1,0 +1,14 @@
+AIM  to study changes in intraocular pressure (IOP), volumetric ocular blood flow (OBF) rate, and biomechanical properties of the cornea after excimer laser ablation in patients with myopia of different degrees.
+MATERIAL AND METHODS
+A total of 16 patients (32 eyes) with myopia ranging from 2.75 to 9.0 D were examined before and after LASIK.
+Ocular Blood Flow Analyzer (OBFA) was used to measure IOP and OBF as well as pulse amplitude and volume.
+Ocular Response Analyzer (ORA) was also employed to provide the following data: Goldmann-equivalent IOP, corneal compensated IOP, corneal hysteresis, and corneal resistance factor.
+The eyes were then divided into two groups: group 1 - 15 eyes with less than 70-µm deep ablation of the cornea and group 2 - 17 eyes with more than 70-µm deep ablation.
+RESULTS
+Group 1 demonstrated a statistically reliable decrease in IOP values provided by either method and biomechanical parameters of the cornea (p<0.005), but no difference in pre- and postoperative OBF, or pulse amplitude, or pulse volume (p>0.05).
+In group 2, all the parameters changed reliably, except for the pulse volume (p>0.05).
+In particular, a decrease was recorded for IOP (with no dependence to the method of measurement; p<0.001), pulse amplitude (p<0.01), corneal hysteresis (p<0.001), and corneal resistance factor (p<0.001); an increase - for OBF (p<0.05).
+CONCLUSION
+One should allow for possible mismeasurement of IOP and OBF as well as biomechanical parameters of the cornea in post-LASIK patients, keeping in mind that the extent of error depends on the depth of ablation.
+Shallow ablation (no more than 70-µm deep) has no statistically significant effect on OBF readings, while IOP seems to decrease considerably.
+In deep ablation (more than 70-µm deep), both parameters are reliably lower than at baseline.

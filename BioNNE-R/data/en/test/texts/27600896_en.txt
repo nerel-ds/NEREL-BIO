@@ -1,0 +1,13 @@
+[Objective method to recognize warning signs in peripheral vitreoretinal dystrophies].  AIM
+to compare the effectiveness of biomicroscopy (BMS) and optical coherence tomography (OCT) in recognizing prognostically unfavorable signs in peripheral vitreoretinal dystrophy (PVRD) patients.  MATERIAL AND METHODS
+A total of 131 cases of equatorial PVRD (91 eyes of 56 patients) were assessed.  The mean patient's age was 24.7 years.
+The length of the anterior-posterior axis of the eyeball averaged 25.36±1.12 mm.
+Prevalence of particular warning signs in PVRD patients at BMS or OCT was comparatively analyzed.
+RESULTS
+In 46 eyes with lattice dystrophy it was difficult to determine the presence of vitreoretinal traction at BMS; at OCT, areas of retinal adhesion to the posterior hyaloid membrane (PHM) along the edges of PVRD zones were revealed in all eyes.
+Of 31 eyes with «snail tracks» defects of the retina, 6 were diagnosed at BMS; in OCT scans of these patients, the PHM appeared firmly fixed along the edges of PVRD zones in all cases.
+As to horseshoe retinal tears (valve-like tears), BMS allowed to visualize vitreoretinal tractions in 7 of 12 eyes, while OCT revealed a tight contact between the PHM and the apex of the retinal flap in 11 of 12 eyes.
+In 7 eyes with retinoschisis we failed to detect any retinal traction at either BMS or OCT.
+In «non-differentiable» PVRD, BMS was also not able to reveal any vitreoretinal traction, while OCT was - in all 12 cases.
+CONCLUSION
+OCT has proved much more effective than BMS in recognizing prognostically unfavorable signs in particular clinical forms of PVRD, such as vitreoretinal tractions, retinal defects, and intraretinal cavities.

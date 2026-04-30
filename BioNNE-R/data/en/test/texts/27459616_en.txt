@@ -1,0 +1,10 @@
+[Diffuse large B-cell lymphoma with monoclonal immunoglobulin secretion].  AIM
+to provide the clinical characteristics of patients with diffuse large B-cell lymphoma (DLBCL) with monoclonal immunoglobulin secretion and to evaluate the efficiency of intensified mNHL-BFM-90 or R-DA-EPOCH/R-HMA therapy programs in patients with Ig-secreting DLBCL.
+SUBJECTS AND METHODS
+A clinical trial was conducted in 93 patients with newly diagnosed DLBCL, among whom 21 (22.6%) were found to have monoclonal immunoglobulin secretion.
+RESULTS
+Ig-secreting DLBCL is shown to be characterized by bone marrow involvement (p<0.001), as well as generalized injury (Ann Arbor Stage 4) and a high risk in accordance with the international prognostic index (p=0.001 and p=0.026, respectively).
+Analysis of overall and event-free survival rates has indicated that the patients have a poor prognosis versus those with non-Ig-secreting DLBCL and poor prognostic factors even when implementing intensified therapy programs, such as mNHL-BFM-90 or R-DA-EPOCH/R-HMA ones.
+CONCLUSION
+The investigation has demonstrated that there is a high association of the secretion of monoclonal paraproteins with bone marrow involvement in DLBCL (p<0.001).
+The intensified therapy using the mNHL-BFM-90 and R-DA-EPOCH/R-HMA programs involving autologous hematopoietic stem cell transplantation also permits the patients with Ig-secreting DLBCL to achieve long-term sustained remissions in not all cases.

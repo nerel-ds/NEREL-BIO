@@ -1,0 +1,15 @@
+[Analysis of changes in central macular thickness based on optical coherence tomography angiography findings in retinal vein occlusion].  AIM
+To investigate the relationship between OCT angiography measurements and central fundus changes in patients with retinal vein occlusion (RVO).  MATERIAL AND METHODS
+The study enrolled 21 RVO patients aged from 55 to 86 years (69.9±2.28 years), including 8 patients with ischemic central RVO (I-CRVO; 73.6±3.4 years on average) and 13 patients with branch RVO (BRVO; 67.6±3.0 years on average).  Of the latter, 8 cases were ischemic (I-BRVO) and 5 non-ischemic (NI-BRVO).
+OCT angiography (OCTA) was performed using RTVue XR Avanti (Optovue, USA) tomograph in the Angio Retina mode.
+RESULTS
+A direct correlation was found between visual acuity and the degree of macular perfusion when assessing a scanning area of 6x6 mm.
+Having compared the degree of perfusion in groups, we have revealed that it changed significantly regardless of the size of the area scanned and the radius of the region of interest.
+Patients with ischemic CRVO demonstrated the lowest perfusion (Flow Area).
+As to ischemic and non-ischemic BRVO patients, the difference between them was only noticed with small scanning area (3x3 mm).
+Another statistically significant difference was shown for the blood flow index in the I-CRVO and NI-BRVO groups with scan area of 3x3 mm.
+Of 8 I-CRVO patients, 4 demonstrated areas of hypoperfusion within both superficial and deep vascular plexuses, while the other 4 - within the deep plexus only.
+In the I-BRVO group, 7 patients had hypoperfusion within both superficial and deep vascular plexuses and just 1 - within the deep plexus.
+In the NI-BRVO group all 5 patients had hypoperfusion of deep layers with no involvement of the superficial plexus.
+CONCLUSION
+The value of information on vascular perfusion in all layers of the central retina provided by OCT angiography is very high, which makes it useful for the detection of microvascular abnormalities in patients with retinal vein occlusions.

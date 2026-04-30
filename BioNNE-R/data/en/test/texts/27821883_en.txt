@@ -1,0 +1,10 @@
+Disability weights based on patient-reported data from a multinational injury cohort.
+OBJECTIVE
+To create patient-based disability weights for individual injury diagnosis codes and nature-of-injury classifications, for use, as an alternative to panel-based weights, in studies on the burden of disease.  METHODS
+Self-reported data based on the EQ-5D standardized measure of health status were collected from 29 770 participants in the Injury-VIBES injury cohort study, which covered Australia, the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland and the United States of America.
+The data were combined to calculate new disability weights for each common injury classification and for each type of diagnosis covered by the 10th revision of the International statistical classification of diseases and related health problems.
+Weights were calculated separately for hospital admissions and presentations confined to emergency departments.  FINDINGS
+There were 29 770 injury cases with at least one EQ-5D score.
+The mean age of the participants providing data was 51 years.  Most participants were male and almost a third had road traffic injuries.
+The new disability weights were higher for admitted cases than for cases confined to emergency departments and higher than the corresponding weights used by the Global Burden of Disease 2013 study.  Long-term disability was common in most categories of injuries.
+Injury is often a chronic disorder and burden of disease estimates should reflect this.  Application of the new weights to burden studies would substantially increase estimates of disability-adjusted life-years and provide a more accurate reflection of the impact of injuries on peoples' lives.

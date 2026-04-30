@@ -1,0 +1,10 @@
+[Evaluation of the impact of community-acquired pneumonia on short-term and long-term prognosis in a patient with chronic decompensated heart failure].
+AIM
+To evaluate the impact of community-acquired pneumonia (CAP) on short-term and long-term prognosis in patients hospitalized with signs of chronic decompensated heart failure (CDHF).
+SUBJECTS AND METHODS
+A total of 852 cases were admitted to therapy/cardiology hospital with signs of CDHF during a year.  RESULTS
+Among the patients hospitalized with signs of CDHF, the prevalence of CAP was 16.5%.
+This indicator did not depend on the age of hospitalized patients.
+Among the multisystem disorders, hypertension, different forms of coronary heart disease, diabetes mellitus, and chronic obstructive pulmonary disease were more common in the patients with CAP.
+The presence of the latter in a patient with CDHF statistically significantly increased the length of hospital stay (13.1 versus 11.9 days; p = 0.009) and also the probability of rehospitalization during a year (odds ratio (OR) 1.9; p = 0.02).
+The presence of CAP in a patient with CDHF resulted in an increase in mortality rates (OR 13.5; p < 0.001); moreover, the highest risk of a fatal outcome was noted on day 1 of hospitalization (12.7%).  During one-year follow-up, the risk of death in patients hospitalized with CDHF and concomitant pneumonia proved to be higher (OR 4.8; p < 0.001) than in those without pneumonia.

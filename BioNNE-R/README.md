@@ -40,8 +40,8 @@ Task Competition is hosted at codabench **[here](https://www.codabench.org/compe
 
 | | TSV-formatted entity data | TSV-formatted relation data | Raw Texts |
 | --- | --- | --- | --- |
-| English | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/train/eng-train-ent.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/dev/eng-dev-ent.tsv), test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/train/eng-train-rel.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/dev/eng-dev-rel.tsv), test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/en/train/texts), [dev](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/en/dev/texts), test **TBD** |
-| Russian | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/train/rus-train-ent.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/dev/rus-dev-ent.tsv), test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/train/rus-train-rel.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/dev/rus-dev-rel.tsv), test **TBD** | [train](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/ru/train/texts), [dev](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/ru/dev/texts), test **TBD** | 
+| English | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/train/eng-train-ent.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/dev/eng-dev-ent.tsv), [test](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/test/eng-test-ent.tsv) | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/train/eng-train-rel.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/en/dev/eng-dev-rel.tsv), test *(released after Post-Evaluation phase, May 14, 2026)* | [train](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/en/train/texts), [dev](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/en/dev/texts), [test](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/en/test/texts) |
+| Russian | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/train/rus-train-ent.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/dev/rus-dev-ent.tsv), [test](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/test/rus-test-ent.tsv) | [train](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/train/rus-train-rel.tsv), [dev](https://github.com/nerel-ds/NEREL-BIO/blob/master/BioNNE-R/data/ru/dev/rus-dev-rel.tsv), test *(released after Post-Evaluation phase, May 14, 2026)* | [train](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/ru/train/texts), [dev](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/ru/dev/texts), [test](https://github.com/nerel-ds/NEREL-BIO/tree/master/BioNNE-R/data/ru/test/texts) | 
 
 
 ### Annotated Data Format
@@ -108,11 +108,11 @@ An OpenNRE-based baseline using `bert-base-multilingual-cased` with entity marke
 
 | Track | Dev Macro F1 |
 |-------|--------------|
-| English | 0.6944 |
-| Russian | 0.7166 |
-| Bilingual | 0.7211 |
+| English | 0.3435 |
+| Russian | 0.4844 |
+| Bilingual | 0.4911 |
 
-Pretrained checkpoints are available on [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R). The baseline handles negative sampling (`no_relation` class), blind prediction from entity TSV, and outputs CodaBench-compatible prediction files. See [`baseline/README.md`](baseline/README.md) for full setup, training, and prediction instructions.
+Pretrained checkpoints are available on [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R). The baseline handles negative sampling (`no_relation` class), enumerates all candidate entity pairs at inference time, and outputs CodaBench-compatible prediction files. See [`baseline/README.md`](baseline/README.md) for full setup, training, and prediction instructions.
 
 ## Evaluation
 

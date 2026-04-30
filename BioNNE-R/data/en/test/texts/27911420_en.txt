@@ -1,0 +1,13 @@
+AIM  To study the concentration of cytokines in the aqueous humor of the anterior chamber in patients with myopic choroidal neovascularization (mCNV) and to compare the results to their ophthalmic status.
+MATERIAL AND METHODS
+A total of 19 patients (19 eyes) with mCNV treated with intravitreal ranibizumab were included in the study.  The control group consisted of 15 patients (15 eyes) with myopia who had cataract surgery.
+Age, sex, and refractive error distribution were similar to that in the study group.  All patients underwent a detailed ophthalmic examination as well as immunological study of the aqueous humor for cytokines concentrations using flow fluorometry (Bio-Plex Pro Human Cytokine Panel, 27-Plex, Bio-Rad Laboratories, USA).
+RESULTS
+Significant differences in concentrations of 10 cytokines were found between the mCNV and study groups.
+Vascular endothelial growth factor (VEGF) level was twice as low in patients with mCNV as that in the controls (191.15±142.3 pg/ml and 320.06±170.05 pg/ml, respectively) (p<0.05). The other 9 cytokines were higher in mCNV, namely, platelet-derived growth factor (PDGF-BB), inflammatory and anti-inflammatory cytokines (IL-2, IL-15, IL-17А and IL-5, IL-13, respectively), tumor necrosis factor (TNFα), and chemokines (IL-8, RANTES).
+The degree of myopia as well as morphological and functional changes in the macular zone were shown to be in close correlation with cytokines involved in inflammation and VEGF.
+VEGF level appeared to be negatively related to axial eye length, refractive error, and three cytokines: IL-13, INF-γ, and RANTES.
+At the same time, numerous (6, 8 and more) close correlations were established between inflammatory and anti-inflammatory cytokines, chemokines, and growth factors.
+CONCLUSION
+Patients with mCNV have been found to have higher than usual levels of inflammatory and anti-inflammatory cytokines, chemokines, and growth factors as well as a significantly decreased VEGF concentration.
+Immunological status of these patients differs from that in other ocular neovascular diseases suggesting possible involvement of alternative pathogenetic mechanisms.

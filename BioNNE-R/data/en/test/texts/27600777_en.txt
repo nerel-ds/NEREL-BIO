@@ -1,0 +1,9 @@
+[Clinical, immunohistochemical, and molecular genetic prognostic factors in adult patients with glioblastoma].  UNLABELLED
+AIM  to define the prognostic value of isocitrate dehydrogenase-1 (IDH-1) mutation and methylguanine-DNA methyltransferase (MGMT) methylation status in patients with glioblastoma (GB) and to analyze the impact of clinical data (gender, age, and tumor site), histological variants of the tumor structure, and time to development of recurrences on the course of the disease.
+SUBJECTS AND METHODS
+The investigation enrolled 63 GB patients aged 18 to 71 years who had received combined treatment (surgery, chemo- and radiotherapy) at the N.I. Burdenko Research Institute of Neurosurgery, Ministry of Health of the Russian Federation, in the period 2008 to 2011.
+The investigators performed a morphological examination of all tumor tissue samples and an immunohistochemical examination using anti-IDH-1 R-132 antibody clone («Dianova», Germany) and defined MGMT methylation status by a polymerase chain reaction using the CpGenome DNA Modification Kit («Chemicon International», USA).
+The data were statistically processed using a package of Statistica 6.0 programs.  RESULTS
+Patient age, time to development of recurrent glioblastoma, mutations in the IDH-1 gene and MGMT were found to be prognostic factors for overall survival among adult patients in this category.
+CONCLUSION
+Analysis of clinical findings and identification of molecular genetic aberrations in the tumor cells will be able to elaborate an individual approach to treating patients with glioblastoma in order to increase their survival rates and to improve quality of life.

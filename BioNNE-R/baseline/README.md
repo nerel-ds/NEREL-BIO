@@ -8,9 +8,9 @@ Pretrained checkpoints for all three tracks (688 MB each, `bert-base-multilingua
 
 | Track | Checkpoint | Dev Macro F1 |
 |-------|-----------|--------------|
-| English | `eng_model.pth.tar` | 0.6944 |
-| Russian | `rus_model.pth.tar` | 0.7166 |
-| Bilingual | `bil_model.pth.tar` | 0.7211 |
+| English | `eng_model.pth.tar` | 0.3435 |
+| Russian | `rus_model.pth.tar` | 0.4844 |
+| Bilingual | `bil_model.pth.tar` | 0.4911 |
 
 Download from [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R) and place in `outputs/`.
 
@@ -18,7 +18,7 @@ To predict with a pretrained model (no training needed):
 
 ```bash
 # Prepare dev data
-python prepare_data.py eng-dev-rel.tsv texts/ -o data/eng_dev.txt
+python prepare_data.py eng-dev-ent.tsv texts/ -o data/eng_dev.txt
 
 # Predict
 python baseline.py predict --data data/eng_dev.txt --rel2id data/rel2id.json \
@@ -28,17 +28,34 @@ python baseline.py predict --data data/eng_dev.txt --rel2id data/rel2id.json \
 python score.py --pred outputs/eng_pred.tsv --gold eng-dev-rel.tsv
 ```
 
+To predict and submit on the test set (relation TSV is private until the Post-Evaluation phase, May 14, 2026):
+
+```bash
+# Prepare test data
+python prepare_data.py eng-test-ent.tsv texts/ -o data/eng_test.txt
+
+# Predict
+python baseline.py predict --data data/eng_test.txt --rel2id data/rel2id.json \
+    --ckpt outputs/eng_model.pth.tar -o outputs/eng_pred.tsv
+
+# Submit
+zip eng_submission.zip outputs/eng_pred.tsv
+```
+
 ## Quick Start
 
 ```bash
-# 1. Prepare data (converts relation TSV + raw article texts to OpenNRE JSON-lines format)
-#    texts/ = directory of raw .txt article files (one per document)
-python prepare_data.py eng-train-rel.tsv texts/ -o data/eng_train.txt --rel2id data/rel2id.json --entities eng-train-ent.tsv --neg-ratio 3
+# 1. Prepare data
+#    Training uses the relation TSV plus the entity TSV for negative sampling.
+#    Dev (and test) use only the entity TSV — every candidate pair is enumerated
+#    and the model decides whether each pair is a relation, matching how
+#    CodaBench scores the test set.
+python prepare_data.py eng-train-rel.tsv texts/ -o data/eng_train.txt --rel2id data/rel2id.json --entities eng-train-ent.tsv --neg-ratio 5
 
-python prepare_data.py eng-dev-rel.tsv texts/ -o data/eng_dev.txt
+python prepare_data.py eng-dev-ent.tsv texts/ -o data/eng_dev.txt
 
 # 2. Train (model learns 15 classes including no_relation)
-python baseline.py train --train data/eng_train.txt --dev data/eng_dev.txt --rel2id data/rel2id.json --ckpt outputs/eng_model.pth.tar
+python baseline.py train --train data/eng_train.txt --dev data/eng_dev.txt --rel2id data/rel2id.json --ckpt outputs/eng_model.pth.tar --epochs 5
 
 # 3. Predict (generates CodaBench-compatible TSV, no_relation pairs are filtered out)
 python baseline.py predict --data data/eng_dev.txt --rel2id data/rel2id.json --ckpt outputs/eng_model.pth.tar -o outputs/eng_pred.tsv
@@ -46,6 +63,8 @@ python baseline.py predict --data data/eng_dev.txt --rel2id data/rel2id.json --c
 # 4. Evaluate
 python score.py --pred outputs/eng_pred.tsv --gold eng-dev-rel.tsv
 ```
+
+*Note*: for Russian and Bilingual track we used ```--neg-ratio 10``` and ```--epochs 2```.
 
 ## All Three Tracks
 
@@ -55,7 +74,7 @@ python score.py --pred outputs/eng_pred.tsv --gold eng-dev-rel.tsv
 python prepare_data.py eng-train-rel.tsv texts/ -o data/eng_train.txt \
     --entities eng-train-ent.tsv --neg-ratio 3 --rel2id data/rel2id.json \
     --config annotation_short-bio.conf
-python prepare_data.py eng-dev-rel.tsv texts/ -o data/eng_dev.txt
+python prepare_data.py eng-dev-ent.tsv texts/ -o data/eng_dev.txt
 python baseline.py train --train data/eng_train.txt --dev data/eng_dev.txt \
     --rel2id data/rel2id.json --ckpt outputs/eng_model.pth.tar
 python baseline.py predict --data data/eng_dev.txt --rel2id data/rel2id.json \
@@ -69,7 +88,7 @@ python score.py --pred outputs/eng_pred.tsv --gold eng-dev-rel.tsv
 python prepare_data.py rus-train-rel.tsv texts/ -o data/rus_train.txt \
     --entities rus-train-ent.tsv --neg-ratio 3 --rel2id data/rel2id.json \
     --config annotation_short-bio.conf
-python prepare_data.py rus-dev-rel.tsv texts/ -o data/rus_dev.txt
+python prepare_data.py rus-dev-ent.tsv texts/ -o data/rus_dev.txt
 python baseline.py train --train data/rus_train.txt --dev data/rus_dev.txt \
     --rel2id data/rel2id.json --ckpt outputs/rus_model.pth.tar
 python baseline.py predict --data data/rus_dev.txt --rel2id data/rel2id.json \
@@ -89,20 +108,6 @@ python baseline.py predict --data data/bil_dev.txt --rel2id data/rel2id.json \
     --ckpt outputs/bil_model.pth.tar -o outputs/bil_pred.tsv
 ```
 
-## Blind Prediction Workflow
-
-For blind evaluation where participants receive only entity TSV + raw texts (no relation labels):
-
-```bash
-# 1. Prepare blind test data from entity TSV (auto-detected)
-python prepare_data.py eng-test-ent.tsv texts/ -o data/eng_test.txt \
-    --config annotation_short-bio.conf
-
-# 2. Predict (no_relation pairs are filtered from output TSV)
-python baseline.py predict --data data/eng_test.txt --rel2id data/rel2id.json \
-    --ckpt outputs/eng_model.pth.tar -o outputs/eng_pred.tsv
-```
-
 ## Files
 
 | File | Description |
@@ -117,18 +122,14 @@ python baseline.py predict --data data/eng_test.txt --rel2id data/rel2id.json \
 
 ### Prepare Data
 
-The input TSV type is auto-detected by column headers:
-- Has `relation` column → **labeled mode** (relation TSV)
-- Has `entity_type` without `relation` → **blind mode** (entity TSV)
+`prepare_data.py` accepts either a relation TSV or an entity TSV; the input type is auto-detected from the column headers. Both produce the same JSON-lines output format consumed by `baseline.py`.
 
 ```bash
-# Labeled mode (current behavior, no negatives)
-python prepare_data.py <rel_tsv> <texts_dir> -o <output.txt> [--rel2id rel2id.json] [--lang english]
+# Training: relation TSV + entity TSV for negative sampling
+python prepare_data.py <rel_tsv> <texts_dir> -o <output.txt> --entities <ent_tsv> --neg-ratio 3
 
-# Labeled mode + negative sampling
-python prepare_data.py <rel_tsv> <texts_dir> -o <output.txt> --entities <ent.tsv> --neg-ratio 3
-
-# Blind mode (entity TSV → all candidate pairs)
+# Dev / Test: entity TSV — every candidate pair is enumerated, the model decides
+# whether each pair is a relation. This matches the CodaBench scoring setup.
 python prepare_data.py <ent_tsv> <texts_dir> -o <output.txt> [--config annotation_short-bio.conf]
 ```
 
@@ -202,12 +203,12 @@ python score.py --pred outputs/pred.tsv --gold eng-dev-rel.tsv
 
 Sections:
 1. **Setup** — imports, configuration, `RELATION_TYPES` (15 classes including `no_relation`)
-2. **Data Preparation Functions** — all functions from `prepare_data.py` (config parsing, entity loading, pair generation, negative sampling, blind mode)
+2. **Data Preparation Functions** — all functions from `prepare_data.py` (config parsing, entity loading, candidate-pair enumeration, negative sampling)
 3. **Data Exploration** — relation distributions, sample instances
 4. **Training** — OpenNRE `SentenceRE` framework
 5. **Prediction on Dev Set** — predict + filter `no_relation` from output
-6. **Evaluation** — per-relation P/R/F1 table
-7. **Blind Prediction** — prepare candidate pairs from entity TSV, predict, filter
+6. **Evaluation** — per-relation P/R/F1 table against gold relation TSV
+7. **Test-set Prediction** — same pipeline as Dev, fed the test entity TSV
 8. **Error Analysis** — misclassified examples, confusion matrix
 
 Edit the configuration cell (cell 4) to adjust paths, model, neg-ratio, etc.

@@ -1,0 +1,18 @@
+[Acute-phase serum proteins and adipocytokines in women with type 2 diabetes mellitus: Relationships with body composition and blood glucose fluctuations].
+AIM  To estimate the relationships between the serum concentrations of acute-phase proteins (APPs) and adipocytokines, body composition (BC), and blood glucose (BG) fluctuations in women with type 2 diabetes mellitus (T2DM).
+SUBJECTS AND METHODS
+A total of 165 women with T2DM and 22 with a normal body mass index (BMI) at the age of 40 to 70 years were examined.
+The concentrations of high-sensitivity C-reactive protein (hs-CRP) and acid α1-glycoprotein (α1-AGP) were determined by ELISA.
+The levels of interleukins 6, 8, and 18 (IL-6, IL-8, IL-18), tumor necrosis factor-α (TNF-α), and plasminogen activator inhibitor type 1 (PAI-1) were measured by a multiplex analysis.
+Dual energy X-ray absorptiometry was used to estimate BC parameters.
+BG fluctuations were estimated via continuous glucose monitoring.
+RESULTS
+The levels of hs-CRP, α1-AGP, IL-6, IL-8, IL-18, TNF-α, and PAI-1 were significantly higher in the obese women with T2DM than those in the control group.
+In the diabetic normal weight women, only hs-CRP, α1-AGP, and IL-8 concentrations exceeded those in the controls.
+The level of hs-CRP (other than α1-AGP) correlated positively with BMI, the mass of adipose tissue, body trunk (android), and gynoid fats.
+A multivariate regression analysis showed that adipose tissue mass and trunk fat proportion were independent predictors of hs-CRP levels.
+The concentrations of IL-6, IL-8, IL-18, PAI-1, and TNF-α correlated positively with waist-to-hip ratio, but demonstrated no associations with BMI and BC.
+Only the serum α1-AGP level showed a positive association with mean BG and its variability parameters.
+CONCLUSION
+In the women with T2DM, the serum concentrations of APPs and adipocytokines correlate differently with the mass of adipose tissue, its distribution, and BG fluctuations.
+The findings indicate the multifactorial genesis of chronic inflammation in these patients.

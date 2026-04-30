@@ -1,0 +1,9 @@
+[Complexes of nitric oxide with hemoglobin and paramagnetic metalloenzymes in the brain and blood of mammals after intermittent hypoxia].  AIM
+To investigate an effect of hypoxia on the formation of nitric oxide (NO) in the brain and blood of rats and an influence of L-NNA, the NO-synthase inhibitor, and sodium nitrite on NO generation in separate and simultaneous introduction of these compounds in the animal body.
+MATERIAL AND METHODS
+Experiments were conducted on 42 rats of Krushinsky-Molodkina (K-M) line without adaptation to hypoxia and short-term adaptation to hypobaric hypoxia.
+Animals were intraperitoneally injected with sodium nitrite (0.5 mg/100 g) and the non-specific inhibitor of NO-synthase L-NNA (2.5 mg/100 g) at different times.
+Changes in NO content were assessed using electron paramagnetic resonance (EPR) by the intensity of nitrosyl Hb-NO complexes in ERP blood spectra.
+RESULTS AND CONCLUSION
+The production of NO in the brain, compared with that in the blood, was significantly reduced, not only under physiological conditions, but also after the administration of moderate doses of NaNO2.
+In the short-term hypobaric hypoxia, there was the intensification of the processes of the reduction of NO2- to NO and the formation of nitrosyl heme-NO complexes not only in the blood but also in the mammalian brain.

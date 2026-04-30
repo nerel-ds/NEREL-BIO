@@ -1,0 +1,14 @@
+[Comparative evaluation of the intensity of reparative processes in the lower extremity soft tissues of diabetic patients receiving local negative pressure wound treatment and standard wound care].
+AIM  To study the intensity of soft tissue repair in patients with diabetic foot syndrome (DFS) during local negative pressure wound treatment versus standard wound care.
+SUBJECTS AND METHODS
+The investigators estimated the clinical (wound sizes, local tissue oxygenation), histological (light microscopy), and immunohistochemical (CD31, CD68, MMP-9, and TIMP-1) markers for reparative processes in patients with DFS during vacuum therapy versus standard wound care.
+Forty-two patients with the neuropathic and neuroischemic (without critical ischemia) forms of DFS were examined after debridement.
+In the perioperative period, 21 patients received negative pressure wound therapy and 21 had standard wound care.
+RESULTS
+During vacuum therapy, the area and depth of wound defects decreased by 19.8±7.8 and 42.8±5.6%, respectively (p=0.002) (as compared to the baseline data). In the control group, these indicators were 17.0±19.4 and 16.6±21.6% (p=0.002).
+There was a significant intensification of local microhemodynamics according to transcutaneous oximetry readings in the negative pressure wound treatment group.
+After 9±2 days of treatment, histological examination of granulation tissue revealed a significant reduction in edema, cessation of inflammatory infiltration, and formation of mature granulation tissue in Group 1.
+Immunohistological examination indicated a more obvious increase in the count of macrophages (CD68 staining) and a significant increment in the number of newly formed vessels, as evidenced by anti-CD31 antibody staining.
+During the treatment, there was a decline of the expression of MMP-9 and an increase in that of TIMP-1, as compared to those in the control group.
+CONCLUSION
+The findings are indicative of the enhanced intensity of reparative processes in patients with DFS during vacuum therapy versus standard wound care, resulting in more rapidly decreased wound sizes, increased local microhemodynamics, reduced inflammation, and accelerated wound transition from the inflammatory to the proliferative phase.

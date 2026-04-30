@@ -1,0 +1,11 @@
+[Creatine kinase isoform B distribution in the brain in schizophrenia].  AIM
+To compare patterns of brain isoform creatine phosphokinase (CPK B) distributions in post-mortem brain from patients with schizophrenia (Sch) and patients with somatic diseases (controls).
+MATERIAL AND METHODS
+Extracts of readily soluble and membrane-associated proteins were prepared from post-mortem samples of prefrontal cortex (Brodmann area 10), anterior (area 24) and posterior (area 23) cingulate cortex, hippocampus and cerebellum cortex from patients with Sch and control group (the samples were matched by age and postmortem interval).
+CPK enzymatic activity was measured by determination of inorganic phosphate, amounts of immunoreative CPK В were estimated by ECL-Western blotting using monoclonal antibodies.
+RESULTS
+A significant decrease in CPK activity and amounts of immunoreative CPK В was observed in fractions of readily soluble proteins in all studied brain structures of patients with Sch compared to controls (p<0.01).
+Significant differences in CPK activity were found in membrane-associated protein fractions from the hippocampus (p<0.01), but not from the cingulate cortex (areas 23 and 24), of Sch patients compared with controls, whereas no difference between groups was found in levels of immunoreactive CPK B in membrane-associated protein fractions from the cingulate cortex (areas 23 and 24) and hippocampus.
+The decrease in the amount of CPK B in the frontal cortex of patients with Sch was confirmed by purification of CPK B active dimer from brain samples of patients with Sch and controls.
+CONCLUSION
+Changes in the levels of CPK brain isoform in the brain of patients with Sch (the decrease in CPK activity and amounts in various brain structures at different extents) lead to the substantial alteration of CPK distribution pattern among the brain areas studied, result in the disturbance of the brain energy metabolism and contribute to Sch pathogenesis.

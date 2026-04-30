@@ -1,0 +1,14 @@
+AIM  to describe baseline functional and anatomical parameters of the macular region and how they change under ranibizumab therapy depending on the type of diabetic macular edema (DME) determined with optical coherence tomography (OCT).
+MATERIAL AND METHODS
+The study included 100 patients (100 eyes) with diabetes mellitus and DME (38 men and 62 women) aged 61.9±5.6 years with the mean disease duration of 8.48 years.
+Basing on OCT findings, 4 groups (25 patients each) were formed: sponge-like DME, cystoid DME, DME with serous neuroepithelium detachment (NED), and mixed DME (cystoid DME and serous NED).
+All patients received 3 consecutive monthly injections of 0.5 mg ranibizumab.
+The relationship between anatomical, functional, and clinical parameters was analyzed.
+RESULTS
+The lowest visual acuity (VA) at baseline was found in patients with mixed DME (р<0.05).
+The greatest increase in VA after the 3 injections was noted in patients with sponge-like DME - 0.34±0.18. Retinal thickness was significantly lower (р<0.05) in sponge-like DME as compared to other groups both at baseline and after the treatment.
+Foveolar thickness decreased after the treatment in all groups, the effect being the most pronounced (the edema got reduced by 42.4%, р<0.05) in cystoid DME.
+The most significant reduction in macular volume (by 2.7 mm3) as well as its lowest absolute post-treatment values were reported for patients with cystoid edema (9.01 mm3, р<0.05 as compared to sponge-like and mixed DME).
+Correlation analysis revealed an evident relationship between the improvement in VA (ΔVA) and the decrease in macular volume (р<0.05).  Of clinical parameters, only diabetes duration correlated with the extent of VA improvement (r=-0.3; p<0.05).
+CONCLUSION
+The effectiveness of intravitreal ranibizumab therapy for diffuse DME depends on the morphological type of macular edema by OCT.  Moreover, it correlates with diabetes duration.
