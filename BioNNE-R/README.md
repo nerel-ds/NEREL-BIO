@@ -106,11 +106,11 @@ document_id   relation           head_text             head_span   head_type   t
 
 An OpenNRE-based baseline using `bert-base-multilingual-cased` with entity markers is provided in the [`baseline/`](baseline/) directory. Pretrained checkpoints are available for all three tracks:
 
-| Track | Dev Macro F1 |
-|-------|--------------|
-| English | 0.3435 |
-| Russian | 0.4844 |
-| Bilingual | 0.4911 |
+| Track | Dev Macro F1 | Test Macro F1 |
+|-------|--------------|---------------|
+| English | 0.3435 | 0.2825 |
+| Russian | 0.4844 | 0.3070 |
+| Bilingual | 0.4911 | 0.3027 |
 
 Pretrained checkpoints are available on [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R). The baseline handles negative sampling (`no_relation` class), enumerates all candidate entity pairs at inference time, and outputs CodaBench-compatible prediction files. See [`baseline/README.md`](baseline/README.md) for full setup, training, and prediction instructions.
 

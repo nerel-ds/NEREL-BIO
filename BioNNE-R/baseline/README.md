@@ -6,11 +6,11 @@ Baseline for the BioNNE-R shared task using [OpenNRE](https://github.com/thunlp/
 
 Pretrained checkpoints for all three tracks (688 MB each, `bert-base-multilingual-cased`):
 
-| Track | Checkpoint | Dev Macro F1 |
-|-------|-----------|--------------|
-| English | `eng_model.pth.tar` | 0.3435 |
-| Russian | `rus_model.pth.tar` | 0.4844 |
-| Bilingual | `bil_model.pth.tar` | 0.4911 |
+| Track | Checkpoint | Dev Macro F1 | Test Macro F1 |
+|-------|-----------|--------------|---------------|
+| English | `eng_model.pth.tar` | 0.3435 | 0.2825 |
+| Russian | `rus_model.pth.tar` | 0.4844 | 0.3070 |
+| Bilingual | `bil_model.pth.tar` | 0.4911 | 0.3027 |
 
 Download from [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R) and place in `outputs/`.
 
