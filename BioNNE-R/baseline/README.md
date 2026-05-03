@@ -14,6 +14,8 @@ Pretrained checkpoints for all three tracks (688 MB each, `bert-base-multilingua
 
 Download from [GitHub Releases](https://github.com/nerel-ds/NEREL-BIO/releases/tag/BioNNE-R) and place in `outputs/`.
 
+*Note: earlier baseline dev results previously used labeled-mode input (gold-positive pairs only) on predict and have been superseded by the blind mode numbers above. Test was always run in blind mode.*
+
 To predict with a pretrained model (no training needed):
 
 ```bash
